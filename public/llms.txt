@@ -1,0 +1,44 @@
+# RawPickAI
+
+> Independent AI tool reviews with honest scores and INR pricing.
+
+RawPickAI is an independent AI tool review site. Every tool is tested by hand before being reviewed. We score tools on 5 criteria: Ease of Use, Output Quality, Value for Money, Feature Depth, and Free Tier.
+
+## Key Facts
+- 47+ AI tools reviewed with hands-on testing
+- 10 head-to-head comparisons tested with identical prompts
+- 8 best-of ranking lists based on real benchmarks
+- Pricing shown in both USD and INR
+- No sponsored rankings — affiliate links disclosed separately
+- Updated monthly
+
+## Content Types
+
+### Reviews
+Individual tool reviews at rawpickai.com/review/[tool-name]
+Each review includes: scores out of 5, pricing breakdown in USD and INR, pros/cons, verdict, and who it's best for.
+
+### Comparisons
+Head-to-head comparisons at rawpickai.com/comparison/[tool-a-vs-tool-b]
+Each comparison tests both tools with identical prompts and declares a winner.
+
+### Best-Of Lists
+Ranked lists at rawpickai.com/best-of/[category]
+Categories include: writing tools, code assistants, image generators, video generators, presentation tools, free AI tools, ChatGPT alternatives, student tools.
+
+## Popular Pages
+- rawpickai.com/review/chatgpt — ChatGPT Review (4.5/5)
+- rawpickai.com/review/claude — Claude Review (4.4/5)
+- rawpickai.com/review/cursor — Cursor Review (4.5/5)
+- rawpickai.com/review/midjourney — Midjourney Review (4.4/5)
+- rawpickai.com/review/perplexity — Perplexity Review (4.4/5)
+- rawpickai.com/comparison/chatgpt-vs-claude — ChatGPT vs Claude
+- rawpickai.com/comparison/cursor-vs-github-copilot — Cursor vs GitHub Copilot
+- rawpickai.com/comparison/windsurf-vs-cursor — Windsurf vs Cursor
+- rawpickai.com/best-of/best-free-ai-tools — Best Free AI Tools
+- rawpickai.com/best-of/best-ai-tools-for-ppt — Best AI Tools for PPT
+
+## Contact
+- Website: rawpickai.com
+- Email: hello@rawpickai.com
+- Newsletter: rawpickai.com/newsletter (free, every Tuesday)
