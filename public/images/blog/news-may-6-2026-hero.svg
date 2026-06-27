@@ -1,0 +1,41 @@
+<svg viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#F4F1EA"/>
+  <text x="600" y="80" font-size="16" font-weight="600" text-anchor="middle" fill="#96845A" letter-spacing="0.15em">AI NEWS — MAY 6, 2026</text>
+  <text x="600" y="160" font-size="36" font-weight="bold" text-anchor="middle" fill="#4A5942">AI Becomes Infrastructure</text>
+  <rect x="60" y="210" width="260" height="260" rx="12" fill="white" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="190" y="250" font-size="14" font-weight="bold" text-anchor="middle" fill="#4A5942">Anthropic</text>
+  <text x="190" y="280" font-size="11" text-anchor="middle" fill="#3A3228">10 pre-built finance</text>
+  <text x="190" y="300" font-size="11" text-anchor="middle" fill="#3A3228">agents launched</text>
+  <text x="190" y="340" font-size="24" font-weight="bold" text-anchor="middle" fill="#6B7C5E">70%</text>
+  <text x="190" y="365" font-size="11" text-anchor="middle" fill="#8A8577">win rate vs OpenAI</text>
+  <text x="190" y="385" font-size="11" text-anchor="middle" fill="#8A8577">for new enterprise buyers</text>
+  <text x="190" y="420" font-size="10" text-anchor="middle" fill="#96845A">$2.5B coding agent revenue</text>
+  <text x="190" y="440" font-size="10" text-anchor="middle" fill="#96845A">by Feb 2026</text>
+  <rect x="350" y="210" width="260" height="260" rx="12" fill="white" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="480" y="250" font-size="14" font-weight="bold" text-anchor="middle" fill="#4A5942">Cerebras</text>
+  <text x="480" y="280" font-size="11" text-anchor="middle" fill="#3A3228">AI chip IPO on track</text>
+  <text x="480" y="300" font-size="11" text-anchor="middle" fill="#3A3228">Wafer-scale processors</text>
+  <text x="480" y="340" font-size="24" font-weight="bold" text-anchor="middle" fill="#96845A">$27B</text>
+  <text x="480" y="365" font-size="11" text-anchor="middle" fill="#8A8577">expected valuation</text>
+  <text x="480" y="420" font-size="10" text-anchor="middle" fill="#96845A">More chip competition =</text>
+  <text x="480" y="440" font-size="10" text-anchor="middle" fill="#96845A">lower AI tool prices</text>
+  <rect x="640" y="210" width="260" height="260" rx="12" fill="white" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="770" y="250" font-size="14" font-weight="bold" text-anchor="middle" fill="#4A5942">Corgi Insurance</text>
+  <text x="770" y="280" font-size="11" text-anchor="middle" fill="#3A3228">First AI-specific</text>
+  <text x="770" y="300" font-size="11" text-anchor="middle" fill="#3A3228">insurance product</text>
+  <text x="770" y="340" font-size="18" font-weight="bold" text-anchor="middle" fill="#8A8577">AI Coverage</text>
+  <text x="770" y="365" font-size="11" text-anchor="middle" fill="#8A8577">for hallucinations,</text>
+  <text x="770" y="385" font-size="11" text-anchor="middle" fill="#8A8577">copyright, data leaks</text>
+  <text x="770" y="420" font-size="10" text-anchor="middle" fill="#96845A">AI errors are now an</text>
+  <text x="770" y="440" font-size="10" text-anchor="middle" fill="#96845A">insurable business risk</text>
+  <rect x="930" y="210" width="210" height="260" rx="12" fill="white" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="1035" y="250" font-size="14" font-weight="bold" text-anchor="middle" fill="#4A5942">SAP + Prior Labs</text>
+  <text x="1035" y="280" font-size="11" text-anchor="middle" fill="#3A3228">Largest EU AI</text>
+  <text x="1035" y="300" font-size="11" text-anchor="middle" fill="#3A3228">acquisition</text>
+  <text x="1035" y="340" font-size="24" font-weight="bold" text-anchor="middle" fill="#4A5942">$1B+</text>
+  <text x="1035" y="365" font-size="11" text-anchor="middle" fill="#8A8577">over 4 years</text>
+  <text x="1035" y="420" font-size="10" text-anchor="middle" fill="#96845A">Frontier AI for</text>
+  <text x="1035" y="440" font-size="10" text-anchor="middle" fill="#96845A">structured data</text>
+  <text x="600" y="540" font-size="13" font-weight="600" text-anchor="middle" fill="#4A5942">Every story points the same direction: AI is becoming enterprise infrastructure</text>
+  <text x="600" y="580" font-size="11" text-anchor="middle" fill="#8A8577">rawpickai.com/news</text>
+</svg>

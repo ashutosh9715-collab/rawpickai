@@ -1,0 +1,118 @@
+<svg viewBox="0 0 1000 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { color-scheme: light; }
+      .bg { fill: #F4F1EA; }
+      .heading { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 28px; font-weight: 600; fill: #4A5942; }
+      .subheading { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; fill: #8A8577; }
+      .tool-name { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 16px; font-weight: 600; fill: #3A3228; }
+      .metric-label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; font-weight: 500; fill: #3A3228; }
+      .value { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; fill: #8A8577; }
+      .bar-bg { fill: #DDD8CE; }
+      .bar1 { fill: #6B7C5E; }
+      .bar2 { fill: #96845A; }
+      .bar3 { fill: #A89F8F; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1000" height="600" rx="12"/>
+
+  <!-- Header -->
+  <text class="heading" x="40" y="50">Looka vs Canva vs Figma</text>
+  <text class="subheading" x="40" y="70">Logo design speed, pricing, and best-fit comparison</text>
+
+  <!-- Speed -->
+  <text class="metric-label" x="40" y="115">Generation Speed</text>
+  <rect class="bar-bg" x="150" y="105" width="200" height="16" rx="6"/>
+  <rect class="bar1" x="150" y="105" width="200" height="16" rx="6"/>
+  <text class="value" x="360" y="115">Looka: under 1 minute</text>
+
+  <rect class="bar-bg" x="550" y="105" width="200" height="16" rx="6"/>
+  <rect class="bar2" x="550" y="105" width="120" height="16" rx="6"/>
+  <text class="value" x="760" y="115">Canva: 5-10 min</text>
+
+  <rect class="bar-bg" x="150" y="130" width="200" height="16" rx="6"/>
+  <rect class="bar3" x="150" y="130" width="100" height="16" rx="6"/>
+  <text class="value" x="360" y="140">Figma: 30+ min</text>
+
+  <!-- Cost (one-time) -->
+  <text class="metric-label" x="40" y="180">Cost (One-time)</text>
+  <rect class="bar-bg" x="150" y="170" width="200" height="16" rx="6"/>
+  <rect class="bar1" x="150" y="170" width="100" height="16" rx="6"/>
+  <text class="value" x="360" y="180">Looka: ≈₹1,860–6k</text>
+
+  <rect class="bar-bg" x="550" y="170" width="200" height="16" rx="6"/>
+  <rect class="bar2" x="550" y="170" width="160" height="16" rx="6"/>
+  <text class="value" x="760" y="180">Canva: ₹10,800/yr</text>
+
+  <rect class="bar-bg" x="150" y="195" width="200" height="16" rx="6"/>
+  <rect class="bar3" x="150" y="195" width="180" height="16" rx="6"/>
+  <text class="value" x="360" y="205">Figma: ₹0–18k/yr</text>
+
+  <!-- Design Knowledge Required -->
+  <text class="metric-label" x="40" y="245">Design Knowledge Needed</text>
+  <rect class="bar-bg" x="150" y="235" width="200" height="16" rx="6"/>
+  <rect class="bar1" x="150" y="235" width="30" height="16" rx="6"/>
+  <text class="value" x="360" y="245">Looka: None</text>
+
+  <rect class="bar-bg" x="550" y="235" width="200" height="16" rx="6"/>
+  <rect class="bar2" x="550" y="235" width="80" height="16" rx="6"/>
+  <text class="value" x="760" y="245">Canva: Minimal</text>
+
+  <rect class="bar-bg" x="150" y="260" width="200" height="16" rx="6"/>
+  <rect class="bar3" x="150" y="260" width="200" height="16" rx="6"/>
+  <text class="value" x="360" y="270">Figma: Moderate</text>
+
+  <!-- Customization Control -->
+  <text class="metric-label" x="40" y="310">Customization Control</text>
+  <text class="value" x="150" y="320">Looka</text>
+  <rect class="bar-bg" x="150" y="300" width="200" height="16" rx="6"/>
+  <rect class="bar1" x="150" y="300" width="100" height="16" rx="6"/>
+  <text class="value" x="360" y="310">Limited</text>
+
+  <text class="value" x="550" y="320">Canva</text>
+  <rect class="bar-bg" x="550" y="300" width="200" height="16" rx="6"/>
+  <rect class="bar2" x="550" y="300" width="160" height="16" rx="6"/>
+  <text class="value" x="760" y="310">Good</text>
+
+  <text class="value" x="150" y="345">Figma</text>
+  <rect class="bar-bg" x="150" y="325" width="200" height="16" rx="6"/>
+  <rect class="bar3" x="150" y="325" width="200" height="16" rx="6"/>
+  <text class="value" x="360" y="335">Complete</text>
+
+  <!-- Use Case Recommendations -->
+  <text class="metric-label" x="40" y="385">Best for</text>
+
+  <!-- Looka Box -->
+  <rect x="40" y="400" width="280" height="180" fill="#FFF9F5" stroke="#6B7C5E" stroke-width="2" rx="10"/>
+  <text class="tool-name" x="60" y="425" style="fill: #6B7C5E;">✓ Looka</text>
+  <text class="value" x="60" y="448">• Speed (under 1 min)</text>
+  <text class="value" x="60" y="468">• Budget (₹1,860–6k)</text>
+  <text class="value" x="60" y="488">• No design skill</text>
+  <text class="value" x="60" y="508">• Solopreneurs</text>
+  <text class="value" x="60" y="528">• MVPs &amp; testing</text>
+  <text class="value" x="60" y="548">• Quick needs</text>
+  <text class="value" x="60" y="568">• One-time purchase</text>
+
+  <!-- Canva Box -->
+  <rect x="360" y="400" width="280" height="180" fill="#FFF9F5" stroke="#96845A" stroke-width="2" rx="10"/>
+  <text class="tool-name" x="380" y="425" style="fill: #96845A;">✓ Canva</text>
+  <text class="value" x="380" y="448">• Templates (thousands)</text>
+  <text class="value" x="380" y="468">• Customizable</text>
+  <text class="value" x="380" y="488">• All-in-one design</text>
+  <text class="value" x="380" y="508">• Social media graphics</text>
+  <text class="value" x="380" y="528">• Team collaboration</text>
+  <text class="value" x="380" y="548">• Easy to learn</text>
+  <text class="value" x="380" y="568">• Subscription model</text>
+
+  <!-- Figma Box -->
+  <rect x="680" y="400" width="280" height="180" fill="#FFF9F5" stroke="#A89F8F" stroke-width="2" rx="10"/>
+  <text class="tool-name" x="700" y="425" style="fill: #A89F8F;">✓ Figma</text>
+  <text class="value" x="700" y="448">• Maximum control</text>
+  <text class="value" x="700" y="468">• Professional design</text>
+  <text class="value" x="700" y="488">• Learning curve</text>
+  <text class="value" x="700" y="508">• Design teams</text>
+  <text class="value" x="700" y="528">• Unlimited detail</text>
+  <text class="value" x="700" y="548">• Fine-tuning</text>
+  <text class="value" x="700" y="568">• Steep learning curve</text>
+</svg>

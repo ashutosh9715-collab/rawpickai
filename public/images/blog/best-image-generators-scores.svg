@@ -1,0 +1,85 @@
+<svg viewBox="0 0 700 450" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="700" height="450" fill="#F4F1EA"/>
+
+  <!-- Title -->
+  <text x="350" y="35" font-size="24" font-weight="bold" text-anchor="middle" fill="#4A5942">
+    AI Image Generator Quality Scores
+  </text>
+  <text x="350" y="55" font-size="14" text-anchor="middle" fill="#8A8577">
+    Overall Quality Rating (out of 5)
+  </text>
+
+  <!-- Grid -->
+  <line x1="100" y1="75" x2="100" y2="380" stroke="#DDD8CE" stroke-width="1"/>
+  <line x1="100" y1="380" x2="680" y2="380" stroke="#DDD8CE" stroke-width="1"/>
+
+  <!-- Y-axis labels -->
+  <text x="95" y="385" font-size="11" text-anchor="end" fill="#8A8577">0</text>
+  <text x="95" y="295" font-size="11" text-anchor="end" fill="#8A8577">1.5</text>
+  <text x="95" y="210" font-size="11" text-anchor="end" fill="#8A8577">3.0</text>
+  <text x="95" y="125" font-size="11" text-anchor="end" fill="#8A8577">4.5</text>
+  <text x="95" y="75" font-size="11" text-anchor="end" fill="#8A8577">5.0</text>
+
+  <!-- Midjourney 4.4/5 -->
+  <rect x="110" y="88" width="45" height="292" rx="10" fill="#6B7C5E"/>
+  <text x="132.5" y="400" font-size="12" font-weight="600" text-anchor="middle" fill="#4A5942">Midjourney</text>
+  <text x="132.5" y="70" font-size="13" font-weight="700" text-anchor="middle" fill="#4A5942">4.4/5</text>
+
+  <!-- DALL-E 3 4.2/5 -->
+  <rect x="170" y="100" width="45" height="280" rx="10" fill="#96845A"/>
+  <text x="192.5" y="400" font-size="12" font-weight="600" text-anchor="middle" fill="#4A5942">DALL-E 3</text>
+  <text x="192.5" y="82" font-size="13" font-weight="700" text-anchor="middle" fill="#4A5942">4.2/5</text>
+
+  <!-- Leonardo 4.0/5 -->
+  <rect x="230" y="112" width="45" height="268" rx="10" fill="#6B7C5E"/>
+  <text x="252.5" y="400" font-size="12" font-weight="600" text-anchor="middle" fill="#4A5942">Leonardo</text>
+  <text x="252.5" y="94" font-size="13" font-weight="700" text-anchor="middle" fill="#4A5942">4.0/5</text>
+
+  <!-- Firefly 3.9/5 -->
+  <rect x="290" y="118" width="45" height="262" rx="10" fill="#96845A"/>
+  <text x="312.5" y="400" font-size="12" font-weight="600" text-anchor="middle" fill="#4A5942">Firefly</text>
+  <text x="312.5" y="100" font-size="13" font-weight="700" text-anchor="middle" fill="#4A5942">3.9/5</text>
+
+  <!-- Stable Diffusion 3.8/5 -->
+  <rect x="350" y="124" width="45" height="256" rx="10" fill="#6B7C5E"/>
+  <text x="372.5" y="400" font-size="12" font-weight="600" text-anchor="middle" fill="#4A5942">Stable Diff</text>
+  <text x="372.5" y="106" font-size="13" font-weight="700" text-anchor="middle" fill="#4A5942">3.8/5</text>
+
+  <!-- Ideogram 3.7/5 -->
+  <rect x="410" y="130" width="45" height="250" rx="10" fill="#96845A"/>
+  <text x="432.5" y="400" font-size="12" font-weight="600" text-anchor="middle" fill="#4A5942">Ideogram</text>
+  <text x="432.5" y="112" font-size="13" font-weight="700" text-anchor="middle" fill="#4A5942">3.7/5</text>
+
+  <!-- Category breakdown on right -->
+  <text x="520" y="100" font-size="14" font-weight="bold" fill="#4A5942">Key Strengths</text>
+
+  <!-- Midjourney -->
+  <text x="520" y="125" font-size="11" font-weight="600" fill="#6B7C5E">Midjourney:</text>
+  <text x="520" y="138" font-size="10" fill="#3A3228">Artistic quality, photorealism</text>
+
+  <!-- DALL-E -->
+  <text x="520" y="160" font-size="11" font-weight="600" fill="#96845A">DALL-E 3:</text>
+  <text x="520" y="173" font-size="10" fill="#3A3228">Ease of use, ChatGPT integration</text>
+
+  <!-- Leonardo -->
+  <text x="520" y="195" font-size="11" font-weight="600" fill="#6B7C5E">Leonardo:</text>
+  <text x="520" y="208" font-size="10" fill="#3A3228">Free tier, style-specific models</text>
+
+  <!-- Firefly -->
+  <text x="520" y="230" font-size="11" font-weight="600" fill="#96845A">Firefly:</text>
+  <text x="520" y="243" font-size="10" fill="#3A3228">Commercial safety, Adobe integration</text>
+
+  <!-- Stable Diffusion -->
+  <text x="520" y="265" font-size="11" font-weight="600" fill="#6B7C5E">Stable Diffusion:</text>
+  <text x="520" y="278" font-size="10" fill="#3A3228">Open-source, free, customizable</text>
+
+  <!-- Ideogram -->
+  <text x="520" y="300" font-size="11" font-weight="600" fill="#96845A">Ideogram:</text>
+  <text x="520" y="313" font-size="10" fill="#3A3228">Text rendering accuracy</text>
+
+  <!-- Footer -->
+  <text x="350" y="440" font-size="11" text-anchor="middle" fill="#8A8577">
+    Based on 300+ images tested across all platforms. Prices: Midjourney ₹930/mo, DALL-E ₹1,860/mo, Leonardo ₹1,116/mo.
+  </text>
+</svg>

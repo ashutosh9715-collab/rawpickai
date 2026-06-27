@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="1200" height="213">
+  <rect width="900" height="160" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#4A5942" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">Zapier in One Diagram: Trigger, Action, Automation</text>
+  <rect x="40" y="55" width="200" height="80" rx="10" fill="white" stroke="#4A5942" stroke-width="2"/>
+  <text x="140" y="85" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#4A5942">Trigger</text>
+  <text x="140" y="107" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">New email arrives</text>
+  <text x="280" y="95" font-family="Georgia, serif" font-size="22" text-anchor="middle" fill="#4A5942">→</text>
+  <rect x="320" y="55" width="200" height="80" rx="10" fill="white" stroke="#6B7C5E" stroke-width="1.5"/>
+  <text x="420" y="85" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#6B7C5E">Action 1</text>
+  <text x="420" y="107" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Create HubSpot contact</text>
+  <text x="560" y="95" font-family="Georgia, serif" font-size="22" text-anchor="middle" fill="#4A5942">→</text>
+  <rect x="600" y="55" width="200" height="80" rx="10" fill="white" stroke="#96845A" stroke-width="1.5"/>
+  <text x="700" y="85" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#96845A">Action 2</text>
+  <text x="700" y="107" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Notify Slack channel</text>
+  <text x="450" y="152" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Each action = 1 task. This 2-action Zap running 50x/month = 100 tasks (free plan limit).</text>
+</svg>

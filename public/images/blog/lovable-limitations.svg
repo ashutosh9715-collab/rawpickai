@@ -1,0 +1,39 @@
+<svg viewBox="0 0 700 310" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="310" rx="12" fill="#F4F1EA"/>
+  <text x="350" y="35" font-family="Inter, system-ui, sans-serif" font-size="20" font-weight="700" fill="#4A5942" text-anchor="middle">Where Lovable Breaks Down</text>
+
+  <!-- Row 1 -->
+  <g>
+    <circle cx="55" cy="75" r="14" fill="#8A4242"/>
+    <text x="55" y="80" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#F4F1EA" text-anchor="middle">X</text>
+    <text x="85" y="80" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#3A3228">No framework choice - React + Supabase only</text>
+  </g>
+
+  <!-- Row 2 -->
+  <g>
+    <circle cx="55" cy="125" r="14" fill="#8A4242"/>
+    <text x="55" y="130" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#F4F1EA" text-anchor="middle">X</text>
+    <text x="85" y="130" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#3A3228">Complex logic fails after 10-15 prompts</text>
+  </g>
+
+  <!-- Row 3 -->
+  <g>
+    <circle cx="55" cy="175" r="14" fill="#8A4242"/>
+    <text x="55" y="180" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#F4F1EA" text-anchor="middle">X</text>
+    <text x="85" y="180" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#3A3228">Token burn on full-stack prompts is aggressive</text>
+  </g>
+
+  <!-- Row 4 -->
+  <g>
+    <circle cx="55" cy="225" r="14" fill="#8A4242"/>
+    <text x="55" y="230" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#F4F1EA" text-anchor="middle">X</text>
+    <text x="85" y="230" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#3A3228">Generated code hard to maintain long-term</text>
+  </g>
+
+  <!-- Row 5 -->
+  <g>
+    <circle cx="55" cy="275" r="14" fill="#8A4242"/>
+    <text x="55" y="280" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#F4F1EA" text-anchor="middle">X</text>
+    <text x="85" y="280" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#3A3228">42.8% security failure rate in generated code</text>
+  </g>
+</svg>

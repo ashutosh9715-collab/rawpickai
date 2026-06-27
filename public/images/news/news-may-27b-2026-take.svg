@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="900" height="120">
+  <rect width="900" height="120" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="4" height="120" fill="#4A5942" rx="2"/>
+  <text x="40" y="30" font-family="Georgia, serif" font-size="14" font-weight="600" fill="#4A5942">MY TAKE</text>
+  <text x="40" y="58" font-family="Georgia, serif" font-size="15" fill="#4A453E">The creativity study finding is less about "AI vs humans" and more about what happens to the middle.</text>
+  <text x="40" y="82" font-family="Georgia, serif" font-size="15" fill="#4A453E">AI doesn't replace the top 10% of creative workers. It replaces average output. For AI tool users,</text>
+  <text x="40" y="106" font-family="Georgia, serif" font-size="15" fill="#4A453E">this means: if you use AI to produce average work, you're now competing with a free tool.</text>
+</svg>

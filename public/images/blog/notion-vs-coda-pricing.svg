@@ -1,0 +1,40 @@
+<svg viewBox="0 0 900 380" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { color-scheme: light; }
+      .bg { fill: #F4F1EA; }
+      .header { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 20px; font-weight: 700; fill: #4A5942; }
+      .label { font-size: 12px; fill: #3A3228; }
+      .value { font-size: 11px; fill: #3A3228; }
+      .bar1 { fill: #6B7C5E; }
+      .bar2 { fill: #96845A; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="900" height="380"/>
+
+  <text class="header" x="40" y="35">Pricing Model Differences</text>
+
+  <g>
+    <text class="label" x="40" y="70" font-weight="600">Notion AI (Business Plan)</text>
+    <text class="value" x="40" y="90">₹1,395/month  -  all team members included</text>
+    <text class="value" x="40" y="108">10 people: ₹139/person</text>
+    <text class="value" x="40" y="126">50 people: ₹28/person</text>
+    <text class="value" x="40" y="144">100 people: ₹14/person</text>
+  </g>
+
+  <g>
+    <text class="label" x="40" y="185" font-weight="600">Coda (Pro Plan)</text>
+    <text class="value" x="40" y="205">₹930/Doc Maker/month (viewers free)</text>
+    <text class="value" x="40" y="223">10 people, 3 Doc Makers: ₹2,790/mo</text>
+    <text class="value" x="40" y="241">50 people, 5 Doc Makers: ₹4,650/mo</text>
+    <text class="value" x="40" y="259">100 people, 8 Doc Makers: ₹7,440/mo</text>
+  </g>
+
+  <g>
+    <text class="label" x="40" y="305" font-weight="600">Winner by Team Type</text>
+    <text class="value" x="40" y="325">High creator ratio (80%+ edit): Notion cheaper</text>
+    <text class="value" x="40" y="343">High viewer ratio (80%+ read-only): Coda cheaper</text>
+    <text class="value" x="40" y="361">50/50 mix: Often comparable, choose by features</text>
+  </g>
+</svg>

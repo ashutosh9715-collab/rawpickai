@@ -1,0 +1,99 @@
+<svg viewBox="0 0 1000 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { color-scheme: light; }
+      .bg { fill: #F4F1EA; }
+      .heading { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 28px; font-weight: 600; fill: #4A5942; }
+      .tier-card { fill: #FFF9F5; stroke: #DDD8CE; stroke-width: 2; }
+      .tier-name { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 18px; font-weight: 600; fill: #4A5942; }
+      .price { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 32px; font-weight: 700; fill: #6B7C5E; }
+      .currency { font-size: 18px; }
+      .details { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; fill: #8A8577; }
+      .feature { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; fill: #3A3228; }
+      .label-small { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; fill: #8A8577; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1000" height="500" rx="12"/>
+
+  <!-- Header -->
+  <text class="heading" x="40" y="50">Looka Pricing Tiers</text>
+
+  <!-- Free Tier -->
+  <rect class="tier-card" x="40" y="90" width="200" height="380" rx="12"/>
+  <text class="tier-name" x="60" y="120">Free</text>
+  <text class="price" x="60" y="155"><tspan class="currency">$</tspan>0</text>
+  <text class="details" x="60" y="175">/month</text>
+
+  <line x1="60" y1="190" x2="240" y2="190" stroke="#DDD8CE" stroke-width="1"/>
+
+  <text class="label-small" x="60" y="210">Generations</text>
+  <text class="feature" x="60" y="230">Unlimited</text>
+
+  <text class="label-small" x="60" y="255">Downloads</text>
+  <text class="feature" x="60" y="275">Preview only</text>
+
+  <text class="label-small" x="60" y="300">Best for</text>
+  <text class="feature" x="60" y="320">Exploring ideas</text>
+  <text class="feature" x="60" y="340">Testing</text>
+
+  <!-- Basic Tier -->
+  <rect class="tier-card" x="280" y="90" width="200" height="380" rx="12"/>
+  <text class="tier-name" x="300" y="120">Basic</text>
+  <text class="price" x="300" y="155"><tspan class="currency">$</tspan>20</text>
+  <text class="details" x="300" y="175">one-time</text>
+
+  <line x1="300" y1="190" x2="480" y2="190" stroke="#DDD8CE" stroke-width="1"/>
+
+  <text class="label-small" x="300" y="210">USD</text>
+  <text class="feature" x="300" y="230">≈$20 (≈₹1,860)</text>
+
+  <text class="label-small" x="300" y="255">Includes</text>
+  <text class="feature" x="300" y="275">Single logo (PNG)</text>
+
+  <text class="label-small" x="300" y="300">Best for</text>
+  <text class="feature" x="300" y="320">Solopreneurs</text>
+  <text class="feature" x="300" y="340">Side projects</text>
+
+  <!-- Premium Tier (Highlighted) -->
+  <rect class="tier-card" x="520" y="70" width="220" height="420" rx="12" fill="#FFF4E6" stroke="#96845A" stroke-width="3"/>
+  <rect x="530" y="80" width="200" height="30" rx="8" fill="#96845A"/>
+  <text style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; font-weight: 600; fill: #FFF9F5;" x="630" y="102" text-anchor="middle">RECOMMENDED</text>
+
+  <text class="tier-name" x="540" y="140">Premium</text>
+  <text class="price" x="540" y="175"><tspan class="currency">$</tspan>65</text>
+  <text class="details" x="540" y="195">one-time</text>
+
+  <line x1="540" y1="210" x2="730" y2="210" stroke="#DDD8CE" stroke-width="1"/>
+
+  <text class="label-small" x="540" y="230">USD</text>
+  <text class="feature" x="540" y="250">≈$65 (≈₹6,045)</text>
+
+  <text class="label-small" x="540" y="275">Includes</text>
+  <text class="feature" x="540" y="295">Multiple formats</text>
+  <text class="feature" x="540" y="315">Brand guidelines</text>
+  <text class="feature" x="540" y="335">Higher resolution</text>
+
+  <text class="label-small" x="540" y="360">Best for</text>
+  <text class="feature" x="540" y="380">Serious use</text>
+  <text class="feature" x="540" y="400">Print-ready</text>
+
+  <!-- Brand Kit Tier -->
+  <rect class="tier-card" x="780" y="90" width="200" height="380" rx="12"/>
+  <text class="tier-name" x="800" y="120">Brand Kit</text>
+  <text class="price" x="800" y="155"><tspan class="currency">$</tspan>96</text>
+  <text class="details" x="800" y="175">/year</text>
+
+  <line x1="800" y1="190" x2="980" y2="190" stroke="#DDD8CE" stroke-width="1"/>
+
+  <text class="label-small" x="800" y="210">USD</text>
+  <text class="feature" x="800" y="230">≈$96/year (≈₹8,928)</text>
+
+  <text class="label-small" x="800" y="255">Includes</text>
+  <text class="feature" x="800" y="275">Social templates</text>
+  <text class="feature" x="800" y="295">Color palettes</text>
+  <text class="feature" x="800" y="315">Font guidelines</text>
+
+  <text class="label-small" x="800" y="340">Best for</text>
+  <text class="feature" x="800" y="360">Cohesive branding</text>
+</svg>

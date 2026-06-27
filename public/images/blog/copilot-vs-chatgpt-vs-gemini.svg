@@ -1,0 +1,82 @@
+<svg viewBox="0 0 850 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #F4F1EA; }
+      .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 22px; font-weight: 600; fill: #4A5942; }
+      .header { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; fill: #3A3228; }
+      .cell { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; fill: #3A3228; }
+      .bar-bg { fill: #DDD8CE; }
+      .bar1 { fill: #6B7C5E; }
+      .bar2 { fill: #96845A; }
+      .bar3 { fill: #8A8577; }
+      .row-odd { fill: #FEFDFB; }
+      .row-even { fill: #F8F5F0; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="850" height="500" rx="12" />
+  <text x="40" y="40" class="title">Microsoft Copilot vs ChatGPT vs Google Gemini</text>
+
+  <!-- Table Header -->
+  <rect x="40" y="65" width="770" height="35" fill="#EDE9DF" rx="0" />
+  <text x="55" y="90" class="header">Feature</text>
+  <text x="240" y="90" class="header" text-anchor="middle">Microsoft Copilot</text>
+  <text x="480" y="90" class="header" text-anchor="middle">ChatGPT Plus</text>
+  <text x="720" y="90" class="header" text-anchor="middle">Google Gemini</text>
+
+  <!-- Row 1: Price -->
+  <rect x="40" y="100" width="770" height="45" class="row-odd" />
+  <text x="55" y="125" class="header">Price</text>
+  <text x="240" y="125" class="cell" text-anchor="middle">₹1,860/mo</text>
+  <text x="480" y="125" class="cell" text-anchor="middle">₹1,650/mo</text>
+  <text x="720" y="125" class="cell" text-anchor="middle">₹1,860/mo</text>
+
+  <!-- Row 2: Core Model -->
+  <rect x="40" y="145" width="770" height="45" class="row-even" />
+  <text x="55" y="170" class="header">Core Model</text>
+  <text x="240" y="170" class="cell" text-anchor="middle">GPT-4 Turbo</text>
+  <text x="480" y="170" class="cell" text-anchor="middle">GPT-4o/o1</text>
+  <text x="720" y="170" class="cell" text-anchor="middle">Gemini 2.0</text>
+
+  <!-- Row 3: Reasoning Quality -->
+  <rect x="40" y="190" width="770" height="45" class="row-odd" />
+  <text x="55" y="215" class="header">Reasoning</text>
+  <text x="240" y="215" class="cell" text-anchor="middle">3.8/5</text>
+  <text x="480" y="215" class="cell" text-anchor="middle">4.5/5</text>
+  <text x="720" y="215" class="cell" text-anchor="middle">4.0/5</text>
+
+  <!-- Row 4: Image Generation -->
+  <rect x="40" y="235" width="770" height="45" class="row-even" />
+  <text x="55" y="260" class="header">Image Gen</text>
+  <text x="240" y="260" class="cell" text-anchor="middle">DALL-E 3</text>
+  <text x="480" y="260" class="cell" text-anchor="middle">DALL-E 3</text>
+  <text x="720" y="260" class="cell" text-anchor="middle">Imagen 3</text>
+
+  <!-- Row 5: Web Search -->
+  <rect x="40" y="280" width="770" height="45" class="row-odd" />
+  <text x="55" y="305" class="header">Web Search</text>
+  <text x="240" y="305" class="cell" text-anchor="middle">Bing (native)</text>
+  <text x="480" y="305" class="cell" text-anchor="middle">Plugin-based</text>
+  <text x="720" y="305" class="cell" text-anchor="middle">Native</text>
+
+  <!-- Row 6: Office Integration -->
+  <rect x="40" y="325" width="770" height="45" class="row-even" />
+  <text x="55" y="350" class="header">Office Suite</text>
+  <text x="240" y="350" class="cell" text-anchor="middle">Excellent</text>
+  <text x="480" y="350" class="cell" text-anchor="middle">Limited</text>
+  <text x="720" y="350" class="cell" text-anchor="middle">Google only</text>
+
+  <!-- Row 7: Ecosystem Lock-in -->
+  <rect x="40" y="370" width="770" height="45" class="row-odd" />
+  <text x="55" y="395" class="header">Ecosystem</text>
+  <text x="240" y="395" class="cell" text-anchor="middle">Microsoft only</text>
+  <text x="480" y="395" class="cell" text-anchor="middle">Open</text>
+  <text x="720" y="395" class="cell" text-anchor="middle">Google only</text>
+
+  <!-- Row 8: Best For -->
+  <rect x="40" y="415" width="770" height="45" class="row-even" />
+  <text x="55" y="440" class="header">Best For</text>
+  <text x="240" y="440" class="cell" text-anchor="middle">M365 users</text>
+  <text x="480" y="440" class="cell" text-anchor="middle">General use</text>
+  <text x="720" y="440" class="cell" text-anchor="middle">Workspace users</text>
+</svg>

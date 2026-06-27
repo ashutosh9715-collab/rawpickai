@@ -1,0 +1,172 @@
+<svg viewBox="0 0 900 550" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root {
+        --bg: #F4F1EA;
+        --heading: #4A5942;
+        --bar1: #6B7C5E;
+        --bar2: #96845A;
+        --body: #3A3228;
+        --muted: #8A8577;
+        --track: #DDD8CE;
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="550" fill="#F4F1EA" rx="12"/>
+
+  <!-- Title -->
+  <text x="40" y="40" font-size="28" font-weight="bold" fill="#4A5942" font-family="system-ui, -apple-system, sans-serif">
+    Grammarly vs Claude vs ChatGPT
+  </text>
+  <text x="40" y="65" font-size="14" fill="#8A8577" font-family="system-ui, -apple-system, sans-serif">
+    Writing tools compared: speed, quality, integration, and cost
+  </text>
+
+  <!-- Header Row -->
+  <rect x="40" y="85" width="820" height="40" fill="#6B7C5E" rx="8"/>
+  <text x="60" y="112" font-size="12" font-weight="bold" fill="white" font-family="system-ui, -apple-system, sans-serif">
+    Feature
+  </text>
+  <text x="270" y="112" font-size="12" font-weight="bold" fill="white" font-family="system-ui, -apple-system, sans-serif">
+    Grammarly
+  </text>
+  <text x="480" y="112" font-size="12" font-weight="bold" fill="white" font-family="system-ui, -apple-system, sans-serif">
+    Claude
+  </text>
+  <text x="700" y="112" font-size="12" font-weight="bold" fill="white" font-family="system-ui, -apple-system, sans-serif">
+    ChatGPT
+  </text>
+
+  <!-- Row 1: In-context suggestions -->
+  <rect x="40" y="130" width="820" height="45" fill="white" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="60" y="160" font-size="12" font-weight="600" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">
+    In-context suggestions
+  </text>
+  <circle cx="310" cy="152" r="8" fill="#6B7C5E"/>
+  <text x="318" y="158" font-size="11" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">
+    Excellent
+  </text>
+  <circle cx="530" cy="152" r="8" fill="#DDD8CE"/>
+  <text x="538" y="158" font-size="11" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">
+    No
+  </text>
+  <circle cx="750" cy="152" r="8" fill="#DDD8CE"/>
+  <text x="758" y="158" font-size="11" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">
+    No
+  </text>
+
+  <!-- Row 2: Generative quality -->
+  <rect x="40" y="180" width="820" height="45" fill="#F9F7F3" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="60" y="210" font-size="12" font-weight="600" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">
+    Generative quality
+  </text>
+  <circle cx="310" cy="202" r="8" fill="#96845A"/>
+  <text x="318" y="208" font-size="11" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">
+    Good
+  </text>
+  <circle cx="530" cy="202" r="8" fill="#6B7C5E"/>
+  <text x="538" y="208" font-size="11" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">
+    Excellent
+  </text>
+  <circle cx="750" cy="202" r="8" fill="#6B7C5E"/>
+  <text x="758" y="208" font-size="11" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">
+    Excellent
+  </text>
+
+  <!-- Row 3: Email/Slack integration -->
+  <rect x="40" y="230" width="820" height="45" fill="white" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="60" y="260" font-size="12" font-weight="600" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">
+    Email/Slack integration
+  </text>
+  <circle cx="310" cy="252" r="8" fill="#6B7C5E"/>
+  <text x="318" y="258" font-size="11" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">
+    Best-in-class
+  </text>
+  <circle cx="530" cy="252" r="8" fill="#DDD8CE"/>
+  <text x="538" y="258" font-size="11" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">
+    No
+  </text>
+  <circle cx="750" cy="252" r="8" fill="#DDD8CE"/>
+  <text x="758" y="258" font-size="11" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">
+    Limited
+  </text>
+
+  <!-- Row 4: Plagiarism detection -->
+  <rect x="40" y="280" width="820" height="45" fill="#F9F7F3" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="60" y="310" font-size="12" font-weight="600" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">
+    Plagiarism detection
+  </text>
+  <circle cx="310" cy="302" r="8" fill="#6B7C5E"/>
+  <text x="318" y="308" font-size="11" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">
+    Yes (Pro+)
+  </text>
+  <circle cx="530" cy="302" r="8" fill="#DDD8CE"/>
+  <text x="538" y="308" font-size="11" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">
+    No
+  </text>
+  <circle cx="750" cy="302" r="8" fill="#DDD8CE"/>
+  <text x="758" y="308" font-size="11" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">
+    No
+  </text>
+
+  <!-- Row 5: Free tier quality -->
+  <rect x="40" y="330" width="820" height="45" fill="white" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="60" y="360" font-size="12" font-weight="600" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">
+    Free tier quality
+  </text>
+  <circle cx="310" cy="352" r="8" fill="#6B7C5E"/>
+  <text x="318" y="358" font-size="11" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">
+    Good
+  </text>
+  <circle cx="530" cy="352" r="8" fill="#6B7C5E"/>
+  <text x="538" y="358" font-size="11" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">
+    Excellent
+  </text>
+  <circle cx="750" cy="352" r="8" fill="#96845A"/>
+  <text x="758" y="358" font-size="11" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">
+    Good
+  </text>
+
+  <!-- Row 6: Monthly cost (reasonable) -->
+  <rect x="40" y="380" width="820" height="45" fill="#F9F7F3" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="60" y="410" font-size="12" font-weight="600" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">
+    Monthly cost
+  </text>
+  <circle cx="310" cy="402" r="8" fill="#6B7C5E"/>
+  <text x="318" y="408" font-size="11" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">
+    $12/yr
+  </text>
+  <circle cx="530" cy="402" r="8" fill="#96845A"/>
+  <text x="538" y="408" font-size="11" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">
+    $20/mo
+  </text>
+  <circle cx="750" cy="402" r="8" fill="#96845A"/>
+  <text x="758" y="408" font-size="11" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">
+    $20/mo
+  </text>
+
+  <!-- Row 7: Best for -->
+  <rect x="40" y="430" width="820" height="60" fill="white" stroke="#DDD8CE" stroke-width="1" rx="6"/>
+  <text x="60" y="455" font-size="11" font-weight="600" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">
+    Polish existing content
+  </text>
+  <text x="285" y="455" font-size="11" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">
+    Drafting &amp;
+  </text>
+  <text x="285" y="470" font-size="11" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">
+    iteration
+  </text>
+  <text x="505" y="455" font-size="11" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">
+    Detailed
+  </text>
+  <text x="505" y="470" font-size="11" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">
+    long-form work
+  </text>
+
+  <!-- Legend -->
+  <text x="40" y="520" font-size="11" fill="#8A8577" font-family="system-ui, -apple-system, sans-serif">
+    Green = Strong | Tan = Moderate | Gray = Weak/Unavailable. Prices in USD.
+  </text>
+</svg>

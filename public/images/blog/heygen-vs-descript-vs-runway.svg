@@ -1,0 +1,90 @@
+<svg viewBox="0 0 900 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title { font-size: 20px; font-weight: bold; fill: #4A5942; }
+      .category { font-size: 11px; font-weight: bold; fill: #3A3228; }
+      .value { font-size: 13px; font-weight: bold; fill: #3A3228; }
+      .label { font-size: 10px; fill: #8A8577; }
+      .tool-name { font-size: 12px; font-weight: bold; fill: white; }
+      .heygen-color { fill: #96845A; }
+      .descript-color { fill: #6B7C5E; }
+      .runway-color { fill: #8A8577; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="500" fill="#F4F1EA"/>
+
+  <!-- Title -->
+  <text x="450" y="30" text-anchor="middle" class="title">HeyGen vs Descript vs Runway</text>
+  <text x="450" y="48" text-anchor="middle" class="label">Three different approaches to AI video</text>
+
+  <!-- Tool Headers -->
+  <rect x="50" y="70" width="250" height="30" rx="6" class="heygen-color"/>
+  <text x="175" y="92" text-anchor="middle" class="tool-name">HeyGen</text>
+
+  <rect x="325" y="70" width="250" height="30" rx="6" class="descript-color"/>
+  <text x="450" y="92" text-anchor="middle" class="tool-name">Descript</text>
+
+  <rect x="600" y="70" width="250" height="30" rx="6" class="runway-color"/>
+  <text x="725" y="92" text-anchor="middle" class="tool-name">Runway</text>
+
+  <!-- Approach -->
+  <text x="20" y="135" class="category">Approach</text>
+  <text x="50" y="130" class="value" style="font-size: 11px;">AI Avatar</text>
+  <text x="325" y="130" class="value" style="font-size: 11px;">Edit Real Video</text>
+  <text x="600" y="130" class="value" style="font-size: 11px;">Generate Video</text>
+
+  <!-- Starts With -->
+  <text x="20" y="175" class="category">Starts With</text>
+  <text x="50" y="170" class="value" style="font-size: 11px;">Script text</text>
+  <text x="325" y="170" class="value" style="font-size: 11px;">Real video/audio</text>
+  <text x="600" y="170" class="value" style="font-size: 11px;">Text prompt</text>
+
+  <!-- Avatar Quality -->
+  <text x="20" y="220" class="category">Avatar Quality</text>
+  <rect x="50" y="210" width="70" height="20" fill="#DDD8CE" rx="4"/>
+  <rect x="50" y="210" width="49" height="20" fill="#96845A" rx="4"/>
+  <text x="105" y="225" class="value">7/10</text>
+
+  <text x="325" y="215" class="value" style="font-size: 10px;">N/A</text>
+
+  <rect x="600" y="210" width="70" height="20" fill="#DDD8CE" rx="4"/>
+  <rect x="600" y="210" width="56" height="20" fill="#8A8577" rx="4"/>
+  <text x="655" y="225" class="value">8/10</text>
+
+  <!-- Speed -->
+  <text x="20" y="265" class="category">Generation Speed</text>
+  <text x="50" y="260" class="value">30-60 sec</text>
+  <text x="325" y="260" class="value">Minutes</text>
+  <text x="600" y="260" class="value">5-10 min</text>
+
+  <!-- Price Entry -->
+  <text x="20" y="310" class="category">Entry Price</text>
+  <text x="50" y="305" class="value">$29</text>
+  <text x="325" y="305" class="value">$16</text>
+  <text x="600" y="305" class="value">$15</text>
+
+  <!-- Best For -->
+  <text x="20" y="360" class="category">Best For</text>
+  <text x="50" y="350" class="value" style="font-size: 9px;">Training,</text>
+  <text x="50" y="363" class="value" style="font-size: 9px;">outreach</text>
+
+  <text x="325" y="350" class="value" style="font-size: 9px;">Podcast</text>
+  <text x="325" y="363" class="value" style="font-size: 9px;">editing</text>
+
+  <text x="600" y="350" class="value" style="font-size: 9px;">Motion</text>
+  <text x="600" y="363" class="value" style="font-size: 9px;">graphics</text>
+
+  <!-- Use Real Video -->
+  <text x="20" y="410" class="category">Uses Real Video</text>
+  <text x="50" y="405" class="value" style="font-size: 10px;">✗ Synthetic</text>
+  <text x="325" y="405" class="value" style="font-size: 10px;">✓ Edits existing</text>
+  <text x="600" y="405" class="value" style="font-size: 10px;">✗ Generates new</text>
+
+  <!-- Authenticity -->
+  <text x="20" y="455" class="category">Human Feel</text>
+  <text x="50" y="450" class="value" style="font-size: 10px;">Synthetic</text>
+  <text x="325" y="450" class="value" style="font-size: 10px;">Real footage</text>
+  <text x="600" y="450" class="value" style="font-size: 10px;">AI motion</text>
+</svg>

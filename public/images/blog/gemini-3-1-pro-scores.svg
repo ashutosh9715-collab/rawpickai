@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 340" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+  <rect width="800" height="340" rx="12" fill="#F4F1EA"/>
+
+  <!-- Overall score ring -->
+  <circle cx="120" cy="160" r="70" fill="none" stroke="#1a1d2a" stroke-width="10"/>
+  <circle cx="120" cy="160" r="70" fill="none" stroke="#4285f4" stroke-width="10"
+    stroke-dasharray="440" stroke-dashoffset="44" stroke-linecap="round"
+    transform="rotate(-90 120 160)"/>
+  <text x="120" y="152" fill="#1A2416" font-size="36" font-weight="700" text-anchor="middle">4.5</text>
+  <text x="120" y="174" fill="#8b8fa3" font-size="14" text-anchor="middle">out of 5</text>
+  <text x="120" y="260" fill="#4285f4" font-size="13" font-weight="600" text-anchor="middle">OVERALL SCORE</text>
+
+  <!-- Score bars -->
+  <!-- Features: 92 -->
+  <text x="260" y="62" fill="#c4c7d4" font-size="12" font-weight="500">Features</text>
+  <text x="740" y="62" fill="#1A2416" font-size="12" font-weight="700" text-anchor="end">92</text>
+  <rect x="260" y="70" width="480" height="10" rx="5" fill="#1a1d2a"/>
+  <rect x="260" y="70" width="442" height="10" rx="5" fill="#3a8c5e"/>
+
+  <!-- Integrations: 90 -->
+  <text x="260" y="108" fill="#c4c7d4" font-size="12" font-weight="500">Integrations</text>
+  <text x="740" y="108" fill="#1A2416" font-size="12" font-weight="700" text-anchor="end">90</text>
+  <rect x="260" y="116" width="480" height="10" rx="5" fill="#1a1d2a"/>
+  <rect x="260" y="116" width="432" height="10" rx="5" fill="#3a8c5e"/>
+
+  <!-- Value for Money: 88 -->
+  <text x="260" y="154" fill="#c4c7d4" font-size="12" font-weight="500">Value for Money</text>
+  <text x="740" y="154" fill="#1A2416" font-size="12" font-weight="700" text-anchor="end">88</text>
+  <rect x="260" y="162" width="480" height="10" rx="5" fill="#1a1d2a"/>
+  <rect x="260" y="162" width="422" height="10" rx="5" fill="#4285f4"/>
+
+  <!-- Ease of Use: 85 -->
+  <text x="260" y="200" fill="#c4c7d4" font-size="12" font-weight="500">Ease of Use</text>
+  <text x="740" y="200" fill="#1A2416" font-size="12" font-weight="700" text-anchor="end">85</text>
+  <rect x="260" y="208" width="480" height="10" rx="5" fill="#1a1d2a"/>
+  <rect x="260" y="208" width="408" height="10" rx="5" fill="#4285f4"/>
+
+  <!-- Support: 80 -->
+  <text x="260" y="246" fill="#c4c7d4" font-size="12" font-weight="500">Support</text>
+  <text x="740" y="246" fill="#1A2416" font-size="12" font-weight="700" text-anchor="end">80</text>
+  <rect x="260" y="254" width="480" height="10" rx="5" fill="#1a1d2a"/>
+  <rect x="260" y="254" width="384" height="10" rx="5" fill="#4285f4"/>
+
+  <!-- Footer -->
+  <text x="400" y="310" fill="#5a5e72" font-size="11" text-anchor="middle">Gemini 3.1 Pro Review  -  rawpickai.com</text>
+</svg>

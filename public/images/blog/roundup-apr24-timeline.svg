@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" role="img" aria-labelledby="title5">
+  <title id="title5">AI tooling evolution timeline from model competition to workflow integration</title>
+  <rect width="800" height="360" fill="#F4F1EA"/>
+
+  <!-- Title -->
+  <text x="40" y="42" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#1A2416">The AI tooling evolution</text>
+  <text x="40" y="62" font-family="Georgia, serif" font-size="13" fill="#6B6960">From model specs to workflow fit  -  where we are and why it matters</text>
+
+  <!-- Timeline horizontal line -->
+  <line x1="80" y1="180" x2="720" y2="180" stroke="#D4D0C0" stroke-width="2"/>
+
+  <!-- Era 1: 2023 -->
+  <circle cx="140" cy="180" r="10" fill="#96845A"/>
+  <circle cx="140" cy="180" r="4" fill="#F4F1EA"/>
+  <text x="140" y="130" font-family="Georgia, serif" font-size="13" font-weight="700" fill="#96845A" text-anchor="middle">2023</text>
+  <text x="140" y="115" font-family="Georgia, serif" font-size="11" fill="#96845A" text-anchor="middle">MODEL RACE</text>
+  <g transform="translate(50, 210)">
+    <rect x="0" y="0" width="180" height="110" rx="8" fill="#FFFFFF" stroke="#E8E3D3" stroke-width="1"/>
+    <text x="14" y="28" font-family="Georgia, serif" font-size="13" font-weight="700" fill="#1A2416">ChatGPT era</text>
+    <text x="14" y="54" font-family="Georgia, serif" font-size="11" fill="#4A453E">One model, one interface.</text>
+    <text x="14" y="72" font-family="Georgia, serif" font-size="11" fill="#4A453E">The race was about raw</text>
+    <text x="14" y="90" font-family="Georgia, serif" font-size="11" fill="#4A453E">capability improvements.</text>
+  </g>
+
+  <!-- Era 2: 2024-2025 -->
+  <circle cx="340" cy="180" r="10" fill="#6B7C5E"/>
+  <circle cx="340" cy="180" r="4" fill="#F4F1EA"/>
+  <text x="340" y="130" font-family="Georgia, serif" font-size="13" font-weight="700" fill="#6B7C5E" text-anchor="middle">2024 – 2025</text>
+  <text x="340" y="115" font-family="Georgia, serif" font-size="11" fill="#6B7C5E" text-anchor="middle">CAPABILITY BURST</text>
+  <g transform="translate(250, 210)">
+    <rect x="0" y="0" width="180" height="110" rx="8" fill="#FFFFFF" stroke="#E8E3D3" stroke-width="1"/>
+    <text x="14" y="28" font-family="Georgia, serif" font-size="13" font-weight="700" fill="#1A2416">Multimodal rush</text>
+    <text x="14" y="54" font-family="Georgia, serif" font-size="11" fill="#4A453E">Image, video, voice, code.</text>
+    <text x="14" y="72" font-family="Georgia, serif" font-size="11" fill="#4A453E">Everyone shipping specialized</text>
+    <text x="14" y="90" font-family="Georgia, serif" font-size="11" fill="#4A453E">versions of everything.</text>
+  </g>
+
+  <!-- Era 3: 2026 (current) -->
+  <circle cx="540" cy="180" r="14" fill="#4A5942"/>
+  <circle cx="540" cy="180" r="6" fill="#D4E4C8"/>
+  <text x="540" y="130" font-family="Georgia, serif" font-size="13" font-weight="700" fill="#4A5942" text-anchor="middle">2026 ·  NOW</text>
+  <text x="540" y="115" font-family="Georgia, serif" font-size="11" fill="#4A5942" text-anchor="middle">WORKFLOW INTEGRATION</text>
+  <g transform="translate(450, 210)">
+    <rect x="0" y="0" width="180" height="110" rx="8" fill="#FFFFFF" stroke="#4A5942" stroke-width="2"/>
+    <text x="14" y="28" font-family="Georgia, serif" font-size="13" font-weight="700" fill="#1A2416">Plug-in phase</text>
+    <text x="14" y="54" font-family="Georgia, serif" font-size="11" fill="#4A453E">Canva × Claude. Live</text>
+    <text x="14" y="72" font-family="Georgia, serif" font-size="11" fill="#4A453E">Artifacts. Personal Computer.</text>
+    <text x="14" y="90" font-family="Georgia, serif" font-size="11" fill="#4A453E">Fit matters more than specs.</text>
+  </g>
+
+  <!-- Era 4: future -->
+  <circle cx="700" cy="180" r="10" fill="#D4D0C0"/>
+  <circle cx="700" cy="180" r="4" fill="#F4F1EA"/>
+  <text x="700" y="130" font-family="Georgia, serif" font-size="13" font-weight="700" fill="#6B6960" text-anchor="middle">2027+</text>
+  <text x="700" y="115" font-family="Georgia, serif" font-size="11" fill="#6B6960" text-anchor="middle">AMBIENT</text>
+  <g transform="translate(660, 210)">
+    <rect x="0" y="0" width="130" height="110" rx="8" fill="#FFFFFF" stroke="#E8E3D3" stroke-width="1" stroke-dasharray="4,4"/>
+    <text x="14" y="28" font-family="Georgia, serif" font-size="13" font-weight="700" fill="#6B6960">Invisible AI?</text>
+    <text x="14" y="54" font-family="Georgia, serif" font-size="11" fill="#6B6960">Projection: AI</text>
+    <text x="14" y="72" font-family="Georgia, serif" font-size="11" fill="#6B6960">disappears into</text>
+    <text x="14" y="90" font-family="Georgia, serif" font-size="11" fill="#6B6960">every app.</text>
+  </g>
+</svg>

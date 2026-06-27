@@ -1,0 +1,35 @@
+<svg viewBox="0 0 820 400" xmlns="http://www.w3.org/2000/svg" width="1200" height="585">
+  <rect width="820" height="400" fill="#F4F1EA"/>
+  <text x="410" y="30" font-size="18" font-weight="bold" text-anchor="middle" fill="#4A5942">AI Video Generators — Overall Scores</text>
+  <text x="410" y="50" font-size="11" text-anchor="middle" fill="#8A8577">Independent testing. Motion quality, value, and commercial usability.</text>
+  <line x1="60" y1="70" x2="60" y2="320" stroke="#DDD8CE" stroke-width="1"/>
+  <line x1="60" y1="320" x2="800" y2="320" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="55" y="325" font-size="10" text-anchor="end" fill="#8A8577">0</text>
+  <text x="55" y="200" font-size="10" text-anchor="end" fill="#8A8577">2.5</text>
+  <text x="55" y="75" font-size="10" text-anchor="end" fill="#8A8577">5</text>
+  <!-- Runway 4.4 -->
+  <rect x="75" y="96" width="95" height="224" rx="6" fill="#4A5942"/>
+  <text x="122" y="84" font-size="12" font-weight="700" text-anchor="middle" fill="#4A5942">4.4/5</text>
+  <text x="122" y="348" font-size="11" font-weight="600" text-anchor="middle" fill="#4A5942">Runway</text>
+  <!-- Pika 4.2 -->
+  <rect x="190" y="116" width="95" height="204" rx="6" fill="#6B7C5E"/>
+  <text x="237" y="104" font-size="12" font-weight="700" text-anchor="middle" fill="#4A5942">4.2/5</text>
+  <text x="237" y="348" font-size="11" font-weight="600" text-anchor="middle" fill="#4A5942">Pika</text>
+  <!-- Kling 4.0 -->
+  <rect x="305" y="136" width="95" height="184" rx="6" fill="#6B7C5E"/>
+  <text x="352" y="124" font-size="12" font-weight="700" text-anchor="middle" fill="#4A5942">4.0/5</text>
+  <text x="352" y="348" font-size="11" font-weight="600" text-anchor="middle" fill="#4A5942">Kling AI</text>
+  <!-- Luma 3.8 -->
+  <rect x="420" y="156" width="95" height="164" rx="6" fill="#96845A"/>
+  <text x="467" y="144" font-size="12" font-weight="700" text-anchor="middle" fill="#4A5942">3.8/5</text>
+  <text x="467" y="348" font-size="11" font-weight="600" text-anchor="middle" fill="#4A5942">Luma</text>
+  <!-- DeeVid 3.6 -->
+  <rect x="535" y="172" width="95" height="148" rx="6" fill="#96845A"/>
+  <text x="582" y="160" font-size="12" font-weight="700" text-anchor="middle" fill="#4A5942">3.6/5</text>
+  <text x="582" y="348" font-size="11" font-weight="600" text-anchor="middle" fill="#4A5942">DeeVid</text>
+  <!-- SVD 3.5 -->
+  <rect x="650" y="180" width="95" height="140" rx="6" fill="#8A8577"/>
+  <text x="697" y="168" font-size="12" font-weight="700" text-anchor="middle" fill="#4A5942">3.5/5</text>
+  <text x="697" y="348" font-size="11" font-weight="600" text-anchor="middle" fill="#4A5942">SVD</text>
+  <text x="410" y="385" font-size="10" text-anchor="middle" fill="#8A8577">Tested and rated by RawPickAI. Scores based on motion quality, value, and commercial usability. rawpickai.com</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="900" height="220">
+  <rect width="900" height="220" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#4A5942" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">Claude Opus 4.8 vs GPT-5.5 at a Glance</text>
+  <rect x="40" y="55" width="390" height="135" rx="10" fill="white" stroke="#4A5942" stroke-width="2"/>
+  <text x="235" y="82" font-family="Georgia, serif" font-size="14" font-weight="700" text-anchor="middle" fill="#4A5942">Claude Opus 4.8</text>
+  <text x="235" y="108" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Agentic coding: 69.2% (beats GPT-5.5)</text>
+  <text x="235" y="128" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Computer use: 83.4% (best browser agent)</text>
+  <text x="235" y="148" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">4x fewer missed code flaws vs 4.7</text>
+  <text x="235" y="170" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#96845A">$20/mo Pro (≈₹1,860) · $100/mo Max (≈₹9,300)</text>
+  <rect x="470" y="55" width="390" height="135" rx="10" fill="white" stroke="#96845A" stroke-width="1.5"/>
+  <text x="665" y="82" font-family="Georgia, serif" font-size="14" font-weight="600" text-anchor="middle" fill="#96845A">GPT-5.5</text>
+  <text x="665" y="108" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Terminal-Bench: 82.7% (beats Opus 4.8)</text>
+  <text x="665" y="128" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Computer use: 78.9% (below Opus 4.8)</text>
+  <text x="665" y="148" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Stronger coding from scratch</text>
+  <text x="665" y="170" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#96845A">$20/mo Plus (≈₹1,860) · $200/mo Pro (≈₹18,600)</text>
+  <text x="450" y="210" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Tested May 28, 2026. Prices at ≈₹93/USD. Source: Anthropic blog, benchmarks verified.</text>
+</svg>

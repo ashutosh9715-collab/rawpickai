@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#F4F1EA" rx="16"/>
+  <rect x="0" y="0" width="1200" height="6" fill="#4A5942" rx="3"/>
+  <text x="600" y="80" font-family="Georgia, serif" font-size="16" font-weight="600" text-anchor="middle" fill="#6B7C5E">RAWPICKAI NEWS · MAY 23, 2026</text>
+  <text x="600" y="160" font-family="Georgia, serif" font-size="42" font-weight="700" text-anchor="middle" fill="#1A2416">Karpathy Joins Anthropic,</text>
+  <text x="600" y="220" font-family="Georgia, serif" font-size="42" font-weight="700" text-anchor="middle" fill="#1A2416">Gemini 3.5 Flash API Goes GA</text>
+  <rect x="300" y="260" width="600" height="3" fill="#4A5942" opacity="0.2" rx="1"/>
+  <rect x="200" y="310" width="260" height="120" rx="12" fill="white" stroke="#4A5942" stroke-width="2"/>
+  <text x="330" y="350" font-family="Georgia, serif" font-size="14" font-weight="600" text-anchor="middle" fill="#4A5942">Karpathy</text>
+  <text x="330" y="380" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">OpenAI co-founder #11</text>
+  <text x="330" y="405" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B6960">Joins pre-training team</text>
+  <text x="330" y="425" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#22c55e">Using Claude to build Claude</text>
+  <rect x="490" y="310" width="260" height="120" rx="12" fill="white" stroke="#96845A" stroke-width="1.5"/>
+  <text x="620" y="350" font-family="Georgia, serif" font-size="14" font-weight="600" text-anchor="middle" fill="#96845A">Gemini 3.5 Flash</text>
+  <text x="620" y="380" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">API now generally available</text>
+  <text x="620" y="405" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B6960">$1.50/$9 per 1M tokens</text>
+  <text x="620" y="425" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#22c55e">1M context window</text>
+  <rect x="780" y="310" width="260" height="120" rx="12" fill="white" stroke="#6B7C5E" stroke-width="1.5"/>
+  <text x="910" y="350" font-family="Georgia, serif" font-size="14" font-weight="600" text-anchor="middle" fill="#6B7C5E">Talent War</text>
+  <text x="910" y="380" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">4th major OpenAI departure</text>
+  <text x="910" y="405" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B6960">to Anthropic</text>
+  <text x="910" y="425" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">Schulman, Nordeen, now Karpathy</text>
+  <text x="600" y="520" font-family="Georgia, serif" font-size="14" text-anchor="middle" fill="#8A8577">rawpickai.com</text>
+</svg>

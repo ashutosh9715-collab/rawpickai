@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="900" height="220">
+  <rect width="900" height="220" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#96845A" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">Gemini 3.5 Flash API Pricing vs Competition</text>
+  <rect x="60" y="55" width="780" height="28" rx="6" fill="#4A5942"/>
+  <text x="200" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">Model</text>
+  <text x="400" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">Input (/1M tokens)</text>
+  <text x="580" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">Output (/1M tokens)</text>
+  <text x="760" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">Context</text>
+  <rect x="60" y="87" width="780" height="32" fill="white" rx="4"/>
+  <text x="200" y="109" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#4A5942">Gemini 3.5 Flash</text>
+  <text x="400" y="109" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#4A5942">$1.50 (≈₹140)</text>
+  <text x="580" y="109" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#4A5942">$9.00 (≈₹837)</text>
+  <text x="760" y="109" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A5942">1M</text>
+  <rect x="60" y="123" width="780" height="32" fill="#F9F7F2" rx="4"/>
+  <text x="200" y="145" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Claude Sonnet 4.6</text>
+  <text x="400" y="145" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">$3.00 (≈₹279)</text>
+  <text x="580" y="145" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">$15.00 (≈₹1,395)</text>
+  <text x="760" y="145" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">200K</text>
+  <rect x="60" y="159" width="780" height="32" fill="white" rx="4"/>
+  <text x="200" y="181" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">GPT-5.5 Mini</text>
+  <text x="400" y="181" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">$1.50 (≈₹140)</text>
+  <text x="580" y="181" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">$6.00 (≈₹558)</text>
+  <text x="760" y="181" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">128K</text>
+  <text x="450" y="210" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Gemini 3.5 Flash: 2x Claude Sonnet's input, beats 3.1 Pro on coding at 50% the price. 1M context is unmatched.</text>
+</svg>

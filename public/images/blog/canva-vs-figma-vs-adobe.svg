@@ -1,0 +1,138 @@
+<svg viewBox="0 0 1000 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root {
+        --bg: #F4F1EA;
+        --heading: #4A5942;
+        --body: #3A3228;
+        --muted: #8A8577;
+        --track: #DDD8CE;
+        --good: #6B7C5E;
+        --accent: #96845A;
+      }
+      body { color-scheme: light; }
+      .bg { fill: #F4F1EA; }
+      .heading { fill: #4A5942; font-family: system-ui, -apple-system, sans-serif; font-weight: 600; }
+      .col-header { fill: white; font-family: system-ui, -apple-system, sans-serif; font-weight: 600; font-size: 14px; }
+      .row-header { fill: #3A3228; font-family: system-ui, -apple-system, sans-serif; font-size: 13px; font-weight: 500; }
+      .cell { fill: #3A3228; font-family: system-ui, -apple-system, sans-serif; font-size: 12px; }
+      .cell-good { fill: #6B7C5E; }
+      .cell-accent { fill: #96845A; }
+      .row-alt { fill: #DDD8CE; opacity: 0.3; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1000" height="600"/>
+
+  <!-- Title -->
+  <text class="heading" x="40" y="35" font-size="22">Canva vs Figma vs Adobe Creative Cloud</text>
+
+  <!-- Header row -->
+  <rect x="40" y="50" width="200" height="40" fill="#4A5942" rx="6"/>
+  <rect x="240" y="50" width="230" height="40" fill="#6B7C5E" rx="6"/>
+  <rect x="470" y="50" width="230" height="40" fill="#6B7C5E" rx="6"/>
+  <rect x="700" y="50" width="260" height="40" fill="#6B7C5E" rx="6"/>
+
+  <text class="col-header" x="140" y="78" text-anchor="middle">Feature</text>
+  <text class="col-header" x="355" y="78" text-anchor="middle">Canva</text>
+  <text class="col-header" x="585" y="78" text-anchor="middle">Figma</text>
+  <text class="col-header" x="830" y="78" text-anchor="middle">Adobe CC</text>
+
+  <!-- Row 1: AI Image Gen -->
+  <rect x="40" y="100" width="200" height="35" fill="#DDD8CE" opacity="0.3"/>
+  <rect x="240" y="100" width="230" height="35" fill="#DDD8CE" opacity="0.3"/>
+  <rect x="470" y="100" width="230" height="35" fill="#DDD8CE" opacity="0.3"/>
+  <rect x="700" y="100" width="260" height="35" fill="#DDD8CE" opacity="0.3"/>
+
+  <text class="row-header" x="50" y="125">AI Image Generation</text>
+  <text class="cell cell-accent" x="250" y="125">DALL-E (good)</text>
+  <text class="cell" x="480" y="125">Via Figma AI plugin</text>
+  <text class="cell cell-good" x="710" y="125">Firefly (excellent)</text>
+
+  <!-- Row 2: AI Writing -->
+  <rect x="40" y="145" width="200" height="35"/>
+  <rect x="240" y="145" width="230" height="35"/>
+  <rect x="470" y="145" width="230" height="35"/>
+  <rect x="700" y="145" width="260" height="35"/>
+
+  <text class="row-header" x="50" y="170">AI Writing/Copy</text>
+  <text class="cell cell-accent" x="250" y="170">Magic Write (basic)</text>
+  <text class="cell" x="480" y="170">No native AI writing</text>
+  <text class="cell cell-good" x="710" y="170">Firefly, Acrobat AI</text>
+
+  <!-- Row 3: Ease of Use -->
+  <rect x="40" y="190" width="200" height="35" fill="#DDD8CE" opacity="0.3"/>
+  <rect x="240" y="190" width="230" height="35" fill="#DDD8CE" opacity="0.3"/>
+  <rect x="470" y="190" width="230" height="35" fill="#DDD8CE" opacity="0.3"/>
+  <rect x="700" y="190" width="260" height="35" fill="#DDD8CE" opacity="0.3"/>
+
+  <text class="row-header" x="50" y="215">Ease of Use</text>
+  <text class="cell cell-good" x="250" y="215">Excellent (beginner)</text>
+  <text class="cell" x="480" y="215">Steep learning curve</text>
+  <text class="cell" x="710" y="215">Very steep learning</text>
+
+  <!-- Row 4: Professional Features -->
+  <rect x="40" y="235" width="200" height="35"/>
+  <rect x="240" y="235" width="230" height="35"/>
+  <rect x="470" y="235" width="230" height="35"/>
+  <rect x="700" y="235" width="260" height="35"/>
+
+  <text class="row-header" x="50" y="260">Professional Features</text>
+  <text class="cell" x="250" y="260">Limited</text>
+  <text class="cell cell-good" x="480" y="260">Excellent (design pro)</text>
+  <text class="cell cell-good" x="710" y="260">Best-in-class</text>
+
+  <!-- Row 5: Collaboration -->
+  <rect x="40" y="280" width="200" height="35" fill="#DDD8CE" opacity="0.3"/>
+  <rect x="240" y="280" width="230" height="35" fill="#DDD8CE" opacity="0.3"/>
+  <rect x="470" y="280" width="230" height="35" fill="#DDD8CE" opacity="0.3"/>
+  <rect x="700" y="280" width="260" height="35" fill="#DDD8CE" opacity="0.3"/>
+
+  <text class="row-header" x="50" y="305">Real-time Collaboration</text>
+  <text class="cell cell-good" x="250" y="305">Very good</text>
+  <text class="cell cell-good" x="480" y="305">Excellent</text>
+  <text class="cell cell-good" x="710" y="305">Good</text>
+
+  <!-- Row 6: Monthly Cost -->
+  <rect x="40" y="325" width="200" height="35"/>
+  <rect x="240" y="325" width="230" height="35"/>
+  <rect x="470" y="325" width="230" height="35"/>
+  <rect x="700" y="325" width="260" height="35"/>
+
+  <text class="row-header" x="50" y="350">Monthly Cost (USD)</text>
+  <text class="cell cell-good" x="250" y="350">$15 (affordable)</text>
+  <text class="cell cell-accent" x="480" y="350">$12-40/seat</text>
+  <text class="cell" x="710" y="350">$55-95</text>
+
+  <!-- Row 7: Best For -->
+  <rect x="40" y="370" width="200" height="55" fill="#DDD8CE" opacity="0.3"/>
+  <rect x="240" y="370" width="230" height="55" fill="#DDD8CE" opacity="0.3"/>
+  <rect x="470" y="370" width="230" height="55" fill="#DDD8CE" opacity="0.3"/>
+  <rect x="700" y="370" width="260" height="55" fill="#DDD8CE" opacity="0.3"/>
+
+  <text class="row-header" x="50" y="395">Best For</text>
+  <text class="cell" x="250" y="395">Social media,</text>
+  <text class="cell" x="250" y="410">presentations,</text>
+  <text class="cell" x="250" y="425">small business</text>
+
+  <text class="cell" x="480" y="395">UI/UX design,</text>
+  <text class="cell" x="480" y="410">product design,</text>
+  <text class="cell" x="480" y="425">design teams</text>
+
+  <text class="cell" x="710" y="395">Photo editing,</text>
+  <text class="cell" x="710" y="410">video production,</text>
+  <text class="cell" x="710" y="425">print design</text>
+
+  <!-- Legend -->
+  <circle cx="60" cy="475" r="5" fill="#6B7C5E"/>
+  <text class="cell" x="75" y="480">Strong advantage</text>
+
+  <circle cx="260" cy="475" r="5" fill="#96845A"/>
+  <text class="cell" x="275" y="480">Moderate advantage</text>
+
+  <circle cx="510" cy="475" r="5" fill="#3A3228"/>
+  <text class="cell" x="525" y="480">Neutral/similar</text>
+
+  <!-- Footnote -->
+  <text class="cell" x="40" y="545" font-size="11" fill="#8A8577">Adobe Creative Cloud pricing shown for single-app annual. Full Creative Suite ranges $60-95/mo. Figma pricing per active editor.</text>
+</svg>

@@ -1,0 +1,99 @@
+<svg viewBox="0 0 1000 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root {
+        --bg: #F4F1EA;
+        --heading: #4A5942;
+        --bar-primary: #6B7C5E;
+        --bar-secondary: #96845A;
+        --text-body: #3A3228;
+        --text-muted: #8A8577;
+        --track: #DDD8CE;
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1000" height="600" fill="#F4F1EA"/>
+
+  <!-- Title -->
+  <text x="40" y="45" font-size="28" font-weight="bold" fill="#4A5942" font-family="system-ui">
+    Jasper vs Copy.ai vs Writesonic
+  </text>
+
+  <!-- Comparison Grid -->
+  <!-- Headers -->
+  <text x="40" y="100" font-size="14" font-weight="600" fill="#3A3228" font-family="system-ui">Metric</text>
+  <text x="240" y="100" font-size="14" font-weight="600" fill="#3A3228" font-family="system-ui">Jasper</text>
+  <text x="480" y="100" font-size="14" font-weight="600" fill="#3A3228" font-family="system-ui">Copy.ai</text>
+  <text x="720" y="100" font-size="14" font-weight="600" fill="#3A3228" font-family="system-ui">Writesonic</text>
+
+  <!-- Divider -->
+  <line x1="40" y1="115" x2="960" y2="115" stroke="#DDD8CE" stroke-width="2"/>
+
+  <!-- Price Row -->
+  <text x="40" y="155" font-size="13" font-weight="500" fill="#3A3228" font-family="system-ui">Price/Month</text>
+  <text x="240" y="155" font-size="13" fill="#6B7C5E" font-family="system-ui" font-weight="bold">$49</text>
+  <text x="480" y="155" font-size="13" fill="#6B7C5E" font-family="system-ui" font-weight="bold">$22</text>
+  <text x="720" y="155" font-size="13" fill="#6B7C5E" font-family="system-ui" font-weight="bold">$22</text>
+
+  <!-- Brand Voice -->
+  <text x="40" y="195" font-size="13" font-weight="500" fill="#3A3228" font-family="system-ui">Brand Voice</text>
+  <text x="240" y="195" font-size="13" fill="#3A3228" font-family="system-ui">Excellent</text>
+  <text x="480" y="195" font-size="13" fill="#3A3228" font-family="system-ui">Good</text>
+  <text x="720" y="195" font-size="13" fill="#3A3228" font-family="system-ui">Adequate</text>
+
+  <!-- Campaign Tools -->
+  <text x="40" y="235" font-size="13" font-weight="500" fill="#3A3228" font-family="system-ui">Campaign Tools</text>
+  <text x="240" y="235" font-size="13" fill="#6B7C5E" font-family="system-ui" font-weight="bold">Yes</text>
+  <text x="480" y="235" font-size="13" fill="#8A8577" font-family="system-ui">Limited</text>
+  <text x="720" y="235" font-size="13" fill="#8A8577" font-family="system-ui">Limited</text>
+
+  <!-- Output Quality -->
+  <text x="40" y="275" font-size="13" font-weight="500" fill="#3A3228" font-family="system-ui">Output Quality</text>
+  <text x="240" y="275" font-size="13" fill="#3A3228" font-family="system-ui">Good (7/10)</text>
+  <text x="480" y="275" font-size="13" fill="#3A3228" font-family="system-ui">Fair (6/10)</text>
+  <text x="720" y="275" font-size="13" fill="#3A3228" font-family="system-ui">Fair (6.5/10)</text>
+
+  <!-- Long-Form -->
+  <text x="40" y="315" font-size="13" font-weight="500" fill="#3A3228" font-family="system-ui">Long-Form Writing</text>
+  <text x="240" y="315" font-size="13" fill="#3A3228" font-family="system-ui">Moderate</text>
+  <text x="480" y="315" font-size="13" fill="#3A3228" font-family="system-ui">Weak</text>
+  <text x="720" y="315" font-size="13" fill="#3A3228" font-family="system-ui">Moderate</text>
+
+  <!-- Ease of Use -->
+  <text x="40" y="355" font-size="13" font-weight="500" fill="#3A3228" font-family="system-ui">Ease of Use</text>
+  <text x="240" y="355" font-size="13" fill="#3A3228" font-family="system-ui">Excellent</text>
+  <text x="480" y="355" font-size="13" fill="#3A3228" font-family="system-ui">Good</text>
+  <text x="720" y="355" font-size="13" fill="#3A3228" font-family="system-ui">Excellent</text>
+
+  <!-- Templates -->
+  <text x="40" y="395" font-size="13" font-weight="500" fill="#3A3228" font-family="system-ui">Template Library</text>
+  <text x="240" y="395" font-size="13" fill="#3A3228" font-family="system-ui">40+</text>
+  <text x="480" y="395" font-size="13" fill="#3A3228" font-family="system-ui">50+</text>
+  <text x="720" y="395" font-size="13" fill="#3A3228" font-family="system-ui">60+</text>
+
+  <!-- Best For Individual -->
+  <text x="40" y="435" font-size="13" font-weight="500" fill="#3A3228" font-family="system-ui">Best for Individuals?</text>
+  <rect x="240" y="420" width="200" height="30" rx="6" fill="#DDD8CE"/>
+  <text x="260" y="440" font-size="13" fill="#8A8577" font-family="system-ui">No (too expensive)</text>
+  <rect x="480" y="420" width="200" height="30" rx="6" fill="#DDD8CE"/>
+  <text x="500" y="440" font-size="13" fill="#8A8577" font-family="system-ui">Possible</text>
+  <rect x="720" y="420" width="200" height="30" rx="6" fill="#6B7C5E" opacity="0.2"/>
+  <text x="740" y="440" font-size="13" fill="#3A3228" font-family="system-ui">Yes</text>
+
+  <!-- Best For Teams -->
+  <text x="40" y="485" font-size="13" font-weight="500" fill="#3A3228" font-family="system-ui">Best for Teams?</text>
+  <rect x="240" y="470" width="200" height="30" rx="6" fill="#6B7C5E" opacity="0.2"/>
+  <text x="260" y="490" font-size="13" fill="#3A3228" font-family="system-ui">Yes (best)</text>
+  <rect x="480" y="470" width="200" height="30" rx="6" fill="#6B7C5E" opacity="0.2"/>
+  <text x="500" y="490" font-size="13" fill="#3A3228" font-family="system-ui">Good</text>
+  <rect x="720" y="470" width="200" height="30" rx="6" fill="#6B7C5E" opacity="0.2"/>
+  <text x="740" y="490" font-size="13" fill="#3A3228" font-family="system-ui">Good</text>
+
+  <!-- Summary -->
+  <rect x="40" y="530" width="920" height="50" rx="8" fill="#96845A" opacity="0.1" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="60" y="555" font-size="12" fill="#3A3228" font-family="system-ui" font-weight="600">
+    Verdict: Jasper best for brand consistency at scale. Copy.ai cheapest for quick content. Writesonic best versatility for individuals.
+  </text>
+</svg>

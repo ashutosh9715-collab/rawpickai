@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" width="900" height="260">
+  <rect width="900" height="260" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#4A5942" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">Biggest Score Changes — Nov 2025 to May 2026</text>
+  <rect x="60" y="55" width="780" height="32" rx="6" fill="#4A5942"/>
+  <text x="180" y="77" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#F4F1EA">Tool</text>
+  <text x="400" y="77" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#F4F1EA">Nov 2025</text>
+  <text x="550" y="77" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#F4F1EA">May 2026</text>
+  <text x="720" y="77" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#F4F1EA">Change</text>
+  <rect x="60" y="91" width="780" height="28" fill="white" rx="4"/>
+  <text x="180" y="110" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Cursor</text>
+  <text x="400" y="110" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B6960">3.8</text>
+  <text x="550" y="110" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#4A5942">4.6</text>
+  <text x="720" y="110" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#22c55e">+0.8 ↑</text>
+  <rect x="60" y="123" width="780" height="28" fill="#F9F7F2" rx="4"/>
+  <text x="180" y="142" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Gemini</text>
+  <text x="400" y="142" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B6960">3.9</text>
+  <text x="550" y="142" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#4A5942">4.5</text>
+  <text x="720" y="142" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#22c55e">+0.6 ↑</text>
+  <rect x="60" y="155" width="780" height="28" fill="white" rx="4"/>
+  <text x="180" y="174" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Perplexity</text>
+  <text x="400" y="174" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B6960">3.8</text>
+  <text x="550" y="174" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#4A5942">4.3</text>
+  <text x="720" y="174" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#22c55e">+0.5 ↑</text>
+  <rect x="60" y="187" width="780" height="28" fill="#F9F7F2" rx="4"/>
+  <text x="180" y="206" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Jasper</text>
+  <text x="400" y="206" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B6960">3.6</text>
+  <text x="550" y="206" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#c0392b">3.2</text>
+  <text x="720" y="206" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#c0392b">-0.4 ↓</text>
+  <rect x="60" y="219" width="780" height="28" fill="white" rx="4"/>
+  <text x="180" y="238" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Copy.ai</text>
+  <text x="400" y="238" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B6960">3.5</text>
+  <text x="550" y="238" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#c0392b">3.1</text>
+  <text x="720" y="238" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#c0392b">-0.4 ↓</text>
+</svg>

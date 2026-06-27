@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="900" height="180">
+  <rect width="900" height="180" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#4A5942" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">What This Means for AI Tool Pricing</text>
+  <rect x="60" y="55" width="390" height="95" rx="10" fill="white" stroke="#22c55e" stroke-width="1.5"/>
+  <text x="255" y="82" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#22c55e">Good for users</text>
+  <text x="255" y="105" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">IPO pressure = keep prices competitive</text>
+  <text x="255" y="125" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Revenue growth proves $20/mo model works</text>
+  <text x="255" y="145" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">Both companies need user growth for IPO story</text>
+  <rect x="470" y="55" width="390" height="95" rx="10" fill="white" stroke="#c0392b" stroke-width="1.5"/>
+  <text x="665" y="82" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#c0392b">Risk for users</text>
+  <text x="665" y="105" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Post-IPO pricing could rise</text>
+  <text x="665" y="125" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Compute costs threaten sustained profitability</text>
+  <text x="665" y="145" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">CNBC warns cheap AI may not last at $800B+ valuations</text>
+  <text x="450" y="172" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Source: WSJ, CNBC, RawPickAI analysis</text>
+</svg>

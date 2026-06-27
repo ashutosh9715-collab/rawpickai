@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 340" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+  <rect width="800" height="340" rx="12" fill="#F4F1EA"/>
+  <text x="400" y="32" fill="#4A5942" font-size="16" font-weight="700" text-anchor="middle">Head-to-Head Test Results: 5 Real Projects</text>
+
+  <rect x="20" y="50" width="760" height="28" rx="6" fill="#4A5942"/>
+  <text x="150" y="69" fill="#F4F1EA" font-size="11" font-weight="700" text-anchor="middle">Project</text>
+  <text x="340" y="69" fill="#F4F1EA" font-size="11" font-weight="700" text-anchor="middle">Lovable</text>
+  <text x="500" y="69" fill="#F4F1EA" font-size="11" font-weight="700" text-anchor="middle">v0</text>
+  <text x="660" y="69" fill="#F4F1EA" font-size="11" font-weight="700" text-anchor="middle">Bolt.new</text>
+
+  <rect x="20" y="82" width="760" height="40" fill="#EEEAE2"/>
+  <text x="150" y="106" fill="#3A3228" font-size="11" text-anchor="middle">Pomodoro Timer</text>
+  <text x="340" y="106" fill="#8A8577" font-size="11" text-anchor="middle">52s (3rd)</text>
+  <text x="500" y="106" fill="#4A5942" font-size="11" font-weight="700" text-anchor="middle">38s (Winner)</text>
+  <text x="660" y="106" fill="#8A8577" font-size="11" text-anchor="middle">47s (2nd)</text>
+
+  <rect x="20" y="122" width="760" height="40" fill="#F4F1EA"/>
+  <text x="150" y="146" fill="#3A3228" font-size="11" text-anchor="middle">SaaS Landing Page</text>
+  <text x="340" y="146" fill="#8A8577" font-size="11" text-anchor="middle">1m 20s (3rd)</text>
+  <text x="500" y="146" fill="#4A5942" font-size="11" font-weight="700" text-anchor="middle">55s (Winner)</text>
+  <text x="660" y="146" fill="#8A8577" font-size="11" text-anchor="middle">1m 10s (2nd)</text>
+
+  <rect x="20" y="162" width="760" height="40" fill="#EEEAE2"/>
+  <text x="150" y="186" fill="#3A3228" font-size="11" text-anchor="middle">Todo + Auth</text>
+  <text x="340" y="186" fill="#4A5942" font-size="11" font-weight="700" text-anchor="middle">2m 15s (Winner)</text>
+  <text x="500" y="186" fill="#8A8577" font-size="11" text-anchor="middle">4m 10s (3rd)</text>
+  <text x="660" y="186" fill="#8A8577" font-size="11" text-anchor="middle">3m 40s (2nd)</text>
+
+  <rect x="20" y="202" width="760" height="40" fill="#F4F1EA"/>
+  <text x="150" y="226" fill="#3A3228" font-size="11" text-anchor="middle">Restaurant CRUD</text>
+  <text x="340" y="226" fill="#4A5942" font-size="11" font-weight="700" text-anchor="middle">1m 45s (Winner)</text>
+  <text x="500" y="226" fill="#8A8577" font-size="11" text-anchor="middle">3m 30s (3rd)</text>
+  <text x="660" y="226" fill="#8A8577" font-size="11" text-anchor="middle">2m 50s (2nd)</text>
+
+  <rect x="20" y="242" width="760" height="40" fill="#EEEAE2"/>
+  <text x="150" y="266" fill="#3A3228" font-size="11" text-anchor="middle">Multi-Step Form</text>
+  <text x="340" y="266" fill="#8A8577" font-size="11" text-anchor="middle">5m 20s (2nd)</text>
+  <text x="500" y="266" fill="#8A8577" font-size="11" text-anchor="middle">6m 40s (3rd)</text>
+  <text x="660" y="266" fill="#4A5942" font-size="11" font-weight="700" text-anchor="middle">4m 30s (Winner)</text>
+
+  <rect x="20" y="286" width="760" height="28" rx="6" fill="#DDD8CE"/>
+  <text x="150" y="304" fill="#3A3228" font-size="11" font-weight="600" text-anchor="middle">Wins</text>
+  <text x="340" y="304" fill="#96845A" font-size="12" font-weight="700" text-anchor="middle">2 wins</text>
+  <text x="500" y="304" fill="#6B7C5E" font-size="12" font-weight="700" text-anchor="middle">2 wins</text>
+  <text x="660" y="304" fill="#4A5942" font-size="12" font-weight="700" text-anchor="middle">1 win</text>
+
+  <text x="400" y="332" fill="#8A8577" font-size="10" text-anchor="middle">Test Results - rawpickai.com</text>
+</svg>

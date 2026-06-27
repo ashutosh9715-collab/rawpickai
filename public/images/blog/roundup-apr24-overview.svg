@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" role="img" aria-labelledby="title1">
+  <title id="title1">April 24 2026 AI Tool News Week Overview</title>
+  <rect width="800" height="420" fill="#F4F1EA"/>
+
+  <!-- Header band -->
+  <rect x="0" y="0" width="800" height="64" fill="#4A5942"/>
+  <text x="40" y="42" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#F4F1EA">Week of April 21–24, 2026</text>
+  <text x="760" y="42" font-family="Georgia, serif" font-size="14" fill="#D4D0C0" text-anchor="end">RawPickAI weekly roundup</text>
+
+  <!-- Main headline -->
+  <text x="40" y="110" font-family="Georgia, serif" font-size="28" font-weight="700" fill="#1A2416">Four AI launches. Zero hype.</text>
+  <text x="40" y="138" font-family="Georgia, serif" font-size="16" fill="#4A453E">Tools getting smarter at workflow integration  -  not model capability.</text>
+
+  <!-- Four cards -->
+  <g transform="translate(40, 170)">
+    <!-- Card 1 -->
+    <rect x="0" y="0" width="170" height="210" rx="10" fill="#FFFFFF" stroke="#D4D0C0" stroke-width="1"/>
+    <rect x="0" y="0" width="170" height="6" rx="3" fill="#4A5942"/>
+    <text x="14" y="32" font-family="Georgia, serif" font-size="11" font-weight="700" fill="#96845A">APR 21 · OPENAI</text>
+    <text x="14" y="58" font-family="Georgia, serif" font-size="16" font-weight="700" fill="#1A2416">ChatGPT</text>
+    <text x="14" y="78" font-family="Georgia, serif" font-size="16" font-weight="700" fill="#1A2416">Images 2.0</text>
+    <line x1="14" y1="92" x2="50" y2="92" stroke="#4A5942" stroke-width="2"/>
+    <text x="14" y="116" font-family="Georgia, serif" font-size="12" fill="#4A453E">Multilingual text</text>
+    <text x="14" y="132" font-family="Georgia, serif" font-size="12" fill="#4A453E">rendering finally</text>
+    <text x="14" y="148" font-family="Georgia, serif" font-size="12" fill="#4A453E">works. Hindi,</text>
+    <text x="14" y="164" font-family="Georgia, serif" font-size="12" fill="#4A453E">Bengali, Japanese,</text>
+    <text x="14" y="180" font-family="Georgia, serif" font-size="12" fill="#4A453E">Korean, Chinese.</text>
+    <text x="14" y="198" font-family="Georgia, serif" font-size="10" font-weight="700" fill="#6B7C5E">GA · $20/mo</text>
+
+    <!-- Card 2 -->
+    <g transform="translate(180, 0)">
+      <rect x="0" y="0" width="170" height="210" rx="10" fill="#FFFFFF" stroke="#D4D0C0" stroke-width="1"/>
+      <rect x="0" y="0" width="170" height="6" rx="3" fill="#6B7C5E"/>
+      <text x="14" y="32" font-family="Georgia, serif" font-size="11" font-weight="700" fill="#96845A">APR · ANTHROPIC</text>
+      <text x="14" y="58" font-family="Georgia, serif" font-size="16" font-weight="700" fill="#1A2416">Claude Live</text>
+      <text x="14" y="78" font-family="Georgia, serif" font-size="16" font-weight="700" fill="#1A2416">Artifacts</text>
+      <line x1="14" y1="92" x2="50" y2="92" stroke="#4A5942" stroke-width="2"/>
+      <text x="14" y="116" font-family="Georgia, serif" font-size="12" fill="#4A453E">Dashboards that</text>
+      <text x="14" y="132" font-family="Georgia, serif" font-size="12" fill="#4A453E">auto-update from</text>
+      <text x="14" y="148" font-family="Georgia, serif" font-size="12" fill="#4A453E">your real data.</text>
+      <text x="14" y="164" font-family="Georgia, serif" font-size="12" fill="#4A453E">Version history</text>
+      <text x="14" y="180" font-family="Georgia, serif" font-size="12" fill="#4A453E">built in.</text>
+      <text x="14" y="198" font-family="Georgia, serif" font-size="10" font-weight="700" fill="#6B7C5E">Beta · Cowork only</text>
+    </g>
+
+    <!-- Card 3 -->
+    <g transform="translate(360, 0)">
+      <rect x="0" y="0" width="170" height="210" rx="10" fill="#FFFFFF" stroke="#D4D0C0" stroke-width="1"/>
+      <rect x="0" y="0" width="170" height="6" rx="3" fill="#96845A"/>
+      <text x="14" y="32" font-family="Georgia, serif" font-size="11" font-weight="700" fill="#96845A">APR · CANVA</text>
+      <text x="14" y="58" font-family="Georgia, serif" font-size="16" font-weight="700" fill="#1A2416">Canva × Claude</text>
+      <text x="14" y="78" font-family="Georgia, serif" font-size="16" font-weight="700" fill="#1A2416">Design</text>
+      <line x1="14" y1="92" x2="50" y2="92" stroke="#4A5942" stroke-width="2"/>
+      <text x="14" y="116" font-family="Georgia, serif" font-size="12" fill="#4A453E">Round-trip AI</text>
+      <text x="14" y="132" font-family="Georgia, serif" font-size="12" fill="#4A453E">drafts into editable</text>
+      <text x="14" y="148" font-family="Georgia, serif" font-size="12" fill="#4A453E">Canva designs.</text>
+      <text x="14" y="164" font-family="Georgia, serif" font-size="12" fill="#4A453E">HTML import</text>
+      <text x="14" y="180" font-family="Georgia, serif" font-size="12" fill="#4A453E">supported.</text>
+      <text x="14" y="198" font-family="Georgia, serif" font-size="10" font-weight="700" fill="#6B7C5E">Rolling · Pro+</text>
+    </g>
+
+    <!-- Card 4 -->
+    <g transform="translate(540, 0)">
+      <rect x="0" y="0" width="170" height="210" rx="10" fill="#FFFFFF" stroke="#D4D0C0" stroke-width="1"/>
+      <rect x="0" y="0" width="170" height="6" rx="3" fill="#2D3A28"/>
+      <text x="14" y="32" font-family="Georgia, serif" font-size="11" font-weight="700" fill="#96845A">APR · PERPLEXITY</text>
+      <text x="14" y="58" font-family="Georgia, serif" font-size="16" font-weight="700" fill="#1A2416">Personal</text>
+      <text x="14" y="78" font-family="Georgia, serif" font-size="16" font-weight="700" fill="#1A2416">Computer</text>
+      <line x1="14" y1="92" x2="50" y2="92" stroke="#4A5942" stroke-width="2"/>
+      <text x="14" y="116" font-family="Georgia, serif" font-size="12" fill="#4A453E">On-device Mac</text>
+      <text x="14" y="132" font-family="Georgia, serif" font-size="12" fill="#4A453E">agent. Works across</text>
+      <text x="14" y="148" font-family="Georgia, serif" font-size="12" fill="#4A453E">local files, apps,</text>
+      <text x="14" y="164" font-family="Georgia, serif" font-size="12" fill="#4A453E">and web in one</text>
+      <text x="14" y="180" font-family="Georgia, serif" font-size="12" fill="#4A453E">session.</text>
+      <text x="14" y="198" font-family="Georgia, serif" font-size="10" font-weight="700" fill="#6B7C5E">Beta · $200/mo</text>
+    </g>
+  </g>
+</svg>

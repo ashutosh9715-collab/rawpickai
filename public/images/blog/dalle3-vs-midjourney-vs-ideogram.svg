@@ -1,0 +1,139 @@
+<svg viewBox="0 0 1000 600" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #F4F1EA; }
+    .header { fill: #4A5942; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 18px; font-weight: 700; }
+    .row-header { fill: #3A3228; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 13px; font-weight: 600; }
+    .cell { fill: #3A3228; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 12px; }
+    .grid-line { stroke: #DDD8CE; stroke-width: 1; }
+    .highlight { fill: #6B7C5E; }
+    .secondary { fill: #96845A; }
+  </style>
+
+  <rect width="1000" height="600" class="bg" rx="12"/>
+
+  <!-- Title -->
+  <text x="40" y="35" class="header">DALL-E 3 vs Midjourney vs Ideogram</text>
+
+  <!-- Header Row -->
+  <rect x="40" y="50" width="240" height="50" class="highlight"/>
+  <rect x="280" y="50" width="240" height="50" class="secondary"/>
+  <rect x="520" y="50" width="240" height="50" class="highlight"/>
+  <rect x="760" y="50" width="200" height="50" class="secondary"/>
+
+  <text x="60" y="85" class="header" fill="#F4F1EA">Feature</text>
+  <text x="300" y="85" class="header" fill="#F4F1EA">DALL-E 3</text>
+  <text x="540" y="85" class="header" fill="#F4F1EA">Midjourney</text>
+  <text x="780" y="85" class="header" fill="#F4F1EA">Ideogram</text>
+
+  <!-- Text Rendering -->
+  <line x1="40" y1="100" x2="960" y2="100" class="grid-line"/>
+  <rect x="40" y="100" width="240" height="50" fill="#F4F1EA"/>
+  <rect x="280" y="100" width="240" height="50" fill="#FFFFFF"/>
+  <rect x="520" y="100" width="240" height="50" fill="#F4F1EA"/>
+  <rect x="760" y="100" width="200" height="50" fill="#FFFFFF"/>
+
+  <text x="60" y="133" class="row-header">Text Rendering</text>
+  <text x="300" y="133" class="cell">Excellent</text>
+  <text x="540" y="133" class="cell">Poor/Gibberish</text>
+  <text x="780" y="133" class="cell">Very Good</text>
+
+  <!-- Ease of Use -->
+  <line x1="40" y1="150" x2="960" y2="150" class="grid-line"/>
+  <rect x="40" y="150" width="240" height="50" fill="#F4F1EA"/>
+  <rect x="280" y="150" width="240" height="50" fill="#FFFFFF"/>
+  <rect x="520" y="150" width="240" height="50" fill="#F4F1EA"/>
+  <rect x="760" y="150" width="200" height="50" fill="#FFFFFF"/>
+
+  <text x="60" y="183" class="row-header">Ease of Use</text>
+  <text x="300" y="183" class="cell">Built into ChatGPT</text>
+  <text x="540" y="183" class="cell">Discord-based</text>
+  <text x="780" y="183" class="cell">Web interface</text>
+
+  <!-- Output Quality -->
+  <line x1="40" y1="200" x2="960" y2="200" class="grid-line"/>
+  <rect x="40" y="200" width="240" height="50" fill="#F4F1EA"/>
+  <rect x="280" y="200" width="240" height="50" fill="#FFFFFF"/>
+  <rect x="520" y="200" width="240" height="50" fill="#F4F1EA"/>
+  <rect x="760" y="200" width="200" height="50" fill="#FFFFFF"/>
+
+  <text x="60" y="233" class="row-header">Output Quality</text>
+  <text x="300" y="233" class="cell">Good (70/100)</text>
+  <text x="540" y="233" class="cell">Excellent (90+)</text>
+  <text x="780" y="233" class="cell">Very Good (85)</text>
+
+  <!-- Starting Price -->
+  <line x1="40" y1="250" x2="960" y2="250" class="grid-line"/>
+  <rect x="40" y="250" width="240" height="50" fill="#F4F1EA"/>
+  <rect x="280" y="250" width="240" height="50" fill="#FFFFFF"/>
+  <rect x="520" y="250" width="240" height="50" fill="#F4F1EA"/>
+  <rect x="760" y="250" width="200" height="50" fill="#FFFFFF"/>
+
+  <text x="60" y="283" class="row-header">Starting Price</text>
+  <text x="300" y="283" class="cell">$0 (free) or $20/mo</text>
+  <text x="540" y="283" class="cell">$5/mo (≈₹465)</text>
+  <text x="780" y="283" class="cell">Free tier available</text>
+
+  <!-- Free Tier -->
+  <line x1="40" y1="300" x2="960" y2="300" class="grid-line"/>
+  <rect x="40" y="300" width="240" height="50" fill="#F4F1EA"/>
+  <rect x="280" y="300" width="240" height="50" fill="#FFFFFF"/>
+  <rect x="520" y="300" width="240" height="50" fill="#F4F1EA"/>
+  <rect x="760" y="300" width="200" height="50" fill="#FFFFFF"/>
+
+  <text x="60" y="333" class="row-header">Free Tier</text>
+  <text x="300" y="333" class="cell">50 images/month</text>
+  <text x="540" y="333" class="cell">25 images trial</text>
+  <text x="780" y="333" class="cell">100 images/month</text>
+
+  <!-- Best For -->
+  <line x1="40" y1="350" x2="960" y2="350" class="grid-line"/>
+  <rect x="40" y="350" width="240" height="80" fill="#F4F1EA"/>
+  <rect x="280" y="350" width="240" height="80" fill="#FFFFFF"/>
+  <rect x="520" y="350" width="240" height="80" fill="#F4F1EA"/>
+  <rect x="760" y="350" width="200" height="80" fill="#FFFFFF"/>
+
+  <text x="60" y="373" class="row-header">Best For</text>
+  <text x="300" y="373" class="cell">Text-heavy graphics</text>
+  <text x="300" y="390" class="cell">Casual users</text>
+  <text x="300" y="407" class="cell">ChatGPT integration</text>
+
+  <text x="540" y="373" class="cell">Portfolio-quality art</text>
+  <text x="540" y="390" class="cell">High stylization</text>
+  <text x="540" y="407" class="cell">Professional use</text>
+
+  <text x="780" y="373" class="cell">Text + aesthetics</text>
+  <text x="780" y="390" class="cell">Mid-range budgets</text>
+  <text x="780" y="407" class="cell">Fast iteration</text>
+
+  <!-- Feature Depth -->
+  <line x1="40" y1="430" x2="960" y2="430" class="grid-line"/>
+  <rect x="40" y="430" width="240" height="50" fill="#F4F1EA"/>
+  <rect x="280" y="430" width="240" height="50" fill="#FFFFFF"/>
+  <rect x="520" y="430" width="240" height="50" fill="#F4F1EA"/>
+  <rect x="760" y="430" width="200" height="50" fill="#FFFFFF"/>
+
+  <text x="60" y="463" class="row-header">Advanced Features</text>
+  <text x="300" y="463" class="cell">Basic (inpaint, vary)</text>
+  <text x="540" y="463" class="cell">Deep (blend, remix)</text>
+  <text x="780" y="463" class="cell">Good (magic studio)</text>
+
+  <!-- Recommendation -->
+  <line x1="40" y1="480" x2="960" y2="480" class="grid-line"/>
+  <rect x="40" y="480" width="240" height="70" fill="#F4F1EA"/>
+  <rect x="280" y="480" width="240" height="70" fill="#FFFFFF"/>
+  <rect x="520" y="480" width="240" height="70" fill="#F4F1EA"/>
+  <rect x="760" y="480" width="200" height="70" fill="#FFFFFF"/>
+
+  <text x="60" y="503" class="row-header">Verdict</text>
+  <text x="300" y="503" class="cell">Choose if you need</text>
+  <text x="300" y="520" class="cell">readable text in images</text>
+  <text x="300" y="537" class="cell">and ChatGPT integration</text>
+
+  <text x="540" y="503" class="cell">Choose for artistic</text>
+  <text x="540" y="520" class="cell">quality and portfolio</text>
+  <text x="540" y="537" class="cell">work. Premium choice.</text>
+
+  <text x="780" y="503" class="cell">Choose for balanced</text>
+  <text x="780" y="520" class="cell">text + quality at lower</text>
+  <text x="780" y="537" class="cell">price than Midjourney.</text>
+</svg>

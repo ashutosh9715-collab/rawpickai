@@ -1,0 +1,79 @@
+<svg viewBox="0 0 1000 550" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1000" height="550" fill="#F4F1EA"/>
+
+  <!-- Title -->
+  <text x="40" y="45" font-size="28" font-weight="bold" fill="#4A5942" font-family="system-ui">
+    Copy.ai vs Jasper vs Rytr Comparison
+  </text>
+
+  <!-- Comparison Grid -->
+  <!-- Headers -->
+  <text x="40" y="100" font-size="14" font-weight="600" fill="#3A3228" font-family="system-ui">Metric</text>
+  <text x="240" y="100" font-size="14" font-weight="600" fill="#3A3228" font-family="system-ui">Copy.ai</text>
+  <text x="440" y="100" font-size="14" font-weight="600" fill="#3A3228" font-family="system-ui">Jasper</text>
+  <text x="620" y="100" font-size="14" font-weight="600" fill="#3A3228" font-family="system-ui">Rytr</text>
+
+  <!-- Divider -->
+  <line x1="40" y1="115" x2="920" y2="115" stroke="#DDD8CE" stroke-width="2"/>
+
+  <!-- Price Row -->
+  <text x="40" y="155" font-size="13" font-weight="500" fill="#3A3228" font-family="system-ui">Price/Month</text>
+  <text x="240" y="155" font-size="13" fill="#6B7C5E" font-family="system-ui" font-weight="bold">$49</text>
+  <text x="440" y="155" font-size="13" fill="#6B7C5E" font-family="system-ui" font-weight="bold">$49</text>
+  <text x="620" y="155" font-size="13" fill="#6B7C5E" font-family="system-ui" font-weight="bold">$8</text>
+
+  <!-- Output Quality -->
+  <text x="40" y="195" font-size="13" font-weight="500" fill="#3A3228" font-family="system-ui">Output Quality</text>
+  <text x="240" y="195" font-size="13" fill="#3A3228" font-family="system-ui">6.5/10</text>
+  <text x="440" y="195" font-size="13" fill="#3A3228" font-family="system-ui">7/10</text>
+  <text x="620" y="195" font-size="13" fill="#3A3228" font-family="system-ui">6/10</text>
+
+  <!-- Brand Voice -->
+  <text x="40" y="235" font-size="13" font-weight="500" fill="#3A3228" font-family="system-ui">Brand Voice</text>
+  <text x="240" y="235" font-size="13" fill="#3A3228" font-family="system-ui">Good</text>
+  <text x="440" y="235" font-size="13" fill="#6B7C5E" font-family="system-ui" font-weight="bold">Excellent</text>
+  <text x="620" y="235" font-size="13" fill="#3A3228" font-family="system-ui">Basic</text>
+
+  <!-- Integrations -->
+  <text x="40" y="275" font-size="13" font-weight="500" fill="#3A3228" font-family="system-ui">Integrations</text>
+  <text x="240" y="275" font-size="13" fill="#6B7C5E" font-family="system-ui" font-weight="bold">Slack/HubSpot</text>
+  <text x="440" y="275" font-size="13" fill="#8A8577" font-family="system-ui">Limited</text>
+  <text x="620" y="275" font-size="13" fill="#8A8577" font-family="system-ui">None</text>
+
+  <!-- Team Features -->
+  <text x="40" y="315" font-size="13" font-weight="500" fill="#3A3228" font-family="system-ui">Team Collaboration</text>
+  <text x="240" y="315" font-size="13" fill="#6B7C5E" font-family="system-ui" font-weight="bold">Advanced</text>
+  <text x="440" y="315" font-size="13" fill="#3A3228" font-family="system-ui">Good</text>
+  <text x="620" y="315" font-size="13" fill="#3A3228" font-family="system-ui">Basic</text>
+
+  <!-- Templates -->
+  <text x="40" y="355" font-size="13" font-weight="500" fill="#3A3228" font-family="system-ui">Templates</text>
+  <text x="240" y="355" font-size="13" fill="#3A3228" font-family="system-ui">50+</text>
+  <text x="440" y="355" font-size="13" fill="#3A3228" font-family="system-ui">40+</text>
+  <text x="620" y="355" font-size="13" fill="#3A3228" font-family="system-ui">40+</text>
+
+  <!-- Best For Individuals -->
+  <text x="40" y="395" font-size="13" font-weight="500" fill="#3A3228" font-family="system-ui">Best for Individuals?</text>
+  <rect x="240" y="380" width="180" height="30" rx="6" fill="#DDD8CE"/>
+  <text x="255" y="400" font-size="13" fill="#8A8577" font-family="system-ui">No</text>
+  <rect x="440" y="380" width="180" height="30" rx="6" fill="#DDD8CE"/>
+  <text x="455" y="400" font-size="13" fill="#8A8577" font-family="system-ui">No</text>
+  <rect x="620" y="380" width="180" height="30" rx="6" fill="#DDD8CE"/>
+  <text x="635" y="400" font-size="13" fill="#8A8577" font-family="system-ui">Maybe</text>
+
+  <!-- Best For Agencies -->
+  <text x="40" y="445" font-size="13" font-weight="500" fill="#3A3228" font-family="system-ui">Best for Agencies?</text>
+  <rect x="240" y="430" width="180" height="30" rx="6" fill="#6B7C5E" opacity="0.2"/>
+  <text x="255" y="450" font-size="13" fill="#3A3228" font-family="system-ui">Yes</text>
+  <rect x="440" y="430" width="180" height="30" rx="6" fill="#6B7C5E" opacity="0.2"/>
+  <text x="455" y="450" font-size="13" fill="#3A3228" font-family="system-ui">Yes</text>
+  <rect x="620" y="430" width="180" height="30" rx="6" fill="#DDD8CE"/>
+  <text x="635" y="450" font-size="13" fill="#8A8577" font-family="system-ui">No</text>
+
+  <!-- Summary -->
+  <rect x="40" y="485" width="880" height="50" rx="8" fill="#96845A" opacity="0.1" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="60" y="510" font-size="12" fill="#3A3228" font-family="system-ui" font-weight="600">
+    Verdict: Copy.ai best for agencies (integrations), Jasper for brand voice, Rytr for budget. Individuals: use ChatGPT/Claude instead.
+  </text>
+</svg>

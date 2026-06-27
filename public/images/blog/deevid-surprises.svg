@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 150" width="1200" height="200">
+  <rect width="900" height="150" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#6B7C5E" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">Where I Was Wrong Before Testing</text>
+  <rect x="40" y="55" width="260" height="75" rx="8" fill="white" stroke="#c0392b" stroke-width="1.5"/>
+  <text x="170" y="78" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#c0392b">Wrong assumption</text>
+  <text x="170" y="100" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Text-to-video would</text>
+  <text x="170" y="116" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">be the best feature</text>
+  <rect x="340" y="55" width="260" height="75" rx="8" fill="white" stroke="#22c55e" stroke-width="1.5"/>
+  <text x="470" y="78" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#22c55e">Actual finding</text>
+  <text x="470" y="100" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Image-to-video is</text>
+  <text x="470" y="116" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#4A5942">the quality ceiling</text>
+  <rect x="640" y="55" width="220" height="75" rx="8" fill="white" stroke="#96845A" stroke-width="1.5"/>
+  <text x="750" y="78" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#96845A">Credit reality</text>
+  <text x="750" y="100" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">200 credits = 10</text>
+  <text x="750" y="116" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#c0392b">quality videos only</text>
+  <text x="450" y="143" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Testing revealed a different quality hierarchy than the interface suggests.</text>
+</svg>

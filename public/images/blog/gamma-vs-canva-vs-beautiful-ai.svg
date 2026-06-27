@@ -1,0 +1,69 @@
+<svg viewBox="0 0 900 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { color-scheme: light; }
+      .bg { fill: #F4F1EA; }
+      .heading { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 24px; font-weight: 700; fill: #4A5942; }
+      .col-header { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; font-weight: 600; fill: #4A5942; }
+      .row-label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; font-weight: 500; fill: #3A3228; }
+      .cell-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 11px; fill: #3A3228; }
+      .grid { stroke: #DDD8CE; stroke-width: 1; }
+      .gamma { fill: #6B7C5E; opacity: 0.1; }
+      .canva { fill: #96845A; opacity: 0.1; }
+      .beautiful { fill: #6B7C5E; opacity: 0.08; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="900" height="500" rx="12"/>
+
+  <text class="heading" x="40" y="45">Gamma vs Canva vs Beautiful.ai</text>
+
+  <!-- Table Header -->
+  <rect class="gamma" x="40" y="65" width="280" height="40" rx="4"/>
+  <text class="col-header" x="60" y="95">Gamma</text>
+
+  <rect class="canva" x="340" y="65" width="280" height="40" rx="4"/>
+  <text class="col-header" x="360" y="95">Canva Pro</text>
+
+  <rect class="beautiful" x="640" y="65" width="220" height="40" rx="4"/>
+  <text class="col-header" x="660" y="95">Beautiful.ai</text>
+
+  <!-- Price Row -->
+  <text class="row-label" x="40" y="135">Price/mo</text>
+  <text class="cell-text" x="60" y="155">$10 (≈₹930)-1,860</text>
+  <text class="cell-text" x="360" y="155">$5</text>
+  <text class="cell-text" x="660" y="155">$12 (≈₹1,116)+</text>
+
+  <!-- Design Quality Row -->
+  <text class="row-label" x="40" y="200">Design Quality</text>
+  <text class="cell-text" x="60" y="220">8.5/10</text>
+  <text class="cell-text" x="360" y="220">7/10</text>
+  <text class="cell-text" x="660" y="220">8/10</text>
+
+  <!-- Generation Speed Row -->
+  <text class="row-label" x="40" y="265">Generation Speed</text>
+  <text class="cell-text" x="60" y="285">90-120 sec</text>
+  <text class="cell-text" x="360" y="285">Manual design</text>
+  <text class="cell-text" x="660" y="285">Template-based</text>
+
+  <!-- Customization Row -->
+  <text class="row-label" x="40" y="330">Customization</text>
+  <text class="cell-text" x="60" y="350">Good (moderate)</text>
+  <text class="cell-text" x="360" y="350">Excellent</text>
+  <text class="cell-text" x="660" y="350">Limited</text>
+
+  <!-- Best For Row -->
+  <text class="row-label" x="40" y="395">Best For</text>
+  <text class="cell-text" x="60" y="415">Async sharing,</text>
+  <text class="cell-text" x="60" y="430">fast generation</text>
+
+  <text class="cell-text" x="360" y="415">Creative work,</text>
+  <text class="cell-text" x="360" y="430">budget conscious</text>
+
+  <text class="cell-text" x="660" y="415">Corporate</text>
+  <text class="cell-text" x="660" y="430">consistency</text>
+
+  <!-- Verdict Bottom -->
+  <line x1="40" y1="475" x2="860" y2="475" stroke="#DDD8CE" stroke-width="1"/>
+  <text class="cell-text" x="40" y="495" style="font-style: italic;">Gamma: Best design quality. Canva: Best price. Beautiful.ai: Best brand control.</text>
+</svg>

@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+  <rect width="800" height="380" rx="12" fill="#F4F1EA"/>
+
+  <!-- Header -->
+  <text x="400" y="36" fill="#4A5942" font-size="17" font-weight="700" text-anchor="middle">When Vibe Coding Works (And When It Doesn't)</text>
+  <text x="400" y="56" fill="#8A8577" font-size="12" text-anchor="middle">The practical decision framework</text>
+
+  <!-- LEFT COLUMN: Use it for -->
+  <rect x="30" y="90" width="360" height="260" rx="10" fill="#FFFFFF" stroke="#DDD8CE" stroke-width="1"/>
+  <rect x="30" y="90" width="360" height="44" rx="10" fill="#4A5942"/>
+  <rect x="30" y="124" width="360" height="10" fill="#4A5942"/>
+
+  <!-- Check icon -->
+  <circle cx="60" cy="112" r="12" fill="#F4F1EA"/>
+  <path d="M 53 112 L 58 117 L 67 108" stroke="#4A5942" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text x="82" y="117" fill="#F4F1EA" font-size="15" font-weight="700">Use vibe coding for</text>
+
+  <!-- List items - left -->
+  <circle cx="54" cy="162" r="3" fill="#4A5942"/>
+  <text x="68" y="166" fill="#3A3228" font-size="12">Validating UI/UX concepts before engineering</text>
+
+  <circle cx="54" cy="192" r="3" fill="#4A5942"/>
+  <text x="68" y="196" fill="#3A3228" font-size="12">Internal throwaway tools (scrapers, dashboards)</text>
+
+  <circle cx="54" cy="222" r="3" fill="#4A5942"/>
+  <text x="68" y="226" fill="#3A3228" font-size="12">Investor demos and design prototypes</text>
+
+  <circle cx="54" cy="252" r="3" fill="#4A5942"/>
+  <text x="68" y="256" fill="#3A3228" font-size="12">Learning frameworks by seeing them in action</text>
+
+  <circle cx="54" cy="282" r="3" fill="#4A5942"/>
+  <text x="68" y="286" fill="#3A3228" font-size="12">Features you plan to rewrite later</text>
+
+  <circle cx="54" cy="312" r="3" fill="#4A5942"/>
+  <text x="68" y="316" fill="#3A3228" font-size="12">Side projects and personal tools</text>
+
+  <!-- RIGHT COLUMN: Avoid -->
+  <rect x="410" y="90" width="360" height="260" rx="10" fill="#FFFFFF" stroke="#DDD8CE" stroke-width="1"/>
+  <rect x="410" y="90" width="360" height="44" rx="10" fill="#96845A"/>
+  <rect x="410" y="124" width="360" height="10" fill="#96845A"/>
+
+  <!-- X icon -->
+  <circle cx="440" cy="112" r="12" fill="#F4F1EA"/>
+  <path d="M 434 106 L 446 118 M 446 106 L 434 118" stroke="#96845A" stroke-width="2.5" stroke-linecap="round"/>
+
+  <text x="462" y="117" fill="#F4F1EA" font-size="15" font-weight="700">Never for</text>
+
+  <!-- List items - right -->
+  <circle cx="434" cy="162" r="3" fill="#96845A"/>
+  <text x="448" y="166" fill="#3A3228" font-size="12">Anything handling PII or user data</text>
+
+  <circle cx="434" cy="192" r="3" fill="#96845A"/>
+  <text x="448" y="196" fill="#3A3228" font-size="12">Financial transactions or payments</text>
+
+  <circle cx="434" cy="222" r="3" fill="#96845A"/>
+  <text x="448" y="226" fill="#3A3228" font-size="12">Authentication without human review</text>
+
+  <circle cx="434" cy="252" r="3" fill="#96845A"/>
+  <text x="448" y="256" fill="#3A3228" font-size="12">Healthcare, legal, regulated industries</text>
+
+  <circle cx="434" cy="282" r="3" fill="#96845A"/>
+  <text x="448" y="286" fill="#3A3228" font-size="12">Production code without senior audit</text>
+
+  <circle cx="434" cy="312" r="3" fill="#96845A"/>
+  <text x="448" y="316" fill="#3A3228" font-size="12">Core business logic or competitive moats</text>
+
+  <!-- Footer -->
+  <text x="400" y="368" fill="#8A8577" font-size="11" text-anchor="middle">rawpickai.com · If a breach would embarrass you, don't vibe code it</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200">
+  <rect width="900" height="200" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#6B7C5E" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">AI vs Human Creativity: What 100,000 People Showed</text>
+  <rect x="60" y="55" width="250" height="120" rx="10" fill="white" stroke="#c0392b" stroke-width="1.5"/>
+  <text x="185" y="82" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#c0392b">Average human</text>
+  <text x="185" y="110" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">AI now beats this level</text>
+  <text x="185" y="133" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">GPT-4, Gemini Pro, Llama 4</text>
+  <text x="185" y="153" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">all outperform average</text>
+  <text x="185" y="168" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">on Divergent Association Task</text>
+  <rect x="340" y="55" width="250" height="120" rx="10" fill="white" stroke="#96845A" stroke-width="1.5"/>
+  <text x="465" y="82" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#96845A">Top 50% of humans</text>
+  <text x="465" y="110" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Still beats all AI models</text>
+  <text x="465" y="133" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">The gap widens at top 25%</text>
+  <text x="465" y="153" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">and top 10%</text>
+  <rect x="620" y="55" width="250" height="120" rx="10" fill="white" stroke="#4A5942" stroke-width="2"/>
+  <text x="745" y="82" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#4A5942">The catch</text>
+  <text x="745" y="110" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">AI repeats "safe" ideas</text>
+  <text x="745" y="133" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">Humans naturally vary</text>
+  <text x="745" y="153" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">Higher temperature setting</text>
+  <text x="745" y="168" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">partially fixes this</text>
+  <text x="450" y="192" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Source: Université de Montréal, Scientific Reports, Jan 21 2026. 100K participants, 9 AI models. Led by Prof. Karim Jerbi + Yoshua Bengio.</text>
+</svg>

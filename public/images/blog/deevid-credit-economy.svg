@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="1200" height="266">
+  <rect width="900" height="200" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#c0392b" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">Lite Plan ($10/mo): How Credits Actually Break Down</text>
+  <rect x="40" y="55" width="820" height="28" rx="6" fill="#4A5942"/>
+  <text x="200" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">Model</text>
+  <text x="390" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">Credits/Video</text>
+  <text x="570" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">Videos from 200 credits</text>
+  <text x="750" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">Videos/day (30 days)</text>
+  <rect x="40" y="87" width="820" height="28" fill="white" rx="3"/>
+  <text x="200" y="106" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Fast V2.0</text>
+  <text x="390" y="106" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#22c55e">5 credits</text>
+  <text x="570" y="106" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#22c55e">40 videos</text>
+  <text x="750" y="106" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#22c55e">1.3/day</text>
+  <rect x="40" y="119" width="820" height="28" fill="#F9F7F2" rx="3"/>
+  <text x="200" y="138" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Sora2</text>
+  <text x="390" y="138" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#96845A">10 credits</text>
+  <text x="570" y="138" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#96845A">20 videos</text>
+  <text x="750" y="138" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#96845A">0.7/day</text>
+  <rect x="40" y="151" width="820" height="28" fill="white" rx="3"/>
+  <text x="200" y="170" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Master V2.0</text>
+  <text x="390" y="170" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#c0392b">20 credits</text>
+  <text x="570" y="170" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#c0392b">10 videos</text>
+  <text x="750" y="170" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#c0392b">0.3/day</text>
+  <text x="450" y="195" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Daily posting needs Pro ($25/mo, 600 credits). Lite is suitable for occasional creators only.</text>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" rx="12" fill="#F4F1EA"/>
+  <text x="400" y="45" text-anchor="middle" font-family="system-ui, sans-serif" font-size="22" font-weight="700" fill="#4A5942">Free Alternatives After Cancelling ChatGPT</text>
+  <line x1="60" y1="65" x2="740" y2="65" stroke="#DDD8CE" stroke-width="1.5"/>
+
+  <!-- Claude Free Card -->
+  <rect x="40" y="90" width="220" height="270" rx="12" fill="#F4F1EA" stroke="#DDD8CE" stroke-width="2"/>
+  <text x="150" y="125" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="700" fill="#4A5942">Claude Free</text>
+  <line x1="65" y1="140" x2="235" y2="140" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="150" y="168" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#3A3228">Sonnet 4.6 model</text>
+  <text x="150" y="200" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#3A3228">Great for writing</text>
+  <text x="150" y="225" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#3A3228">and coding</text>
+  <text x="150" y="260" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#3A3228">Limited daily</text>
+  <text x="150" y="285" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#3A3228">messages</text>
+  <rect x="90" y="310" width="120" height="30" rx="8" fill="#6B7C5E"/>
+  <text x="150" y="330" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" font-weight="600" fill="#F4F1EA">claude.ai</text>
+
+  <!-- Gemini Free Card -->
+  <rect x="290" y="90" width="220" height="270" rx="12" fill="#F4F1EA" stroke="#DDD8CE" stroke-width="2"/>
+  <text x="400" y="125" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="700" fill="#4A5942">Gemini Free</text>
+  <line x1="315" y1="140" x2="485" y2="140" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="400" y="168" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#3A3228">Gemini 2.5 Flash</text>
+  <text x="400" y="200" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#3A3228">Best for research</text>
+  <text x="400" y="225" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#3A3228">and search tasks</text>
+  <text x="400" y="260" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#3A3228">Unlimited</text>
+  <text x="400" y="285" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#3A3228">messages</text>
+  <rect x="340" y="310" width="120" height="30" rx="8" fill="#6B7C5E"/>
+  <text x="400" y="330" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" font-weight="600" fill="#F4F1EA">gemini.google.com</text>
+
+  <!-- Perplexity Free Card -->
+  <rect x="540" y="90" width="220" height="270" rx="12" fill="#F4F1EA" stroke="#DDD8CE" stroke-width="2"/>
+  <text x="650" y="125" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="700" fill="#4A5942">Perplexity Free</text>
+  <line x1="565" y1="140" x2="735" y2="140" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="650" y="168" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#3A3228">Best for search</text>
+  <text x="650" y="200" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#3A3228">Citations included</text>
+  <text x="650" y="225" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#3A3228">in every answer</text>
+  <text x="650" y="260" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#3A3228">5 Pro searches</text>
+  <text x="650" y="285" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#3A3228">per day</text>
+  <rect x="590" y="310" width="120" height="30" rx="8" fill="#6B7C5E"/>
+  <text x="650" y="330" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" font-weight="600" fill="#F4F1EA">perplexity.ai</text>
+
+  <text x="400" y="390" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#8A8577">All options are free to use with no credit card required</text>
+</svg>

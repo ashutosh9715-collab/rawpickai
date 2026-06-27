@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 140" width="900" height="140">
+  <rect width="900" height="140" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="4" height="140" fill="#4A5942" rx="2"/>
+  <text x="40" y="30" font-family="Georgia, serif" font-size="14" font-weight="600" fill="#4A5942">MY TAKE</text>
+  <text x="40" y="58" font-family="Georgia, serif" font-size="15" fill="#4A453E">Anthropic's $10.9B quarter is built on Claude Code doing $2.5B+ in annualized revenue alone. That's</text>
+  <text x="40" y="82" font-family="Georgia, serif" font-size="15" fill="#4A453E">a single product generating what entire AI companies did in all of 2024. The IPO race matters for tool</text>
+  <text x="40" y="106" font-family="Georgia, serif" font-size="15" fill="#4A453E">users too: public companies face quarterly pressure that can push prices up. Enjoy $20/mo while it lasts.</text>
+</svg>

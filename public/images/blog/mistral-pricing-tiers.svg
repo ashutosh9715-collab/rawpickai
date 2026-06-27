@@ -1,0 +1,62 @@
+<svg viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #F4F1EA; }
+      .card-bg { fill: #FFFFFF; stroke: #DDD8CE; stroke-width: 2; }
+      .card-highlight { fill: #F0EDE4; }
+      .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 16px; font-weight: 600; fill: #4A5942; }
+      .price { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 24px; font-weight: 700; fill: #4A5942; }
+      .subtitle { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; fill: #8A8577; }
+      .feature { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; fill: #3A3228; }
+      .page-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 22px; font-weight: 600; fill: #4A5942; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="800" height="300" rx="12" />
+  <text x="40" y="35" class="page-title">Mistral Le Chat Pricing Tiers</text>
+
+  <g id="free">
+    <rect x="40" y="60" width="160" height="220" rx="8" class="card-highlight" />
+    <rect x="40" y="60" width="160" height="220" rx="8" class="card-bg" />
+    <text x="120" y="90" text-anchor="middle" class="title">Free</text>
+    <text x="120" y="115" text-anchor="middle" class="price">$0</text>
+    <text x="120" y="135" text-anchor="middle" class="subtitle">Daily limits</text>
+    <text x="60" y="160" class="feature">✓ Full features</text>
+    <text x="60" y="180" class="feature">✓ Limited use</text>
+    <text x="60" y="200" class="feature">✓ Mistral Small</text>
+    <text x="60" y="220" class="feature">✓ Basic</text>
+  </g>
+
+  <g id="pro">
+    <rect x="230" y="60" width="160" height="220" rx="8" class="card-bg" />
+    <text x="310" y="90" text-anchor="middle" class="title">Pro</text>
+    <text x="310" y="115" text-anchor="middle" class="price">$15</text>
+    <text x="310" y="135" text-anchor="middle" class="subtitle">/month ($14.99)</text>
+    <text x="250" y="160" class="feature">✓ Unlimited</text>
+    <text x="250" y="180" class="feature">✓ Mistral Large</text>
+    <text x="250" y="200" class="feature">✓ Priority</text>
+    <text x="250" y="220" class="feature">✓ Custom models</text>
+  </g>
+
+  <g id="student">
+    <rect x="420" y="60" width="160" height="220" rx="8" class="card-bg" />
+    <text x="500" y="90" text-anchor="middle" class="title">Student</text>
+    <text x="500" y="115" text-anchor="middle" class="price">$6</text>
+    <text x="500" y="135" text-anchor="middle" class="subtitle">/month (verified)</text>
+    <text x="440" y="160" class="feature">✓ Pro features</text>
+    <text x="440" y="180" class="feature">✓ 50% discount</text>
+    <text x="440" y="200" class="feature">✓ For students</text>
+    <text x="440" y="220" class="feature">✓ Full access</text>
+  </g>
+
+  <g id="team">
+    <rect x="610" y="60" width="150" height="220" rx="8" class="card-bg" />
+    <text x="685" y="90" text-anchor="middle" class="title" style="font-size: 14px;">Team</text>
+    <text x="685" y="115" text-anchor="middle" class="price" style="font-size: 20px;">$23</text>
+    <text x="685" y="135" text-anchor="middle" class="subtitle">/month ($24.99)</text>
+    <text x="630" y="160" class="feature" style="font-size: 12px;">✓ Collaboration</text>
+    <text x="630" y="180" class="feature" style="font-size: 12px;">✓ Analytics</text>
+    <text x="630" y="200" class="feature" style="font-size: 12px;">✓ SSO</text>
+    <text x="630" y="220" class="feature" style="font-size: 12px;">✓ Team admin</text>
+  </g>
+</svg>

@@ -1,0 +1,62 @@
+<svg viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #F4F1EA; }
+      .card-bg { fill: #FFFFFF; stroke: #DDD8CE; stroke-width: 2; }
+      .card-highlight { fill: #F0EDE4; }
+      .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 16px; font-weight: 600; fill: #4A5942; }
+      .price { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 24px; font-weight: 700; fill: #4A5942; }
+      .subtitle { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; fill: #8A8577; }
+      .feature { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; fill: #3A3228; }
+      .page-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 22px; font-weight: 600; fill: #4A5942; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="900" height="300" rx="12" />
+  <text x="40" y="35" class="page-title">You.com Pricing Tiers</text>
+
+  <g id="free">
+    <rect x="40" y="60" width="180" height="220" rx="8" class="card-highlight" />
+    <rect x="40" y="60" width="180" height="220" rx="8" class="card-bg" />
+    <text x="130" y="95" text-anchor="middle" class="title">Free</text>
+    <text x="130" y="120" text-anchor="middle" class="price">$0</text>
+    <text x="130" y="140" text-anchor="middle" class="subtitle">Limited queries</text>
+    <text x="60" y="165" class="feature">✓ Basic chat</text>
+    <text x="60" y="185" class="feature">✓ One model</text>
+    <text x="60" y="205" class="feature">✓ Limited daily</text>
+    <text x="60" y="225" class="feature">✓ Search lite</text>
+  </g>
+
+  <g id="pro">
+    <rect x="260" y="60" width="180" height="220" rx="8" class="card-bg" />
+    <text x="350" y="95" text-anchor="middle" class="title">Pro</text>
+    <text x="350" y="120" text-anchor="middle" class="price">$15</text>
+    <text x="350" y="140" text-anchor="middle" class="subtitle">/month ($15)</text>
+    <text x="280" y="165" class="feature">✓ All models</text>
+    <text x="280" y="185" class="feature">✓ Unlimited</text>
+    <text x="280" y="205" class="feature">✓ Research modes</text>
+    <text x="280" y="225" class="feature">✓ Priority</text>
+  </g>
+
+  <g id="max">
+    <rect x="480" y="60" width="180" height="220" rx="8" class="card-bg" />
+    <text x="570" y="95" text-anchor="middle" class="title">Max</text>
+    <text x="570" y="120" text-anchor="middle" class="price">$175</text>
+    <text x="570" y="140" text-anchor="middle" class="subtitle">/month ($175)</text>
+    <text x="500" y="165" class="feature">✓ Everything</text>
+    <text x="500" y="185" class="feature">✓ Custom API</text>
+    <text x="500" y="205" class="feature">✓ Integrations</text>
+    <text x="500" y="225" class="feature">✓ Enterprise</text>
+  </g>
+
+  <g id="note">
+    <rect x="700" y="60" width="140" height="220" rx="8" fill="#F9F6F1" stroke="#DDD8CE" stroke-width="1" stroke-dasharray="4,4" />
+    <text x="770" y="100" text-anchor="middle" class="title" style="font-size: 14px;">Identity</text>
+    <text x="770" y="120" text-anchor="middle" class="title" style="font-size: 14px;">Crisis</text>
+    <text x="720" y="150" class="subtitle" style="font-size: 12px;">Model switching</text>
+    <text x="720" y="170" class="subtitle" style="font-size: 12px;">is clever but</text>
+    <text x="720" y="190" class="subtitle" style="font-size: 12px;">insufficient to</text>
+    <text x="720" y="210" class="subtitle" style="font-size: 12px;">overcome lack of</text>
+    <text x="720" y="230" class="subtitle" style="font-size: 12px;">clear positioning</text>
+  </g>
+</svg>

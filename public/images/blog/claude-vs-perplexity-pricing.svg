@@ -1,0 +1,75 @@
+<svg viewBox="0 0 900 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #F4F1EA; }
+      .heading { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 20px; font-weight: 600; fill: #4A5942; }
+      .subheading { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 500; fill: #4A5942; }
+      .label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; fill: #3A3228; }
+      .price { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 16px; font-weight: 600; fill: #3A3228; }
+      .muted { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 11px; fill: #8A8577; }
+      .bar-claude { fill: #96845A; }
+      .bar-perplexity { fill: #6B7C5E; }
+      .track { fill: #DDD8CE; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="900" height="400"/>
+
+  <!-- Title -->
+  <text class="heading" x="40" y="35">Pricing &amp; Free Tier Comparison</text>
+
+  <!-- FREE TIER -->
+  <text class="subheading" x="40" y="70">Free Tier (What You Get)</text>
+
+  <rect x="40" y="80" width="200" height="110" rx="8" fill="#fafafa" stroke="#e0dcd5" stroke-width="1"/>
+  <text class="label" x="60" y="100">Claude Free</text>
+  <text class="price" x="60" y="120">$0</text>
+  <text class="muted" x="60" y="145">Sonnet 4.6</text>
+  <text class="muted" x="60" y="160">30-40 msgs/day</text>
+  <text class="muted" x="60" y="175">Rate-limited</text>
+
+  <rect x="280" y="80" width="200" height="110" rx="8" fill="#fafafa" stroke="#e0dcd5" stroke-width="1"/>
+  <text class="label" x="300" y="100">Perplexity Free</text>
+  <text class="price" x="300" y="120">$0</text>
+  <text class="muted" x="300" y="145">Unlimited search</text>
+  <text class="muted" x="300" y="160">5 Pro searches/day</text>
+  <text class="muted" x="300" y="175">✓ More generous</text>
+
+  <!-- PRO TIER -->
+  <text class="subheading" x="40" y="220">Pro Tier (Monthly)</text>
+
+  <rect x="40" y="230" width="200" height="130" rx="8" fill="#fffbf5" stroke="#e0dcd5" stroke-width="1"/>
+  <text class="label" x="60" y="250">Claude Pro</text>
+  <text class="price" x="60" y="275">$20/mo</text>
+  <text class="muted" x="60" y="295">≈ ₹1,860</text>
+  <text class="muted" x="60" y="315">Opus 4.6</text>
+  <text class="muted" x="60" y="330">200K context</text>
+  <text class="muted" x="60" y="345">Best writing</text>
+
+  <rect x="280" y="230" width="200" height="130" rx="8" fill="#f5fbf5" stroke="#e0dcd5" stroke-width="1"/>
+  <text class="label" x="300" y="250">Perplexity Pro</text>
+  <text class="price" x="300" y="275">$20/mo</text>
+  <text class="muted" x="300" y="295">≈ ₹1,860</text>
+  <text class="muted" x="300" y="315">Unlimited Pro</text>
+  <text class="muted" x="300" y="330">All features</text>
+  <text class="muted" x="300" y="345">Best research</text>
+
+  <!-- Recommendation Box -->
+  <rect x="520" y="80" width="340" height="280" rx="8" fill="none" stroke="#d0ccc5" stroke-width="2" stroke-dasharray="4,2"/>
+  <text class="subheading" x="540" y="110">Best Value Combos</text>
+
+  <rect x="530" y="125" width="320" height="90" rx="6" fill="#fff8f3"/>
+  <text class="label" x="550" y="145">✓ For Writers</text>
+  <text class="muted" x="550" y="165">Claude Pro (₹1,860)</text>
+  <text class="muted" x="550" y="180">+ Perplexity Free</text>
+  <text class="price" x="550" y="200">₹1,860/month</text>
+
+  <rect x="530" y="230" width="320" height="90" rx="6" fill="#f3faf8"/>
+  <text class="label" x="550" y="250">✓ For Researchers</text>
+  <text class="muted" x="550" y="270">Perplexity Pro (₹1,860)</text>
+  <text class="muted" x="550" y="285">+ Claude Free</text>
+  <text class="price" x="550" y="305">₹1,860/month</text>
+
+  <!-- Footer -->
+  <text class="muted" x="40" y="390">Note: Perplexity's free tier is more generous. Save money with asymmetric pairing instead of both Pro.</text>
+</svg>

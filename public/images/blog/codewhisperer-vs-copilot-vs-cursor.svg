@@ -1,0 +1,124 @@
+<svg viewBox="0 0 900 550" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { color-scheme: light; }
+      .bg { fill: #F4F1EA; }
+      .heading { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 24px; font-weight: 600; fill: #4A5942; }
+      .col-header { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; fill: #3A3228; }
+      .row-label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; font-weight: 500; fill: #3A3228; }
+      .cell-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; fill: #3A3228; }
+      .price-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; font-weight: 600; fill: #6B7C5E; }
+      .winner { fill: #6B7C5E; font-weight: 700; }
+      .header-bg { fill: #DDD8CE; }
+      .row-separator { stroke: #DDD8CE; stroke-width: 1; }
+      .cell-border { stroke: #DDD8CE; stroke-width: 1; }
+      .muted { fill: #8A8577; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="900" height="550" rx="12"/>
+
+  <!-- Header -->
+  <text class="heading" x="40" y="45">Amazon Q Developer vs. GitHub Copilot vs. Cursor</text>
+  <text class="muted" x="40" y="65" font-size="12">AWS-specialized excellence vs. general-purpose strength</text>
+
+  <!-- Table Header Row -->
+  <rect class="header-bg" x="40" y="85" width="820" height="35" rx="4"/>
+
+  <text class="col-header" x="55" y="110">Feature</text>
+  <line class="cell-border" x1="220" y1="85" x2="220" y2="120"/>
+  <text class="col-header" x="235" y="110">Amazon Q</text>
+  <line class="cell-border" x1="420" y1="85" x2="420" y2="120"/>
+  <text class="col-header" x="435" y="110">GitHub Copilot</text>
+  <line class="cell-border" x1="620" y1="85" x2="620" y2="120"/>
+  <text class="col-header" x="635" y="110">Cursor</text>
+
+  <!-- Free Tier -->
+  <rect class="row-separator" x="40" y="120" width="820" height="0.5"/>
+  <text class="row-label" x="55" y="150">Free Tier</text>
+  <rect class="cell-border" x="220" y="125" width="0.5" height="40"/>
+  <text class="price-text" x="235" y="150">50 chats/mo</text>
+  <rect class="cell-border" x="420" y="125" width="0.5" height="40"/>
+  <text class="cell-text" x="435" y="150">Students/OSS</text>
+  <rect class="cell-border" x="620" y="125" width="0.5" height="40"/>
+  <text class="cell-text" x="635" y="150">2-week trial</text>
+
+  <!-- Monthly Cost -->
+  <rect class="row-separator" x="40" y="165" width="820" height="0.5"/>
+  <text class="row-label" x="55" y="195">Monthly Cost</text>
+  <rect class="cell-border" x="220" y="170" width="0.5" height="40"/>
+  <text class="price-text winner" x="235" y="195">≈₹1,615 ($19)</text>
+  <rect class="cell-border" x="420" y="170" width="0.5" height="40"/>
+  <text class="price-text" x="435" y="195">≈₹930 ($10)</text>
+  <rect class="cell-border" x="620" y="170" width="0.5" height="40"/>
+  <text class="price-text" x="635" y="195">₹1,860 ($20)</text>
+
+  <!-- AWS Development -->
+  <rect class="row-separator" x="40" y="210" width="820" height="0.5"/>
+  <text class="row-label" x="55" y="240">AWS Expertise</text>
+  <rect class="cell-border" x="220" y="215" width="0.5" height="40"/>
+  <text class="cell-text winner" x="235" y="240">Exceptional (92%)</text>
+  <rect class="cell-border" x="420" y="215" width="0.5" height="40"/>
+  <text class="cell-text" x="435" y="240">Basic (40%)</text>
+  <rect class="cell-border" x="620" y="215" width="0.5" height="40"/>
+  <text class="cell-text" x="635" y="240">Good (70%)</text>
+
+  <!-- General Coding Quality -->
+  <rect class="row-separator" x="40" y="255" width="820" height="0.5"/>
+  <text class="row-label" x="55" y="285">General Coding</text>
+  <rect class="cell-border" x="220" y="260" width="0.5" height="40"/>
+  <text class="cell-text" x="235" y="285">Decent (60)</text>
+  <rect class="cell-border" x="420" y="260" width="0.5" height="40"/>
+  <text class="cell-text winner" x="435" y="285">Excellent (78)</text>
+  <rect class="cell-border" x="620" y="260" width="0.5" height="40"/>
+  <text class="cell-text" x="635" y="285">Excellent (88)</text>
+
+  <!-- Security Scanning -->
+  <rect class="row-separator" x="40" y="300" width="820" height="0.5"/>
+  <text class="row-label" x="55" y="330">Built-in Security</text>
+  <rect class="cell-border" x="220" y="305" width="0.5" height="40"/>
+  <text class="cell-text winner" x="235" y="330">Yes (7/8 vulns)</text>
+  <rect class="cell-border" x="420" y="305" width="0.5" height="40"/>
+  <text class="cell-text" x="435" y="330">No</text>
+  <rect class="cell-border" x="620" y="305" width="0.5" height="40"/>
+  <text class="cell-text" x="635" y="330">No</text>
+
+  <!-- IDE Support -->
+  <rect class="row-separator" x="40" y="345" width="820" height="0.5"/>
+  <text class="row-label" x="55" y="375">IDE Support</text>
+  <rect class="cell-border" x="220" y="350" width="0.5" height="40"/>
+  <text class="cell-text" x="235" y="375">4 major IDEs</text>
+  <rect class="cell-border" x="420" y="350" width="0.5" height="40"/>
+  <text class="cell-text" x="435" y="375">6+ IDEs</text>
+  <rect class="cell-border" x="620" y="350" width="0.5" height="40"/>
+  <text class="cell-text winner" x="635" y="375">Native IDE</text>
+
+  <!-- AWS Console Integration -->
+  <rect class="row-separator" x="40" y="390" width="820" height="0.5"/>
+  <text class="row-label" x="55" y="420">AWS Integration</text>
+  <rect class="cell-border" x="220" y="395" width="0.5" height="40"/>
+  <text class="cell-text winner" x="235" y="420">Deep integration</text>
+  <rect class="cell-border" x="420" y="395" width="0.5" height="40"/>
+  <text class="cell-text" x="435" y="420">None</text>
+  <rect class="cell-border" x="620" y="395" width="0.5" height="40"/>
+  <text class="cell-text" x="635" y="420">None</text>
+
+  <!-- Best For -->
+  <rect class="row-separator" x="40" y="435" width="820" height="0.5"/>
+  <text class="row-label" x="55" y="480">Best For</text>
+  <rect class="cell-border" x="220" y="440" width="0.5" height="65"/>
+  <text class="cell-text winner" x="235" y="460">Lambda, DynamoDB,</text>
+  <text class="cell-text winner" x="235" y="480">AWS-exclusive</text>
+  <text class="cell-text winner" x="235" y="500">developers</text>
+  <rect class="cell-border" x="420" y="440" width="0.5" height="65"/>
+  <text class="cell-text" x="435" y="460">Multi-cloud,</text>
+  <text class="cell-text" x="435" y="480">budget-conscious,</text>
+  <text class="cell-text" x="435" y="500">students</text>
+  <rect class="cell-border" x="620" y="440" width="0.5" height="65"/>
+  <text class="cell-text" x="635" y="460">Professional developers,</text>
+  <text class="cell-text" x="635" y="480">best code quality,</text>
+  <text class="cell-text" x="635" y="500">daily use</text>
+
+  <!-- Footer -->
+  <text class="muted" x="40" y="535" font-size="11">Data current as of May 2026  -  Amazon Q excels at AWS; Copilot for budget; Cursor for best quality</text>
+</svg>

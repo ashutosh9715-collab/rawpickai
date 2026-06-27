@@ -1,0 +1,76 @@
+<svg viewBox="0 0 900 540" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { color-scheme: light; }
+      .bg { fill: #F4F1EA; }
+      .heading { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 24px; font-weight: 700; fill: #4A5942; }
+      .col-header { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; font-weight: 600; fill: #4A5942; }
+      .row-label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; font-weight: 500; fill: #3A3228; }
+      .cell-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 11px; fill: #3A3228; }
+      .ppt { fill: #6B7C5E; opacity: 0.1; }
+      .gamma { fill: #96845A; opacity: 0.1; }
+      .canva { fill: #6B7C5E; opacity: 0.08; }
+      .highlight { font-weight: 600; color: #4A5942; }
+      .warning { fill: #96845A; font-weight: 600; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="900" height="540" rx="12"/>
+
+  <text class="heading" x="40" y="45">PowerPoint Copilot vs Gamma vs Canva</text>
+
+  <!-- Table Header -->
+  <rect class="ppt" x="40" y="65" width="280" height="40" rx="4"/>
+  <text class="col-header" x="60" y="95">PowerPoint Copilot</text>
+
+  <rect class="gamma" x="340" y="65" width="280" height="40" rx="4"/>
+  <text class="col-header" x="360" y="95">Gamma</text>
+
+  <rect class="canva" x="640" y="65" width="220" height="40" rx="4"/>
+  <text class="col-header" x="660" y="95">Canva Pro</text>
+
+  <!-- Price Row -->
+  <text class="row-label" x="40" y="135">Price/Month</text>
+  <text class="warning" x="60" y="155">$52</text>
+  <text class="highlight" x="360" y="155">$10</text>
+  <text class="highlight" x="660" y="155">$5</text>
+
+  <!-- Design Quality -->
+  <text class="row-label" x="40" y="200">Design Quality</text>
+  <text class="cell-text" x="60" y="220">5-6/10</text>
+  <text class="cell-text highlight" x="360" y="220">8.5/10</text>
+  <text class="cell-text" x="660" y="220">7/10</text>
+
+  <!-- Teams Integration -->
+  <text class="row-label" x="40" y="265">Teams Integration</text>
+  <text class="cell-text highlight" x="60" y="285">Excellent</text>
+  <text class="cell-text" x="360" y="285">None</text>
+  <text class="cell-text" x="660" y="285">Limited</text>
+
+  <!-- Generation Speed -->
+  <text class="row-label" x="40" y="330">Generation</text>
+  <text class="cell-text" x="60" y="350">90 sec (basic)</text>
+  <text class="cell-text highlight" x="360" y="350">90-120 sec</text>
+  <text class="cell-text" x="660" y="350">Manual</text>
+
+  <!-- Customization -->
+  <text class="row-label" x="40" y="395">Customization</text>
+  <text class="cell-text" x="60" y="415">Limited (rigid)</text>
+  <text class="cell-text highlight" x="360" y="415">Moderate</text>
+  <text class="cell-text highlight" x="660" y="415">Excellent</text>
+
+  <!-- Use Case -->
+  <text class="row-label" x="40" y="460">Best For</text>
+  <text class="cell-text" x="60" y="480">Enterprise</text>
+  <text class="cell-text" x="60" y="495">already Microsoft</text>
+
+  <text class="cell-text" x="360" y="480">Speed + Quality</text>
+  <text class="cell-text" x="360" y="495">+ cost balance</text>
+
+  <text class="cell-text" x="660" y="480">Budget conscious</text>
+  <text class="cell-text" x="660" y="495">creative work</text>
+
+  <!-- Verdict -->
+  <line x1="40" y1="520" x2="860" y2="520" stroke="#DDD8CE" stroke-width="1"/>
+  <text class="warning" x="40" y="535">PowerPoint: Most expensive, enterprise only. Gamma: Best overall value. Canva: Cheapest option.</text>
+</svg>

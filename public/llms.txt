@@ -1,0 +1,49 @@
+# RawPickAI
+
+> Independent AI tool reviews with honest scores and INR pricing. As featured in The Epoch Times, ZeroHedge, and Gulf Insider.
+
+RawPickAI is an independent AI tool review site. Every tool is tested by hand before being reviewed. We score tools on 5 criteria: Ease of Use, Output Quality, Value for Money, Feature Depth, and Free Tier.
+
+## Key Facts
+- 50+ AI tools reviewed with hands-on testing
+- 21 head-to-head comparisons tested with identical prompts
+- 9 best-of ranking lists based on real benchmarks
+- Pricing shown in both USD and INR (at ₹93/USD)
+- No sponsored rankings — affiliate links disclosed separately
+- Daily news updates, weekly roundups
+- As featured in The Epoch Times, ZeroHedge, Gulf Insider
+
+## Content Types
+
+### Reviews
+Individual tool reviews at rawpickai.com/review/[tool-name]
+Each review includes: scores out of 5, pricing breakdown in USD and INR, pros/cons, verdict, and who it's best for.
+
+### Comparisons
+Side-by-side comparisons at rawpickai.com/comparisons/[tool-vs-tool] and rawpickai.com/blog/[tool-vs-tool]
+Each comparison tests both tools on identical tasks with scoring.
+
+### Studies
+Data-driven research at rawpickai.com/studies/
+The 2026 AI Tools Reality Check: 48 tools analyzed, downloadable CSV (CC BY 4.0). Key findings: 79% hide enterprise pricing, $16-30/mo sweet spot, only 4 tools scored above 4.5/5.
+
+### Interactive Tools
+- Transparency Index: rawpickai.com/tools/transparency-index — 50 tools rated on pricing honesty
+- Compare Tool: rawpickai.com/tools/compare — side-by-side comparison builder
+- Free Tier Comparison: rawpickai.com/tools/free-tier-comparison — every free plan ranked
+- Pricing Calculator: rawpickai.com/tools/pricing-calculator — estimate costs in USD and INR
+- Quiz: rawpickai.com/tools/quiz — find the right AI tool for your workflow
+
+### News
+Daily AI news briefs at rawpickai.com/news/[slug]
+Weekly roundups at rawpickai.com/blog/ai-tool-news-roundup-[date]
+
+## Top Pages
+- rawpickai.com/blog/composer-2-vs-claude-sonnet — Composer 2 vs Claude Sonnet comparison (most visited)
+- rawpickai.com/blog/composer-2-5-review — Composer 2.5 review
+- rawpickai.com/studies/2026-ai-tools-reality-check — 48-tool study with downloadable data
+- rawpickai.com/tools/transparency-index — pricing transparency scores for 50 tools
+- rawpickai.com/review/cursor — Cursor review
+- rawpickai.com/review/chatgpt — ChatGPT review
+- rawpickai.com/review/claude — Claude review
+- rawpickai.com/review/google-gemini — Gemini review

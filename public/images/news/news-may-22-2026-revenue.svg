@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="900" height="240">
+  <rect width="900" height="240" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#4A5942" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">Anthropic Revenue Trajectory: The Fastest Ramp in AI History</text>
+  <!-- Bar chart -->
+  <text x="130" y="210" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">2024</text>
+  <rect x="105" y="190" width="50" height="15" rx="3" fill="#96845A" opacity="0.4"/>
+  <text x="130" y="185" font-family="Georgia, serif" font-size="12" font-weight="700" text-anchor="middle" fill="#96845A">$0.9B</text>
+  <text x="260" y="210" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">Q3 2025</text>
+  <rect x="235" y="165" width="50" height="40" rx="3" fill="#96845A" opacity="0.5"/>
+  <text x="260" y="160" font-family="Georgia, serif" font-size="12" font-weight="700" text-anchor="middle" fill="#96845A">$2.1B</text>
+  <text x="390" y="210" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">Q4 2025</text>
+  <rect x="365" y="140" width="50" height="65" rx="3" fill="#6B7C5E" opacity="0.6"/>
+  <text x="390" y="135" font-family="Georgia, serif" font-size="12" font-weight="700" text-anchor="middle" fill="#6B7C5E">$3.5B</text>
+  <text x="520" y="210" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">Q1 2026</text>
+  <rect x="495" y="105" width="50" height="100" rx="3" fill="#6B7C5E" opacity="0.7"/>
+  <text x="520" y="100" font-family="Georgia, serif" font-size="12" font-weight="700" text-anchor="middle" fill="#6B7C5E">$4.8B</text>
+  <text x="650" y="210" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#4A5942">Q2 2026</text>
+  <rect x="625" y="60" width="50" height="145" rx="3" fill="#4A5942"/>
+  <text x="650" y="55" font-family="Georgia, serif" font-size="14" font-weight="700" text-anchor="middle" fill="#4A5942">$10.9B</text>
+  <text x="780" y="210" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">2026 est</text>
+  <rect x="755" y="70" width="50" height="135" rx="3" fill="#4A5942" opacity="0.3" stroke="#4A5942" stroke-dasharray="4,3"/>
+  <text x="780" y="65" font-family="Georgia, serif" font-size="12" font-weight="700" text-anchor="middle" fill="#4A5942">~$36B?</text>
+  <text x="450" y="232" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Source: WSJ, CNBC, Anthropic investor materials. Q2 2026 is projected, not final.</text>
+</svg>

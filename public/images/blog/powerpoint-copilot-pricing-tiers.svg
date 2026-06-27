@@ -1,0 +1,56 @@
+<svg viewBox="0 0 900 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { color-scheme: light; }
+      .bg { fill: #F4F1EA; }
+      .heading { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 24px; font-weight: 700; fill: #4A5942; }
+      .card-bg { fill: #fff; stroke: #DDD8CE; stroke-width: 1; }
+      .card-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; fill: #4A5942; }
+      .card-price { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 18px; font-weight: 700; fill: #6B7C5E; }
+      .card-feature { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; fill: #3A3228; }
+      .muted { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 11px; fill: #8A8577; }
+      .warning { fill: #96845A; font-weight: 600; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="900" height="400" rx="12"/>
+
+  <text class="heading" x="40" y="45">PowerPoint Copilot Pricing</text>
+
+  <!-- M365 Card -->
+  <rect class="card-bg" x="40" y="75" width="220" height="280" rx="8"/>
+  <text class="card-title" x="60" y="105">Microsoft 365</text>
+  <text class="card-title" x="60" y="125" style="font-size: 12px;">Business Std</text>
+  <text class="card-price" x="60" y="155">≈₹1,870/mo</text>
+  <line x1="60" y1="170" x2="240" y2="170" stroke="#DDD8CE" stroke-width="1"/>
+  <text class="card-feature" x="60" y="190">• Email (Outlook)</text>
+  <text class="card-feature" x="60" y="210">• Office apps</text>
+  <text class="card-feature" x="60" y="230">• Teams + OneDrive</text>
+  <text class="card-feature" x="60" y="250">• Limited Copilot</text>
+
+  <!-- Copilot Add-on Card -->
+  <rect class="card-bg" x="310" y="60" width="220" height="310" rx="8" stroke="#6B7C5E" stroke-width="2"/>
+  <rect fill="#6B7C5E" x="310" y="60" width="220" height="30" rx="8"/>
+  <text class="card-title" x="330" y="82" fill="white" style="font-size: 12px;">ADDITIONAL</text>
+  <text class="card-title" x="330" y="115">Copilot Pro</text>
+  <text class="card-price" x="330" y="145">≈₹2,790/mo</text>
+  <text class="muted" x="330" y="163" style="font-size: 10px;">(add-on)</text>
+  <line x1="330" y1="180" x2="510" y2="180" stroke="#DDD8CE" stroke-width="1"/>
+  <text class="card-feature" x="330" y="200">• Presentation AI</text>
+  <text class="card-feature" x="330" y="220">• Docs/Sheets AI</text>
+  <text class="card-feature" x="330" y="240">• Email/Chat AI</text>
+  <text class="card-feature" x="330" y="260">• Priority support</text>
+
+  <!-- Total Card -->
+  <rect class="card-bg" x="580" y="75" width="280" height="280" rx="8"/>
+  <text class="card-title" x="600" y="105">Total Cost</text>
+  <text class="warning" x="600" y="135">≈₹4,836/mo</text>
+  <text class="card-price" x="600" y="160" style="font-size: 18px; font-weight: 700;">₹58,032/year</text>
+  <line x1="600" y1="175" x2="840" y2="175" stroke="#DDD8CE" stroke-width="1"/>
+  <text class="card-feature" x="600" y="195">• Full Microsoft suite</text>
+  <text class="card-feature" x="600" y="215">• Teams integration</text>
+  <text class="card-feature" x="600" y="235">• Copilot across apps</text>
+  <text class="warning" x="600" y="270">Most expensive option</text>
+
+  <text class="muted" x="40" y="385">Comparison: Gamma ≈₹930/mo, Canva ≈₹500/mo. PowerPoint Copilot costs 5-10x more.</text>
+</svg>

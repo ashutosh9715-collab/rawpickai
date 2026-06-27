@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#F4F1EA" rx="16"/>
+  <rect x="0" y="0" width="1200" height="6" fill="#4A5942" rx="3"/>
+  <text x="600" y="70" font-family="Georgia, serif" font-size="16" font-weight="600" text-anchor="middle" fill="#6B7C5E">WEEKLY AI NEWS ROUNDUP · MAY 29, 2026</text>
+  <text x="600" y="140" font-family="Georgia, serif" font-size="36" font-weight="700" text-anchor="middle" fill="#1A2416">Opus 4.8 Drops, Anthropic Hits $900B,</text>
+  <text x="600" y="190" font-family="Georgia, serif" font-size="36" font-weight="700" text-anchor="middle" fill="#1A2416">Meta Surveils Employees, Pope Weighs In on AI</text>
+  <rect x="300" y="225" width="600" height="3" fill="#4A5942" opacity="0.2" rx="1"/>
+  <text x="600" y="270" font-family="Georgia, serif" font-size="18" text-anchor="middle" fill="#4A453E">Anthropic's week. Nine stories that reshape the AI landscape.</text>
+  <rect x="60" y="310" width="170" height="75" rx="10" fill="white" stroke="#4A5942" stroke-width="1.5"/>
+  <text x="145" y="340" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#4A5942">Opus 4.8</text>
+  <text x="145" y="365" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">69.2% agentic coding</text>
+  <rect x="250" y="310" width="170" height="75" rx="10" fill="white" stroke="#22c55e" stroke-width="1.5"/>
+  <text x="335" y="340" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#22c55e">$900B+</text>
+  <text x="335" y="365" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">$30B round closed</text>
+  <rect x="440" y="310" width="170" height="75" rx="10" fill="white" stroke="#96845A" stroke-width="1.5"/>
+  <text x="525" y="340" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#96845A">KPMG + Claude</text>
+  <text x="525" y="365" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">276K employees</text>
+  <rect x="630" y="310" width="170" height="75" rx="10" fill="white" stroke="#c0392b" stroke-width="1.5"/>
+  <text x="715" y="340" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#c0392b">Meta Surveillance</text>
+  <text x="715" y="365" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">8,000 laid off</text>
+  <rect x="820" y="310" width="170" height="75" rx="10" fill="white" stroke="#6B7C5E" stroke-width="1.5"/>
+  <text x="905" y="340" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#6B7C5E">Vatican + AI</text>
+  <text x="905" y="365" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">First AI encyclical</text>
+  <text x="600" y="450" font-family="Georgia, serif" font-size="14" text-anchor="middle" fill="#96845A">Plus: Gates $200M, Karpathy hired, Gemini 3.5 Flash GA, SpaceX IPO June 12, DeployCo $4B</text>
+  <text x="600" y="570" font-family="Georgia, serif" font-size="14" text-anchor="middle" fill="#8A8577">rawpickai.com</text>
+</svg>

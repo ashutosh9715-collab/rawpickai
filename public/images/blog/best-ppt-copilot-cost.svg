@@ -1,0 +1,22 @@
+<svg viewBox="0 0 700 230" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="230" fill="#F4F1EA"/>
+  <text x="350" y="28" font-size="18" font-weight="bold" text-anchor="middle" fill="#4A5942">PowerPoint + Copilot - Cost Breakdown</text>
+  <text x="350" y="48" font-size="11" text-anchor="middle" fill="#8A8577">What you actually pay for Microsoft's AI presentation tool</text>
+  <rect x="50" y="75" width="180" height="70" rx="8" fill="white" stroke="#96845A" stroke-width="1"/>
+  <text x="140" y="98" font-size="11" font-weight="bold" text-anchor="middle" fill="#4A5942">Microsoft 365</text>
+  <text x="140" y="118" font-size="16" font-weight="700" text-anchor="middle" fill="#96845A">$22/user/mo</text>
+  <text x="140" y="135" font-size="9" text-anchor="middle" fill="#8A8577">(≈₹2,046)</text>
+  <text x="250" y="112" font-size="20" fill="#4A5942">+</text>
+  <rect x="275" y="75" width="180" height="70" rx="8" fill="white" stroke="#96845A" stroke-width="1"/>
+  <text x="365" y="98" font-size="11" font-weight="bold" text-anchor="middle" fill="#4A5942">Copilot Pro</text>
+  <text x="365" y="118" font-size="16" font-weight="700" text-anchor="middle" fill="#96845A">$30/user/mo</text>
+  <text x="365" y="135" font-size="9" text-anchor="middle" fill="#8A8577">(≈₹2,790)</text>
+  <text x="475" y="112" font-size="20" fill="#4A5942">=</text>
+  <rect x="500" y="75" width="170" height="70" rx="8" fill="#6B7C5E"/>
+  <text x="585" y="98" font-size="11" font-weight="bold" text-anchor="middle" fill="white">Total</text>
+  <text x="585" y="118" font-size="16" font-weight="700" text-anchor="middle" fill="white">$52/user/mo</text>
+  <text x="585" y="135" font-size="9" text-anchor="middle" fill="white">(≈₹4,836)</text>
+  <rect x="100" y="165" width="500" height="30" rx="6" fill="#96845A" opacity="0.1" stroke="#96845A" stroke-width="1"/>
+  <text x="350" y="185" font-size="11" font-weight="600" text-anchor="middle" fill="#4A5942">That's 5.2x the price of Gamma ($10/mo) for PPT AI that isn't 5x better</text>
+  <text x="350" y="220" font-size="10" text-anchor="middle" fill="#8A8577">Data from RawPickAI - rawpickai.com</text>
+</svg>

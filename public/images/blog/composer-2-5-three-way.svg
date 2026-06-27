@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300">
+  <rect width="900" height="300" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#4A5942" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">Composer 2.5 vs Composer 2 vs Claude Sonnet 4.6</text>
+  <rect x="40" y="55" width="820" height="28" rx="6" fill="#4A5942"/>
+  <text x="180" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">Metric</text>
+  <text x="400" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">Composer 2</text>
+  <text x="570" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">Composer 2.5</text>
+  <text x="740" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">Claude Sonnet 4.6</text>
+  <rect x="40" y="87" width="820" height="28" fill="white" rx="3"/>
+  <text x="180" y="106" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">SWE-Bench Multi</text>
+  <text x="400" y="106" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">73.7%</text>
+  <text x="570" y="106" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#4A5942">79.8%</text>
+  <text x="740" y="106" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">75.2%</text>
+  <rect x="40" y="119" width="820" height="28" fill="#F9F7F2" rx="3"/>
+  <text x="180" y="138" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">CursorBench v3.1</text>
+  <text x="400" y="138" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">52.2%</text>
+  <text x="570" y="138" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#4A5942">63.2%</text>
+  <text x="740" y="138" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">61.6%</text>
+  <rect x="40" y="151" width="820" height="28" fill="white" rx="3"/>
+  <text x="180" y="170" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Terminal-Bench 2.0</text>
+  <text x="400" y="170" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">61.7%</text>
+  <text x="570" y="170" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#4A5942">69.3%</text>
+  <text x="740" y="170" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">69.4%</text>
+  <rect x="40" y="183" width="820" height="28" fill="#F9F7F2" rx="3"/>
+  <text x="180" y="202" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Standard input cost</text>
+  <text x="400" y="202" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#22c55e">$0.50 (≈₹46.50)</text>
+  <text x="570" y="202" font-family="Georgia, serif" font-size="12" font-weight="700" text-anchor="middle" fill="#22c55e">$0.50 (≈₹46.50)</text>
+  <text x="740" y="202" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#c0392b">$3.00 (≈₹279)</text>
+  <rect x="40" y="215" width="820" height="28" fill="white" rx="3"/>
+  <text x="180" y="234" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Speed (output tokens/s)</text>
+  <text x="400" y="234" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">Fast</text>
+  <text x="570" y="234" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#4A5942">4x faster</text>
+  <text x="740" y="234" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">Moderate</text>
+  <rect x="40" y="247" width="820" height="28" fill="#F9F7F2" rx="3"/>
+  <text x="180" y="266" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">My real-task score</text>
+  <text x="400" y="266" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">3.8/5</text>
+  <text x="570" y="266" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#4A5942">4.2/5</text>
+  <text x="740" y="266" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A5942">4.5/5</text>
+  <text x="450" y="292" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Sonnet still wins on complex tasks, but Composer 2.5 covers 85% of daily coding at 1/6th the cost</text>
+</svg>

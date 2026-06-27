@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#F4F1EA"/>
+  <rect x="0" y="0" width="1200" height="8" fill="#4A5942"/>
+  <text x="600" y="60" font-family="Georgia, serif" font-size="14" font-weight="700" fill="#96845A" letter-spacing="3" text-anchor="middle">RAWPICKAI RESEARCH</text>
+  <text x="600" y="110" font-family="Georgia, serif" font-size="36" font-weight="700" fill="#1A2416" text-anchor="middle">The 2026 AI Tools Reality Check</text>
+  <text x="600" y="150" font-family="Georgia, serif" font-size="20" fill="#4A453E" text-anchor="middle">48 tools. 6 months of testing. Every score backed by data.</text>
+  <line x1="300" y1="180" x2="900" y2="180" stroke="#4A5942" stroke-width="1" opacity="0.3"/>
+  <rect x="80" y="210" width="240" height="140" rx="12" fill="white" stroke="#4A5942" stroke-width="1"/>
+  <text x="200" y="255" font-family="Georgia, serif" font-size="48" font-weight="700" text-anchor="middle" fill="#4A5942">48</text>
+  <text x="200" y="285" font-family="Georgia, serif" font-size="14" text-anchor="middle" fill="#4A453E">tools tested</text>
+  <text x="200" y="330" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#96845A">6 months, 9 categories</text>
+  <rect x="360" y="210" width="240" height="140" rx="12" fill="white" stroke="#c0392b" stroke-width="1"/>
+  <text x="480" y="255" font-family="Georgia, serif" font-size="48" font-weight="700" text-anchor="middle" fill="#c0392b">79%</text>
+  <text x="480" y="285" font-family="Georgia, serif" font-size="14" text-anchor="middle" fill="#4A453E">hide enterprise pricing</text>
+  <text x="480" y="330" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#96845A">only 10 show all prices</text>
+  <rect x="640" y="210" width="240" height="140" rx="12" fill="white" stroke="#f59e0b" stroke-width="1"/>
+  <text x="760" y="255" font-family="Georgia, serif" font-size="48" font-weight="700" text-anchor="middle" fill="#f59e0b">3.7</text>
+  <text x="760" y="285" font-family="Georgia, serif" font-size="14" text-anchor="middle" fill="#4A453E">average score (/5)</text>
+  <text x="760" y="330" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#96845A">only 4 tools scored 4.5+</text>
+  <rect x="920" y="210" width="240" height="140" rx="12" fill="white" stroke="#22c55e" stroke-width="1"/>
+  <text x="1040" y="255" font-family="Georgia, serif" font-size="48" font-weight="700" text-anchor="middle" fill="#22c55e">62%</text>
+  <text x="1040" y="285" font-family="Georgia, serif" font-size="14" text-anchor="middle" fill="#4A453E">free tiers are usable</text>
+  <text x="1040" y="330" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#96845A">29 of 47 scored 70+</text>
+  <rect x="80" y="400" width="1080" height="120" rx="12" fill="#4A5942" opacity="0.06"/>
+  <text x="600" y="445" font-family="Georgia, serif" font-size="18" font-weight="600" text-anchor="middle" fill="#4A5942">The $16-30/mo sweet spot delivers the best value.</text>
+  <text x="600" y="475" font-family="Georgia, serif" font-size="18" font-weight="600" text-anchor="middle" fill="#4A5942">Paying more doesn't get you a better AI model.</text>
+  <text x="600" y="500" font-family="Georgia, serif" font-size="14" text-anchor="middle" fill="#96845A">Full dataset downloadable as CSV (CC BY 4.0)</text>
+  <text x="600" y="585" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#8A8577">rawpickai.com/studies</text>
+</svg>

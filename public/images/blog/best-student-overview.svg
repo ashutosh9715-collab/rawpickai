@@ -1,0 +1,33 @@
+<svg viewBox="0 0 800 320" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="320" fill="#F4F1EA"/>
+  <text x="400" y="30" font-size="20" font-weight="bold" text-anchor="middle" fill="#4A5942">Best AI Tools for Students - By Category</text>
+  <text x="400" y="50" font-size="11" text-anchor="middle" fill="#8A8577">8 tools tested across 4 real academic scenarios</text>
+  <rect x="30" y="75" width="170" height="110" rx="8" fill="white" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="115" y="98" font-size="13" font-weight="bold" text-anchor="middle" fill="#4A5942">Research</text>
+  <text x="115" y="120" font-size="11" text-anchor="middle" fill="#6B7C5E">Perplexity</text>
+  <text x="115" y="138" font-size="10" text-anchor="middle" fill="#8A8577">Citations built-in</text>
+  <text x="115" y="156" font-size="10" text-anchor="middle" fill="#8A8577">Academic focus mode</text>
+  <text x="115" y="174" font-size="10" font-weight="600" text-anchor="middle" fill="#4A5942">Free (5 Pro/day)</text>
+  <rect x="220" y="75" width="170" height="110" rx="8" fill="white" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="305" y="98" font-size="13" font-weight="bold" text-anchor="middle" fill="#4A5942">Writing</text>
+  <text x="305" y="120" font-size="11" text-anchor="middle" fill="#6B7C5E">Claude + Grammarly</text>
+  <text x="305" y="138" font-size="10" text-anchor="middle" fill="#8A8577">Natural prose output</text>
+  <text x="305" y="156" font-size="10" text-anchor="middle" fill="#8A8577">Grammar + style check</text>
+  <text x="305" y="174" font-size="10" font-weight="600" text-anchor="middle" fill="#4A5942">Both free</text>
+  <rect x="410" y="75" width="170" height="110" rx="8" fill="white" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="495" y="98" font-size="13" font-weight="bold" text-anchor="middle" fill="#4A5942">Study + Exam Prep</text>
+  <text x="495" y="120" font-size="11" text-anchor="middle" fill="#6B7C5E">ChatGPT + NotebookLM</text>
+  <text x="495" y="138" font-size="10" text-anchor="middle" fill="#8A8577">Practice questions</text>
+  <text x="495" y="156" font-size="10" text-anchor="middle" fill="#8A8577">Audio study guides</text>
+  <text x="495" y="174" font-size="10" font-weight="600" text-anchor="middle" fill="#4A5942">Both free</text>
+  <rect x="600" y="75" width="170" height="110" rx="8" fill="white" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="685" y="98" font-size="13" font-weight="bold" text-anchor="middle" fill="#4A5942">Code + Present</text>
+  <text x="685" y="120" font-size="11" text-anchor="middle" fill="#6B7C5E">Windsurf + Gamma</text>
+  <text x="685" y="138" font-size="10" text-anchor="middle" fill="#8A8577">Free autocomplete</text>
+  <text x="685" y="156" font-size="10" text-anchor="middle" fill="#8A8577">AI slide generation</text>
+  <text x="685" y="174" font-size="10" font-weight="600" text-anchor="middle" fill="#4A5942">Both free tiers</text>
+  <rect x="150" y="210" width="500" height="55" rx="8" fill="#6B7C5E" opacity="0.1" stroke="#6B7C5E" stroke-width="1"/>
+  <text x="400" y="235" font-size="14" font-weight="bold" text-anchor="middle" fill="#4A5942">Total cost of the free stack: $0/month</text>
+  <text x="400" y="253" font-size="11" text-anchor="middle" fill="#6B7C5E">All 8 tools have functional free tiers covering real student needs</text>
+  <text x="400" y="305" font-size="10" text-anchor="middle" fill="#8A8577">Data from RawPickAI independent testing - rawpickai.com</text>
+</svg>

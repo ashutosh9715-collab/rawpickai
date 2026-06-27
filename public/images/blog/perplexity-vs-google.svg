@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200">
+  <rect width="900" height="200" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#4A5942" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">Perplexity vs Google: Different Tools, Different Jobs</text>
+  <rect x="40" y="55" width="820" height="28" rx="6" fill="#4A5942"/>
+  <text x="200" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">Task</text>
+  <text x="500" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">Perplexity</text>
+  <text x="730" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">Google</text>
+  <rect x="40" y="87" width="820" height="28" fill="white" rx="3"/>
+  <text x="200" y="106" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Quick factual question</text>
+  <text x="500" y="106" font-family="Georgia, serif" font-size="12" font-weight="700" text-anchor="middle" fill="#4A5942">Better (cited answer)</text>
+  <text x="730" y="106" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">Good (AI Overview)</text>
+  <rect x="40" y="119" width="820" height="28" fill="#F9F7F2" rx="3"/>
+  <text x="200" y="138" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Complex research topic</text>
+  <text x="500" y="138" font-family="Georgia, serif" font-size="12" font-weight="700" text-anchor="middle" fill="#4A5942">Much better (Pro Search)</text>
+  <text x="730" y="138" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#c0392b">Requires manual digging</text>
+  <rect x="40" y="151" width="820" height="28" fill="white" rx="3"/>
+  <text x="200" y="170" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Shopping / local search</text>
+  <text x="500" y="170" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#c0392b">Weak</text>
+  <text x="730" y="170" font-family="Georgia, serif" font-size="12" font-weight="700" text-anchor="middle" fill="#4A5942">Much better</text>
+  <text x="450" y="195" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Perplexity replaces Google for research. Google remains better for shopping, local, images, and maps.</text>
+</svg>

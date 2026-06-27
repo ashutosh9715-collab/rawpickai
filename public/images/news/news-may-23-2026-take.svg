@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="900" height="120">
+  <rect width="900" height="120" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="4" height="120" fill="#4A5942" rx="2"/>
+  <text x="40" y="30" font-family="Georgia, serif" font-size="14" font-weight="600" fill="#4A5942">MY TAKE</text>
+  <text x="40" y="58" font-family="Georgia, serif" font-size="15" fill="#4A453E">Karpathy joining Anthropic to build a team that uses Claude to make Claude better is the most</text>
+  <text x="40" y="82" font-family="Georgia, serif" font-size="15" fill="#4A453E">interesting hire in AI this year. Meanwhile, Gemini 3.5 Flash at $1.50/M input with 1M context</text>
+  <text x="40" y="106" font-family="Georgia, serif" font-size="15" fill="#4A453E">is the best price-to-performance ratio in the API market right now. The pricing floor keeps dropping.</text>
+</svg>

@@ -1,0 +1,60 @@
+<svg viewBox="0 0 900 550" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="550" fill="#F4F1EA"/>
+  <text x="45" y="45" font-size="28" font-weight="bold" fill="#4A5942" font-family="system-ui">Semrush Pricing Plans</text>
+
+  <!-- Free -->
+  <rect x="45" y="100" width="210" height="420" rx="12" fill="white" stroke="#DDD8CE" stroke-width="2"/>
+  <text x="65" y="135" font-size="16" font-weight="bold" fill="#4A5942" font-family="system-ui">Free</text>
+  <text x="65" y="170" font-size="28" font-weight="bold" fill="#6B7C5E" font-family="system-ui">$0</text>
+  <text x="65" y="190" font-size="12" fill="#8A8577" font-family="system-ui">Forever free</text>
+  <line x1="65" y1="205" x2="240" y2="205" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="65" y="235" font-size="11" fill="#3A3228" font-family="system-ui">10 audits/month</text>
+  <text x="65" y="255" font-size="11" fill="#3A3228" font-family="system-ui">✓ Limited keywords</text>
+  <text x="65" y="275" font-size="11" fill="#3A3228" font-family="system-ui">✗ No AI features</text>
+  <text x="65" y="295" font-size="11" fill="#3A3228" font-family="system-ui">✗ No backlinks</text>
+  <text x="65" y="315" font-size="11" fill="#3A3228" font-family="system-ui">✗ No rank tracking</text>
+  <text x="65" y="335" font-size="11" fill="#3A3228" font-family="system-ui">Limited demo</text>
+
+  <!-- Pro -->
+  <rect x="295" y="80" width="210" height="460" rx="12" fill="white" stroke="#6B7C5E" stroke-width="3"/>
+  <rect x="295" y="80" width="210" height="35" rx="12" fill="#6B7C5E"/>
+  <text x="315" y="108" font-size="11" font-weight="bold" fill="white" font-family="system-ui">MOST USED</text>
+  <text x="315" y="155" font-size="16" font-weight="bold" fill="#4A5942" font-family="system-ui">Pro</text>
+  <text x="315" y="185" font-size="28" font-weight="bold" fill="#96845A" font-family="system-ui">$117</text>
+  <text x="315" y="205" font-size="12" fill="#8A8577" font-family="system-ui">≈₹10,881/mo</text>
+  <line x1="315" y1="220" x2="490" y2="220" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="315" y="250" font-size="11" fill="#3A3228" font-family="system-ui">✓ Keyword research</text>
+  <text x="315" y="270" font-size="11" fill="#3A3228" font-family="system-ui">✓ Site audit (unlimited)</text>
+  <text x="315" y="290" font-size="11" fill="#3A3228" font-family="system-ui">✓ Backlink analysis</text>
+  <text x="315" y="310" font-size="11" fill="#3A3228" font-family="system-ui">✓ ContentShake AI</text>
+  <text x="315" y="330" font-size="11" fill="#3A3228" font-family="system-ui">✓ SEO Writing Asst</text>
+  <text x="315" y="350" font-size="11" fill="#3A3228" font-family="system-ui">✓ Rank tracking</text>
+  <text x="315" y="370" font-size="11" fill="#3A3228" font-family="system-ui">✓ Competitor analysis</text>
+
+  <!-- Guru -->
+  <rect x="545" y="100" width="210" height="420" rx="12" fill="white" stroke="#DDD8CE" stroke-width="2"/>
+  <text x="565" y="135" font-size="16" font-weight="bold" fill="#4A5942" font-family="system-ui">Guru</text>
+  <text x="565" y="170" font-size="28" font-weight="bold" fill="#6B7C5E" font-family="system-ui">$208</text>
+  <text x="565" y="190" font-size="12" fill="#8A8577" font-family="system-ui">≈₹19,375/mo</text>
+  <line x1="565" y1="205" x2="740" y2="205" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="565" y="235" font-size="11" fill="#3A3228" font-family="system-ui">✓ Everything in Pro</text>
+  <text x="565" y="255" font-size="11" fill="#3A3228" font-family="system-ui">✓ Larger limits</text>
+  <text x="565" y="275" font-size="11" fill="#3A3228" font-family="system-ui">✓ More projects</text>
+  <text x="565" y="295" font-size="11" fill="#3A3228" font-family="system-ui">✓ Advanced reports</text>
+  <text x="565" y="315" font-size="11" fill="#3A3228" font-family="system-ui">✓ Custom dashboards</text>
+  <text x="565" y="335" font-size="11" fill="#3A3228" font-family="system-ui">For growing agencies</text>
+
+  <!-- Business -->
+  <rect x="795" y="100" width="90" height="420" rx="12" fill="white" stroke="#DDD8CE" stroke-width="2"/>
+  <text x="810" y="135" font-size="13" font-weight="bold" fill="#4A5942" font-family="system-ui">Business</text>
+  <text x="810" y="170" font-size="16" font-weight="bold" fill="#6B7C5E" font-family="system-ui">$416</text>
+  <text x="810" y="185" font-size="9" fill="#8A8577" font-family="system-ui">Custom</text>
+  <line x1="810" y1="200" x2="870" y2="200" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="810" y="225" font-size="10" fill="#3A3228" font-family="system-ui">Enterprise</text>
+  <text x="810" y="245" font-size="10" fill="#3A3228" font-family="system-ui">Full access</text>
+
+  <!-- Footer -->
+  <text x="45" y="530" font-size="12" fill="#8A8577" font-family="system-ui">
+    Annual billing: 20% discount. All prices USD annual (monthly 15-20% higher). May 2026 rates.
+  </text>
+</svg>

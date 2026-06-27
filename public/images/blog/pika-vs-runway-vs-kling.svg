@@ -1,0 +1,93 @@
+<svg viewBox="0 0 900 520" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title { font-size: 20px; font-weight: bold; fill: #4A5942; }
+      .category { font-size: 11px; font-weight: bold; fill: #3A3228; }
+      .value { font-size: 13px; font-weight: bold; fill: #3A3228; }
+      .label { font-size: 10px; fill: #8A8577; }
+      .tool-name { font-size: 12px; font-weight: bold; fill: white; }
+      .pika-color { fill: #96845A; }
+      .runway-color { fill: #6B7C5E; }
+      .kling-color { fill: #8A8577; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="520" fill="#F4F1EA"/>
+
+  <!-- Title -->
+  <text x="450" y="30" text-anchor="middle" class="title">Pika vs Runway vs Kling AI</text>
+
+  <!-- Tool Headers -->
+  <rect x="50" y="60" width="250" height="30" rx="6" class="pika-color"/>
+  <text x="175" y="82" text-anchor="middle" class="tool-name">Pika</text>
+
+  <rect x="325" y="60" width="250" height="30" rx="6" class="runway-color"/>
+  <text x="450" y="82" text-anchor="middle" class="tool-name">Runway Gen-4</text>
+
+  <rect x="600" y="60" width="250" height="30" rx="6" class="kling-color"/>
+  <text x="725" y="82" text-anchor="middle" class="tool-name">Kling AI</text>
+
+  <!-- Output Quality -->
+  <text x="20" y="130" class="category">Output Quality</text>
+  <rect x="50" y="120" width="70" height="20" fill="#DDD8CE" rx="4"/>
+  <rect x="50" y="120" width="49" height="20" fill="#96845A" rx="4"/>
+  <text x="105" y="135" class="value">70/100</text>
+
+  <rect x="325" y="120" width="70" height="20" fill="#DDD8CE" rx="4"/>
+  <rect x="325" y="120" width="63" height="20" fill="#6B7C5E" rx="4"/>
+  <text x="380" y="135" class="value">90/100</text>
+
+  <rect x="600" y="120" width="70" height="20" fill="#DDD8CE" rx="4"/>
+  <rect x="600" y="120" width="56" height="20" fill="#8A8577" rx="4"/>
+  <text x="655" y="135" class="value">80/100</text>
+
+  <!-- Generation Speed -->
+  <text x="20" y="175" class="category">Generation Speed</text>
+  <text x="50" y="170" class="value">2-3 min</text>
+  <text x="325" y="170" class="value">5-10 min</text>
+  <text x="600" y="170" class="value">2-3 min</text>
+
+  <!-- Motion Jitter -->
+  <text x="20" y="220" class="category">Motion Jitter</text>
+  <text x="50" y="215" class="value" style="font-size: 11px;">Occasional</text>
+  <text x="325" y="215" class="value" style="font-size: 11px;">Rare</text>
+  <text x="600" y="215" class="value" style="font-size: 11px;">Occasional</text>
+
+  <!-- Videos Per Month (Pro) -->
+  <text x="20" y="265" class="category">Videos/Month (Pro)</text>
+  <text x="50" y="260" class="value">460+</text>
+  <text x="325" y="260" class="value">150 realistic</text>
+  <text x="600" y="260" class="value">400+</text>
+
+  <!-- Pro Tier Price -->
+  <text x="20" y="310" class="category">Pro Tier Price</text>
+  <text x="50" y="305" class="value">$35</text>
+  <text x="325" y="305" class="value">$35</text>
+  <text x="600" y="305" class="value">$30</text>
+
+  <!-- Commercial Rights -->
+  <text x="20" y="355" class="category">Commercial Rights</text>
+  <text x="50" y="350" class="value" style="font-size: 11px;">✓ From Pro</text>
+  <text x="325" y="350" class="value" style="font-size: 11px;">✓ From Std</text>
+  <text x="600" y="350" class="value" style="font-size: 11px;">✓ From Pro</text>
+
+  <!-- Best For -->
+  <text x="20" y="400" class="category">Best For</text>
+  <text x="50" y="395" class="value" style="font-size: 10px;">Budget,</text>
+  <text x="50" y="408" class="value" style="font-size: 10px;">volume</text>
+
+  <text x="325" y="395" class="value" style="font-size: 10px;">Quality,</text>
+  <text x="325" y="408" class="value" style="font-size: 10px;">commercial</text>
+
+  <text x="600" y="395" class="value" style="font-size: 10px;">Speed,</text>
+  <text x="600" y="408" class="value" style="font-size: 10px;">price</text>
+
+  <!-- Footer insights -->
+  <rect x="20" y="430" width="860" height="80" fill="white" stroke="#DDD8CE" stroke-width="1" rx="6"/>
+
+  <text x="40" y="450" class="category" style="font-size: 12px;">Key Insight</text>
+  <text x="40" y="470" class="label" style="font-size: 11px;">Pika wins on value and generation volume. At $35 (≈₹3,255) Pro, you get 3x more videos than Runway's realistic output</text>
+  <text x="40" y="485" class="label" style="font-size: 11px;">after iteration. Runway wins on motion quality for complex scenes. Kling splits the difference: faster than Runway,</text>
+  <text x="40" y="500" class="label" style="font-size: 11px;">cheaper than Pika. For short-form creators: Pika. For commercial/broadcast: Runway. For speed hunters: Kling.</text>
+</svg>

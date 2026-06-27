@@ -1,0 +1,118 @@
+<svg viewBox="0 0 1000 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { color-scheme: light; }
+      .bg { fill: #F4F1EA; }
+      .heading { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 28px; font-weight: 600; fill: #4A5942; }
+      .subheading { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; fill: #8A8577; }
+      .tool-name { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 16px; font-weight: 600; fill: #3A3228; }
+      .metric-label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; font-weight: 500; fill: #3A3228; }
+      .value { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; fill: #8A8577; }
+      .bar-bg { fill: #DDD8CE; }
+      .bar1 { fill: #6B7C5E; }
+      .bar2 { fill: #96845A; }
+      .bar3 { fill: #A89F8F; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1000" height="600" rx="12"/>
+
+  <!-- Header -->
+  <text class="heading" x="40" y="50">Stable Diffusion vs Midjourney vs DALL-E 3</text>
+  <text class="subheading" x="40" y="70">Cost, quality, learning curve, and best-fit comparison</text>
+
+  <!-- Setup Complexity -->
+  <text class="metric-label" x="40" y="115">Setup Complexity</text>
+  <rect class="bar-bg" x="150" y="105" width="200" height="16" rx="6"/>
+  <rect class="bar1" x="150" y="105" width="180" height="16" rx="6"/>
+  <text class="value" x="360" y="115">SD: Steep (2-4 hours)</text>
+
+  <rect class="bar-bg" x="550" y="105" width="200" height="16" rx="6"/>
+  <rect class="bar2" x="550" y="105" width="30" height="16" rx="6"/>
+  <text class="value" x="760" y="115">Midjourney: Minimal</text>
+
+  <rect class="bar-bg" x="150" y="130" width="200" height="16" rx="6"/>
+  <rect class="bar3" x="150" y="130" width="40" height="16" rx="6"/>
+  <text class="value" x="360" y="140">DALL-E 3: Very simple</text>
+
+  <!-- Output Quality -->
+  <text class="metric-label" x="40" y="180">Output Quality (Best Case)</text>
+  <rect class="bar-bg" x="150" y="170" width="200" height="16" rx="6"/>
+  <rect class="bar1" x="150" y="170" width="168" height="16" rx="6"/>
+  <text class="value" x="360" y="180">SD: 84%</text>
+
+  <rect class="bar-bg" x="550" y="170" width="200" height="16" rx="6"/>
+  <rect class="bar2" x="550" y="170" width="200" height="16" rx="6"/>
+  <text class="value" x="760" y="180">Midjourney: 100%</text>
+
+  <rect class="bar-bg" x="150" y="195" width="200" height="16" rx="6"/>
+  <rect class="bar3" x="150" y="195" width="176" height="16" rx="6"/>
+  <text class="value" x="360" y="205">DALL-E 3: 88%</text>
+
+  <!-- Customization -->
+  <text class="metric-label" x="40" y="245">Customization &amp; Control</text>
+  <rect class="bar-bg" x="150" y="235" width="200" height="16" rx="6"/>
+  <rect class="bar1" x="150" y="235" width="200" height="16" rx="6"/>
+  <text class="value" x="360" y="245">SD: Maximum</text>
+
+  <rect class="bar-bg" x="550" y="235" width="200" height="16" rx="6"/>
+  <rect class="bar2" x="550" y="235" width="100" height="16" rx="6"/>
+  <text class="value" x="760" y="245">Midjourney: Limited</text>
+
+  <rect class="bar-bg" x="150" y="260" width="200" height="16" rx="6"/>
+  <rect class="bar3" x="150" y="260" width="80" height="16" rx="6"/>
+  <text class="value" x="360" y="270">DALL-E 3: Minimal</text>
+
+  <!-- Cost per Image (3-year amortized) -->
+  <text class="metric-label" x="40" y="310">Cost per Image (3-year average)</text>
+  <text class="value" x="150" y="320">SD (with GPU)</text>
+  <rect class="bar-bg" x="150" y="300" width="200" height="16" rx="6"/>
+  <rect class="bar1" x="150" y="300" width="50" height="16" rx="6"/>
+  <text class="value" x="360" y="310">≈₹4-8</text>
+
+  <text class="value" x="550" y="320">Midjourney</text>
+  <rect class="bar-bg" x="550" y="300" width="200" height="16" rx="6"/>
+  <rect class="bar2" x="550" y="300" width="130" height="16" rx="6"/>
+  <text class="value" x="760" y="310">≈₹25-30</text>
+
+  <text class="value" x="150" y="345">DALL-E 3</text>
+  <rect class="bar-bg" x="150" y="325" width="200" height="16" rx="6"/>
+  <rect class="bar3" x="150" y="325" width="100" height="16" rx="6"/>
+  <text class="value" x="360" y="335">≈₹20-25</text>
+
+  <!-- Use Case Recommendations -->
+  <text class="metric-label" x="40" y="385">Best for</text>
+
+  <!-- SD Box -->
+  <rect x="40" y="400" width="280" height="180" fill="#FFF9F5" stroke="#6B7C5E" stroke-width="2" rx="10"/>
+  <text class="tool-name" x="60" y="425" style="fill: #6B7C5E;">✓ Stable Diffusion</text>
+  <text class="value" x="60" y="448">• Developers/researchers</text>
+  <text class="value" x="60" y="468">• Cost-sensitive bulk use</text>
+  <text class="value" x="60" y="488">• Complete customization</text>
+  <text class="value" x="60" y="508">• Privacy-critical work</text>
+  <text class="value" x="60" y="528">• Fine-tuning/training</text>
+  <text class="value" x="60" y="548">• Enterprise pipelines</text>
+  <text class="value" x="60" y="568">• Technical users</text>
+
+  <!-- Midjourney Box -->
+  <rect x="360" y="400" width="280" height="180" fill="#FFF9F5" stroke="#96845A" stroke-width="2" rx="10"/>
+  <text class="tool-name" x="380" y="425" style="fill: #96845A;">✓ Midjourney</text>
+  <text class="value" x="380" y="448">• Best overall quality</text>
+  <text class="value" x="380" y="468">• Portfolio work</text>
+  <text class="value" x="380" y="488">• Zero setup time</text>
+  <text class="value" x="380" y="508">• Consistency priority</text>
+  <text class="value" x="380" y="528">• Social media graphics</text>
+  <text class="value" x="380" y="548">• Non-technical users</text>
+  <text class="value" x="380" y="568">• Commercial work</text>
+
+  <!-- DALL-E 3 Box -->
+  <rect x="680" y="400" width="280" height="180" fill="#FFF9F5" stroke="#A89F8F" stroke-width="2" rx="10"/>
+  <text class="tool-name" x="700" y="425" style="fill: #A89F8F;">✓ DALL-E 3</text>
+  <text class="value" x="700" y="448">• Natural language prompts</text>
+  <text class="value" x="700" y="468">• Text rendering (decent)</text>
+  <text class="value" x="700" y="488">• Editing/inpainting</text>
+  <text class="value" x="700" y="508">• ChatGPT integration</text>
+  <text class="value" x="700" y="528">• Moderate cost</text>
+  <text class="value" x="700" y="548">• Easy onboarding</text>
+  <text class="value" x="700" y="568">• Balanced features</text>
+</svg>

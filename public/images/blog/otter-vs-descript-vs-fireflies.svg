@@ -1,0 +1,63 @@
+<svg viewBox="0 0 850 450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #F4F1EA; }
+      .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 22px; font-weight: 600; fill: #4A5942; }
+      .header { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; fill: #3A3228; }
+      .cell { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; fill: #3A3228; }
+      .row-odd { fill: #FEFDFB; }
+      .row-even { fill: #F8F5F0; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="850" height="450" rx="12" />
+  <text x="40" y="40" class="title">Otter.ai vs Descript vs Fireflies.ai</text>
+
+  <rect x="40" y="65" width="770" height="35" fill="#EDE9DF" rx="0" />
+  <text x="55" y="90" class="header">Feature</text>
+  <text x="240" y="90" class="header" text-anchor="middle">Otter.ai</text>
+  <text x="480" y="90" class="header" text-anchor="middle">Descript</text>
+  <text x="720" y="90" class="header" text-anchor="middle">Fireflies.ai</text>
+
+  <rect x="40" y="100" width="770" height="45" class="row-odd" />
+  <text x="55" y="125" class="header">Transcription</text>
+  <text x="240" y="125" class="cell" text-anchor="middle">95%+ accuracy</text>
+  <text x="480" y="125" class="cell" text-anchor="middle">97%+ accuracy</text>
+  <text x="720" y="125" class="cell" text-anchor="middle">93% accuracy</text>
+
+  <rect x="40" y="145" width="770" height="45" class="row-even" />
+  <text x="55" y="170" class="header">AI Summaries</text>
+  <text x="240" y="170" class="cell" text-anchor="middle">Excellent (4.2/5)</text>
+  <text x="480" y="170" class="cell" text-anchor="middle">Good (3.8/5)</text>
+  <text x="720" y="170" class="cell" text-anchor="middle">Good (3.7/5)</text>
+
+  <rect x="40" y="190" width="770" height="45" class="row-odd" />
+  <text x="55" y="215" class="header">Real-Time Transcription</text>
+  <text x="240" y="215" class="cell" text-anchor="middle">Yes (key feature)</text>
+  <text x="480" y="215" class="cell" text-anchor="middle">Limited</text>
+  <text x="720" y="215" class="cell" text-anchor="middle">No</text>
+
+  <rect x="40" y="235" width="770" height="45" class="row-even" />
+  <text x="55" y="260" class="header">Video/Audio Editing</text>
+  <text x="240" y="260" class="cell" text-anchor="middle">No</text>
+  <text x="480" y="260" class="cell" text-anchor="middle">Yes (excellent)</text>
+  <text x="720" y="260" class="cell" text-anchor="middle">Basic</text>
+
+  <rect x="40" y="280" width="770" height="45" class="row-odd" />
+  <text x="55" y="305" class="header">Speaker ID</text>
+  <text x="240" y="305" class="cell" text-anchor="middle">Good (with setup)</text>
+  <text x="480" y="305" class="cell" text-anchor="middle">Excellent</text>
+  <text x="720" y="305" class="cell" text-anchor="middle">Good</text>
+
+  <rect x="40" y="325" width="770" height="45" class="row-even" />
+  <text x="55" y="350" class="header">Integration Quality</text>
+  <text x="240" y="350" class="cell" text-anchor="middle">Native (Zoom/Teams)</text>
+  <text x="480" y="350" class="cell" text-anchor="middle">Limited</text>
+  <text x="720" y="350" class="cell" text-anchor="middle">Good (native)</text>
+
+  <rect x="40" y="370" width="770" height="35" class="row-odd" />
+  <text x="55" y="395" class="header">Best For</text>
+  <text x="240" y="395" class="cell" text-anchor="middle">Meetings + notes</text>
+  <text x="480" y="395" class="cell" text-anchor="middle">Video editing</text>
+  <text x="720" y="395" class="cell" text-anchor="middle">Transcription</text>
+</svg>

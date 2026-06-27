@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" width="900" height="280">
+  <rect width="900" height="280" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#4A5942" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">Trump-Xi Beijing Summit: AI Outcomes (May 14-15, 2026)</text>
+  <rect x="40" y="55" width="260" height="180" rx="8" fill="white" stroke="#c0392b" stroke-width="1.5"/>
+  <text x="170" y="80" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#c0392b">BLOCKED</text>
+  <text x="170" y="110" font-family="Georgia, serif" font-size="15" font-weight="600" text-anchor="middle" fill="#1A2416">Nvidia H200 Sales</text>
+  <text x="170" y="135" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">US approved, China refused</text>
+  <text x="170" y="160" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">25% revenue share to US govt</text>
+  <text x="170" y="185" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">China prefers domestic chips</text>
+  <text x="170" y="215" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#96845A">Huang added at Alaska refuel stop</text>
+  <rect x="320" y="55" width="260" height="180" rx="8" fill="white" stroke="#f59e0b" stroke-width="1.5"/>
+  <text x="450" y="80" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#f59e0b">IN PROGRESS</text>
+  <text x="450" y="110" font-family="Georgia, serif" font-size="15" font-weight="600" text-anchor="middle" fill="#1A2416">AI Guardrails</text>
+  <text x="450" y="135" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Trump: "standard guardrails"</text>
+  <text x="450" y="160" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Bilateral AI channel proposed</text>
+  <text x="450" y="185" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Anti-distillation measures</text>
+  <text x="450" y="215" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#96845A">No formal agreement signed</text>
+  <rect x="600" y="55" width="260" height="180" rx="8" fill="white" stroke="#6B7C5E" stroke-width="1.5"/>
+  <text x="730" y="80" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#6B7C5E">UNCERTAIN</text>
+  <text x="730" y="110" font-family="Georgia, serif" font-size="15" font-weight="600" text-anchor="middle" fill="#1A2416">Rare Earth Minerals</text>
+  <text x="730" y="135" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Xi: door will "open wider"</text>
+  <text x="730" y="160" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">China controls 70% of supply</text>
+  <text x="730" y="185" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">US rare earth EO signed Jan 2025</text>
+  <text x="730" y="215" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#96845A">No concrete timeline for access</text>
+  <text x="450" y="268" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Source: Bloomberg, CNBC, Time, Tom's Hardware, Fox Business</text>
+</svg>

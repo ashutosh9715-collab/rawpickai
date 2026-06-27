@@ -1,0 +1,75 @@
+<svg viewBox="0 0 900 480" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { color-scheme: light; }
+      .bg { fill: #F4F1EA; }
+      .heading { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 24px; font-weight: 600; fill: #4A5942; }
+      .tier-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 16px; font-weight: 600; fill: #4A5942; }
+      .price { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 28px; font-weight: 700; fill: #3A3228; }
+      .inr { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; font-weight: 500; fill: #8A8577; }
+      .feature-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; fill: #3A3228; }
+      .feature-muted { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; fill: #8A8577; }
+      .tier-card { fill: #FFFFFF; stroke: #DDD8CE; stroke-width: 1.5; }
+      .tier-highlight { fill: #F0EDE5; stroke: #6B7C5E; stroke-width: 2; }
+      .checkmark { fill: #6B7C5E; }
+      .muted { fill: #8A8577; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="900" height="480" rx="12"/>
+
+  <!-- Header -->
+  <text class="heading" x="40" y="45">Tabnine Pricing Tiers 2026</text>
+  <text class="muted" x="40" y="65" font-size="12">Privacy-first pricing  -  no free tier since 2025</text>
+
+  <!-- Dev Tier Card -->
+  <rect class="tier-card" x="140" y="90" width="280" height="360" rx="12"/>
+  <rect x="140" y="90" width="280" height="1" fill="#DDD8CE"/>
+  <text class="tier-title" x="160" y="125">Dev</text>
+  <text class="price" x="160" y="160">$9</text>
+  <text class="inr" x="160" y="178">≈$9/mo (≈₹837)nth</text>
+
+  <!-- Dev Features -->
+  <circle cx="160" cy="210" r="4" class="checkmark"/>
+  <text class="feature-text" x="180" y="215">Local model execution</text>
+  <circle cx="160" cy="235" r="4" class="checkmark"/>
+  <text class="feature-text" x="180" y="240">15+ IDE support</text>
+  <circle cx="160" cy="260" r="4" class="checkmark"/>
+  <text class="feature-text" x="180" y="265">Code completion</text>
+  <circle cx="160" cy="285" r="4" class="checkmark"/>
+  <text class="feature-text" x="180" y="290">Offline functionality</text>
+  <circle cx="160" cy="310" r="4" class="checkmark"/>
+  <text class="feature-text" x="180" y="315">Chat interface</text>
+  <circle cx="160" cy="335" r="4" fill="#DDD8CE"/>
+  <text class="feature-muted" x="180" y="340">Enterprise deployment</text>
+
+  <!-- Enterprise Tier Card (Highlighted) -->
+  <rect class="tier-highlight" x="480" y="80" width="280" height="370" rx="12"/>
+  <rect x="480" y="80" width="280" height="60" fill="#6B7C5E" rx="12"/>
+  <text style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 11px; font-weight: 600; fill: #F4F1EA;" x="500" y="100">FOR REGULATED ORGS</text>
+
+  <text class="tier-title" x="500" y="150">Enterprise</text>
+  <text class="price" x="500" y="185">$39</text>
+  <text class="inr" x="500" y="203">≈$39/mo (≈₹3,627)nth</text>
+
+  <!-- Enterprise Features -->
+  <circle cx="500" cy="235" r="4" class="checkmark"/>
+  <text class="feature-text" x="520" y="240">All Dev features</text>
+  <circle cx="500" cy="260" r="4" class="checkmark"/>
+  <text class="feature-text" x="520" y="265">On-premise deployment</text>
+  <circle cx="500" cy="285" r="4" class="checkmark"/>
+  <text class="feature-text" x="520" y="290">Zero data transmission</text>
+  <circle cx="500" cy="310" r="4" class="checkmark"/>
+  <text class="feature-text" x="520" y="315">SOC 2, HIPAA compliance</text>
+  <circle cx="500" cy="335" r="4" class="checkmark"/>
+  <text class="feature-text" x="520" y="340">Custom fine-tuning</text>
+  <circle cx="500" cy="360" r="4" class="checkmark"/>
+  <text class="feature-text" x="520" y="365">Priority support</text>
+
+  <!-- Free Tier Card (Discontinued) -->
+  <rect class="tier-card" x="820" y="90" width="50" height="360" rx="12"/>
+  <text style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; font-weight: 600; fill: #8A8577; writing-mode: vertical-rl; text-orientation: mixed;" x="835" y="250">Discontinued 2025</text>
+
+  <!-- Comparison note -->
+  <text class="muted" x="40" y="465" font-size="11">Dev tier competes with GitHub Copilot ($15, ₹1,395) but lacks quality parity. Enterprise tier for compliance-bound organizations.</text>
+</svg>

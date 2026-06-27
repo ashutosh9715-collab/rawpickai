@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 280" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+  <!-- Background card -->
+  <rect width="800" height="280" rx="14" fill="#F4F1EA"/>
+
+  <!-- Left accent bar (sage) -->
+  <rect x="0" y="0" width="6" height="280" fill="#4A5942"/>
+
+  <!-- Large decorative quote mark -->
+  <text x="50" y="120" fill="#4A5942" font-size="140" font-weight="700" opacity="0.18" font-family="Georgia, serif">“</text>
+
+  <!-- Quote text (kept under 15 words per quote rule) -->
+  <text x="100" y="94" fill="#3A3228" font-size="18" font-weight="500" font-style="italic">There's a new kind of coding I call vibe coding,</text>
+  <text x="100" y="122" fill="#3A3228" font-size="18" font-weight="500" font-style="italic">where you fully give in to the vibes,</text>
+  <text x="100" y="150" fill="#3A3228" font-size="18" font-weight="500" font-style="italic">embrace exponentials, and forget that the</text>
+  <text x="100" y="178" fill="#3A3228" font-size="18" font-weight="500" font-style="italic">code even exists.</text>
+
+  <!-- Divider line -->
+  <line x1="100" y1="206" x2="160" y2="206" stroke="#4A5942" stroke-width="2"/>
+
+  <!-- Attribution -->
+  <text x="100" y="232" fill="#4A5942" font-size="13" font-weight="700">ANDREJ KARPATHY</text>
+  <text x="100" y="250" fill="#8A8577" font-size="12" font-weight="400">OpenAI co-founder · February 2025</text>
+
+  <!-- Footer tag -->
+  <text x="760" y="250" fill="#8A8577" font-size="11" text-anchor="end">rawpickai.com</text>
+</svg>

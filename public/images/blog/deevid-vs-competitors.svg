@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="1200" height="320">
+  <rect width="900" height="240" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#4A5942" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">DeeVid AI vs Runway vs Pika: Feature Comparison</text>
+  <rect x="40" y="55" width="820" height="28" rx="6" fill="#4A5942"/>
+  <text x="185" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">Feature</text>
+  <text x="390" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">DeeVid AI</text>
+  <text x="570" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">Runway</text>
+  <text x="740" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">Pika</text>
+  <rect x="40" y="87" width="820" height="28" fill="white" rx="3"/>
+  <text x="185" y="106" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Starting price</text>
+  <text x="390" y="106" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A5942">$10/mo (≈₹930)</text>
+  <text x="570" y="106" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">$15/mo (≈₹1,395)</text>
+  <text x="740" y="106" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">$10/mo (≈₹930)</text>
+  <rect x="40" y="119" width="820" height="28" fill="#F9F7F2" rx="3"/>
+  <text x="185" y="138" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Free tier</text>
+  <text x="390" y="138" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#c0392b">Trial only</text>
+  <text x="570" y="138" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#22c55e">Yes (limited)</text>
+  <text x="740" y="138" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#22c55e">Yes (limited)</text>
+  <rect x="40" y="151" width="820" height="28" fill="white" rx="3"/>
+  <text x="185" y="170" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Image-to-video</text>
+  <text x="390" y="170" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#22c55e">✓ Strong</text>
+  <text x="570" y="170" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#22c55e">✓ Strong</text>
+  <text x="740" y="170" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#22c55e">✓ Good</text>
+  <rect x="40" y="183" width="820" height="28" fill="#F9F7F2" rx="3"/>
+  <text x="185" y="202" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">AI image generation</text>
+  <text x="390" y="202" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#22c55e">✓ (Nano Banana)</text>
+  <text x="570" y="202" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#c0392b">✗</text>
+  <text x="740" y="202" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#c0392b">✗</text>
+  <text x="450" y="232" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">DeeVid AI is cheapest entry point. Runway scores higher on output quality. Pika has better free tier.</text>
+</svg>

@@ -1,0 +1,109 @@
+<svg viewBox="0 0 1000 700" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root {
+        --bg: #F4F1EA;
+        --heading: #4A5942;
+        --bar-primary: #6B7C5E;
+        --bar-accent: #96845A;
+        --body: #3A3228;
+        --muted: #8A8577;
+        --track: #DDD8CE;
+      }
+      body { background-color: var(--bg); }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1000" height="700" fill="#F4F1EA"/>
+
+  <!-- Title -->
+  <text x="500" y="45" font-size="32" font-weight="bold" text-anchor="middle" fill="#4A5942" font-family="system-ui, -apple-system, sans-serif">
+    Workspace AI Comparison
+  </text>
+  <text x="500" y="70" font-size="14" text-anchor="middle" fill="#8A8577" font-family="system-ui, -apple-system, sans-serif">
+    Notion AI vs. Coda AI vs. ClickUp AI
+  </text>
+
+  <!-- Header Row -->
+  <rect x="30" y="90" width="940" height="50" fill="#4A5942" rx="12"/>
+  <text x="200" y="125" font-size="15" font-weight="bold" text-anchor="middle" fill="white" font-family="system-ui, -apple-system, sans-serif">Feature</text>
+  <text x="440" y="125" font-size="15" font-weight="bold" text-anchor="middle" fill="white" font-family="system-ui, -apple-system, sans-serif">Notion AI</text>
+  <text x="680" y="125" font-size="15" font-weight="bold" text-anchor="middle" fill="white" font-family="system-ui, -apple-system, sans-serif">Coda AI</text>
+  <text x="900" y="125" font-size="15" font-weight="bold" text-anchor="middle" fill="white" font-family="system-ui, -apple-system, sans-serif">ClickUp AI</text>
+
+  <!-- Row 1: Q&amp;A Accuracy -->
+  <rect x="30" y="140" width="940" height="50" fill="white" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="200" y="172" font-size="13" font-weight="600" text-anchor="middle" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">Q&amp;A Accuracy</text>
+  <text x="440" y="172" font-size="14" font-weight="bold" text-anchor="middle" fill="#6B7C5E" font-family="system-ui, -apple-system, sans-serif">9/10</text>
+  <text x="680" y="172" font-size="14" font-weight="bold" text-anchor="middle" fill="#8A8577" font-family="system-ui, -apple-system, sans-serif">7/10</text>
+  <text x="900" y="172" font-size="14" font-weight="bold" text-anchor="middle" fill="#8A8577" font-family="system-ui, -apple-system, sans-serif">6/10</text>
+
+  <!-- Row 2: Writing Quality -->
+  <rect x="30" y="190" width="940" height="50" fill="#F4F1EA" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="200" y="222" font-size="13" font-weight="600" text-anchor="middle" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">Writing Quality</text>
+  <text x="440" y="222" font-size="14" font-weight="bold" text-anchor="middle" fill="#6B7C5E" font-family="system-ui, -apple-system, sans-serif">8/10</text>
+  <text x="680" y="222" font-size="14" font-weight="bold" text-anchor="middle" fill="#6B7C5E" font-family="system-ui, -apple-system, sans-serif">8/10</text>
+  <text x="900" y="222" font-size="14" font-weight="bold" text-anchor="middle" fill="#8A8577" font-family="system-ui, -apple-system, sans-serif">6/10</text>
+
+  <!-- Row 3: Workspace Maturity -->
+  <rect x="30" y="240" width="940" height="50" fill="white" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="200" y="272" font-size="13" font-weight="600" text-anchor="middle" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">Workspace Maturity</text>
+  <text x="440" y="272" font-size="14" font-weight="bold" text-anchor="middle" fill="#96845A" font-family="system-ui, -apple-system, sans-serif">9/10</text>
+  <text x="680" y="272" font-size="14" font-weight="bold" text-anchor="middle" fill="#8A8577" font-family="system-ui, -apple-system, sans-serif">6/10</text>
+  <text x="900" y="272" font-size="14" font-weight="bold" text-anchor="middle" fill="#8A8577" font-family="system-ui, -apple-system, sans-serif">7/10</text>
+
+  <!-- Row 4: AI Integration -->
+  <rect x="30" y="290" width="940" height="50" fill="#F4F1EA" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="200" y="322" font-size="13" font-weight="600" text-anchor="middle" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">AI Integration Design</text>
+  <text x="440" y="322" font-size="14" font-weight="bold" text-anchor="middle" fill="#8A8577" font-family="system-ui, -apple-system, sans-serif">6/10</text>
+  <text x="680" y="322" font-size="14" font-weight="bold" text-anchor="middle" fill="#96845A" font-family="system-ui, -apple-system, sans-serif">9/10</text>
+  <text x="900" y="322" font-size="14" font-weight="bold" text-anchor="middle" fill="#96845A" font-family="system-ui, -apple-system, sans-serif">8/10</text>
+
+  <!-- Row 5: Learning Curve -->
+  <rect x="30" y="340" width="940" height="50" fill="white" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="200" y="372" font-size="13" font-weight="600" text-anchor="middle" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">Learning Curve (low is better)</text>
+  <text x="440" y="372" font-size="14" font-weight="bold" text-anchor="middle" fill="#6B7C5E" font-family="system-ui, -apple-system, sans-serif">Low</text>
+  <text x="680" y="372" font-size="14" font-weight="bold" text-anchor="middle" fill="#8A8577" font-family="system-ui, -apple-system, sans-serif">Medium</text>
+  <text x="900" y="372" font-size="14" font-weight="bold" text-anchor="middle" fill="#8A8577" font-family="system-ui, -apple-system, sans-serif">Medium</text>
+
+  <!-- Row 6: Mobile Experience -->
+  <rect x="30" y="390" width="940" height="50" fill="#F4F1EA" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="200" y="422" font-size="13" font-weight="600" text-anchor="middle" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">Mobile Experience</text>
+  <text x="440" y="422" font-size="14" font-weight="bold" text-anchor="middle" fill="#6B7C5E" font-family="system-ui, -apple-system, sans-serif">Excellent</text>
+  <text x="680" y="422" font-size="14" font-weight="bold" text-anchor="middle" fill="#6B7C5E" font-family="system-ui, -apple-system, sans-serif">Good</text>
+  <text x="900" y="422" font-size="14" font-weight="bold" text-anchor="middle" fill="#96845A" font-family="system-ui, -apple-system, sans-serif">Excellent</text>
+
+  <!-- Row 7: Pricing -->
+  <rect x="30" y="440" width="940" height="50" fill="white" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="200" y="472" font-size="13" font-weight="600" text-anchor="middle" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">Base Pricing</text>
+  <text x="440" y="472" font-size="13" text-anchor="middle" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">≈₹930 included</text>
+  <text x="680" y="472" font-size="13" text-anchor="middle" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">≈₹1,000 included</text>
+  <text x="900" y="472" font-size="13" text-anchor="middle" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">≈₹1,200 included</text>
+
+  <!-- Row 8: Best Use Case -->
+  <rect x="30" y="490" width="940" height="60" fill="#F4F1EA" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="200" y="515" font-size="12" font-weight="600" text-anchor="middle" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">Best For</text>
+  <text x="440" y="515" font-size="12" text-anchor="middle" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">Knowledge</text>
+  <text x="440" y="535" font-size="12" text-anchor="middle" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">workers,</text>
+  <text x="440" y="555" font-size="12" text-anchor="middle" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">researchers</text>
+  <text x="680" y="515" font-size="12" text-anchor="middle" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">AI-forward</text>
+  <text x="680" y="535" font-size="12" text-anchor="middle" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">teams,</text>
+  <text x="680" y="555" font-size="12" text-anchor="middle" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">startups</text>
+  <text x="900" y="515" font-size="12" text-anchor="middle" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">Project</text>
+  <text x="900" y="535" font-size="12" text-anchor="middle" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">managers,</text>
+  <text x="900" y="555" font-size="12" text-anchor="middle" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">agencies</text>
+
+  <!-- Recommendation Box -->
+  <rect x="30" y="580" width="940" height="90" fill="#4A5942" rx="12" opacity="0.08"/>
+  <text x="500" y="610" font-size="14" font-weight="bold" text-anchor="middle" fill="#4A5942" font-family="system-ui, -apple-system, sans-serif">
+    Winner depends on your needs
+  </text>
+  <text x="500" y="635" font-size="12" text-anchor="middle" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">
+    Notion AI wins on output quality and workspace maturity. Coda AI excels at AI-native design.
+  </text>
+  <text x="500" y="655" font-size="12" text-anchor="middle" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">
+    ClickUp AI best for project management teams. Choose the workspace you like, then get decent AI as a bonus.
+  </text>
+
+</svg>

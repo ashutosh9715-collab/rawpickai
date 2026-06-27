@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#F4F1EA"/>
+  <rect x="0" y="0" width="1200" height="8" fill="#4A5942"/>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="14" font-weight="700" fill="#96845A" letter-spacing="3">RAWPICKAI NEWS BRIEF</text>
+  <text x="60" y="138" font-family="Georgia, serif" font-size="42" font-weight="700" fill="#1A2416" letter-spacing="-1">xAI Retires 8 Grok Models Today</text>
+  <text x="60" y="190" font-family="Georgia, serif" font-size="42" font-weight="700" fill="#1A2416" letter-spacing="-1">iOS 27: Pick Your AI Provider</text>
+  <line x1="60" y1="220" x2="300" y2="220" stroke="#4A5942" stroke-width="3"/>
+  <text x="60" y="268" font-family="Georgia, serif" font-size="19" fill="#4A453E">All redirected to Grok 4.3 at higher prices.</text>
+  <text x="60" y="298" font-family="Georgia, serif" font-size="19" fill="#4A453E">Apple opens Siri to Claude, Gemini, and Grok.</text>
+  <text x="60" y="328" font-family="Georgia, serif" font-size="19" fill="#4A453E">Google I/O in 4 days. 8,000+ AI layoffs this month.</text>
+  <rect x="700" y="100" width="420" height="380" rx="16" fill="#4A5942" opacity="0.08"/>
+  <text x="910" y="160" font-family="Georgia, serif" font-size="14" font-weight="600" text-anchor="middle" fill="#96845A">iOS 27 AI CHOICE</text>
+  <text x="780" y="210" font-family="Georgia, serif" font-size="15" fill="#4A453E">ChatGPT</text>
+  <text x="1040" y="210" font-family="Georgia, serif" font-size="13" fill="#96845A" text-anchor="end">Current default</text>
+  <rect x="780" y="220" width="280" height="1" fill="#4A5942" opacity="0.2"/>
+  <text x="780" y="250" font-family="Georgia, serif" font-size="15" fill="#4A453E">Gemini</text>
+  <text x="1040" y="250" font-family="Georgia, serif" font-size="13" fill="#96845A" text-anchor="end">$1B/yr native deal</text>
+  <rect x="780" y="260" width="280" height="1" fill="#4A5942" opacity="0.2"/>
+  <text x="780" y="290" font-family="Georgia, serif" font-size="15" fill="#4A453E">Claude</text>
+  <text x="1040" y="290" font-family="Georgia, serif" font-size="13" fill="#96845A" text-anchor="end">First consumer distribution</text>
+  <rect x="780" y="300" width="280" height="1" fill="#4A5942" opacity="0.2"/>
+  <text x="780" y="330" font-family="Georgia, serif" font-size="15" fill="#4A453E">Grok</text>
+  <text x="1040" y="330" font-family="Georgia, serif" font-size="13" fill="#96845A" text-anchor="end">Won via antitrust lawsuit</text>
+  <rect x="780" y="350" width="280" height="1" fill="#4A5942" opacity="0.3"/>
+  <text x="910" y="385" font-family="Georgia, serif" font-size="14" font-weight="600" text-anchor="middle" fill="#4A5942">2+ billion iPhones affected</text>
+  <text x="910" y="415" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">WWDC June 8 for details</text>
+  <text x="60" y="560" font-family="Georgia, serif" font-size="14" fill="#96845A">May 15, 2026</text>
+  <text x="60" y="585" font-family="Georgia, serif" font-size="12" fill="#8A8577">rawpickai.com/news</text>
+</svg>

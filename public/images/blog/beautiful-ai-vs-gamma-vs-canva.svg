@@ -1,0 +1,72 @@
+<svg viewBox="0 0 900 520" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { color-scheme: light; }
+      .bg { fill: #F4F1EA; }
+      .heading { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 24px; font-weight: 700; fill: #4A5942; }
+      .col-header { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; font-weight: 600; fill: #4A5942; }
+      .row-label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; font-weight: 500; fill: #3A3228; }
+      .cell-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 11px; fill: #3A3228; }
+      .grid { stroke: #DDD8CE; stroke-width: 1; }
+      .beautiful { fill: #6B7C5E; opacity: 0.1; }
+      .gamma { fill: #96845A; opacity: 0.1; }
+      .canva { fill: #6B7C5E; opacity: 0.08; }
+      .highlight { font-weight: 600; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="900" height="520" rx="12"/>
+
+  <text class="heading" x="40" y="45">Beautiful.ai vs Gamma vs Canva</text>
+
+  <!-- Table Header -->
+  <rect class="beautiful" x="40" y="65" width="280" height="40" rx="4"/>
+  <text class="col-header" x="60" y="95">Beautiful.ai</text>
+
+  <rect class="gamma" x="340" y="65" width="280" height="40" rx="4"/>
+  <text class="col-header" x="360" y="95">Gamma</text>
+
+  <rect class="canva" x="640" y="65" width="220" height="40" rx="4"/>
+  <text class="col-header" x="660" y="95">Canva Pro</text>
+
+  <!-- Price Row -->
+  <text class="row-label" x="40" y="135">Price/mo</text>
+  <text class="cell-text" x="60" y="155">$12 (≈₹1,116)-1,395</text>
+  <text class="cell-text highlight" x="360" y="155">$10</text>
+  <text class="cell-text highlight" x="660" y="155">$5</text>
+
+  <!-- Design Consistency -->
+  <text class="row-label" x="40" y="200">Brand Consistency</text>
+  <text class="cell-text highlight" x="60" y="220">Excellent</text>
+  <text class="cell-text" x="360" y="220">Good</text>
+  <text class="cell-text" x="660" y="220">Very Good</text>
+
+  <!-- Customization -->
+  <text class="row-label" x="40" y="265">Customization</text>
+  <text class="cell-text" x="60" y="285">Limited (templates)</text>
+  <text class="cell-text highlight" x="360" y="285">Moderate</text>
+  <text class="cell-text highlight" x="660" y="285">Excellent</text>
+
+  <!-- Speed -->
+  <text class="row-label" x="40" y="330">Creation Speed</text>
+  <text class="cell-text" x="60" y="350">Medium (45+ min)</text>
+  <text class="cell-text highlight" x="360" y="350">Fast (75 sec gen)</text>
+  <text class="cell-text" x="660" y="350">Manual work</text>
+
+  <!-- Trial Experience -->
+  <text class="row-label" x="40" y="395">Free Trial</text>
+  <text class="cell-text" x="60" y="415">None</text>
+  <text class="cell-text highlight" x="360" y="415">Available</text>
+  <text class="cell-text highlight" x="660" y="415">Available</text>
+
+  <!-- Best For -->
+  <text class="row-label" x="40" y="460">Best For</text>
+  <text class="cell-text" x="60" y="480">Corporate</text>
+  <text class="cell-text" x="60" y="495">consistency</text>
+
+  <text class="cell-text" x="360" y="480">Fast generation</text>
+  <text class="cell-text" x="360" y="495">+ good design</text>
+
+  <text class="cell-text" x="660" y="480">Flexibility</text>
+  <text class="cell-text" x="660" y="495">+ affordability</text>
+</svg>

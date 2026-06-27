@@ -1,0 +1,41 @@
+<svg viewBox="0 0 700 400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="400" fill="#F4F1EA"/>
+  <text x="350" y="30" font-size="24" font-weight="bold" text-anchor="middle" fill="#4A5942">AI Presentation Tools Scores</text>
+  <text x="350" y="50" font-size="14" text-anchor="middle" fill="#8A8577">Design Quality &amp; AI Capability Rating</text>
+
+  <line x1="100" y1="70" x2="100" y2="340" stroke="#DDD8CE" stroke-width="1"/>
+  <line x1="100" y1="340" x2="680" y2="340" stroke="#DDD8CE" stroke-width="1"/>
+
+  <text x="95" y="345" font-size="11" text-anchor="end" fill="#8A8577">0</text>
+  <text x="95" y="235" font-size="11" text-anchor="end" fill="#8A8577">2.5</text>
+  <text x="95" y="125" font-size="11" text-anchor="end" fill="#8A8577">5</text>
+
+  <rect x="110" y="95" width="50" height="245" rx="10" fill="#6B7C5E"/>
+  <text x="135" y="355" font-size="12" font-weight="600" text-anchor="middle" fill="#4A5942">Gamma</text>
+  <text x="135" y="75" font-size="13" font-weight="700" fill="#4A5942">4.7/5</text>
+
+  <rect x="170" y="130" width="50" height="210" rx="10" fill="#96845A"/>
+  <text x="195" transform="rotate(-25,195,355)" y="355" font-size="12" font-weight="600" text-anchor="middle" fill="#4A5942">Beautiful.ai</text>
+  <text x="195" y="110" font-size="13" font-weight="700" fill="#4A5942">4.4/5</text>
+
+  <rect x="230" y="162" width="50" height="178" rx="10" fill="#6B7C5E"/>
+  <text x="255" transform="rotate(-25,255,355)" y="355" font-size="12" font-weight="600" text-anchor="middle" fill="#4A5942">Canva</text>
+  <text x="255" y="142" font-size="13" font-weight="700" fill="#4A5942">4.0/5</text>
+
+  <rect x="290" y="227" width="50" height="113" rx="10" fill="#96845A"/>
+  <text x="315" transform="rotate(-25,315,355)" y="355" font-size="12" font-weight="600" text-anchor="middle" fill="#4A5942">Google Slides</text>
+  <text x="315" y="207" font-size="13" font-weight="700" fill="#4A5942">3.5/5</text>
+
+  <rect x="350" y="195" width="50" height="145" rx="10" fill="#6B7C5E"/>
+  <text x="375" transform="rotate(-25,375,355)" y="355" font-size="12" font-weight="600" text-anchor="middle" fill="#4A5942">PowerPoint</text>
+  <text x="375" y="175" font-size="13" font-weight="700" fill="#4A5942">3.8/5</text>
+
+  <text x="480" y="100" font-size="14" font-weight="bold" fill="#4A5942">Best For:</text>
+  <text x="480" y="125" font-size="11" fill="#3A3228">Gamma: Creative presentations</text>
+  <text x="480" y="145" font-size="11" fill="#3A3228">Beautiful.ai: Brand consistency</text>
+  <text x="480" y="165" font-size="11" fill="#3A3228">Canva: Versatility</text>
+  <text x="480" y="185" font-size="11" fill="#3A3228">Google: Free option</text>
+  <text x="480" y="205" font-size="11" fill="#3A3228">PowerPoint: Enterprise</text>
+
+  <text x="350" y="390" font-size="11" text-anchor="middle" fill="#8A8577">Gamma ₹930/mo, Beautiful.ai ₹1,116/mo, Canva ₹1,395/mo, Google Slides Free</text>
+</svg>

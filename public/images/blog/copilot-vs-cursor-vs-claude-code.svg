@@ -1,0 +1,110 @@
+<svg viewBox="0 0 1000 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root {
+        --bg: #F4F1EA;
+        --heading: #4A5942;
+        --body: #3A3228;
+        --muted: #8A8577;
+        --track: #DDD8CE;
+        --cell-bg: #FBF8F4;
+        --border: #E8E3D8;
+      }
+      body { color-scheme: light; }
+      .bg { fill: #F4F1EA; }
+      .heading { fill: #4A5942; font-family: system-ui, -apple-system, sans-serif; font-weight: 700; }
+      .subheading { fill: #4A5942; font-family: system-ui, -apple-system, sans-serif; font-weight: 600; }
+      .label { fill: #3A3228; font-family: system-ui, -apple-system, sans-serif; font-size: 12px; font-weight: 500; }
+      .cell { fill: #3A3228; font-family: system-ui, -apple-system, sans-serif; font-size: 12px; }
+      .muted-text { fill: #8A8577; font-family: system-ui, -apple-system, sans-serif; font-size: 12px; }
+      .good { fill: #6B7C5E; }
+      .neutral { fill: #96845A; }
+      .limited { fill: #8A8577; }
+      .cell-bg { fill: #FBF8F4; }
+      .header-bg { fill: #EEEBE5; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1000" height="600"/>
+
+  <!-- Title -->
+  <text class="heading" x="40" y="35" font-size="22">GitHub Copilot vs Cursor vs Claude Code</text>
+  <text class="muted-text" x="40" y="55">Head-to-head comparison of the top three AI coding tools</text>
+
+  <!-- Table Header -->
+  <rect class="header-bg" x="40" y="70" width="920" height="40" rx="8"/>
+  <text class="subheading" x="50" y="100" font-size="13">Feature</text>
+  <text class="subheading" x="300" y="100" font-size="13">GitHub Copilot</text>
+  <text class="subheading" x="550" y="100" font-size="13">Cursor</text>
+  <text class="subheading" x="800" y="100" font-size="13">Claude Code</text>
+
+  <!-- Row 1: Interface -->
+  <rect class="cell-bg" x="40" y="115" width="920" height="35" rx="4"/>
+  <text class="label" x="50" y="140">Interface</text>
+  <text class="cell" x="300" y="140">IDE plugin</text>
+  <text class="cell" x="550" y="140">Custom editor</text>
+  <text class="cell" x="800" y="140">Terminal CLI</text>
+
+  <!-- Row 2: Multi-file refactoring -->
+  <rect class="cell-bg" x="40" y="155" width="920" height="35" rx="4"/>
+  <text class="label" x="50" y="180">Multi-file refactoring</text>
+  <text class="good cell" x="300" y="180">Good</text>
+  <text class="good cell" x="550" y="180">Very good</text>
+  <text class="good cell" x="800" y="180">Excellent</text>
+
+  <!-- Row 3: Price (monthly) -->
+  <rect class="cell-bg" x="40" y="195" width="920" height="35" rx="4"/>
+  <text class="label" x="50" y="220">Monthly Cost</text>
+  <text class="cell" x="300" y="220">$10 (≈₹930)</text>
+  <text class="cell" x="550" y="220">$20 (≈₹1,860)</text>
+  <text class="cell" x="800" y="220">$100+ (≈₹9,300+)</text>
+
+  <!-- Row 4: Context awareness -->
+  <rect class="cell-bg" x="40" y="235" width="920" height="35" rx="4"/>
+  <text class="label" x="50" y="260">Project context</text>
+  <text class="neutral cell" x="300" y="260">File + workspace</text>
+  <text class="good cell" x="550" y="260">Full project</text>
+  <text class="good cell" x="800" y="260">Full project</text>
+
+  <!-- Row 5: IDE flexibility -->
+  <rect class="cell-bg" x="40" y="275" width="920" height="35" rx="4"/>
+  <text class="label" x="50" y="300">IDE flexibility</text>
+  <text class="good cell" x="300" y="300">15+ editors</text>
+  <text class="limited cell" x="550" y="300">VS Code only</text>
+  <text class="neutral cell" x="800" y="300">Terminal only</text>
+
+  <!-- Row 6: Learning curve -->
+  <rect class="cell-bg" x="40" y="315" width="920" height="35" rx="4"/>
+  <text class="label" x="50" y="340">Learning curve</text>
+  <text class="good cell" x="300" y="340">Very low</text>
+  <text class="good cell" x="550" y="340">Low</text>
+  <text class="limited cell" x="800" y="340">Medium-high</text>
+
+  <!-- Row 7: Free tier -->
+  <rect class="cell-bg" x="40" y="355" width="920" height="35" rx="4"/>
+  <text class="label" x="50" y="380">Free tier quality</text>
+  <text class="neutral cell" x="300" y="380">Limited (2K/mo)</text>
+  <text class="good cell" x="550" y="380">Good trial</text>
+  <text class="limited cell" x="800" y="380">Very limited</text>
+
+  <!-- Row 8: IP indemnity -->
+  <rect class="cell-bg" x="40" y="395" width="920" height="35" rx="4"/>
+  <text class="label" x="50" y="420">IP indemnity</text>
+  <text class="good cell" x="300" y="420">Enterprise only</text>
+  <text class="limited cell" x="550" y="420">Not included</text>
+  <text class="limited cell" x="800" y="420">Not included</text>
+
+  <!-- Row 9: Real-time suggestions -->
+  <rect class="cell-bg" x="40" y="435" width="920" height="35" rx="4"/>
+  <text class="label" x="50" y="460">Real-time suggestions</text>
+  <text class="good cell" x="300" y="460">Yes, 48% accept</text>
+  <text class="good cell" x="550" y="460">Yes, high quality</text>
+  <text class="limited cell" x="800" y="460">Via agent mode</text>
+
+  <!-- Recommendation box -->
+  <rect class="cell-bg" x="40" y="485" width="920" height="100" rx="8" stroke="#E8E3D8" stroke-width="1.5"/>
+  <text class="subheading" x="60" y="510" font-size="12">When to use each:</text>
+  <text class="cell" x="60" y="535">Copilot: Staying loyal to your IDE without switching. Enterprise teams needing IP cover.</text>
+  <text class="cell" x="60" y="558">Cursor: Daily coding, visual approval of changes, lower budget.</text>
+  <text class="cell" x="60" y="581">Claude Code: Large codebase refactors, migrations, architecture decisions.</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="1200" height="213">
+  <rect width="900" height="160" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#4A5942" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">Testing Setup: 4 Generations, 62 Credits Consumed</text>
+  <rect x="40" y="55" width="390" height="85" rx="8" fill="white" stroke="#4A5942" stroke-width="1.5"/>
+  <text x="235" y="78" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#4A5942">Test Prompt</text>
+  <text x="235" y="100" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">"A developer typing code at a desk,</text>
+  <text x="235" y="118" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">cinematic lighting, 4K"</text>
+  <rect x="460" y="55" width="400" height="85" rx="8" fill="white" stroke="#96845A" stroke-width="1.5"/>
+  <text x="660" y="78" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#96845A">Results</text>
+  <text x="660" y="100" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">220 credits at start - 158 after 4 tests</text>
+  <text x="660" y="120" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#96845A">Master V4.0 best result overall</text>
+  <text x="450" y="152" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Tested: Sora2, Master V2.0, Master V4.0, Image-to-Video (Quality V2.5). May 30, 2026.</text>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="1200" height="320">
+  <rect width="900" height="240" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#4A5942" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">Gumloop vs Zapier vs Make: AI Workflow Comparison</text>
+  <rect x="40" y="55" width="820" height="28" rx="6" fill="#4A5942"/>
+  <text x="180" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">Feature</text>
+  <text x="390" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">Gumloop</text>
+  <text x="570" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">Zapier</text>
+  <text x="750" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">Make</text>
+  <rect x="40" y="87" width="820" height="26" fill="white" rx="3"/>
+  <text x="180" y="105" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">AI-native design</text>
+  <text x="390" y="105" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#22c55e">Yes (built for AI)</text>
+  <text x="570" y="105" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">Bolted on</text>
+  <text x="750" y="105" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">Bolted on</text>
+  <rect x="40" y="117" width="820" height="26" fill="#F9F7F2" rx="3"/>
+  <text x="180" y="135" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Non-AI steps cost</text>
+  <text x="390" y="135" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#22c55e">Free</text>
+  <text x="570" y="135" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#c0392b">1 task each</text>
+  <text x="750" y="135" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#c0392b">1 operation each</text>
+  <rect x="40" y="147" width="820" height="26" fill="white" rx="3"/>
+  <text x="180" y="165" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">AI models</text>
+  <text x="390" y="165" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#22c55e">7 providers</text>
+  <text x="570" y="165" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">OpenAI + Claude</text>
+  <text x="750" y="165" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">OpenAI mainly</text>
+  <rect x="40" y="177" width="820" height="26" fill="#F9F7F2" rx="3"/>
+  <text x="180" y="195" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">App integrations</text>
+  <text x="390" y="195" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">Growing</text>
+  <text x="570" y="195" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#4A5942">8,500+</text>
+  <text x="750" y="195" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">1,800+</text>
+  <rect x="40" y="207" width="820" height="26" fill="white" rx="3"/>
+  <text x="180" y="225" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Entry price</text>
+  <text x="390" y="225" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#22c55e">$37/mo (≈₹3,441)</text>
+  <text x="570" y="225" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">$19.99/mo (≈₹1,859)</text>
+  <text x="750" y="225" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">$7.65/mo (≈₹711)</text>
+</svg>

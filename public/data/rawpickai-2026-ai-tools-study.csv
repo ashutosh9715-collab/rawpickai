@@ -1,0 +1,49 @@
+tool_name,slug,category,overall_score,ease_of_use,output_quality,value_for_money,feature_depth,free_tier_score,has_free_tier,entry_paid_usd,entry_paid_inr,top_paid_usd,plan_count,enterprise_published_price,price_source,last_updated,review_url
+Adobe Firefly,adobe-firefly,Image Generation,3.5,90,60,80,70,80,True,,0,,1,False,unknown,2026-04-17,https://rawpickai.com/review/adobe-firefly
+Amazon Q Developer,amazon-codewhisperer,Code Assistants,3.1,70,60,70,64,72,True,,0,,1,False,unknown,2026-04-01,https://rawpickai.com/review/amazon-codewhisperer
+Beautiful.ai,beautiful-ai,Productivity & Presentations,3.5,80,80,50,70,20,True,12,1116,15,3,False,body_text,2026-04-01,https://rawpickai.com/review/beautiful-ai
+Canva AI,canva-ai,Design & Creative,4.1,90,76,80,78,84,True,15,1395,20,3,False,body_text,2026-04-17,https://rawpickai.com/review/canva-ai
+ChatGPT,chatgpt,AI Assistants,4.5,92,88,78,90,72,True,20,1860,200,3,False,structured,2026-04-01,https://rawpickai.com/review/chatgpt
+Claude Code,claude-code,AI Coding Tools,4.3,75,93,60,95,35,True,10,930,200,5,True,body_text,2026-04-09,https://rawpickai.com/review/claude-code
+Claude,claude,AI Assistants,4.4,85,95,82,78,76,True,20,1860,100,3,False,structured,2026-04-01,https://rawpickai.com/review/claude
+Coda AI,coda-ai,Productivity & Presentations,3.6,56,84,82,80,70,True,,0,,1,False,unknown,2026-04-17,https://rawpickai.com/review/coda-ai
+Copy.ai,copyai,AI Writing Tools,3.5,70,76,50,84,60,True,49,4557,49,2,False,body_text,2026-04-01,https://rawpickai.com/review/copyai
+Cursor,cursor,Code Assistants,4.5,80,93,85,92,68,True,20,1860,200,4,False,structured,2026-04-01,https://rawpickai.com/review/cursor
+DALL-E 3,dalle3,Image Generation,3.8,94,70,72,64,80,True,,0,,1,False,unknown,2026-04-01,https://rawpickai.com/review/dalle3
+Descript,descript,Video & Audio,4.0,90,80,80,70,70,True,16,1488,50,4,True,body_text,2026-04-01,https://rawpickai.com/review/descript
+ElevenLabs,elevenlabs,Video & Audio,4.3,90,96,76,88,64,True,5,465,99,4,True,body_text,2026-04-01,https://rawpickai.com/review/elevenlabs
+Figma AI,figma-ai,Design & Creative,3.6,80,70,64,74,70,True,,0,,1,False,unknown,2026-04-01,https://rawpickai.com/review/figma-ai
+Gamma AI,gamma,Productivity & Presentations,3.9,80,100,60,80,60,True,,0,,1,False,unknown,2026-04-01,https://rawpickai.com/review/gamma
+GitHub Copilot,github-copilot,Code Assistants,4.2,90,82,80,84,70,True,10,930,39,3,False,body_text,2026-04-01,https://rawpickai.com/review/github-copilot
+Gemini 3.1 Pro,google-gemini,AI Assistants,4.5,85,92,88,92,88,True,19,1767,20,3,False,body_text,2026-04-11,https://rawpickai.com/review/google-gemini
+NotebookLM,google-notebooklm,Research,4.6,92,90,95,90,95,True,19,1767,124,5,True,body_text,2026-04-17,https://rawpickai.com/review/google-notebooklm
+Google Slides + Gemini,google-slides-gemini,Productivity & Presentations,3.2,80,50,100,60,90,True,,0,,1,False,unknown,2026-04-01,https://rawpickai.com/review/google-slides-gemini
+Grammarly,grammarly,Writing Tools,4.0,90,80,76,84,86,True,12,1116,12,2,False,body_text,2026-04-01,https://rawpickai.com/review/grammarly
+HeyGen,heygen,Video & Audio,3.6,84,70,62,80,76,True,29,2697,149,4,True,body_text,2026-04-01,https://rawpickai.com/review/heygen
+Ideogram AI,ideogram,Image Generation,3.7,80,70,80,70,90,True,,0,,1,False,unknown,2026-04-01,https://rawpickai.com/review/ideogram
+Jasper,jasper,Writing & Content,3.6,82,74,52,76,60,False,49,4557,69,3,False,structured,2026-04-01,https://rawpickai.com/review/jasper
+Kling AI,kling-ai,Video & Audio,3.5,80,70,90,70,82,True,5,465,29,3,False,body_text,2026-04-01,https://rawpickai.com/review/kling-ai
+Leonardo AI,leonardo-ai,Image Generation,4.0,90,80,90,80,100,True,,0,,1,False,unknown,2026-04-01,https://rawpickai.com/review/leonardo-ai
+Looka,looka,Design & Creative,3.4,90,60,70,60,80,True,14,1302,14,2,False,body_text,2026-04-01,https://rawpickai.com/review/looka
+Luma Dream Machine,luma-dream-machine,Video & Audio,3.4,70,60,80,70,75,True,12,1116,12,2,False,body_text,2026-04-17,https://rawpickai.com/review/luma-dream-machine
+Manus AI,manus-ai,AI Agents,3.8,82,78,55,85,60,True,20,1860,100,4,True,body_text,2026-04-10,https://rawpickai.com/review/manus-ai
+Meta AI,meta-ai,AI Assistants,3.0,90,50,90,50,95,True,20,1860,20,2,False,body_text,2026-04-01,https://rawpickai.com/review/meta-ai
+Microsoft Copilot,microsoft-copilot,AI Assistants,3.5,80,70,50,80,70,True,,0,,1,False,unknown,2026-04-17,https://rawpickai.com/review/microsoft-copilot
+Midjourney,midjourney,Image Generation,4.4,65,97,78,82,0,False,10,930,120,4,False,structured,2026-04-01,https://rawpickai.com/review/midjourney
+Mistral Le Chat,mistral-le-chat,AI Assistants,3.3,70,70,80,56,82,True,,0,,1,False,unknown,2026-04-17,https://rawpickai.com/review/mistral-le-chat
+Murf AI,murf-ai,Video & Audio,3.4,84,62,86,76,70,True,19,1767,99,4,True,body_text,2026-04-01,https://rawpickai.com/review/murf-ai
+Notion AI,notion-ai,Productivity & Presentations,3.8,84,78,70,76,62,True,10,930,10,2,False,body_text,2026-04-01,https://rawpickai.com/review/notion-ai
+Otter.ai,otter-ai,Productivity & Presentations,3.9,84,82,74,80,90,True,8,744,8,2,False,body_text,2026-04-01,https://rawpickai.com/review/otter-ai
+Perplexity,perplexity,Research & Education,4.4,90,88,86,80,85,True,20,1860,200,3,False,structured,2026-04-01,https://rawpickai.com/review/perplexity
+Pika,pika,Video & Audio,3.7,84,70,86,76,82,True,,0,,1,False,unknown,2026-04-01,https://rawpickai.com/review/pika
+Microsoft PowerPoint + Copilot,powerpoint-copilot,Productivity & Presentations,3.3,70,72,50,84,0,False,,0,,0,False,unknown,2026-04-01,https://rawpickai.com/review/powerpoint-copilot
+Runway ML,runway,Video & Audio,4.1,80,90,70,84,60,True,,0,,1,False,unknown,2026-04-01,https://rawpickai.com/review/runway
+Rytr,rytr,Writing & Content,2.9,70,50,64,56,60,True,,0,,1,False,unknown,2026-04-01,https://rawpickai.com/review/rytr
+Semrush AI,semrush-ai,Marketing & SEO,3.7,70,72,56,90,60,True,,0,,1,False,unknown,2026-04-01,https://rawpickai.com/review/semrush-ai
+Stable Diffusion,stable-diffusion,Image Generation,3.8,50,84,90,94,100,True,12,1116,99,7,True,body_text,2026-04-01,https://rawpickai.com/review/stable-diffusion
+Stable Video Diffusion,stable-video-diffusion,Video & Audio,2.8,40,50,80,60,90,True,12,1116,12,2,False,body_text,2026-04-01,https://rawpickai.com/review/stable-video-diffusion
+Surfer SEO,surfer-seo,Marketing & SEO,3.9,84,70,64,82,60,True,69,6417,179,4,True,body_text,2026-04-01,https://rawpickai.com/review/surfer-seo
+Tabnine,tabnine,Code Assistants,3.2,70,60,50,60,20,True,9,837,39,3,False,body_text,2026-04-01,https://rawpickai.com/review/tabnine
+Windsurf,windsurf,Code Assistants,3.8,84,72,82,70,90,True,5,465,30,5,True,body_text,2026-04-01,https://rawpickai.com/review/windsurf
+Writesonic,writesonic,AI Writing Tools,3.4,80,64,62,76,70,True,22,2046,39,3,False,body_text,2026-04-01,https://rawpickai.com/review/writesonic
+You.com,youcom,AI Search & Research,3.3,70,64,60,70,76,True,15,1395,20,3,False,body_text,2026-04-01,https://rawpickai.com/review/youcom

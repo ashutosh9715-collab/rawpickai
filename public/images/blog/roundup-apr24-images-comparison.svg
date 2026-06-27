@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" role="img" aria-labelledby="title2">
+  <title id="title2">ChatGPT Images 2.0 multilingual rendering versus previous models</title>
+  <rect width="800" height="380" fill="#F4F1EA"/>
+
+  <!-- Title -->
+  <text x="400" y="40" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#1A2416" text-anchor="middle">Text rendering: before vs. after Images 2.0</text>
+  <text x="400" y="62" font-family="Georgia, serif" font-size="13" fill="#6B6960" text-anchor="middle">Five languages where AI image generators historically failed</text>
+
+  <!-- Column headers -->
+  <text x="200" y="110" font-family="Georgia, serif" font-size="14" font-weight="700" fill="#96845A" text-anchor="middle">BEFORE (DALL·E 3, others)</text>
+  <text x="600" y="110" font-family="Georgia, serif" font-size="14" font-weight="700" fill="#4A5942" text-anchor="middle">CHATGPT IMAGES 2.0</text>
+
+  <!-- Divider -->
+  <line x1="400" y1="90" x2="400" y2="360" stroke="#D4D0C0" stroke-width="1" stroke-dasharray="3,3"/>
+
+  <!-- Row 1: Hindi -->
+  <text x="40" y="148" font-family="Georgia, serif" font-size="13" font-weight="700" fill="#1A2416">Hindi</text>
+  <rect x="90" y="132" width="220" height="32" rx="6" fill="#FFFFFF" stroke="#E8E3D3" stroke-width="1"/>
+  <text x="200" y="153" font-family="monospace" font-size="13" fill="#96845A" text-anchor="middle" font-style="italic">fी नमसे नेता (garbled)</text>
+  <rect x="490" y="132" width="220" height="32" rx="6" fill="#FFFFFF" stroke="#6B7C5E" stroke-width="1"/>
+  <text x="600" y="153" font-family="Noto Sans, sans-serif" font-size="14" fill="#1A2416" text-anchor="middle">नमस्ते दिल्ली</text>
+
+  <!-- Row 2: Japanese -->
+  <text x="40" y="188" font-family="Georgia, serif" font-size="13" font-weight="700" fill="#1A2416">Japanese</text>
+  <rect x="90" y="172" width="220" height="32" rx="6" fill="#FFFFFF" stroke="#E8E3D3" stroke-width="1"/>
+  <text x="200" y="193" font-family="monospace" font-size="13" fill="#96845A" text-anchor="middle" font-style="italic">こん二ち○は (wrong)</text>
+  <rect x="490" y="172" width="220" height="32" rx="6" fill="#FFFFFF" stroke="#6B7C5E" stroke-width="1"/>
+  <text x="600" y="193" font-family="Noto Sans JP, sans-serif" font-size="14" fill="#1A2416" text-anchor="middle">こんにちは東京</text>
+
+  <!-- Row 3: Korean -->
+  <text x="40" y="228" font-family="Georgia, serif" font-size="13" font-weight="700" fill="#1A2416">Korean</text>
+  <rect x="90" y="212" width="220" height="32" rx="6" fill="#FFFFFF" stroke="#E8E3D3" stroke-width="1"/>
+  <text x="200" y="233" font-family="monospace" font-size="13" fill="#96845A" text-anchor="middle" font-style="italic">안녕ㅏ세요 (misaligned)</text>
+  <rect x="490" y="212" width="220" height="32" rx="6" fill="#FFFFFF" stroke="#6B7C5E" stroke-width="1"/>
+  <text x="600" y="233" font-family="Noto Sans KR, sans-serif" font-size="14" fill="#1A2416" text-anchor="middle">안녕하세요 서울</text>
+
+  <!-- Row 4: Chinese -->
+  <text x="40" y="268" font-family="Georgia, serif" font-size="13" font-weight="700" fill="#1A2416">Chinese</text>
+  <rect x="90" y="252" width="220" height="32" rx="6" fill="#FFFFFF" stroke="#E8E3D3" stroke-width="1"/>
+  <text x="200" y="273" font-family="monospace" font-size="13" fill="#96845A" text-anchor="middle" font-style="italic">你好□界 (missing chars)</text>
+  <rect x="490" y="252" width="220" height="32" rx="6" fill="#FFFFFF" stroke="#6B7C5E" stroke-width="1"/>
+  <text x="600" y="273" font-family="Noto Sans SC, sans-serif" font-size="14" fill="#1A2416" text-anchor="middle">你好世界</text>
+
+  <!-- Row 5: Bengali -->
+  <text x="40" y="308" font-family="Georgia, serif" font-size="13" font-weight="700" fill="#1A2416">Bengali</text>
+  <rect x="90" y="292" width="220" height="32" rx="6" fill="#FFFFFF" stroke="#E8E3D3" stroke-width="1"/>
+  <text x="200" y="313" font-family="monospace" font-size="13" fill="#96845A" text-anchor="middle" font-style="italic">হ্যালো○ (gibberish)</text>
+  <rect x="490" y="292" width="220" height="32" rx="6" fill="#FFFFFF" stroke="#6B7C5E" stroke-width="1"/>
+  <text x="600" y="313" font-family="Noto Sans Bengali, sans-serif" font-size="14" fill="#1A2416" text-anchor="middle">হ্যালো ঢাকা</text>
+
+  <!-- Footer note -->
+  <text x="400" y="358" font-family="Georgia, serif" font-size="11" fill="#6B6960" text-anchor="middle" font-style="italic">Illustrative. Actual output varies by prompt. Source: OpenAI launch claims and early tester reports.</text>
+</svg>

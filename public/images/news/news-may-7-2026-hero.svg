@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#F4F1EA"/>
+  <rect x="0" y="0" width="1200" height="8" fill="#4A5942"/>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="14" font-weight="700" fill="#96845A" letter-spacing="3">RAWPICKAI NEWS BRIEF</text>
+  <text x="60" y="140" font-family="Georgia, serif" font-size="42" font-weight="700" fill="#1A2416" letter-spacing="-1">Anthropic + SpaceX: 220K GPUs</text>
+  <text x="60" y="195" font-family="Georgia, serif" font-size="42" font-weight="700" fill="#1A2416" letter-spacing="-1">Google Kills Project Mariner</text>
+  <line x1="60" y1="230" x2="300" y2="230" stroke="#4A5942" stroke-width="3"/>
+  <text x="60" y="280" font-family="Georgia, serif" font-size="20" fill="#4A453E">Colossus One deal doubles Claude Code limits.</text>
+  <text x="60" y="310" font-family="Georgia, serif" font-size="20" fill="#4A453E">Browser agents lose to API-first approaches.</text>
+  <text x="60" y="340" font-family="Georgia, serif" font-size="20" fill="#4A453E">380K vibe-coded apps found publicly exposed.</text>
+  <rect x="700" y="100" width="420" height="380" rx="16" fill="#4A5942" opacity="0.08"/>
+  <text x="910" y="210" font-family="Georgia, serif" font-size="120" font-weight="700" text-anchor="middle" fill="#4A5942" opacity="0.15">300</text>
+  <text x="910" y="260" font-family="Georgia, serif" font-size="24" font-weight="600" text-anchor="middle" fill="#4A5942">megawatts added</text>
+  <text x="910" y="320" font-family="Georgia, serif" font-size="56" font-weight="700" text-anchor="middle" fill="#96845A">2x</text>
+  <text x="910" y="355" font-family="Georgia, serif" font-size="18" text-anchor="middle" fill="#6B7C5E">Claude Code rate limits</text>
+  <text x="910" y="420" font-family="Georgia, serif" font-size="16" text-anchor="middle" fill="#4A453E">17 months: Project Mariner lifespan</text>
+  <text x="60" y="560" font-family="Georgia, serif" font-size="14" fill="#96845A">May 7, 2026</text>
+  <text x="60" y="585" font-family="Georgia, serif" font-size="12" fill="#8A8577">rawpickai.com/news</text>
+</svg>

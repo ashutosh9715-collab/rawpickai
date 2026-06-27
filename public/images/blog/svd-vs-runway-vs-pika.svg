@@ -1,0 +1,108 @@
+<svg viewBox="0 0 900 450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #F4F1EA; }
+      .heading { fill: #4A5942; font-size: 20px; font-weight: bold; }
+      .row-header { fill: #3A3228; font-size: 13px; font-weight: bold; }
+      .cell-text { fill: #3A3228; font-size: 12px; }
+      .divider { stroke: #DDD8CE; stroke-width: 1; }
+      .col-bg { fill: #FFFFFF; }
+      .svd { fill: #6B7C5E; }
+      .runway { fill: #96845A; }
+      .pika { fill: #8A8577; }
+      .muted { fill: #8A8577; font-size: 11px; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="900" height="450" rx="12"/>
+
+  <!-- Title -->
+  <text x="40" y="40" class="heading">Stable Video Diffusion vs Runway vs Pika: Technical Comparison</text>
+
+  <!-- Table header -->
+  <rect x="30" y="60" width="200" height="40" rx="6" class="col-bg"/>
+  <text x="50" y="90" class="row-header">Feature</text>
+
+  <rect x="240" y="60" width="220" height="40" rx="6" class="svd" opacity="0.3"/>
+  <text x="270" y="90" class="row-header">SVD (Self-Hosted)</text>
+
+  <rect x="480" y="60" width="220" height="40" rx="6" class="runway" opacity="0.3"/>
+  <text x="530" y="90" class="row-header">Runway ML</text>
+
+  <rect x="720" y="60" width="150" height="40" rx="6" class="pika" opacity="0.3"/>
+  <text x="760" y="90" class="row-header">Pika</text>
+
+  <!-- Rows -->
+  <!-- Hardware -->
+  <rect x="30" y="110" width="200" height="35" class="col-bg"/>
+  <text x="50" y="135" class="cell-text">Setup Required</text>
+  <rect x="240" y="110" width="220" height="35" class="col-bg"/>
+  <text x="260" y="135" class="cell-text">RTX 4090 + config</text>
+  <rect x="480" y="110" width="220" height="35" class="col-bg"/>
+  <text x="500" y="135" class="cell-text">Cloud (no setup)</text>
+  <rect x="720" y="110" width="150" height="35" class="col-bg"/>
+  <text x="740" y="135" class="cell-text">Cloud (no setup)</text>
+
+  <!-- Cost Model -->
+  <rect x="30" y="150" width="200" height="35" class="col-bg"/>
+  <text x="50" y="175" class="cell-text">Cost Model</text>
+  <rect x="240" y="150" width="220" height="35" class="col-bg"/>
+  <text x="260" y="175" class="cell-text">Upfront ₹4.5L+</text>
+  <rect x="480" y="150" width="220" height="35" class="col-bg"/>
+  <text x="500" y="175" class="cell-text">₹2,600/month</text>
+  <rect x="720" y="150" width="150" height="35" class="col-bg"/>
+  <text x="740" y="175" class="cell-text">₹930/month</text>
+
+  <!-- Max Duration -->
+  <rect x="30" y="190" width="200" height="35" class="col-bg"/>
+  <text x="50" y="215" class="cell-text">Max Video Length</text>
+  <rect x="240" y="190" width="220" height="35" class="col-bg"/>
+  <text x="260" y="215" class="cell-text">2-4 seconds</text>
+  <rect x="480" y="190" width="220" height="35" class="col-bg"/>
+  <text x="500" y="215" class="cell-text">10-60 seconds</text>
+  <rect x="720" y="190" width="150" height="35" class="col-bg"/>
+  <text x="740" y="215" class="cell-text">60 seconds</text>
+
+  <!-- Generation Speed -->
+  <rect x="30" y="230" width="200" height="35" class="col-bg"/>
+  <text x="50" y="255" class="cell-text">Gen Time (3-4 sec)</text>
+  <rect x="240" y="230" width="220" height="35" class="col-bg"/>
+  <text x="260" y="255" class="cell-text">4-5 minutes</text>
+  <rect x="480" y="230" width="220" height="35" class="col-bg"/>
+  <text x="500" y="255" class="cell-text">90-120 sec</text>
+  <rect x="720" y="230" width="150" height="35" class="col-bg"/>
+  <text x="740" y="255" class="cell-text">60-90 sec</text>
+
+  <!-- Quality -->
+  <rect x="30" y="270" width="200" height="35" class="col-bg"/>
+  <text x="50" y="295" class="cell-text">Output Quality</text>
+  <rect x="240" y="270" width="220" height="35" class="col-bg"/>
+  <text x="260" y="295" class="cell-text">Demo quality</text>
+  <rect x="480" y="270" width="220" height="35" class="col-bg"/>
+  <text x="500" y="295" class="cell-text">Professional</text>
+  <rect x="720" y="270" width="150" height="35" class="col-bg"/>
+  <text x="740" y="295" class="cell-text">Very good</text>
+
+  <!-- Best For -->
+  <rect x="30" y="310" width="200" height="35" class="col-bg"/>
+  <text x="50" y="335" class="cell-text">Best For</text>
+  <rect x="240" y="310" width="220" height="35" class="col-bg"/>
+  <text x="260" y="335" class="cell-text">ML researchers</text>
+  <rect x="480" y="310" width="220" height="35" class="col-bg"/>
+  <text x="500" y="335" class="cell-text">Professional work</text>
+  <rect x="720" y="310" width="150" height="35" class="col-bg"/>
+  <text x="740" y="335" class="cell-text">Balanced use</text>
+
+  <!-- Overall Score -->
+  <rect x="30" y="350" width="200" height="35" class="col-bg"/>
+  <text x="50" y="375" class="cell-text">Rating</text>
+  <rect x="240" y="350" width="220" height="35" class="col-bg"/>
+  <text x="260" y="375" class="cell-text">2.8/5</text>
+  <rect x="480" y="350" width="220" height="35" class="col-bg"/>
+  <text x="500" y="375" class="cell-text">4.2/5</text>
+  <rect x="720" y="350" width="150" height="35" class="col-bg"/>
+  <text x="740" y="375" class="cell-text">3.8/5</text>
+
+  <!-- Footer -->
+  <text x="40" y="430" class="muted">SVD excels in customization and privacy but poor for rapid iteration. Runway/Pika superior for production work.</text>
+</svg>

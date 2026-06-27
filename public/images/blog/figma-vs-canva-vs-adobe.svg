@@ -1,0 +1,76 @@
+<svg viewBox="0 0 900 520" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { color-scheme: light; }
+      .bg { fill: #F4F1EA; }
+      .heading { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 24px; font-weight: 700; fill: #4A5942; }
+      .col-header { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; font-weight: 600; fill: #4A5942; }
+      .row-label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; font-weight: 500; fill: #3A3228; }
+      .cell-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 11px; fill: #3A3228; }
+      .figma { fill: #6B7C5E; opacity: 0.1; }
+      .canva { fill: #96845A; opacity: 0.1; }
+      .adobe { fill: #6B7C5E; opacity: 0.08; }
+      .highlight { font-weight: 600; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="900" height="520" rx="12"/>
+
+  <text class="heading" x="40" y="45">Figma vs Canva vs Adobe XD</text>
+
+  <!-- Table Header -->
+  <rect class="figma" x="40" y="65" width="280" height="40" rx="4"/>
+  <text class="col-header" x="60" y="95">Figma</text>
+
+  <rect class="canva" x="340" y="65" width="280" height="40" rx="4"/>
+  <text class="col-header" x="360" y="95">Canva</text>
+
+  <rect class="adobe" x="640" y="65" width="220" height="40" rx="4"/>
+  <text class="col-header" x="660" y="95">Adobe XD</text>
+
+  <!-- Primary Use -->
+  <text class="row-label" x="40" y="135">Primary Use</text>
+  <text class="cell-text highlight" x="60" y="155">UI/UX Design</text>
+  <text class="cell-text" x="360" y="155">Graphics + Web</text>
+  <text class="cell-text" x="660" y="155">Prototyping</text>
+
+  <!-- Collaboration -->
+  <text class="row-label" x="40" y="200">Real-Time Collab</text>
+  <text class="cell-text highlight" x="60" y="220">Excellent</text>
+  <text class="cell-text highlight" x="360" y="220">Excellent</text>
+  <text class="cell-text" x="660" y="220">Good</text>
+
+  <!-- AI Features -->
+  <text class="row-label" x="40" y="265">AI Capabilities</text>
+  <text class="cell-text" x="60" y="285">Auto-layout,</text>
+  <text class="cell-text" x="60" y="300">component gen</text>
+
+  <text class="cell-text highlight" x="360" y="285">Image generation,</text>
+  <text class="cell-text highlight" x="360" y="300">templates</text>
+
+  <text class="cell-text" x="660" y="285">Emerging,</text>
+  <text class="cell-text" x="660" y="300">limited</text>
+
+  <!-- Learning Curve -->
+  <text class="row-label" x="40" y="355">Learning Curve</text>
+  <text class="cell-text" x="60" y="375">Moderate-steep</text>
+  <text class="cell-text highlight" x="360" y="375">Very easy</text>
+  <text class="cell-text" x="660" y="375">Moderate</text>
+
+  <!-- Price Point -->
+  <text class="row-label" x="40" y="420">Price/Month</text>
+  <text class="cell-text" x="60" y="440">₹1,395-6,975</text>
+  <text class="cell-text highlight" x="360" y="440">₹500+</text>
+  <text class="cell-text" x="660" y="440">₹2,000+</text>
+
+  <!-- Best For -->
+  <text class="row-label" x="40" y="475">Best For</text>
+  <text class="cell-text highlight" x="60" y="495">Professional</text>
+  <text class="cell-text" x="60" y="510">designers</text>
+
+  <text class="cell-text" x="360" y="495">Non-designers,</text>
+  <text class="cell-text" x="360" y="510">quick work</text>
+
+  <text class="cell-text" x="660" y="495">Interactive</text>
+  <text class="cell-text" x="660" y="510">prototypes</text>
+</svg>

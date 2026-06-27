@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="1200" height="267">
+  <rect width="900" height="200" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#4A5942" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">Zapier AI Features: Copilot, Agents, and MCP</text>
+  <rect x="40" y="55" width="260" height="120" rx="10" fill="white" stroke="#4A5942" stroke-width="1.5"/>
+  <text x="170" y="82" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#4A5942">Copilot</text>
+  <text x="170" y="103" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Natural language</text>
+  <text x="170" y="121" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Zap builder</text>
+  <text x="170" y="143" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">Describe workflow,</text>
+  <text x="170" y="160" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">AI builds the structure</text>
+  <rect x="320" y="55" width="260" height="120" rx="10" fill="white" stroke="#96845A" stroke-width="1.5"/>
+  <text x="450" y="82" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#96845A">AI Agents</text>
+  <text x="450" y="103" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Autonomous teammates</text>
+  <text x="450" y="121" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">across your apps</text>
+  <text x="450" y="143" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">400 free activities/mo</text>
+  <text x="450" y="160" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#96845A">+$25/mo for 1,500</text>
+  <rect x="600" y="55" width="260" height="120" rx="10" fill="white" stroke="#6B7C5E" stroke-width="1.5"/>
+  <text x="730" y="82" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#6B7C5E">MCP Support</text>
+  <text x="730" y="103" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Claude, GPT, Gemini</text>
+  <text x="730" y="121" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">trigger Zapier natively</text>
+  <text x="730" y="143" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">Any MCP-compatible</text>
+  <text x="730" y="160" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B7C5E">model works</text>
+  <text x="450" y="192" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">MCP support means Claude Code, Claude Pro, and custom AI models can trigger Zapier workflows directly.</text>
+</svg>

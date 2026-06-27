@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 170" width="1200" height="227">
+  <rect width="900" height="170" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#96845A" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">How Zapier Tasks Work: What Counts as One Task</text>
+  <rect x="40" y="55" width="390" height="90" rx="10" fill="white" stroke="#4A5942" stroke-width="1.5"/>
+  <text x="235" y="80" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#4A5942">Each action = 1 task</text>
+  <text x="235" y="103" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">A 3-step Zap that runs 10 times</text>
+  <text x="235" y="123" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">= 30 tasks consumed</text>
+  <rect x="470" y="55" width="390" height="90" rx="10" fill="white" stroke="#c0392b" stroke-width="1.5"/>
+  <text x="665" y="80" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#c0392b">Overages = 1.25x your rate</text>
+  <text x="665" y="103" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Zaps keep running even over limit</text>
+  <text x="665" y="123" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#c0392b">Surprise bills if not monitored</text>
+  <text x="450" y="162" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Free plan: 100 tasks total per month. Professional: 750. Set Zapier task alerts in Settings immediately after signup.</text>
+</svg>

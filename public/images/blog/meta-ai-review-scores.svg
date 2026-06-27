@@ -1,0 +1,57 @@
+<svg viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #F4F1EA; }
+      .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 24px; font-weight: 600; fill: #4A5942; }
+      .label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 500; fill: #3A3228; }
+      .value { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 16px; font-weight: 600; fill: #4A5942; }
+      .bar-bg { fill: #DDD8CE; }
+      .bar-fill { fill: #6B7C5E; }
+      .bar-fill-alt { fill: #96845A; }
+      .overall { font-size: 48px; font-weight: 700; fill: #4A5942; }
+      .muted { fill: #8A8577; font-size: 12px; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="800" height="400" rx="12" />
+
+  <!-- Title -->
+  <text x="40" y="40" class="title">Meta AI Review Scores</text>
+
+  <!-- Overall Score Box -->
+  <rect x="40" y="70" width="120" height="120" rx="12" fill="#F0EDE4" stroke="#DDD8CE" stroke-width="1" />
+  <text x="100" y="150" text-anchor="middle" class="overall">3.0</text>
+  <text x="100" y="175" text-anchor="middle" class="muted">out of 5</text>
+
+  <!-- Scores Grid -->
+  <g id="scores">
+    <!-- Row 1: Ease of Use (90) -->
+    <text x="200" y="110" class="label">Ease of Use</text>
+    <rect x="200" y="125" width="200" height="24" rx="12" class="bar-bg" />
+    <rect x="200" y="125" width="180" height="24" rx="12" class="bar-fill" />
+    <text x="410" y="145" class="value">90%</text>
+
+    <!-- Row 2: Output Quality (50) -->
+    <text x="200" y="180" class="label">Output Quality</text>
+    <rect x="200" y="195" width="200" height="24" rx="12" class="bar-bg" />
+    <rect x="200" y="195" width="100" height="24" rx="12" class="bar-fill-alt" />
+    <text x="410" y="215" class="value">50%</text>
+
+    <!-- Row 3: Value for Money (90) -->
+    <text x="200" y="250" class="label">Value for Money</text>
+    <rect x="200" y="265" width="200" height="24" rx="12" class="bar-bg" />
+    <rect x="200" y="265" width="180" height="24" rx="12" class="bar-fill" />
+    <text x="410" y="285" class="value">90%</text>
+
+    <!-- Row 4: Feature Depth (50) -->
+    <text x="200" y="320" class="label">Feature Depth</text>
+    <rect x="200" y="335" width="200" height="24" rx="12" class="bar-bg" />
+    <rect x="200" y="335" width="100" height="24" rx="12" class="bar-fill-alt" />
+    <text x="410" y="355" class="value">50%</text>
+  </g>
+
+  <!-- Free Tier Badge -->
+  <rect x="40" y="310" width="120" height="60" rx="8" fill="#F0EDE4" stroke="#DDD8CE" stroke-width="1" />
+  <text x="100" y="328" text-anchor="middle" class="label" style="font-size: 12px;">Free Tier</text>
+  <text x="100" y="355" text-anchor="middle" class="value" style="font-size: 20px;">95%</text>
+</svg>

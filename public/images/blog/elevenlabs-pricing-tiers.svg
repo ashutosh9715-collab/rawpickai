@@ -1,0 +1,95 @@
+<svg viewBox="0 0 850 450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title { font-size: 22px; font-weight: bold; fill: #4A5942; }
+      .tier-name { font-size: 14px; font-weight: bold; fill: #3A3228; }
+      .price { font-size: 16px; font-weight: bold; fill: #96845A; }
+      .credits { font-size: 12px; fill: #3A3228; }
+      .description { font-size: 11px; fill: #8A8577; }
+      .bar-bg { fill: #DDD8CE; }
+      .bar-fill { fill: #6B7C5E; }
+      .bar-secondary { fill: #96845A; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="850" height="450" fill="#F4F1EA"/>
+
+  <!-- Title -->
+  <text x="425" y="30" text-anchor="middle" class="title">ElevenLabs Pricing Tiers</text>
+  <text x="425" y="48" text-anchor="middle" class="description">Monthly character allowances and cost per minute of audio</text>
+
+  <!-- Free Tier -->
+  <g>
+    <rect x="20" y="70" width="150" height="300" fill="white" stroke="#DDD8CE" stroke-width="2" rx="8"/>
+    <text x="95" y="100" text-anchor="middle" class="tier-name">Free</text>
+    <text x="95" y="125" text-anchor="middle" class="price">$0</text>
+    <text x="95" y="145" text-anchor="middle" class="credits">(₹0)</text>
+    <rect x="30" y="160" width="130" height="8" rx="4" class="bar-bg"/>
+    <rect x="30" y="160" width="5.2" height="8" rx="4" class="bar-secondary"/>
+    <text x="95" y="185" text-anchor="middle" class="credits">10K chars</text>
+    <text x="95" y="202" text-anchor="middle" class="description" style="font-size: 10px;">2-3 min</text>
+    <text x="95" y="220" text-anchor="middle" class="description" style="font-size: 9px;">Testing</text>
+  </g>
+
+  <!-- Starter Tier -->
+  <g>
+    <rect x="190" y="70" width="150" height="300" fill="white" stroke="#DDD8CE" stroke-width="2" rx="8"/>
+    <text x="265" y="100" text-anchor="middle" class="tier-name">Starter</text>
+    <text x="265" y="125" text-anchor="middle" class="price">$5/mo</text>
+    <text x="265" y="145" text-anchor="middle" class="credits">(≈₹465)</text>
+    <rect x="200" y="160" width="130" height="8" rx="4" class="bar-bg"/>
+    <rect x="200" y="160" width="15.6" height="8" rx="4" class="bar-fill"/>
+    <text x="265" y="185" text-anchor="middle" class="credits">30K chars</text>
+    <text x="265" y="202" text-anchor="middle" class="description" style="font-size: 10px;">5-8 min</text>
+    <text x="265" y="220" text-anchor="middle" class="description" style="font-size: 9px;">Hobby</text>
+  </g>
+
+  <!-- Creator Tier - RECOMMENDED -->
+  <g>
+    <rect x="360" y="70" width="150" height="300" fill="white" stroke="#96845A" stroke-width="3" rx="8"/>
+    <!-- Badge -->
+    <rect x="390" y="55" width="90" height="20" fill="#96845A" rx="4"/>
+    <text x="435" y="67" text-anchor="middle" class="description" style="fill: white; font-weight: bold; font-size: 9px;">RECOMMENDED</text>
+
+    <text x="435" y="100" text-anchor="middle" class="tier-name">Creator</text>
+    <text x="435" y="125" text-anchor="middle" class="price">$22/mo</text>
+    <text x="435" y="145" text-anchor="middle" class="credits">(≈₹2,046)</text>
+    <rect x="370" y="160" width="130" height="8" rx="4" class="bar-bg"/>
+    <rect x="370" y="160" width="52" height="8" rx="4" class="bar-secondary"/>
+    <text x="435" y="185" text-anchor="middle" class="credits">100K chars</text>
+    <text x="435" y="202" text-anchor="middle" class="description" style="font-size: 10px;">16-25 min</text>
+    <text x="435" y="220" text-anchor="middle" class="description" style="font-size: 9px;">Creators</text>
+  </g>
+
+  <!-- Pro Tier -->
+  <g>
+    <rect x="530" y="70" width="150" height="300" fill="white" stroke="#DDD8CE" stroke-width="2" rx="8"/>
+    <text x="605" y="100" text-anchor="middle" class="tier-name">Pro</text>
+    <text x="605" y="125" text-anchor="middle" class="price">$99/mo</text>
+    <text x="605" y="145" text-anchor="middle" class="credits">(≈₹9,207)</text>
+    <rect x="540" y="160" width="130" height="8" rx="4" class="bar-bg"/>
+    <rect x="540" y="160" width="130" height="8" rx="4" class="bar-fill"/>
+    <text x="605" y="185" text-anchor="middle" class="credits">500K chars</text>
+    <text x="605" y="202" text-anchor="middle" class="description" style="font-size: 10px;">80-125 min</text>
+    <text x="605" y="220" text-anchor="middle" class="description" style="font-size: 9px;">Audiobooks</text>
+  </g>
+
+  <!-- Scale Tier -->
+  <g>
+    <rect x="700" y="70" width="130" height="300" fill="white" stroke="#DDD8CE" stroke-width="2" rx="8"/>
+    <text x="765" y="100" text-anchor="middle" class="tier-name">Scale</text>
+    <text x="765" y="125" text-anchor="middle" class="price">$330/mo</text>
+    <text x="765" y="145" text-anchor="middle" class="credits">(≈₹30,690)</text>
+    <rect x="710" y="160" width="110" height="8" rx="4" class="bar-bg"/>
+    <rect x="710" y="160" width="110" height="8" rx="4" class="bar-secondary"/>
+    <text x="765" y="185" text-anchor="middle" class="credits">2M chars</text>
+    <text x="765" y="202" text-anchor="middle" class="description" style="font-size: 10px;">320-500 min</text>
+    <text x="765" y="220" text-anchor="middle" class="description" style="font-size: 9px;">Enterprise</text>
+  </g>
+
+  <!-- Footer notes -->
+  <text x="425" y="395" text-anchor="middle" class="description">Characters convert to minutes based on pacing. Spoken English ≈4,000-5,000 chars/min</text>
+  <text x="425" y="415" text-anchor="middle" class="description">Voice cloning available from Starter tier. Premium voices may incur additional costs.</text>
+  <text x="425" y="435" text-anchor="middle" class="description">Conversion at ₹93/USD | Updated May 2026</text>
+</svg>

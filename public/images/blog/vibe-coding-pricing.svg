@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 340" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+  <rect width="800" height="340" rx="12" fill="#F4F1EA"/>
+
+  <text x="400" y="36" fill="#4A5942" font-size="18" font-weight="700" text-anchor="middle">Vibe Coding Tools: Pricing Comparison</text>
+  <text x="400" y="54" fill="#8A8577" font-size="12" text-anchor="middle">USD + USD  -  April 2026</text>
+
+  <!-- Column headers -->
+  <rect x="20" y="70" width="760" height="30" rx="6" fill="#4A5942"/>
+  <text x="110" y="90" fill="#F4F1EA" font-size="11" font-weight="700" text-anchor="middle">Tool</text>
+  <text x="280" y="90" fill="#F4F1EA" font-size="11" font-weight="700" text-anchor="middle">Free Tier</text>
+  <text x="440" y="90" fill="#F4F1EA" font-size="11" font-weight="700" text-anchor="middle">Paid Plan</text>
+  <text x="600" y="90" fill="#F4F1EA" font-size="11" font-weight="700" text-anchor="middle">Token Cost</text>
+  <text x="730" y="90" fill="#F4F1EA" font-size="11" font-weight="700" text-anchor="middle">Worth It?</text>
+
+  <!-- Row 1: Lovable -->
+  <rect x="20" y="104" width="760" height="36" rx="0" fill="#EEEAE2"/>
+  <text x="110" y="126" fill="#4A5942" font-size="11" font-weight="600" text-anchor="middle">Lovable</text>
+  <text x="280" y="126" fill="#3A3228" font-size="10" text-anchor="middle">Limited prompts</text>
+  <text x="440" y="126" fill="#3A3228" font-size="10" text-anchor="middle">$20/mo (≈₹1,860)</text>
+  <text x="600" y="126" fill="#96845A" font-size="10" text-anchor="middle">High</text>
+  <text x="730" y="126" fill="#8A8577" font-size="10" text-anchor="middle">If you need backend</text>
+
+  <!-- Row 2: Bolt.new -->
+  <rect x="20" y="144" width="760" height="36" rx="0" fill="#F4F1EA"/>
+  <text x="110" y="166" fill="#4A5942" font-size="11" font-weight="600" text-anchor="middle">Bolt.new</text>
+  <text x="280" y="166" fill="#3A3228" font-size="10" text-anchor="middle">Basic WebContainers</text>
+  <text x="440" y="166" fill="#3A3228" font-size="10" text-anchor="middle">$25/mo (≈₹2,325)</text>
+  <text x="600" y="166" fill="#96845A" font-size="10" text-anchor="middle">Medium</text>
+  <text x="730" y="166" fill="#4A5942" font-size="10" font-weight="600" text-anchor="middle">Yes</text>
+
+  <!-- Row 3: v0 by Vercel -->
+  <rect x="20" y="184" width="760" height="36" rx="0" fill="#EEEAE2"/>
+  <text x="110" y="206" fill="#4A5942" font-size="11" font-weight="600" text-anchor="middle">v0 (Vercel)</text>
+  <text x="280" y="206" fill="#3A3228" font-size="10" text-anchor="middle">UI Components only</text>
+  <text x="440" y="206" fill="#3A3228" font-size="10" text-anchor="middle">$20/mo (≈₹1,860)</text>
+  <text x="600" y="206" fill="#6B7C5E" font-size="10" text-anchor="middle">Low</text>
+  <text x="730" y="206" fill="#8A8577" font-size="10" text-anchor="middle">If Vercel ecosystem</text>
+
+  <!-- Row 4: Cursor -->
+  <rect x="20" y="224" width="760" height="36" rx="0" fill="#F4F1EA"/>
+  <text x="110" y="246" fill="#4A5942" font-size="11" font-weight="600" text-anchor="middle">Cursor</text>
+  <text x="280" y="246" fill="#3A3228" font-size="10" text-anchor="middle">Limited completions</text>
+  <text x="440" y="246" fill="#3A3228" font-size="10" text-anchor="middle">$20/mo (≈₹1,860)</text>
+  <text x="600" y="246" fill="#6B7C5E" font-size="10" text-anchor="middle">Predictable</text>
+  <text x="730" y="246" fill="#4A5942" font-size="10" font-weight="600" text-anchor="middle">Yes</text>
+
+  <!-- Row 5: Replit Agent -->
+  <rect x="20" y="264" width="760" height="36" rx="0" fill="#EEEAE2"/>
+  <text x="110" y="286" fill="#4A5942" font-size="11" font-weight="600" text-anchor="middle">Replit Agent</text>
+  <text x="280" y="286" fill="#3A3228" font-size="10" text-anchor="middle">Limited runtime</text>
+  <text x="440" y="286" fill="#3A3228" font-size="10" text-anchor="middle">$25/mo (≈₹2,325)</text>
+  <text x="600" y="286" fill="#96845A" font-size="10" text-anchor="middle">High</text>
+  <text x="730" y="286" fill="#8A8577" font-size="10" text-anchor="middle">Hobby only</text>
+
+  <!-- Footer -->
+  <text x="400" y="326" fill="#8A8577" font-size="11" text-anchor="middle">Vibe Coding Pricing  -  rawpickai.com</text>
+</svg>

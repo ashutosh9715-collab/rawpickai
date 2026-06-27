@@ -1,0 +1,57 @@
+<svg viewBox="0 0 700 450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #F4F1EA; }
+      .heading { fill: #4A5942; font-size: 20px; font-weight: bold; }
+      .subheading { fill: #4A5942; font-size: 14px; font-weight: bold; }
+      .label { fill: #3A3228; font-size: 12px; }
+      .value { fill: #3A3228; font-size: 13px; font-weight: bold; }
+      .card-bg { fill: #FFFFFF; stroke: #DDD8CE; stroke-width: 1.5; }
+      .highlight { fill: #6B7C5E; }
+      .price { fill: #96845A; font-size: 18px; font-weight: bold; }
+      .muted { fill: #8A8577; font-size: 11px; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="700" height="450" rx="12"/>
+
+  <!-- Title -->
+  <text x="40" y="40" class="heading">Kling AI Pricing Tiers</text>
+
+  <!-- Free Tier -->
+  <rect x="30" y="70" width="160" height="350" rx="10" class="card-bg"/>
+  <text x="50" y="95" class="subheading">Free</text>
+  <text x="50" y="120" class="price">$0</text>
+  <text x="50" y="140" class="label">30 sec videos</text>
+  <rect x="50" y="150" width="120" height="1" class="highlight"/>
+  <text x="50" y="170" class="label">≈2 videos/mo</text>
+  <text x="50" y="190" class="label">66 credits/mo</text>
+  <text x="50" y="210" class="muted">Limited features</text>
+  <text x="50" y="350" class="muted">Entry level</text>
+
+  <!-- Standard Tier -->
+  <rect x="270" y="60" width="160" height="370" rx="10" class="card-bg"/>
+  <rect x="265" y="55" width="170" height="380" rx="10" fill="none" stroke="#6B7C5E" stroke-width="2"/>
+  <text x="290" y="95" class="subheading">Standard</text>
+  <text x="290" y="120" class="price">$6</text>
+  <text x="290" y="140" class="label">2 min videos</text>
+  <rect x="290" y="150" width="120" height="1" class="highlight"/>
+  <text x="290" y="170" class="label">660 credits/mo</text>
+  <text x="290" y="190" class="label">4-5 videos/mo</text>
+  <text x="290" y="210" class="muted">Best value</text>
+  <text x="290" y="350" class="muted">Most popular</text>
+
+  <!-- Pro Tier -->
+  <rect x="510" y="70" width="160" height="350" rx="10" class="card-bg"/>
+  <text x="530" y="95" class="subheading">Pro</text>
+  <text x="530" y="120" class="price">$30</text>
+  <text x="530" y="140" class="label">2 min videos</text>
+  <rect x="530" y="150" width="120" height="1" class="highlight"/>
+  <text x="530" y="170" class="label">3,000 credits/mo</text>
+  <text x="530" y="190" class="label">13-16 videos/mo</text>
+  <text x="530" y="210" class="muted">For pros</text>
+  <text x="530" y="350" class="muted">Advanced</text>
+
+  <!-- Footer note -->
+  <text x="40" y="440" class="muted">All prices converted at $1 (≈₹93)/USD. Free tier: 30-sec max. Standard/Pro: 2-min max. Quality best at 5-15 sec.</text>
+</svg>

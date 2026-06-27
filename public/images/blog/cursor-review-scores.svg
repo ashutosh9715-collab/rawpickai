@@ -1,0 +1,59 @@
+<svg viewBox="0 0 700 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { --bg: #F4F1EA; --heading: #4A5942; --bar-primary: #6B7C5E; --bar-accent: #96845A; --body: #3A3228; --muted: #8A8577; --track: #DDD8CE; }
+      body { background-color: var(--bg); }
+      .background { fill: #F4F1EA; }
+      .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 24px; font-weight: 700; fill: #4A5942; }
+      .label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; fill: #3A3228; }
+      .score-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; font-weight: 600; fill: #ffffff; }
+      .track-bar { fill: #DDD8CE; }
+      .bar { fill: #6B7C5E; }
+      .bar-accent { fill: #96845A; }
+      .overall-star { fill: #96845A; font-size: 32px; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="700" height="400" class="background"/>
+
+  <!-- Title -->
+  <text x="40" y="35" class="title">Cursor Review Scores</text>
+
+  <!-- Score rows -->
+  <!-- Ease of Use: 80% -->
+  <text x="40" y="75" class="label">Ease of Use</text>
+  <rect x="250" y="65" width="400" height="12" rx="7" class="track-bar"/>
+  <rect x="250" y="65" width="320" height="12" rx="7" class="bar"/>
+  <text x="585" y="78" class="score-text" text-anchor="end">80/100</text>
+
+  <!-- Output Quality: 93% -->
+  <text x="40" y="125" class="label">Output Quality</text>
+  <rect x="250" y="115" width="400" height="12" rx="7" class="track-bar"/>
+  <rect x="250" y="115" width="372" height="12" rx="7" class="bar-accent"/>
+  <text x="585" y="128" class="score-text" text-anchor="end">93/100</text>
+
+  <!-- Value for Money: 85% -->
+  <text x="40" y="175" class="label">Value for Money</text>
+  <rect x="250" y="165" width="400" height="12" rx="7" class="track-bar"/>
+  <rect x="250" y="165" width="340" height="12" rx="7" class="bar"/>
+  <text x="585" y="178" class="score-text" text-anchor="end">85/100</text>
+
+  <!-- Feature Depth: 92% -->
+  <text x="40" y="225" class="label">Feature Depth</text>
+  <rect x="250" y="215" width="400" height="12" rx="7" class="track-bar"/>
+  <rect x="250" y="215" width="368" height="12" rx="7" class="bar-accent"/>
+  <text x="585" y="228" class="score-text" text-anchor="end">92/100</text>
+
+  <!-- Free Tier: 68% -->
+  <text x="40" y="275" class="label">Free Tier</text>
+  <rect x="250" y="265" width="400" height="12" rx="7" class="track-bar"/>
+  <rect x="250" y="265" width="272" height="12" rx="7" class="bar"/>
+  <text x="585" y="278" class="score-text" text-anchor="end">68/100</text>
+
+  <!-- Overall Score Box -->
+  <rect x="40" y="330" width="620" height="50" rx="12" fill="#F4F1EA" stroke="#DDD8CE" stroke-width="2"/>
+  <text x="60" y="355" class="label">Overall Rating</text>
+  <text x="600" y="365" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 28px; font-weight: 700; fill: #96845A;" text-anchor="end">4.5★</text>
+
+</svg>

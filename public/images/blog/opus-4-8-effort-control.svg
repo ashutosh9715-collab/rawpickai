@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="900" height="180">
+  <rect width="900" height="180" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#96845A" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">Effort Control: The Feature GPT-5.5 Still Doesn't Have</text>
+  <rect x="40" y="55" width="250" height="100" rx="10" fill="white" stroke="#22c55e" stroke-width="1.5"/>
+  <text x="165" y="82" font-family="Georgia, serif" font-size="14" font-weight="700" text-anchor="middle" fill="#22c55e">Low</text>
+  <text x="165" y="105" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Fast responses, lower rate-limit</text>
+  <text x="165" y="123" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">use. Best for simple tasks.</text>
+  <text x="165" y="143" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">Email replies, quick summaries</text>
+  <rect x="325" y="55" width="250" height="100" rx="10" fill="white" stroke="#96845A" stroke-width="2"/>
+  <text x="450" y="82" font-family="Georgia, serif" font-size="14" font-weight="700" text-anchor="middle" fill="#96845A">High (default)</text>
+  <text x="450" y="105" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Balanced depth and speed.</text>
+  <text x="450" y="123" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Works for most daily tasks.</text>
+  <text x="450" y="143" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">Analysis, drafts, research</text>
+  <rect x="610" y="55" width="250" height="100" rx="10" fill="white" stroke="#4A5942" stroke-width="2"/>
+  <text x="735" y="82" font-family="Georgia, serif" font-size="14" font-weight="700" text-anchor="middle" fill="#4A5942">Max</text>
+  <text x="735" y="105" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Deepest reasoning. Use when</text>
+  <text x="735" y="123" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">accuracy beats speed.</text>
+  <text x="735" y="143" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">Complex bugs, architecture, legal</text>
+  <text x="450" y="172" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">GPT-5.5 has no equivalent. You get one reasoning level regardless of task complexity.</text>
+</svg>

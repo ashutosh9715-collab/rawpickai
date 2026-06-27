@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 150" width="1200" height="200">
+  <rect width="900" height="150" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#96845A" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">When to Choose a Competitor Instead</text>
+  <rect x="40" y="55" width="260" height="70" rx="8" fill="white" stroke="#6B7C5E" stroke-width="1.5"/>
+  <text x="170" y="78" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#6B7C5E">Need quality first?</text>
+  <text x="170" y="100" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Use Runway ($15/mo)</text>
+  <rect x="320" y="55" width="260" height="70" rx="8" fill="white" stroke="#4A5942" stroke-width="1.5"/>
+  <text x="450" y="78" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#4A5942">Need free tier?</text>
+  <text x="450" y="100" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Use Pika (free plan)</text>
+  <rect x="600" y="55" width="260" height="70" rx="8" fill="white" stroke="#96845A" stroke-width="1.5"/>
+  <text x="730" y="78" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#96845A">Need API access?</text>
+  <text x="730" y="100" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">DeeVid has no public API</text>
+  <text x="450" y="143" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">DeeVid wins on breadth. Runway, Pika, and HeyGen each win in specific use cases.</text>
+</svg>

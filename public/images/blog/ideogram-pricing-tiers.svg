@@ -1,0 +1,105 @@
+<svg viewBox="0 0 1000 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { color-scheme: light; }
+      .bg { fill: #F4F1EA; }
+      .heading { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 28px; font-weight: 600; fill: #4A5942; }
+      .tier-card { fill: #FFF9F5; stroke: #DDD8CE; stroke-width: 2; }
+      .tier-name { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 18px; font-weight: 600; fill: #4A5942; }
+      .price { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 32px; font-weight: 700; fill: #6B7C5E; }
+      .currency { font-size: 18px; }
+      .details { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; fill: #8A8577; }
+      .feature { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; fill: #3A3228; }
+      .label-small { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; fill: #8A8577; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1000" height="500" rx="12"/>
+
+  <!-- Header -->
+  <text class="heading" x="40" y="50">Ideogram Pricing Tiers</text>
+
+  <!-- Free Tier -->
+  <rect class="tier-card" x="40" y="90" width="200" height="380" rx="12"/>
+  <text class="tier-name" x="60" y="120">Free</text>
+  <text class="price" x="60" y="155"><tspan class="currency">$</tspan>0</text>
+  <text class="details" x="60" y="175">/month</text>
+
+  <line x1="60" y1="190" x2="240" y2="190" stroke="#DDD8CE" stroke-width="1"/>
+
+  <text class="label-small" x="60" y="210">Daily Images</text>
+  <text class="feature" x="60" y="230">10/day</text>
+
+  <text class="label-small" x="60" y="255">Monthly</text>
+  <text class="feature" x="60" y="275">300 images</text>
+
+  <text class="label-small" x="60" y="300">Best for</text>
+  <text class="feature" x="60" y="320">Testing</text>
+  <text class="feature" x="60" y="340">Personal</text>
+
+  <!-- Plus Tier (Highlighted) -->
+  <rect class="tier-card" x="280" y="70" width="220" height="420" rx="12" fill="#FFF4E6" stroke="#96845A" stroke-width="3"/>
+  <rect x="290" y="80" width="200" height="30" rx="8" fill="#96845A"/>
+  <text style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; font-weight: 600; fill: #FFF9F5;" x="390" y="102" text-anchor="middle">RECOMMENDED</text>
+
+  <text class="tier-name" x="300" y="140">Plus</text>
+  <text class="price" x="300" y="175"><tspan class="currency">$</tspan>15</text>
+  <text class="details" x="300" y="195">/month</text>
+
+  <line x1="300" y1="210" x2="490" y2="210" stroke="#DDD8CE" stroke-width="1"/>
+
+  <text class="label-small" x="300" y="230">Daily Images</text>
+  <text class="feature" x="300" y="250">100/day</text>
+
+  <text class="label-small" x="300" y="275">USD</text>
+  <text class="feature" x="300" y="295">≈$15/mo (≈₹1,395)nth</text>
+
+  <text class="label-small" x="300" y="320">Monthly</text>
+  <text class="feature" x="300" y="340">3,000 images</text>
+
+  <text class="label-small" x="300" y="365">Best for</text>
+  <text class="feature" x="300" y="385">Freelancers</text>
+  <text class="feature" x="300" y="405">Small teams</text>
+
+  <!-- Pro Tier -->
+  <rect class="tier-card" x="540" y="90" width="200" height="380" rx="12"/>
+  <text class="tier-name" x="560" y="120">Pro</text>
+  <text class="price" x="560" y="155"><tspan class="currency">$</tspan>20</text>
+  <text class="details" x="560" y="175">/month</text>
+
+  <line x1="560" y1="190" x2="740" y2="190" stroke="#DDD8CE" stroke-width="1"/>
+
+  <text class="label-small" x="560" y="210">Daily Images</text>
+  <text class="feature" x="560" y="230">500/day</text>
+
+  <text class="label-small" x="560" y="255">USD</text>
+  <text class="feature" x="560" y="275">≈$20/mo (≈₹1,860)nth</text>
+
+  <text class="label-small" x="560" y="300">Monthly</text>
+  <text class="feature" x="560" y="320">15,000 images</text>
+
+  <text class="label-small" x="560" y="345">Best for</text>
+  <text class="feature" x="560" y="365">Agencies</text>
+  <text class="feature" x="560" y="385">Heavy use</text>
+
+  <!-- Team Tier -->
+  <rect class="tier-card" x="780" y="90" width="200" height="380" rx="12"/>
+  <text class="tier-name" x="800" y="120">Team</text>
+  <text class="price" x="800" y="155"><tspan class="currency">$</tspan>42</text>
+  <text class="details" x="800" y="175">/user/month</text>
+
+  <line x1="800" y1="190" x2="980" y2="190" stroke="#DDD8CE" stroke-width="1"/>
+
+  <text class="label-small" x="800" y="210">Daily Images</text>
+  <text class="feature" x="800" y="230">Unlimited</text>
+
+  <text class="label-small" x="800" y="255">USD</text>
+  <text class="feature" x="800" y="275">≈$42/mo (≈₹3,906)nth</text>
+
+  <text class="label-small" x="800" y="300">Includes</text>
+  <text class="feature" x="800" y="320">Team workspace</text>
+  <text class="feature" x="800" y="340">Shared library</text>
+
+  <text class="label-small" x="800" y="365">Best for</text>
+  <text class="feature" x="800" y="385">Design studios</text>
+</svg>

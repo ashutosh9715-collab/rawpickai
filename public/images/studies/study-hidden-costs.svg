@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" width="900" height="280">
+  <rect width="900" height="280" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#c0392b" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">Hidden Costs Nobody Mentions</text>
+  <rect x="60" y="55" width="780" height="32" rx="6" fill="#4A5942"/>
+  <text x="250" y="77" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#F4F1EA">Hidden Cost Type</text>
+  <text x="550" y="77" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#F4F1EA">% of Tools</text>
+  <text x="750" y="77" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#F4F1EA">Real Impact</text>
+  <rect x="60" y="91" width="780" height="32" fill="white" rx="4"/>
+  <text x="250" y="112" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Usage caps not on pricing page</text>
+  <text x="550" y="112" font-family="Georgia, serif" font-size="14" font-weight="700" text-anchor="middle" fill="#c0392b">44%</text>
+  <text x="750" y="112" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B7C5E">Hit limits mid-project</text>
+  <rect x="60" y="127" width="780" height="32" fill="#F9F7F2" rx="4"/>
+  <text x="250" y="148" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">API costs separate from subscription</text>
+  <text x="550" y="148" font-family="Georgia, serif" font-size="14" font-weight="700" text-anchor="middle" fill="#c0392b">38%</text>
+  <text x="750" y="148" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B7C5E">$50-200/mo extra</text>
+  <rect x="60" y="163" width="780" height="32" fill="white" rx="4"/>
+  <text x="250" y="184" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Required add-ons for core features</text>
+  <text x="550" y="184" font-family="Georgia, serif" font-size="14" font-weight="700" text-anchor="middle" fill="#96845A">29%</text>
+  <text x="750" y="184" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B7C5E">$10-30/mo per add-on</text>
+  <rect x="60" y="199" width="780" height="32" fill="#F9F7F2" rx="4"/>
+  <text x="250" y="220" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Annual billing only (no monthly option)</text>
+  <text x="550" y="220" font-family="Georgia, serif" font-size="14" font-weight="700" text-anchor="middle" fill="#96845A">17%</text>
+  <text x="750" y="220" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B7C5E">$240-600 upfront</text>
+  <rect x="60" y="235" width="780" height="32" fill="white" rx="4"/>
+  <text x="250" y="256" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Export/download fees</text>
+  <text x="550" y="256" font-family="Georgia, serif" font-size="14" font-weight="700" text-anchor="middle" fill="#96845A">12%</text>
+  <text x="750" y="256" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B7C5E">Pay to get your own data out</text>
+</svg>

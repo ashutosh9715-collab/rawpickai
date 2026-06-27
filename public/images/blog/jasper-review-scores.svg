@@ -1,0 +1,73 @@
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root {
+        --bg: #F4F1EA;
+        --heading: #4A5942;
+        --bar-primary: #6B7C5E;
+        --bar-secondary: #96845A;
+        --text-body: #3A3228;
+        --text-muted: #8A8577;
+        --track: #DDD8CE;
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="500" fill="#F4F1EA"/>
+
+  <!-- Title -->
+  <text x="40" y="50" font-size="32" font-weight="bold" fill="#4A5942" font-family="system-ui">
+    Jasper AI Review Scores
+  </text>
+
+  <!-- Score items -->
+  <!-- Ease of Use -->
+  <text x="40" y="130" font-size="16" font-weight="600" fill="#3A3228" font-family="system-ui">
+    Ease of Use
+  </text>
+  <rect x="280" y="115" width="300" height="28" rx="12" fill="#DDD8CE"/>
+  <rect x="280" y="115" width="246" height="28" rx="12" fill="#6B7C5E"/>
+  <text x="590" y="135" font-size="16" font-weight="bold" fill="#3A3228" font-family="system-ui">82/100</text>
+
+  <!-- Output Quality -->
+  <text x="40" y="195" font-size="16" font-weight="600" fill="#3A3228" font-family="system-ui">
+    Output Quality
+  </text>
+  <rect x="280" y="180" width="300" height="28" rx="12" fill="#DDD8CE"/>
+  <rect x="280" y="180" width="222" height="28" rx="12" fill="#96845A"/>
+  <text x="590" y="200" font-size="16" font-weight="bold" fill="#3A3228" font-family="system-ui">74/100</text>
+
+  <!-- Value for Money -->
+  <text x="40" y="260" font-size="16" font-weight="600" fill="#3A3228" font-family="system-ui">
+    Value for Money
+  </text>
+  <rect x="280" y="245" width="300" height="28" rx="12" fill="#DDD8CE"/>
+  <rect x="280" y="245" width="156" height="28" rx="12" fill="#6B7C5E"/>
+  <text x="590" y="265" font-size="16" font-weight="bold" fill="#3A3228" font-family="system-ui">52/100</text>
+
+  <!-- Feature Depth -->
+  <text x="40" y="325" font-size="16" font-weight="600" fill="#3A3228" font-family="system-ui">
+    Feature Depth
+  </text>
+  <rect x="280" y="310" width="300" height="28" rx="12" fill="#DDD8CE"/>
+  <rect x="280" y="310" width="228" height="28" rx="12" fill="#96845A"/>
+  <text x="590" y="330" font-size="16" font-weight="bold" fill="#3A3228" font-family="system-ui">76/100</text>
+
+  <!-- Free Tier -->
+  <text x="40" y="390" font-size="16" font-weight="600" fill="#3A3228" font-family="system-ui">
+    Free Tier
+  </text>
+  <rect x="280" y="375" width="300" height="28" rx="12" fill="#DDD8CE"/>
+  <rect x="280" y="375" width="180" height="28" rx="12" fill="#6B7C5E"/>
+  <text x="590" y="395" font-size="16" font-weight="bold" fill="#3A3228" font-family="system-ui">60/100</text>
+
+  <!-- Overall Score Box -->
+  <rect x="40" y="440" width="720" height="50" rx="12" fill="#96845A" opacity="0.15"/>
+  <text x="60" y="460" font-size="16" font-weight="600" fill="#3A3228" font-family="system-ui">
+    Overall Score
+  </text>
+  <text x="720" y="470" font-size="28" font-weight="bold" fill="#4A5942" font-family="system-ui" text-anchor="end">
+    3.6 / 5.0
+  </text>
+</svg>

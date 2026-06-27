@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#F4F1EA" rx="16"/>
+  <rect x="0" y="0" width="1200" height="6" fill="#4A5942" rx="3"/>
+  <text x="600" y="80" font-family="Georgia, serif" font-size="16" font-weight="600" text-anchor="middle" fill="#6B7C5E">RAWPICKAI NEWS · MAY 20, 2026</text>
+  <text x="600" y="160" font-family="Georgia, serif" font-size="40" font-weight="700" text-anchor="middle" fill="#1A2416">Google I/O 2026: Gemini 3.5 Flash</text>
+  <text x="600" y="215" font-family="Georgia, serif" font-size="40" font-weight="700" text-anchor="middle" fill="#1A2416">Beats Pro, Costs Flash Prices</text>
+  <text x="600" y="270" font-family="Georgia, serif" font-size="24" font-weight="400" text-anchor="middle" fill="#4A453E">Plus: OpenAI Launches AI Content Verification Tool</text>
+  <rect x="300" y="310" width="600" height="3" fill="#4A5942" opacity="0.2" rx="1"/>
+  <rect x="150" y="350" width="280" height="110" rx="12" fill="white" stroke="#4A5942" stroke-width="1.5"/>
+  <text x="290" y="385" font-family="Georgia, serif" font-size="14" font-weight="600" text-anchor="middle" fill="#4A5942">Gemini 3.5 Flash</text>
+  <text x="290" y="420" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Beats 3.1 Pro on coding</text>
+  <text x="290" y="445" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B6960">4x faster output tokens/sec</text>
+  <rect x="460" y="350" width="280" height="110" rx="12" fill="white" stroke="#96845A" stroke-width="1.5"/>
+  <text x="600" y="385" font-family="Georgia, serif" font-size="14" font-weight="600" text-anchor="middle" fill="#96845A">Gemini Spark</text>
+  <text x="600" y="420" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">24/7 personal AI agent</text>
+  <text x="600" y="445" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B6960">Runs tasks autonomously</text>
+  <rect x="770" y="350" width="280" height="110" rx="12" fill="white" stroke="#6B7C5E" stroke-width="1.5"/>
+  <text x="910" y="385" font-family="Georgia, serif" font-size="14" font-weight="600" text-anchor="middle" fill="#6B7C5E">9.7T Tokens/mo</text>
+  <text x="910" y="420" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Gemini usage milestone</text>
+  <text x="910" y="445" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B6960">Across all Google products</text>
+  <text x="600" y="540" font-family="Georgia, serif" font-size="14" text-anchor="middle" fill="#8A8577">rawpickai.com</text>
+</svg>

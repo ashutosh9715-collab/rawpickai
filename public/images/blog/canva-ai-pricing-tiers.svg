@@ -1,0 +1,78 @@
+<svg viewBox="0 0 900 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root {
+        --bg: #F4F1EA;
+        --heading: #4A5942;
+        --card-bg: #DDD8CE;
+        --body: #3A3228;
+        --muted: #8A8577;
+        --accent: #96845A;
+      }
+      body { color-scheme: light; }
+      .bg { fill: #F4F1EA; }
+      .card { fill: white; rx: 12; }
+      .card-header { fill: #6B7C5E; }
+      .heading { fill: #4A5942; font-family: system-ui, -apple-system, sans-serif; font-weight: 600; }
+      .tier-name { fill: white; font-family: system-ui, -apple-system, sans-serif; font-weight: 600; font-size: 16px; }
+      .price { fill: #3A3228; font-family: system-ui, -apple-system, sans-serif; font-weight: 700; font-size: 18px; }
+      .price-small { fill: #8A8577; font-family: system-ui, -apple-system, sans-serif; font-size: 12px; }
+      .feature { fill: #3A3228; font-family: system-ui, -apple-system, sans-serif; font-size: 13px; }
+      .check { fill: #6B7C5E; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="900" height="500"/>
+
+  <!-- Title -->
+  <text class="heading" x="40" y="35" font-size="24">Canva AI Pricing Plans</text>
+
+  <!-- Card 1: Free -->
+  <rect class="card" x="20" y="60" width="180" height="420" rx="12" stroke="#DDD8CE" stroke-width="1"/>
+  <rect class="card-header" x="20" y="60" width="180" height="50" rx="12"/>
+  <text class="tier-name" x="110" y="95" text-anchor="middle">Free</text>
+  <text class="price" x="110" y="130" text-anchor="middle" font-size="24">$0</text>
+  <text class="feature" x="30" y="160">• 5 Magic Writes/mo</text>
+  <text class="feature" x="30" y="180">• 1 Magic Eraser</text>
+  <text class="feature" x="30" y="200">• Limited Magic Design</text>
+  <text class="feature" x="30" y="220">• Demo tier only</text>
+  <text class="price-small" x="110" y="450" text-anchor="middle">Best for trying</text>
+
+  <!-- Card 2: Pro -->
+  <rect class="card" x="220" y="60" width="180" height="420" rx="12" stroke="#96845A" stroke-width="2"/>
+  <rect class="card-header" x="220" y="60" width="180" height="50" rx="12" fill="#96845A"/>
+  <text class="tier-name" x="310" y="95" text-anchor="middle">Pro</text>
+  <text class="price" x="310" y="130" text-anchor="middle">$15/mo</text>
+  <text class="price-small" x="310" y="150" text-anchor="middle">≈₹1,395</text>
+  <text class="feature" x="230" y="180">• 50 Magic Writes</text>
+  <text class="feature" x="230" y="200">• 50 Magic Eraser</text>
+  <text class="feature" x="230" y="220">• 50 Magic Design</text>
+  <text class="feature" x="230" y="240">• 50 text-to-image</text>
+  <text class="feature" x="230" y="260">• Full templates</text>
+  <text class="price-small" x="310" y="450" text-anchor="middle">Most popular</text>
+
+  <!-- Card 3: Teams -->
+  <rect class="card" x="420" y="60" width="180" height="420" rx="12" stroke="#DDD8CE" stroke-width="1"/>
+  <rect class="card-header" x="420" y="60" width="180" height="50" rx="12"/>
+  <text class="tier-name" x="510" y="95" text-anchor="middle">Teams</text>
+  <text class="price" x="510" y="130" text-anchor="middle" font-size="16">$10/user</text>
+  <text class="price-small" x="510" y="150" text-anchor="middle">≈₹930</text>
+  <text class="feature" x="430" y="180">• Shared workspace</text>
+  <text class="feature" x="430" y="200">• Brand kit tools</text>
+  <text class="feature" x="430" y="220">• 3+ person minimum</text>
+  <text class="feature" x="430" y="240">• Pro features/seat</text>
+  <text class="price-small" x="510" y="450" text-anchor="middle">Team collaboration</text>
+
+  <!-- Card 4: Enterprise -->
+  <rect class="card" x="620" y="60" width="250" height="420" rx="12" stroke="#DDD8CE" stroke-width="1"/>
+  <rect class="card-header" x="620" y="60" width="250" height="50" rx="12"/>
+  <text class="tier-name" x="745" y="95" text-anchor="middle">Enterprise</text>
+  <text class="price" x="745" y="130" text-anchor="middle" font-size="16">Custom</text>
+  <text class="feature" x="630" y="160">• Unlimited AI features</text>
+  <text class="feature" x="630" y="180">• API access</text>
+  <text class="feature" x="630" y="200">• SSO &amp; admin tools</text>
+  <text class="feature" x="630" y="220">• Dedicated support</text>
+  <text class="feature" x="630" y="240">• Custom branding</text>
+  <text class="feature" x="630" y="260">• Data compliance</text>
+  <text class="price-small" x="745" y="450" text-anchor="middle">Large organizations</text>
+</svg>

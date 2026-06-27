@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 350" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+  <rect width="800" height="350" rx="12" fill="#F4F1EA"/>
+
+  <text x="40" y="40" fill="#1A2416" font-size="18" font-weight="700">Cursor 3 Review Scores</text>
+  <text x="40" y="60" fill="#8b8fa3" font-size="13">Our rating across 5 categories  -  Overall: 4.6/5</text>
+
+  <!-- Overall score circle -->
+  <circle cx="710" cy="50" r="30" fill="none" stroke="#2a2e3d" stroke-width="6"/>
+  <circle cx="710" cy="50" r="30" fill="none" stroke="#c97b3a" stroke-width="6" stroke-dasharray="173" stroke-dashoffset="17" transform="rotate(-90 710 50)"/>
+  <text x="710" y="46" fill="#1A2416" font-size="18" font-weight="700" text-anchor="middle">4.6</text>
+  <text x="710" y="62" fill="#8b8fa3" font-size="10" text-anchor="middle">/5</text>
+
+  <!-- Feature Depth: 96 -->
+  <text x="40" y="108" fill="#c4c7d4" font-size="13" font-weight="600">Feature Depth</text>
+  <rect x="200" y="94" width="480" height="22" rx="4" fill="#1a1d2a"/>
+  <rect x="200" y="94" width="461" height="22" rx="4" fill="#c97b3a"/>
+  <text x="670" y="110" fill="#1A2416" font-size="13" font-weight="700">96</text>
+
+  <!-- Output Quality: 93 -->
+  <text x="40" y="158" fill="#c4c7d4" font-size="13" font-weight="600">Output Quality</text>
+  <rect x="200" y="144" width="480" height="22" rx="4" fill="#1a1d2a"/>
+  <rect x="200" y="144" width="446" height="22" rx="4" fill="#c97b3a"/>
+  <text x="654" y="160" fill="#1A2416" font-size="13" font-weight="700">93</text>
+
+  <!-- Ease of Use: 90 -->
+  <text x="40" y="208" fill="#c4c7d4" font-size="13" font-weight="600">Ease of Use</text>
+  <rect x="200" y="194" width="480" height="22" rx="4" fill="#1a1d2a"/>
+  <rect x="200" y="194" width="432" height="22" rx="4" fill="#3a8c5e"/>
+  <text x="640" y="210" fill="#1A2416" font-size="13" font-weight="700">90</text>
+
+  <!-- Value for Money: 78 -->
+  <text x="40" y="258" fill="#c4c7d4" font-size="13" font-weight="600">Value for Money</text>
+  <rect x="200" y="244" width="480" height="22" rx="4" fill="#1a1d2a"/>
+  <rect x="200" y="244" width="374" height="22" rx="4" fill="#b0943a"/>
+  <text x="582" y="260" fill="#1A2416" font-size="13" font-weight="700">78</text>
+
+  <!-- Free Tier: 55 -->
+  <text x="40" y="308" fill="#c4c7d4" font-size="13" font-weight="600">Free Tier</text>
+  <rect x="200" y="294" width="480" height="22" rx="4" fill="#1a1d2a"/>
+  <rect x="200" y="294" width="264" height="22" rx="4" fill="#8c3a3a"/>
+  <text x="472" y="310" fill="#1A2416" font-size="13" font-weight="700">55</text>
+
+  <!-- Footer -->
+  <text x="40" y="342" fill="#5a5e72" font-size="11">Tested on Cursor 3.0 release build, April 2026  -  rawpickai.com</text>
+</svg>

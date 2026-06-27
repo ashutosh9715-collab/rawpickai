@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="900" height="180">
+  <rect width="900" height="180" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#4A5942" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">Anthropic $30B Round: Who Invested</text>
+  <rect x="60" y="55" width="380" height="100" rx="10" fill="white" stroke="#4A5942" stroke-width="1.5"/>
+  <text x="250" y="82" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#4A5942">Lead Investors (~$2B each)</text>
+  <text x="250" y="105" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Sequoia Capital</text>
+  <text x="250" y="123" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Dragoneer · Altimeter Capital · Greenoaks</text>
+  <rect x="470" y="55" width="380" height="100" rx="10" fill="white" stroke="#6B7C5E" stroke-width="1.5"/>
+  <text x="660" y="82" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#6B7C5E">Other Participants</text>
+  <text x="660" y="105" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Peter Thiel's Founders Fund</text>
+  <text x="660" y="123" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">General Catalyst · Microsoft · NVIDIA</text>
+  <text x="450" y="170" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Closed week of May 26. Anthropic now world's most valuable private AI company at $900B+. Source: Bloomberg</text>
+</svg>

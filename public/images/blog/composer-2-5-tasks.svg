@@ -1,0 +1,89 @@
+<svg viewBox="0 0 680 400" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
+  <rect width="680" height="400" rx="12" fill="#F4F1EA"/>
+
+  <!-- Title -->
+  <text x="340" y="34" text-anchor="middle" font-size="15" font-weight="700" fill="#4A5942">8-Task Real-World Scorecard</text>
+  <text x="340" y="52" text-anchor="middle" font-size="12" fill="#8A8577">Composer 2.5 hands-on testing results</text>
+
+  <!-- Legend -->
+  <rect x="160" y="66" width="12" height="12" rx="3" fill="#6B7C5E"/>
+  <text x="178" y="77" font-size="11" fill="#3A3228">Pass</text>
+  <rect x="240" y="66" width="12" height="12" rx="3" fill="#96845A"/>
+  <text x="258" y="77" font-size="11" fill="#3A3228">Partial</text>
+  <rect x="330" y="66" width="12" height="12" rx="3" fill="#DDD8CE"/>
+  <text x="348" y="77" font-size="11" fill="#3A3228">Fail</text>
+
+  <!-- Header row -->
+  <text x="30" y="100" font-size="11" font-weight="600" fill="#4A5942">Task</text>
+  <text x="430" y="100" font-size="11" font-weight="600" fill="#4A5942">Result</text>
+  <text x="530" y="100" font-size="11" font-weight="600" fill="#4A5942">Attempts</text>
+  <line x1="24" y1="106" x2="656" y2="106" stroke="#DDD8CE" stroke-width="1"/>
+
+  <!-- Row 1 -->
+  <rect x="24" y="110" width="632" height="34" rx="4" fill="#F4F1EA"/>
+  <text x="34" y="124" font-size="11" fill="#3A3228">Multi-file TypeScript refactor</text>
+  <text x="34" y="138" font-size="10" fill="#8A8577">(Next.js, 8 files)</text>
+  <rect x="420" y="116" width="64" height="18" rx="6" fill="#6B7C5E"/>
+  <text x="452" y="129" text-anchor="middle" font-size="11" font-weight="600" fill="#F4F1EA">Pass</text>
+  <text x="545" y="129" text-anchor="middle" font-size="11" fill="#3A3228">1</text>
+  <line x1="24" y1="144" x2="656" y2="144" stroke="#DDD8CE" stroke-width="1"/>
+
+  <!-- Row 2 -->
+  <text x="34" y="158" font-size="11" fill="#3A3228">JWT auth middleware</text>
+  <text x="34" y="172" font-size="10" fill="#8A8577">(refresh token rotation edge case)</text>
+  <rect x="420" y="150" width="64" height="18" rx="6" fill="#96845A"/>
+  <text x="452" y="163" text-anchor="middle" font-size="11" font-weight="600" fill="#F4F1EA">Partial</text>
+  <text x="545" y="163" text-anchor="middle" font-size="11" fill="#3A3228">2</text>
+  <line x1="24" y1="178" x2="656" y2="178" stroke="#DDD8CE" stroke-width="1"/>
+
+  <!-- Row 3 -->
+  <text x="34" y="192" font-size="11" fill="#3A3228">React form with Zod validation</text>
+  <text x="34" y="206" font-size="10" fill="#8A8577">(async + sync error states)</text>
+  <rect x="420" y="184" width="64" height="18" rx="6" fill="#6B7C5E"/>
+  <text x="452" y="197" text-anchor="middle" font-size="11" font-weight="600" fill="#F4F1EA">Pass</text>
+  <text x="545" y="197" text-anchor="middle" font-size="11" fill="#3A3228">1</text>
+  <line x1="24" y1="212" x2="656" y2="212" stroke="#DDD8CE" stroke-width="1"/>
+
+  <!-- Row 4 -->
+  <text x="34" y="226" font-size="11" fill="#3A3228">PostgreSQL query optimization</text>
+  <text x="34" y="240" font-size="10" fill="#8A8577">(N+1 on user/posts relationship)</text>
+  <rect x="420" y="218" width="64" height="18" rx="6" fill="#96845A"/>
+  <text x="452" y="231" text-anchor="middle" font-size="11" font-weight="600" fill="#F4F1EA">Partial</text>
+  <text x="545" y="231" text-anchor="middle" font-size="11" fill="#3A3228">2</text>
+  <line x1="24" y1="246" x2="656" y2="246" stroke="#DDD8CE" stroke-width="1"/>
+
+  <!-- Row 5 -->
+  <text x="34" y="260" font-size="11" fill="#3A3228">Python CLI tool with Click</text>
+  <text x="34" y="274" font-size="10" fill="#8A8577">(arg parsing, help, error handling)</text>
+  <rect x="420" y="252" width="64" height="18" rx="6" fill="#6B7C5E"/>
+  <text x="452" y="265" text-anchor="middle" font-size="11" font-weight="600" fill="#F4F1EA">Pass</text>
+  <text x="545" y="265" text-anchor="middle" font-size="11" fill="#3A3228">1</text>
+  <line x1="24" y1="280" x2="656" y2="280" stroke="#DDD8CE" stroke-width="1"/>
+
+  <!-- Row 6 -->
+  <text x="34" y="294" font-size="11" fill="#3A3228">Jest test suite generation</text>
+  <text x="34" y="308" font-size="10" fill="#8A8577">(12 utility functions, edge cases)</text>
+  <rect x="420" y="286" width="64" height="18" rx="6" fill="#6B7C5E"/>
+  <text x="452" y="299" text-anchor="middle" font-size="11" font-weight="600" fill="#F4F1EA">Pass</text>
+  <text x="545" y="299" text-anchor="middle" font-size="11" fill="#3A3228">1</text>
+  <line x1="24" y1="314" x2="656" y2="314" stroke="#DDD8CE" stroke-width="1"/>
+
+  <!-- Row 7 -->
+  <text x="34" y="328" font-size="11" fill="#3A3228">Docker Compose config</text>
+  <text x="34" y="342" font-size="10" fill="#8A8577">(Node + Redis + Postgres)</text>
+  <rect x="420" y="320" width="64" height="18" rx="6" fill="#6B7C5E"/>
+  <text x="452" y="333" text-anchor="middle" font-size="11" font-weight="600" fill="#F4F1EA">Pass</text>
+  <text x="545" y="333" text-anchor="middle" font-size="11" fill="#3A3228">1+fix</text>
+  <line x1="24" y1="348" x2="656" y2="348" stroke="#DDD8CE" stroke-width="1"/>
+
+  <!-- Row 8 -->
+  <text x="34" y="362" font-size="11" fill="#3A3228">Stripe webhook integration</text>
+  <text x="34" y="376" font-size="10" fill="#8A8577">(idempotency key + sig verification)</text>
+  <rect x="420" y="354" width="64" height="18" rx="6" fill="#6B7C5E"/>
+  <text x="452" y="367" text-anchor="middle" font-size="11" font-weight="600" fill="#F4F1EA">Pass</text>
+  <text x="545" y="367" text-anchor="middle" font-size="11" fill="#3A3228">1</text>
+  <line x1="24" y1="382" x2="656" y2="382" stroke="#DDD8CE" stroke-width="1"/>
+
+  <!-- Summary -->
+  <text x="420" y="396" font-size="11" font-weight="700" fill="#4A5942">6 Pass / 2 Partial / 0 Fail</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200">
+  <rect width="900" height="200" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#4A5942" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">What Changes for OpenAI After the Verdict</text>
+  <rect x="40" y="55" width="250" height="120" rx="10" fill="white" stroke="#22c55e" stroke-width="2"/>
+  <text x="165" y="82" font-family="Georgia, serif" font-size="12" font-weight="700" text-anchor="middle" fill="#22c55e">CLEARED</text>
+  <text x="165" y="105" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">$134B damages threat</text>
+  <text x="165" y="125" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Leadership removal risk</text>
+  <text x="165" y="145" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">For-profit structure intact</text>
+  <rect x="330" y="55" width="250" height="120" rx="10" fill="white" stroke="#96845A" stroke-width="2"/>
+  <text x="455" y="82" font-family="Georgia, serif" font-size="12" font-weight="700" text-anchor="middle" fill="#96845A">STILL PENDING</text>
+  <text x="455" y="105" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Musk appeal (9th Circuit)</text>
+  <text x="455" y="125" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">AG nonprofit oversight</text>
+  <text x="455" y="145" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Public trust questions</text>
+  <rect x="620" y="55" width="250" height="120" rx="10" fill="white" stroke="#4A5942" stroke-width="2"/>
+  <text x="745" y="82" font-family="Georgia, serif" font-size="12" font-weight="700" text-anchor="middle" fill="#4A5942">NEXT UP</text>
+  <text x="745" y="105" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">OpenAI IPO (2026 target)</text>
+  <text x="745" y="125" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">xAI/SpaceX IPO plans</text>
+  <text x="745" y="145" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Anthropic IPO speculation</text>
+  <text x="450" y="193" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Source: CNBC, Entrepreneur, Washington Post — May 18, 2026</text>
+</svg>

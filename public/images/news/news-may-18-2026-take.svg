@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 140" width="900" height="140">
+  <rect width="900" height="140" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="4" height="140" fill="#4A5942" rx="2"/>
+  <text x="40" y="35" font-family="Georgia, serif" font-size="14" font-weight="600" fill="#4A5942">MY TAKE</text>
+  <text x="40" y="65" font-family="Georgia, serif" font-size="15" fill="#4A453E">Composer 2.5 makes the 80/20 split I recommended in my Composer 2 vs Claude comparison even</text>
+  <text x="40" y="90" font-family="Georgia, serif" font-size="15" fill="#4A453E">more compelling. That 11-point CursorBench jump means the "good enough" model just got noticeably</text>
+  <text x="40" y="115" font-family="Georgia, serif" font-size="15" fill="#4A453E">better — and the SpaceXAI Colossus 2 partnership hints at something much bigger coming.</text>
+</svg>

@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+  <rect width="800" height="460" rx="12" fill="#F4F1EA"/>
+
+  <text x="400" y="32" fill="#4A5942" font-size="17" font-weight="700" text-anchor="middle">Which AI Categories Deliver the Best Value?</text>
+  <text x="400" y="52" fill="#8A8577" font-size="12" text-anchor="middle">Median entry price and average quality score across top 8 categories</text>
+
+  <!-- Table container -->
+  <rect x="40" y="80" width="720" height="330" rx="8" fill="#FFFFFF" stroke="#DDD8CE" stroke-width="0.5"/>
+
+  <!-- Header row -->
+  <rect x="40" y="80" width="720" height="38" rx="8" fill="#4A5942"/>
+  <rect x="40" y="110" width="720" height="10" fill="#4A5942"/>
+  <text x="60" y="104" fill="#F4F1EA" font-size="12" font-weight="700">Category</text>
+  <text x="340" y="104" fill="#F4F1EA" font-size="12" font-weight="700" text-anchor="middle">Tools</text>
+  <text x="490" y="104" fill="#F4F1EA" font-size="12" font-weight="700" text-anchor="middle">Median Price</text>
+  <text x="660" y="104" fill="#F4F1EA" font-size="12" font-weight="700" text-anchor="middle">Avg Score</text>
+
+  <!-- Row helper: y step = 36 -->
+
+  <!-- 1. Image Generation — 6 tools, $11, 3.87 -->
+  <text x="60" y="140" fill="#3A3228" font-size="12" font-weight="600">Image Generation</text>
+  <text x="340" y="140" fill="#4A5942" font-size="12" text-anchor="middle">6</text>
+  <text x="490" y="140" fill="#4A5942" font-size="12" text-anchor="middle">$11 · ₹1,023</text>
+  <rect x="570" y="131" width="90" height="12" rx="6" fill="#E8E3D6"/>
+  <rect x="570" y="131" width="69.7" height="12" rx="6" fill="#4A5942"/>
+  <text x="670" y="141" fill="#4A5942" font-size="11" font-weight="700">3.87</text>
+  <line x1="40" y1="154" x2="760" y2="154" stroke="#F0EBDE" stroke-width="0.5"/>
+
+  <!-- 2. AI Assistants — 6 tools, $20, 3.87 -->
+  <text x="60" y="176" fill="#3A3228" font-size="12" font-weight="600">AI Assistants</text>
+  <text x="340" y="176" fill="#4A5942" font-size="12" text-anchor="middle">6</text>
+  <text x="490" y="176" fill="#4A5942" font-size="12" text-anchor="middle">$20 · ₹1,860</text>
+  <rect x="570" y="167" width="90" height="12" rx="6" fill="#E8E3D6"/>
+  <rect x="570" y="167" width="69.7" height="12" rx="6" fill="#4A5942"/>
+  <text x="670" y="177" fill="#4A5942" font-size="11" font-weight="700">3.87</text>
+  <line x1="40" y1="190" x2="760" y2="190" stroke="#F0EBDE" stroke-width="0.5"/>
+
+  <!-- 3. Code Assistants — 5 tools, $10, 3.76 -->
+  <text x="60" y="212" fill="#3A3228" font-size="12" font-weight="600">Code Assistants</text>
+  <text x="340" y="212" fill="#4A5942" font-size="12" text-anchor="middle">5</text>
+  <text x="490" y="212" fill="#4A5942" font-size="12" text-anchor="middle">$10 · ₹930</text>
+  <rect x="570" y="203" width="90" height="12" rx="6" fill="#E8E3D6"/>
+  <rect x="570" y="203" width="67.7" height="12" rx="6" fill="#6B7C5E"/>
+  <text x="670" y="213" fill="#4A5942" font-size="11" font-weight="700">3.76</text>
+  <line x1="40" y1="226" x2="760" y2="226" stroke="#F0EBDE" stroke-width="0.5"/>
+
+  <!-- 4. Design & Creative — 3 tools, $15, 3.70 -->
+  <text x="60" y="248" fill="#3A3228" font-size="12" font-weight="600">Design &amp; Creative</text>
+  <text x="340" y="248" fill="#4A5942" font-size="12" text-anchor="middle">3</text>
+  <text x="490" y="248" fill="#4A5942" font-size="12" text-anchor="middle">$15 · ₹1,395</text>
+  <rect x="570" y="239" width="90" height="12" rx="6" fill="#E8E3D6"/>
+  <rect x="570" y="239" width="66.6" height="12" rx="6" fill="#6B7C5E"/>
+  <text x="670" y="249" fill="#4A5942" font-size="11" font-weight="700">3.70</text>
+  <line x1="40" y1="262" x2="760" y2="262" stroke="#F0EBDE" stroke-width="0.5"/>
+
+  <!-- 5. Video & Audio — 9 tools, $12, 3.64 -->
+  <text x="60" y="284" fill="#3A3228" font-size="12" font-weight="600">Video &amp; Audio</text>
+  <text x="340" y="284" fill="#4A5942" font-size="12" text-anchor="middle">9</text>
+  <text x="490" y="284" fill="#4A5942" font-size="12" text-anchor="middle">$12 · ₹1,116</text>
+  <rect x="570" y="275" width="90" height="12" rx="6" fill="#E8E3D6"/>
+  <rect x="570" y="275" width="65.5" height="12" rx="6" fill="#96845A"/>
+  <text x="670" y="285" fill="#4A5942" font-size="11" font-weight="700">3.64</text>
+  <line x1="40" y1="298" x2="760" y2="298" stroke="#F0EBDE" stroke-width="0.5"/>
+
+  <!-- 6. Productivity &amp; Presentations — 7 tools, $10, 3.60 -->
+  <text x="60" y="320" fill="#3A3228" font-size="12" font-weight="600">Productivity &amp; Presentations</text>
+  <text x="340" y="320" fill="#4A5942" font-size="12" text-anchor="middle">7</text>
+  <text x="490" y="320" fill="#4A5942" font-size="12" text-anchor="middle">$10 · ₹930</text>
+  <rect x="570" y="311" width="90" height="12" rx="6" fill="#E8E3D6"/>
+  <rect x="570" y="311" width="64.8" height="12" rx="6" fill="#96845A"/>
+  <text x="670" y="321" fill="#4A5942" font-size="11" font-weight="700">3.60</text>
+  <line x1="40" y1="334" x2="760" y2="334" stroke="#F0EBDE" stroke-width="0.5"/>
+
+  <!-- 7. AI Writing Tools — 2 tools, $36, 3.45 -->
+  <text x="60" y="356" fill="#3A3228" font-size="12" font-weight="600">AI Writing Tools (Jasper-tier)</text>
+  <text x="340" y="356" fill="#4A5942" font-size="12" text-anchor="middle">2</text>
+  <text x="490" y="356" fill="#4A5942" font-size="12" text-anchor="middle">$36 · ₹3,348</text>
+  <rect x="570" y="347" width="90" height="12" rx="6" fill="#E8E3D6"/>
+  <rect x="570" y="347" width="62.1" height="12" rx="6" fill="#96845A"/>
+  <text x="670" y="357" fill="#4A5942" font-size="11" font-weight="700">3.45</text>
+  <line x1="40" y1="370" x2="760" y2="370" stroke="#F0EBDE" stroke-width="0.5"/>
+
+  <!-- 8. Writing &amp; Content — 2 tools, $49, 3.25 -->
+  <text x="60" y="392" fill="#3A3228" font-size="12" font-weight="600">Writing &amp; Content (Copy.ai-tier)</text>
+  <text x="340" y="392" fill="#4A5942" font-size="12" text-anchor="middle">2</text>
+  <text x="490" y="392" fill="#4A5942" font-size="12" text-anchor="middle">$49 · ₹4,557</text>
+  <rect x="570" y="383" width="90" height="12" rx="6" fill="#E8E3D6"/>
+  <rect x="570" y="383" width="58.5" height="12" rx="6" fill="#C9A96E"/>
+  <text x="670" y="393" fill="#4A5942" font-size="11" font-weight="700">3.25</text>
+
+  <!-- Insight callout -->
+  <rect x="40" y="425" width="720" height="28" rx="6" fill="#4A5942"/>
+  <text x="400" y="444" fill="#F4F1EA" font-size="12" font-weight="600" text-anchor="middle">Finding: the most expensive category (AI Writing) delivers the lowest scores — inverse price-quality pattern</text>
+</svg>
