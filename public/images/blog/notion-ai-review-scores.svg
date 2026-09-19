@@ -1,0 +1,88 @@
+<svg viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root {
+        --bg: #F4F1EA;
+        --heading: #4A5942;
+        --bar-primary: #6B7C5E;
+        --bar-accent: #96845A;
+        --body: #3A3228;
+        --muted: #8A8577;
+        --track: #DDD8CE;
+      }
+      body { background-color: var(--bg); }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="450" fill="#F4F1EA"/>
+
+  <!-- Title -->
+  <text x="400" y="40" font-size="28" font-weight="bold" text-anchor="middle" fill="#4A5942" font-family="system-ui, -apple-system, sans-serif">
+    Notion AI Review Scores
+  </text>
+
+  <!-- Subtitle -->
+  <text x="400" y="65" font-size="14" text-anchor="middle" fill="#8A8577" font-family="system-ui, -apple-system, sans-serif">
+    Comprehensive evaluation across 5 dimensions
+  </text>
+
+  <!-- Grid lines -->
+  <line x1="120" y1="90" x2="120" y2="380" stroke="#DDD8CE" stroke-width="1"/>
+  <line x1="120" y1="380" x2="750" y2="380" stroke="#DDD8CE" stroke-width="2"/>
+
+  <!-- Scale markers (0, 25, 50, 75, 100) -->
+  <text x="110" y="385" font-size="12" text-anchor="end" fill="#8A8577" font-family="system-ui, -apple-system, sans-serif">0</text>
+  <text x="110" y="295" font-size="12" text-anchor="end" fill="#8A8577" font-family="system-ui, -apple-system, sans-serif">25</text>
+  <text x="110" y="205" font-size="12" text-anchor="end" fill="#8A8577" font-family="system-ui, -apple-system, sans-serif">50</text>
+  <text x="110" y="115" font-size="12" text-anchor="end" fill="#8A8577" font-family="system-ui, -apple-system, sans-serif">75</text>
+  <text x="110" y="25" font-size="12" text-anchor="end" fill="#8A8577" font-family="system-ui, -apple-system, sans-serif">100</text>
+
+  <!-- Scale reference lines -->
+  <line x1="120" y1="290" x2="750" y2="290" stroke="#DDD8CE" stroke-width="1" stroke-dasharray="2,2" opacity="0.5"/>
+  <line x1="120" y1="200" x2="750" y2="200" stroke="#DDD8CE" stroke-width="1" stroke-dasharray="2,2" opacity="0.5"/>
+  <line x1="120" y1="110" x2="750" y2="110" stroke="#DDD8CE" stroke-width="1" stroke-dasharray="2,2" opacity="0.5"/>
+
+  <!-- Bar 1: Output Quality (78) -->
+  <g>
+    <rect x="140" y="106.4" width="90" height="273.6" fill="#6B7C5E" rx="12"/>
+    <text x="185" y="405" font-size="13" font-weight="600" text-anchor="middle" fill="#4A5942" font-family="system-ui, -apple-system, sans-serif">Output Quality</text>
+    <text x="185" y="425" font-size="16" font-weight="bold" text-anchor="middle" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">78</text>
+  </g>
+
+  <!-- Bar 2: Ease of Use (84) -->
+  <g>
+    <rect x="260" y="65.6" width="90" height="314.4" fill="#96845A" rx="12"/>
+    <text x="305" y="405" font-size="13" font-weight="600" text-anchor="middle" fill="#4A5942" font-family="system-ui, -apple-system, sans-serif">Ease of Use</text>
+    <text x="305" y="425" font-size="16" font-weight="bold" text-anchor="middle" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">84</text>
+  </g>
+
+  <!-- Bar 3: Feature Depth (76) -->
+  <g>
+    <rect x="380" y="116" width="90" height="264" fill="#6B7C5E" rx="12"/>
+    <text x="425" y="405" font-size="13" font-weight="600" text-anchor="middle" fill="#4A5942" font-family="system-ui, -apple-system, sans-serif">Feature Depth</text>
+    <text x="425" y="425" font-size="16" font-weight="bold" text-anchor="middle" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">76</text>
+  </g>
+
+  <!-- Bar 4: Value for Money (70) -->
+  <g>
+    <rect x="500" y="154" width="90" height="226" fill="#96845A" rx="12"/>
+    <text x="545" y="405" font-size="13" font-weight="600" text-anchor="middle" fill="#4A5942" font-family="system-ui, -apple-system, sans-serif">Value for Money</text>
+    <text x="545" y="425" font-size="16" font-weight="bold" text-anchor="middle" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">70</text>
+  </g>
+
+  <!-- Bar 5: Free Tier (62) -->
+  <g>
+    <rect x="620" y="222.4" width="90" height="157.6" fill="#6B7C5E" rx="12"/>
+    <text x="665" y="405" font-size="13" font-weight="600" text-anchor="middle" fill="#4A5942" font-family="system-ui, -apple-system, sans-serif">Free Tier</text>
+    <text x="665" y="425" font-size="16" font-weight="bold" text-anchor="middle" fill="#3A3228" font-family="system-ui, -apple-system, sans-serif">62</text>
+  </g>
+
+  <!-- Overall Score Badge -->
+  <g>
+    <circle cx="740" cy="130" r="45" fill="#4A5942" opacity="0.1"/>
+    <text x="740" y="130" font-size="36" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="#4A5942" font-family="system-ui, -apple-system, sans-serif">3.8</text>
+    <text x="740" y="150" font-size="11" text-anchor="middle" fill="#8A8577" font-family="system-ui, -apple-system, sans-serif">Overall</text>
+  </g>
+
+</svg>

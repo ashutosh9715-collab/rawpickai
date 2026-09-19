@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" role="img" aria-labelledby="title3">
+  <title id="title3">Microsoft and OpenAI partnership timeline 2019 through 2026 restructure</title>
+  <rect width="800" height="460" fill="#F4F1EA"/>
+
+  <text x="40" y="44" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#1A2416">The Microsoft-OpenAI partnership: what changed April 27</text>
+  <text x="40" y="68" font-family="Georgia, serif" font-size="13" fill="#6B6960">Five years of "exclusive" cloud partnership ended this week.</text>
+
+  <!-- Two columns: BEFORE and AFTER -->
+  <g transform="translate(40, 100)">
+    <!-- BEFORE box -->
+    <rect x="0" y="0" width="340" height="320" rx="10" fill="#FFFFFF" stroke="#D4D0C0" stroke-width="1"/>
+    <rect x="0" y="0" width="340" height="40" rx="10" fill="#791F1F"/>
+    <rect x="0" y="30" width="340" height="10" fill="#791F1F"/>
+    <text x="20" y="26" font-family="Georgia, serif" font-size="14" font-weight="700" fill="#FFFFFF">BEFORE (2019–April 2026)</text>
+
+    <text x="20" y="68" font-family="Georgia, serif" font-size="11" font-weight="700" fill="#96845A">CLOUD HOSTING</text>
+    <text x="20" y="88" font-family="Georgia, serif" font-size="13" fill="#1A2416">OpenAI exclusively on Azure.</text>
+    <text x="20" y="106" font-family="Georgia, serif" font-size="12" fill="#4A453E">No multi-cloud option. Microsoft</text>
+    <text x="20" y="122" font-family="Georgia, serif" font-size="12" fill="#4A453E">had right of first refusal.</text>
+
+    <text x="20" y="158" font-family="Georgia, serif" font-size="11" font-weight="700" fill="#96845A">REVENUE FLOW</text>
+    <text x="20" y="178" font-family="Georgia, serif" font-size="13" fill="#1A2416">Two-way share, uncapped.</text>
+    <text x="20" y="196" font-family="Georgia, serif" font-size="12" fill="#4A453E">Microsoft paid OpenAI a cut</text>
+    <text x="20" y="212" font-family="Georgia, serif" font-size="12" fill="#4A453E">of Azure AI revenue. OpenAI</text>
+    <text x="20" y="228" font-family="Georgia, serif" font-size="12" fill="#4A453E">paid Microsoft a cut of OpenAI</text>
+    <text x="20" y="244" font-family="Georgia, serif" font-size="12" fill="#4A453E">revenue.</text>
+
+    <text x="20" y="278" font-family="Georgia, serif" font-size="11" font-weight="700" fill="#96845A">STRATEGIC POSTURE</text>
+    <text x="20" y="298" font-family="Georgia, serif" font-size="13" fill="#1A2416">Existential partnership.</text>
+
+    <!-- AFTER box -->
+    <g transform="translate(380, 0)">
+      <rect x="0" y="0" width="340" height="320" rx="10" fill="#FFFFFF" stroke="#D4D0C0" stroke-width="1"/>
+      <rect x="0" y="0" width="340" height="40" rx="10" fill="#085041"/>
+      <rect x="0" y="30" width="340" height="10" fill="#085041"/>
+      <text x="20" y="26" font-family="Georgia, serif" font-size="14" font-weight="700" fill="#FFFFFF">AFTER (April 27, 2026 →)</text>
+
+      <text x="20" y="68" font-family="Georgia, serif" font-size="11" font-weight="700" fill="#96845A">CLOUD HOSTING</text>
+      <text x="20" y="88" font-family="Georgia, serif" font-size="13" fill="#1A2416">Multi-cloud allowed.</text>
+      <text x="20" y="106" font-family="Georgia, serif" font-size="12" fill="#4A453E">OpenAI free to use AWS,</text>
+      <text x="20" y="122" font-family="Georgia, serif" font-size="12" fill="#4A453E">Google Cloud, or anywhere.</text>
+
+      <text x="20" y="158" font-family="Georgia, serif" font-size="11" font-weight="700" fill="#96845A">REVENUE FLOW</text>
+      <text x="20" y="178" font-family="Georgia, serif" font-size="13" fill="#1A2416">One-way, capped.</text>
+      <text x="20" y="196" font-family="Georgia, serif" font-size="12" fill="#4A453E">Microsoft no longer pays</text>
+      <text x="20" y="212" font-family="Georgia, serif" font-size="12" fill="#4A453E">OpenAI Azure revenue share.</text>
+      <text x="20" y="228" font-family="Georgia, serif" font-size="12" fill="#4A453E">OpenAI pays Microsoft 20%</text>
+      <text x="20" y="244" font-family="Georgia, serif" font-size="12" fill="#4A453E">capped through 2030.</text>
+
+      <text x="20" y="278" font-family="Georgia, serif" font-size="11" font-weight="700" fill="#96845A">STRATEGIC POSTURE</text>
+      <text x="20" y="298" font-family="Georgia, serif" font-size="13" fill="#1A2416">Vendor relationship.</text>
+    </g>
+  </g>
+
+  <!-- Bottom takeaway -->
+  <line x1="40" y1="430" x2="760" y2="430" stroke="#D4D0C0" stroke-width="0.5"/>
+  <text x="400" y="450" font-family="Georgia, serif" font-size="12" font-style="italic" fill="#4A453E" text-anchor="middle">Microsoft is no longer dependent on OpenAI exclusivity to win enterprise AI.</text>
+</svg>

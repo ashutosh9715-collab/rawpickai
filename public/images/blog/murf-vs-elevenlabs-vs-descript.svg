@@ -1,0 +1,108 @@
+<svg viewBox="0 0 900 450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #F4F1EA; }
+      .heading { fill: #4A5942; font-size: 20px; font-weight: bold; }
+      .row-header { fill: #3A3228; font-size: 13px; font-weight: bold; }
+      .cell-text { fill: #3A3228; font-size: 12px; }
+      .divider { stroke: #DDD8CE; stroke-width: 1; }
+      .col-bg { fill: #FFFFFF; }
+      .murf { fill: #6B7C5E; }
+      .eleven { fill: #96845A; }
+      .descript { fill: #8A8577; }
+      .muted { fill: #8A8577; font-size: 11px; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="900" height="450" rx="12"/>
+
+  <!-- Title -->
+  <text x="40" y="40" class="heading">Murf AI vs ElevenLabs vs Descript: Voice Comparison</text>
+
+  <!-- Table header -->
+  <rect x="30" y="60" width="200" height="40" rx="6" class="col-bg"/>
+  <text x="50" y="90" class="row-header">Feature</text>
+
+  <rect x="240" y="60" width="220" height="40" rx="6" class="murf" opacity="0.3"/>
+  <text x="280" y="90" class="row-header">Murf AI</text>
+
+  <rect x="480" y="60" width="220" height="40" rx="6" class="eleven" opacity="0.3"/>
+  <text x="515" y="90" class="row-header">ElevenLabs</text>
+
+  <rect x="720" y="60" width="150" height="40" rx="6" class="descript" opacity="0.3"/>
+  <text x="745" y="90" class="row-header">Descript</text>
+
+  <!-- Rows -->
+  <!-- Voice Quality -->
+  <rect x="30" y="110" width="200" height="35" class="col-bg"/>
+  <text x="50" y="135" class="cell-text">Voice Quality</text>
+  <rect x="240" y="110" width="220" height="35" class="col-bg"/>
+  <text x="260" y="135" class="cell-text">3.1/5 (synthetic)</text>
+  <rect x="480" y="110" width="220" height="35" class="col-bg"/>
+  <text x="500" y="135" class="cell-text">4.3/5 (human-like)</text>
+  <rect x="720" y="110" width="150" height="35" class="col-bg"/>
+  <text x="740" y="135" class="cell-text">3.8/5</text>
+
+  <!-- Monthly Cost -->
+  <rect x="30" y="150" width="200" height="35" class="col-bg"/>
+  <text x="50" y="175" class="cell-text">Creator Tier</text>
+  <rect x="240" y="150" width="220" height="35" class="col-bg"/>
+  <text x="260" y="175" class="cell-text">$17/mo (≈₹1,615)nth</text>
+  <rect x="480" y="150" width="220" height="35" class="col-bg"/>
+  <text x="500" y="175" class="cell-text">$27/mo (≈₹2,465)nth</text>
+  <rect x="720" y="150" width="150" height="35" class="col-bg"/>
+  <text x="740" y="175" class="cell-text">$20/mo (≈₹1,860)nth</text>
+
+  <!-- Video Editor -->
+  <rect x="30" y="190" width="200" height="35" class="col-bg"/>
+  <text x="50" y="215" class="cell-text">Built-in Video Editor</text>
+  <rect x="240" y="190" width="220" height="35" class="col-bg"/>
+  <text x="260" y="215" class="cell-text">Yes (basic)</text>
+  <rect x="480" y="190" width="220" height="35" class="col-bg"/>
+  <text x="500" y="215" class="cell-text">No</text>
+  <rect x="720" y="190" width="150" height="35" class="col-bg"/>
+  <text x="740" y="215" class="cell-text">Yes (full)</text>
+
+  <!-- Voices Available -->
+  <rect x="30" y="230" width="200" height="35" class="col-bg"/>
+  <text x="50" y="255" class="cell-text">Voice Count</text>
+  <rect x="240" y="230" width="220" height="35" class="col-bg"/>
+  <text x="260" y="255" class="cell-text">120+ voices</text>
+  <rect x="480" y="230" width="220" height="35" class="col-bg"/>
+  <text x="500" y="255" class="cell-text">1000+ voices</text>
+  <rect x="720" y="230" width="150" height="35" class="col-bg"/>
+  <text x="740" y="255" class="cell-text">100+ voices</text>
+
+  <!-- Emotion Control -->
+  <rect x="30" y="270" width="200" height="35" class="col-bg"/>
+  <text x="50" y="295" class="cell-text">Emotion Control</text>
+  <rect x="240" y="270" width="220" height="35" class="col-bg"/>
+  <text x="260" y="295" class="cell-text">Basic sliders</text>
+  <rect x="480" y="270" width="220" height="35" class="col-bg"/>
+  <text x="500" y="295" class="cell-text">Granular control</text>
+  <rect x="720" y="270" width="150" height="35" class="col-bg"/>
+  <text x="740" y="295" class="cell-text">Natural</text>
+
+  <!-- Best For -->
+  <rect x="30" y="310" width="200" height="35" class="col-bg"/>
+  <text x="50" y="335" class="cell-text">Best For</text>
+  <rect x="240" y="310" width="220" height="35" class="col-bg"/>
+  <text x="260" y="335" class="cell-text">Budget creators</text>
+  <rect x="480" y="310" width="220" height="35" class="col-bg"/>
+  <text x="500" y="335" class="cell-text">Premium quality</text>
+  <rect x="720" y="310" width="150" height="35" class="col-bg"/>
+  <text x="740" y="335" class="cell-text">Balanced</text>
+
+  <!-- Overall Score -->
+  <rect x="30" y="350" width="200" height="35" class="col-bg"/>
+  <text x="50" y="375" class="cell-text">Rating</text>
+  <rect x="240" y="350" width="220" height="35" class="col-bg"/>
+  <text x="260" y="375" class="cell-text">3.4/5</text>
+  <rect x="480" y="350" width="220" height="35" class="col-bg"/>
+  <text x="500" y="375" class="cell-text">4.1/5</text>
+  <rect x="720" y="350" width="150" height="35" class="col-bg"/>
+  <text x="740" y="375" class="cell-text">3.7/5</text>
+
+  <!-- Footer -->
+  <text x="40" y="430" class="muted">Data as of May 2026. Prices converted at $1 (≈₹93)/USD. Murf AI best for creators with tight budgets.</text>
+</svg>

@@ -1,0 +1,103 @@
+<svg viewBox="0 0 900 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title { font-size: 20px; font-weight: bold; fill: #4A5942; }
+      .category { font-size: 11px; font-weight: bold; fill: #3A3228; }
+      .value { font-size: 13px; font-weight: bold; fill: #3A3228; }
+      .label { font-size: 10px; fill: #8A8577; }
+      .tool-name { font-size: 12px; font-weight: bold; fill: white; }
+      .descript-color { fill: #96845A; }
+      .runway-color { fill: #6B7C5E; }
+      .heygen-color { fill: #8A8577; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="500" fill="#F4F1EA"/>
+
+  <!-- Title -->
+  <text x="450" y="30" text-anchor="middle" class="title">Descript vs Runway vs HeyGen</text>
+  <text x="450" y="48" text-anchor="middle" class="label">Three different tools for different workflows</text>
+
+  <!-- Tool Headers -->
+  <rect x="50" y="70" width="250" height="30" rx="6" class="descript-color"/>
+  <text x="175" y="92" text-anchor="middle" class="tool-name">Descript</text>
+
+  <rect x="325" y="70" width="250" height="30" rx="6" class="runway-color"/>
+  <text x="450" y="92" text-anchor="middle" class="tool-name">Runway</text>
+
+  <rect x="600" y="70" width="250" height="30" rx="6" class="heygen-color"/>
+  <text x="725" y="92" text-anchor="middle" class="tool-name">HeyGen</text>
+
+  <!-- Purpose -->
+  <text x="20" y="135" class="category">Primary Purpose</text>
+  <text x="50" y="145" class="value" style="font-size: 11px;">Edit existing</text>
+  <text x="50" y="143" class="value" style="font-size: 11px;">video/audio</text>
+
+  <text x="325" y="130" class="value" style="font-size: 11px;">Generate</text>
+  <text x="325" y="143" class="value" style="font-size: 11px;">new video</text>
+
+  <text x="600" y="130" class="value" style="font-size: 11px;">Generate</text>
+  <text x="600" y="143" class="value" style="font-size: 11px;">AI avatars</text>
+
+  <!-- Workflow -->
+  <text x="20" y="185" class="category">Workflow Type</text>
+  <text x="50" y="195" class="value" style="font-size: 11px;">Text-based edit</text>
+
+  <text x="325" y="180" class="value" style="font-size: 11px;">Prompt-based</text>
+
+  <text x="600" y="180" class="value" style="font-size: 11px;">Script-based</text>
+
+  <!-- Input -->
+  <text x="20" y="230" class="category">Requires Input</text>
+  <text x="50" y="240" class="value" style="font-size: 11px;">Video/audio</text>
+  <text x="50" y="238" class="value" style="font-size: 11px;">file</text>
+
+  <text x="325" y="225" class="value" style="font-size: 11px;">Text</text>
+  <text x="325" y="238" class="value" style="font-size: 11px;">prompt</text>
+
+  <text x="600" y="225" class="value" style="font-size: 11px;">Script +</text>
+  <text x="600" y="238" class="value" style="font-size: 11px;">settings</text>
+
+  <!-- Best For -->
+  <text x="20" y="285" class="category">Best For</text>
+  <text x="50" y="275" class="value" style="font-size: 9px;">Podcasts,</text>
+  <text x="50" y="303" class="value" style="font-size: 9px;">vlogs,</text>
+  <text x="50" y="301" class="value" style="font-size: 9px;">talking-head</text>
+
+  <text x="325" y="275" class="value" style="font-size: 9px;">Motion</text>
+  <text x="325" y="288" class="value" style="font-size: 9px;">graphics,</text>
+  <text x="325" y="301" class="value" style="font-size: 9px;">product video</text>
+
+  <text x="600" y="275" class="value" style="font-size: 9px;">Training,</text>
+  <text x="600" y="288" class="value" style="font-size: 9px;">marketing,</text>
+  <text x="600" y="301" class="value" style="font-size: 9px;">outreach</text>
+
+  <!-- Price -->
+  <text style="font-size:9px;" x="20" transform="rotate(-25,20,355)" y="355" class="category">Price</text>
+  <text style="font-size:9px;" x="50" transform="rotate(-25,50,350)" y="350" class="value">$24</text>
+  <text x="325" y="350" class="value">$35</text>
+  <text x="600" y="350" class="value">$29</text>
+
+  <!-- Key Feature -->
+  <text style="font-size:9px;" x="20" transform="rotate(-25,20,400)" y="400" class="category">Key Advantage</text>
+  <text x="50" y="390" class="value" style="font-size: 9px;">Transcription</text>
+  <text x="50" transform="rotate(-25,50,403)" y="403" class="value" style="font-size: 9px;">+ editing</text>
+
+  <text x="325" y="390" class="value" style="font-size: 9px;">Quality</text>
+  <text x="325" y="403" class="value" style="font-size: 9px;">output</text>
+
+  <text x="600" y="390" class="value" style="font-size: 9px;">Avatar</text>
+  <text x="600" y="403" class="value" style="font-size: 9px;">generation</text>
+
+  <!-- Not For -->
+  <text style="font-size:9px;" x="20" transform="rotate(-25,20,450)" y="450" class="category">Not For</text>
+  <text x="50" y="440" class="value" style="font-size: 9px;">Complex</text>
+  <text x="50" transform="rotate(-25,50,453)" y="453" class="value" style="font-size: 9px;">visual work</text>
+
+  <text x="325" y="440" class="value" style="font-size: 9px;">Text-based</text>
+  <text x="325" y="453" class="value" style="font-size: 9px;">editing</text>
+
+  <text x="600" y="440" class="value" style="font-size: 9px;">Real human</text>
+  <text x="600" y="453" class="value" style="font-size: 9px;">content</text>
+</svg>

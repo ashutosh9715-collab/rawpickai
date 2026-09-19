@@ -1,0 +1,17 @@
+<svg viewBox="0 0 700 230" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="230" fill="#F4F1EA"/>
+  <text x="350" y="28" font-size="18" font-weight="bold" text-anchor="middle" fill="#4A5942">ChatGPT vs Claude - At a Glance</text>
+  <text x="350" y="48" font-size="11" text-anchor="middle" fill="#8A8577">Both $20/mo - choose based on your primary need</text>
+  <rect x="40" y="75" width="280" height="85" rx="8" fill="white" stroke="#6B7C5E" stroke-width="1"/>
+  <text x="180" y="100" font-size="14" font-weight="bold" text-anchor="middle" fill="#4A5942">Claude - 4.4/5</text>
+  <text x="180" y="120" font-size="11" text-anchor="middle" fill="#3A3228">Best writing quality</text>
+  <text x="180" y="138" font-size="11" text-anchor="middle" fill="#3A3228">200K context window</text>
+  <text x="180" y="152" font-size="10" text-anchor="middle" fill="#8A8577">$20/mo (≈₹1,860)</text>
+  <rect x="380" y="75" width="280" height="85" rx="8" fill="white" stroke="#96845A" stroke-width="1"/>
+  <text x="520" y="100" font-size="14" font-weight="bold" text-anchor="middle" fill="#4A5942">ChatGPT - 4.5/5</text>
+  <text x="520" y="120" font-size="11" text-anchor="middle" fill="#3A3228">Most versatile (images, code, voice)</text>
+  <text x="520" y="138" font-size="11" text-anchor="middle" fill="#3A3228">Largest plugin ecosystem</text>
+  <text x="520" y="152" font-size="10" text-anchor="middle" fill="#8A8577">$20/mo (≈₹1,860)</text>
+  <text x="350" y="195" font-size="12" font-weight="600" text-anchor="middle" fill="#4A5942">Writing priority → Claude | Versatility priority → ChatGPT</text>
+  <text x="350" y="220" font-size="10" text-anchor="middle" fill="#8A8577">Data from RawPickAI - rawpickai.com</text>
+</svg>

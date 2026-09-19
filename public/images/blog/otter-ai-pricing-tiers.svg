@@ -1,0 +1,66 @@
+<svg viewBox="0 0 800 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #F4F1EA; }
+      .card-bg { fill: #FFFFFF; stroke: #DDD8CE; stroke-width: 2; }
+      .card-highlight { fill: #F0EDE4; }
+      .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 16px; font-weight: 600; fill: #4A5942; }
+      .price { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 24px; font-weight: 700; fill: #4A5942; }
+      .subtitle { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; fill: #8A8577; }
+      .feature { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; fill: #3A3228; }
+      .page-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 22px; font-weight: 600; fill: #4A5942; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="800" height="320" rx="12" />
+  <text x="40" y="35" class="page-title">Otter.ai Pricing Tiers</text>
+
+  <g id="free">
+    <rect x="40" y="60" width="160" height="240" rx="8" class="card-highlight" />
+    <rect x="40" y="60" width="160" height="240" rx="8" class="card-bg" />
+    <text x="120" y="95" text-anchor="middle" class="title">Free</text>
+    <text x="120" y="120" text-anchor="middle" class="price">$0</text>
+    <text x="120" y="140" text-anchor="middle" class="subtitle">300 min/month</text>
+    <text x="60" y="165" class="feature">✓ 300 min/month</text>
+    <text x="60" y="185" class="feature">✓ 30 min/convo</text>
+    <text x="60" y="205" class="feature">✓ Basic summaries</text>
+    <text x="60" y="225" class="feature">✓ Limited history</text>
+    <text x="60" y="245" class="feature">✓ 6-8 meetings</text>
+  </g>
+
+  <g id="pro">
+    <rect x="230" y="60" width="160" height="240" rx="8" class="card-bg" />
+    <text x="310" y="95" text-anchor="middle" class="title">Pro</text>
+    <text x="310" y="120" text-anchor="middle" class="price">$8</text>
+    <text x="310" y="140" text-anchor="middle" class="subtitle">/month (annual)</text>
+    <text x="250" y="165" class="feature">✓ Unlimited</text>
+    <text x="250" y="185" class="feature">✓ 120 min/convo</text>
+    <text x="250" y="205" class="feature">✓ Full AI</text>
+    <text x="250" y="225" class="feature">✓ Priority</text>
+    <text x="250" y="245" class="feature">✓ Best value</text>
+  </g>
+
+  <g id="business">
+    <rect x="420" y="60" width="160" height="240" rx="8" class="card-bg" />
+    <text x="500" y="95" text-anchor="middle" class="title">Business</text>
+    <text x="500" y="120" text-anchor="middle" class="price">$20</text>
+    <text x="500" y="140" text-anchor="middle" class="subtitle">/user/month</text>
+    <text x="440" y="165" class="feature">✓ Team features</text>
+    <text x="440" y="185" class="feature">✓ 10GB/user</text>
+    <text x="440" y="205" class="feature">✓ Permissions</text>
+    <text x="440" y="225" class="feature">✓ SSO</text>
+    <text x="440" y="245" class="feature">✓ Admin panel</text>
+  </g>
+
+  <g id="enterprise">
+    <rect x="610" y="60" width="150" height="240" rx="8" class="card-bg" />
+    <text x="685" y="95" text-anchor="middle" class="title" style="font-size: 14px;">Enterprise</text>
+    <text x="685" y="120" text-anchor="middle" class="price" style="font-size: 20px;">Custom</text>
+    <text x="685" y="140" text-anchor="middle" class="subtitle">/user/month</text>
+    <text x="630" y="165" class="feature" style="font-size: 12px;">✓ Custom SLA</text>
+    <text x="630" y="185" class="feature" style="font-size: 12px;">✓ Integrations</text>
+    <text x="630" y="205" class="feature" style="font-size: 12px;">✓ Dedicated</text>
+    <text x="630" y="225" class="feature" style="font-size: 12px;">✓ Compliance</text>
+    <text x="630" y="245" class="feature" style="font-size: 12px;">✓ Support</text>
+  </g>
+</svg>

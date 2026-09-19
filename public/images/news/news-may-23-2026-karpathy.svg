@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200">
+  <rect width="900" height="200" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#4A5942" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">Karpathy's Journey: OpenAI to Tesla to Anthropic</text>
+  <rect x="60" y="55" width="180" height="110" rx="10" fill="white" stroke="#6B6960" stroke-width="1.5"/>
+  <text x="150" y="82" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#6B6960">OpenAI (2015-17)</text>
+  <text x="150" y="105" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Co-founder #11</text>
+  <text x="150" y="125" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">Deep learning, vision</text>
+  <text x="150" y="145" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">Stanford PhD</text>
+  <rect x="265" y="55" width="180" height="110" rx="10" fill="white" stroke="#6B6960" stroke-width="1.5"/>
+  <text x="355" y="82" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#6B6960">Tesla (2017-22)</text>
+  <text x="355" y="105" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">AI Director</text>
+  <text x="355" y="125" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">Led FSD + Autopilot</text>
+  <text x="355" y="145" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">5 years</text>
+  <rect x="470" y="55" width="180" height="110" rx="10" fill="white" stroke="#6B6960" stroke-width="1.5"/>
+  <text x="560" y="82" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#6B6960">OpenAI + Eureka (22-26)</text>
+  <text x="560" y="105" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Brief return, then founded</text>
+  <text x="560" y="125" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">Eureka Labs (AI education)</text>
+  <text x="560" y="145" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">YouTube courses</text>
+  <rect x="675" y="55" width="180" height="110" rx="10" fill="white" stroke="#4A5942" stroke-width="2"/>
+  <text x="765" y="82" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#4A5942">Anthropic (2026)</text>
+  <text x="765" y="105" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Pre-training team</text>
+  <text x="765" y="125" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A5942">Using Claude to train Claude</text>
+  <text x="765" y="145" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#22c55e">Started May 19, 2026</text>
+  <text x="450" y="190" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Sources: VentureBeat, TechCrunch, CNBC, Axios</text>
+</svg>

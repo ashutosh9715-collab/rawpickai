@@ -1,0 +1,20 @@
+<svg viewBox="0 0 700 240" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="240" fill="#F4F1EA"/>
+  <text x="350" y="28" font-size="18" font-weight="bold" text-anchor="middle" fill="#4A5942">Stable Diffusion: Local vs Cloud Cost</text>
+  <text x="350" y="48" font-size="11" text-anchor="middle" fill="#8A8577">Break-even analysis for self-hosted vs subscription</text>
+  <rect x="30" y="75" width="200" height="80" rx="8" fill="white" stroke="#6B7C5E" stroke-width="1"/>
+  <text x="130" y="98" font-size="12" font-weight="bold" text-anchor="middle" fill="#4A5942">Local Setup</text>
+  <text x="130" y="118" font-size="11" text-anchor="middle" fill="#3A3228">RTX 3060: $270 one-time</text>
+  <text x="130" y="138" font-size="13" font-weight="700" text-anchor="middle" fill="#6B7C5E">$0/mo after</text>
+  <rect x="260" y="75" width="200" height="80" rx="8" fill="white" stroke="#96845A" stroke-width="1"/>
+  <text x="360" y="98" font-size="12" font-weight="bold" text-anchor="middle" fill="#4A5942">Midjourney</text>
+  <text x="360" y="118" font-size="11" text-anchor="middle" fill="#3A3228">No hardware needed</text>
+  <text x="360" y="138" font-size="13" font-weight="700" text-anchor="middle" fill="#96845A">$10/mo ongoing</text>
+  <rect x="490" y="75" width="180" height="80" rx="8" fill="white" stroke="#8A8577" stroke-width="1"/>
+  <text x="580" y="98" font-size="12" font-weight="bold" text-anchor="middle" fill="#4A5942">Break-even</text>
+  <text x="580" y="118" font-size="11" text-anchor="middle" fill="#3A3228">SD pays for itself in</text>
+  <text x="580" y="138" font-size="13" font-weight="700" text-anchor="middle" fill="#4A5942">27 months</text>
+  <rect x="100" y="175" width="500" height="30" rx="6" fill="#6B7C5E" opacity="0.1" stroke="#6B7C5E" stroke-width="1"/>
+  <text x="350" y="195" font-size="11" font-weight="600" text-anchor="middle" fill="#4A5942">Worth it only if you already have a GPU and enjoy the technical process</text>
+  <text x="350" y="230" font-size="10" text-anchor="middle" fill="#8A8577">Data from RawPickAI - rawpickai.com</text>
+</svg>

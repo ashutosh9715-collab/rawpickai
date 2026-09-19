@@ -1,0 +1,88 @@
+<svg viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title { font-size: 22px; font-weight: bold; fill: #4A5942; }
+      .tier-name { font-size: 14px; font-weight: bold; fill: #3A3228; }
+      .price { font-size: 16px; font-weight: bold; fill: #96845A; }
+      .credits { font-size: 12px; fill: #3A3228; }
+      .description { font-size: 11px; fill: #8A8577; }
+      .bar-bg { fill: #DDD8CE; }
+      .bar-fill { fill: #6B7C5E; }
+      .bar-secondary { fill: #96845A; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="450" fill="#F4F1EA"/>
+
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" class="title">HeyGen Pricing Tiers</text>
+  <text x="400" y="48" text-anchor="middle" class="description">Monthly costs for video generation at different scales</text>
+
+  <!-- Free Tier -->
+  <g>
+    <rect x="20" y="70" width="170" height="300" fill="white" stroke="#DDD8CE" stroke-width="2" rx="8"/>
+    <text x="105" y="100" text-anchor="middle" class="tier-name">Free</text>
+    <text x="105" y="125" text-anchor="middle" class="price">$0</text>
+    <text x="105" y="145" text-anchor="middle" class="credits">(₹0)</text>
+    <rect x="35" y="160" width="140" height="8" rx="4" class="bar-bg"/>
+    <rect x="35" y="160" width="9.5" height="8" rx="4" class="bar-secondary"/>
+    <text x="105" y="185" text-anchor="middle" class="credits">3 videos</text>
+    <text x="105" y="205" text-anchor="middle" class="description" style="font-size: 10px;">1 min each</text>
+    <text x="105" y="220" text-anchor="middle" class="description" style="font-size: 10px;">Watermarked</text>
+    <text x="105" y="235" text-anchor="middle" class="description" style="font-size: 9px;">Testing only</text>
+  </g>
+
+  <!-- Creator Tier - RECOMMENDED -->
+  <g>
+    <rect x="215" y="70" width="170" height="300" fill="white" stroke="#96845A" stroke-width="3" rx="8"/>
+    <!-- Badge -->
+    <rect x="245" y="55" width="110" height="20" fill="#96845A" rx="4"/>
+    <text x="300" y="67" text-anchor="middle" class="description" style="fill: white; font-weight: bold; font-size: 10px;">RECOMMENDED</text>
+
+    <text x="300" y="100" text-anchor="middle" class="tier-name">Creator</text>
+    <text x="300" y="125" text-anchor="middle" class="price">$29/mo</text>
+    <text x="300" y="145" text-anchor="middle" class="credits">(≈₹2,697)</text>
+    <rect x="230" y="160" width="140" height="8" rx="4" class="bar-bg"/>
+    <rect x="230" y="160" width="133" height="8" rx="4" class="bar-secondary"/>
+    <text x="300" y="185" text-anchor="middle" class="credits">30 videos</text>
+    <text x="300" y="205" text-anchor="middle" class="description" style="font-size: 10px;">30 min/month</text>
+    <text x="300" y="220" text-anchor="middle" class="description" style="font-size: 10px;">No watermark</text>
+    <text x="300" y="235" text-anchor="middle" class="description" style="font-size: 9px;">Freelancers</text>
+  </g>
+
+  <!-- Business Starter -->
+  <g>
+    <rect x="410" y="70" width="170" height="300" fill="white" stroke="#DDD8CE" stroke-width="2" rx="8"/>
+    <text x="495" y="100" text-anchor="middle" class="tier-name">Business</text>
+    <text x="495" y="117" text-anchor="middle" class="description" style="font-size: 10px;">Starter</text>
+    <text x="495" y="135" text-anchor="middle" class="price">$89/mo</text>
+    <text x="495" y="155" text-anchor="middle" class="credits">(≈₹8,277)</text>
+    <rect x="425" y="170" width="140" height="8" rx="4" class="bar-bg"/>
+    <rect x="425" y="170" width="127" height="8" rx="4" class="bar-fill"/>
+    <text x="495" y="195" text-anchor="middle" class="credits">90 videos</text>
+    <text x="495" y="210" text-anchor="middle" class="description" style="font-size: 10px;">90 min/month</text>
+    <text x="495" y="225" text-anchor="middle" class="description" style="font-size: 10px;">API access</text>
+    <text x="495" y="240" text-anchor="middle" class="description" style="font-size: 9px;">Teams</text>
+  </g>
+
+  <!-- Business Team -->
+  <g>
+    <rect x="605" y="70" width="170" height="300" fill="white" stroke="#DDD8CE" stroke-width="2" rx="8"/>
+    <text x="690" y="100" text-anchor="middle" class="tier-name">Business</text>
+    <text x="690" y="117" text-anchor="middle" class="description" style="font-size: 10px;">Team</text>
+    <text x="690" y="135" text-anchor="middle" class="price">$149/mo</text>
+    <text x="690" y="155" text-anchor="middle" class="credits">(≈₹13,857)</text>
+    <rect x="620" y="170" width="140" height="8" rx="4" class="bar-bg"/>
+    <rect x="620" y="170" width="140" height="8" rx="4" class="bar-secondary"/>
+    <text x="690" y="195" text-anchor="middle" class="credits">180 videos</text>
+    <text x="690" y="210" text-anchor="middle" class="description" style="font-size: 10px;">180 min/month</text>
+    <text x="690" y="225" text-anchor="middle" class="description" style="font-size: 10px;">Priority support</text>
+    <text x="690" y="240" text-anchor="middle" class="description" style="font-size: 9px;">Agencies</text>
+  </g>
+
+  <!-- Footer note -->
+  <text x="400" y="400" text-anchor="middle" class="description">Cost per 1-minute video: Free tier free, Creator ₹90, Business Starter ₹92, Business Team ₹77</text>
+  <text x="400" y="420" text-anchor="middle" class="description">All tiers include unlimited editing, avatar selection, and 40+ language support</text>
+  <text x="400" y="440" text-anchor="middle" class="description">Conversion at ₹93/USD | Updated May 2026</text>
+</svg>

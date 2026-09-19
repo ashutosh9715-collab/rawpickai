@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#F4F1EA" rx="16"/>
+  <rect x="0" y="0" width="1200" height="6" fill="#4A5942" rx="3"/>
+  <text x="600" y="80" font-family="Georgia, serif" font-size="16" font-weight="600" text-anchor="middle" fill="#6B7C5E">RAWPICKAI NEWS · MAY 21, 2026</text>
+  <text x="600" y="160" font-family="Georgia, serif" font-size="42" font-weight="700" text-anchor="middle" fill="#1A2416">Google Cuts AI Ultra to $100/mo</text>
+  <text x="600" y="220" font-family="Georgia, serif" font-size="28" font-weight="400" text-anchor="middle" fill="#4A453E">Down from $250. New pricing tiers reshape the AI subscription market.</text>
+  <rect x="300" y="260" width="600" height="3" fill="#4A5942" opacity="0.2" rx="1"/>
+  <rect x="150" y="300" width="280" height="130" rx="12" fill="white" stroke="#22c55e" stroke-width="2"/>
+  <text x="290" y="335" font-family="Georgia, serif" font-size="14" font-weight="600" text-anchor="middle" fill="#22c55e">AI Plus (Free)</text>
+  <text x="290" y="365" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Gemini 3.5 Flash</text>
+  <text x="290" y="390" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B6960">Gemini Omni</text>
+  <text x="290" y="415" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">Basic access</text>
+  <rect x="460" y="300" width="280" height="130" rx="12" fill="white" stroke="#4A5942" stroke-width="2"/>
+  <text x="600" y="335" font-family="Georgia, serif" font-size="14" font-weight="600" text-anchor="middle" fill="#4A5942">AI Pro ($20/mo)</text>
+  <text x="600" y="365" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">YouTube Premium Lite</text>
+  <text x="600" y="390" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B6960">Google Pics (Workspace)</text>
+  <text x="600" y="415" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#96845A">$20/mo (≈₹1,860)</text>
+  <rect x="770" y="300" width="280" height="130" rx="12" fill="white" stroke="#96845A" stroke-width="2"/>
+  <text x="910" y="335" font-family="Georgia, serif" font-size="14" font-weight="600" text-anchor="middle" fill="#96845A">AI Ultra ($100/mo)</text>
+  <text x="910" y="365" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">5x Pro usage, Spark agent</text>
+  <text x="910" y="390" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B6960">20TB storage, YouTube Premium</text>
+  <text x="910" y="415" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#96845A">$100/mo (≈₹9,300)</text>
+  <text x="600" y="500" font-family="Georgia, serif" font-size="16" text-anchor="middle" fill="#c0392b">Former $250 tier now $200. New $100 tier fills the gap.</text>
+  <text x="600" y="570" font-family="Georgia, serif" font-size="14" text-anchor="middle" fill="#8A8577">rawpickai.com</text>
+</svg>

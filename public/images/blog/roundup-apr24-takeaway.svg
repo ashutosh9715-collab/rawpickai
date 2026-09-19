@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 340" role="img" aria-labelledby="title4">
+  <title id="title4">Key takeaway about AI tools entering the workflow integration phase</title>
+
+  <!-- Background gradient -->
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2D3A28"/>
+      <stop offset="100%" stop-color="#4A5942"/>
+    </linearGradient>
+    <pattern id="dotPattern" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#6B7C5E" opacity="0.3"/>
+    </pattern>
+  </defs>
+
+  <rect width="800" height="340" fill="url(#bgGrad)"/>
+  <rect width="800" height="340" fill="url(#dotPattern)"/>
+
+  <!-- Large opening quote mark -->
+  <text x="80" y="150" font-family="Georgia, serif" font-size="140" font-weight="700" fill="#6B7C5E" opacity="0.4">"</text>
+
+  <!-- Quote -->
+  <text x="160" y="128" font-family="Georgia, serif" font-size="22" font-weight="400" fill="#F4F1EA">The AI tooling market is maturing. The winner isn't</text>
+  <text x="160" y="160" font-family="Georgia, serif" font-size="22" font-weight="400" fill="#F4F1EA">going to be whoever ships the smartest model.</text>
+  <text x="160" y="200" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#D4E4C8">It's going to be whoever integrates best with the</text>
+  <text x="160" y="232" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#D4E4C8">tools you already use.</text>
+
+  <!-- Attribution divider -->
+  <line x1="160" y1="264" x2="220" y2="264" stroke="#8FB28E" stroke-width="2"/>
+
+  <!-- Attribution -->
+  <text x="160" y="288" font-family="Georgia, serif" font-size="13" fill="#D4D0C0">Ash · RawPickAI weekly roundup · April 24, 2026</text>
+</svg>

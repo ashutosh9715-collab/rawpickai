@@ -1,0 +1,75 @@
+<svg viewBox="0 0 1000 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { color-scheme: light; }
+      .bg { fill: #F4F1EA; }
+      .heading { font-family: system-ui, -apple-system, sans-serif; font-size: 20px; font-weight: 700; fill: #4A5942; }
+      .card-title { font-family: system-ui, -apple-system, sans-serif; font-size: 16px; font-weight: 600; fill: #4A5942; }
+      .price { font-family: system-ui, -apple-system, sans-serif; font-size: 24px; font-weight: 700; fill: #96845A; }
+      .subtext { font-family: system-ui, -apple-system, sans-serif; font-size: 13px; fill: #8A8577; }
+      .feature { font-family: system-ui, -apple-system, sans-serif; font-size: 12px; fill: #3A3228; }
+      .card { fill: white; stroke: #DDD8CE; stroke-width: 2; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1000" height="500" rx="12"/>
+
+  <text class="heading" x="40" y="45">Midjourney Pricing Tiers (May 2026)</text>
+
+  <!-- Basic Card -->
+  <rect class="card" x="30" y="70" width="210" height="410" rx="12"/>
+  <text class="card-title" x="50" y="105">Basic</text>
+  <text class="price" x="50" y="145">$10/mo</text>
+  <text class="subtext" x="50" y="165">≈₹930/mo</text>
+  <line x1="50" y1="180" x2="220" y2="180" stroke="#DDD8CE" stroke-width="1"/>
+
+  <text class="feature" x="50" y="205">3.3 hrs fast GPU</text>
+  <text class="feature" x="50" y="225">≈200 images/mo</text>
+  <text class="feature" x="50" y="245">Discord only</text>
+  <text class="feature" x="50" y="265">No Relax mode</text>
+  <text class="feature" x="50" y="285">Personal projects</text>
+  <text class="feature" x="50" y="325" font-weight="600" fill="#6B7C5E">Casual users</text>
+
+  <!-- Standard Card -->
+  <rect class="card" x="265" y="70" width="210" height="410" rx="12"/>
+  <rect x="265" y="70" width="210" height="50" rx="12" fill="#6B7C5E" opacity="0.1"/>
+  <text class="card-title" x="285" y="105" fill="#4A5942">Standard</text>
+  <text class="price" x="285" y="145">$30/mo</text>
+  <text class="subtext" x="285" y="165">≈₹2,790/mo</text>
+  <line x1="285" y1="180" x2="455" y2="180" stroke="#DDD8CE" stroke-width="1"/>
+
+  <text class="feature" x="285" y="205">15 hrs fast GPU</text>
+  <text class="feature" x="285" y="225">Unlimited Relax</text>
+  <text class="feature" x="285" y="245">Web interface</text>
+  <text class="feature" x="285" y="265">Discord advanced</text>
+  <text class="feature" x="285" y="285">Commercial work</text>
+  <text class="feature" x="285" y="325" font-weight="600" fill="#96845A">Most users</text>
+
+  <!-- Pro Card -->
+  <rect class="card" x="500" y="70" width="210" height="410" rx="12"/>
+  <text class="card-title" x="520" y="105">Pro</text>
+  <text class="price" x="520" y="145">$60/mo</text>
+  <text class="subtext" x="520" y="165">≈₹5,580/mo</text>
+  <line x1="520" y1="180" x2="690" y2="180" stroke="#DDD8CE" stroke-width="1"/>
+
+  <text class="feature" x="520" y="205">30 hrs fast GPU</text>
+  <text class="feature" x="520" y="225">Unlimited Relax</text>
+  <text class="feature" x="520" y="245">Stealth Mode</text>
+  <text class="feature" x="520" y="265">Priority support</text>
+  <text class="feature" x="520" y="285">Studio projects</text>
+  <text class="feature" x="520" y="325" font-weight="600" fill="#6B7C5E">Professionals</text>
+
+  <!-- Mega Card -->
+  <rect class="card" x="735" y="70" width="210" height="410" rx="12"/>
+  <text class="card-title" x="755" y="105">Mega</text>
+  <text class="price" x="755" y="145">$120/mo</text>
+  <text class="subtext" x="755" y="165">≈₹11,160/mo</text>
+  <line x1="755" y1="180" x2="925" y2="180" stroke="#DDD8CE" stroke-width="1"/>
+
+  <text class="feature" x="755" y="205">60 hrs fast GPU</text>
+  <text class="feature" x="755" y="225">Unlimited Relax</text>
+  <text class="feature" x="755" y="245">Stealth Mode</text>
+  <text class="feature" x="755" y="265">Mega queue</text>
+  <text class="feature" x="755" y="285">Agency scale</text>
+  <text class="feature" x="755" y="325" font-weight="600" fill="#96845A">Studios/Agencies</text>
+</svg>

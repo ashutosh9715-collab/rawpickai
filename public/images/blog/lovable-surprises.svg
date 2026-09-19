@@ -1,0 +1,36 @@
+<svg viewBox="0 0 700 260" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="260" rx="12" fill="#F4F1EA"/>
+  <text x="350" y="35" font-family="Inter, system-ui, sans-serif" font-size="20" font-weight="700" fill="#4A5942" text-anchor="middle">What I Got Wrong About Lovable</text>
+
+  <!-- Header -->
+  <rect x="30" y="55" width="310" height="30" rx="6" fill="#8A4242"/>
+  <text x="185" y="75" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="600" fill="#F4F1EA" text-anchor="middle">What I Expected</text>
+  <rect x="360" y="55" width="310" height="30" rx="6" fill="#6B7C5E"/>
+  <text x="515" y="75" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="600" fill="#F4F1EA" text-anchor="middle">What Actually Happened</text>
+
+  <!-- Row 1 -->
+  <rect x="30" y="92" width="310" height="45" rx="0" fill="#F4F1EA" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="185" y="112" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#3A3228" text-anchor="middle">Toy demos that break</text>
+  <text x="185" y="128" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#3A3228" text-anchor="middle">on real-world use</text>
+  <rect x="360" y="92" width="310" height="45" rx="0" fill="#F4F1EA" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="515" y="112" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#3A3228" text-anchor="middle">3 of 5 apps shipped</text>
+  <text x="515" y="128" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#3A3228" text-anchor="middle">and work in production</text>
+
+  <!-- Row 2 -->
+  <rect x="30" y="142" width="310" height="45" rx="0" fill="#EDE9E0" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="185" y="162" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#3A3228" text-anchor="middle">Ugly, bootstrap-quality</text>
+  <text x="185" y="178" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#3A3228" text-anchor="middle">UI output</text>
+  <rect x="360" y="142" width="310" height="45" rx="0" fill="#EDE9E0" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="515" y="162" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#3A3228" text-anchor="middle">Decent design. Not v0-level,</text>
+  <text x="515" y="178" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#3A3228" text-anchor="middle">but above average</text>
+
+  <!-- Row 3 -->
+  <rect x="30" y="192" width="310" height="45" rx="0" fill="#F4F1EA" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="185" y="212" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#3A3228" text-anchor="middle">Supabase = vendor lock-in</text>
+  <text x="185" y="228" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#3A3228" text-anchor="middle">nightmare</text>
+  <rect x="360" y="192" width="310" height="45" rx="0" fill="#F4F1EA" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="515" y="212" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#3A3228" text-anchor="middle">Lock-in exists, but GitHub</text>
+  <text x="515" y="228" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#3A3228" text-anchor="middle">export makes it manageable</text>
+
+  <text x="350" y="255" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#8A8577" text-anchor="middle">I was too dismissive. Lovable is better than I assumed.</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200">
+  <rect width="900" height="200" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#22c55e" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">New Features Launching with Opus 4.8</text>
+  <rect x="40" y="55" width="260" height="115" rx="10" fill="white" stroke="#4A5942" stroke-width="1.5"/>
+  <text x="170" y="82" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#4A5942">Effort Control</text>
+  <text x="170" y="105" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Choose Low, High, or Max</text>
+  <text x="170" y="125" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">thinking effort per task</text>
+  <text x="170" y="148" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">Low = faster, fewer rate limits</text>
+  <text x="170" y="163" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">Max = deepest reasoning</text>
+  <rect x="320" y="55" width="260" height="115" rx="10" fill="white" stroke="#96845A" stroke-width="1.5"/>
+  <text x="450" y="82" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#96845A">Dynamic Workflows</text>
+  <text x="450" y="105" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Claude Code research preview</text>
+  <text x="450" y="125" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Tackles very large-scale</text>
+  <text x="450" y="148" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">problems autonomously</text>
+  <text x="450" y="163" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">Longer independent runs</text>
+  <rect x="600" y="55" width="260" height="115" rx="10" fill="white" stroke="#6B7C5E" stroke-width="1.5"/>
+  <text x="730" y="82" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#6B7C5E">Fast Mode 3x Cheaper</text>
+  <text x="730" y="105" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">2.5x speed at reduced cost</text>
+  <text x="730" y="125" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">vs previous models' fast tier</text>
+  <text x="730" y="148" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">Best for high-volume tasks</text>
+  <text x="730" y="163" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">where speed beats depth</text>
+  <text x="450" y="192" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Plus: Mythos 1 teased for October 2026. Described as "even larger and more powerful."</text>
+</svg>

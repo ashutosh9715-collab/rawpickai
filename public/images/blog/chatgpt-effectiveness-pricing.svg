@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 440">
+  <rect width="800" height="440" rx="12" fill="#F4F1EA"/>
+  <text x="400" y="45" text-anchor="middle" font-family="system-ui, sans-serif" font-size="22" font-weight="700" fill="#4A5942">ChatGPT Pricing — May 2026</text>
+  <line x1="60" y1="65" x2="740" y2="65" stroke="#DDD8CE" stroke-width="1.5"/>
+
+  <!-- Free Card -->
+  <rect x="40" y="90" width="220" height="320" rx="12" fill="#F4F1EA" stroke="#DDD8CE" stroke-width="2"/>
+  <text x="150" y="125" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="700" fill="#4A5942">Free</text>
+  <text x="150" y="160" text-anchor="middle" font-family="system-ui, sans-serif" font-size="28" font-weight="700" fill="#6B7C5E">$0</text>
+  <text x="150" y="180" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#8A8577">/month (₹0)</text>
+  <line x1="65" y1="195" x2="235" y2="195" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="150" y="225" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#3A3228">GPT-4o mini</text>
+  <text x="150" y="255" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#3A3228">Limited uploads</text>
+  <text x="150" y="285" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#3A3228">No image generation</text>
+  <text x="150" y="315" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#3A3228">Basic voice</text>
+  <text x="150" y="345" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#3A3228">10 messages / 3 hrs</text>
+
+  <!-- Plus Card (Most Popular) -->
+  <rect x="290" y="80" width="220" height="335" rx="12" fill="#F4F1EA" stroke="#6B7C5E" stroke-width="2.5"/>
+  <rect x="330" y="80" width="140" height="24" rx="8" fill="#96845A"/>
+  <text x="400" y="96" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" font-weight="700" fill="#F4F1EA">Most Popular</text>
+  <text x="400" y="130" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="700" fill="#4A5942">Plus</text>
+  <text x="400" y="165" text-anchor="middle" font-family="system-ui, sans-serif" font-size="28" font-weight="700" fill="#6B7C5E">$20</text>
+  <text x="400" y="185" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#8A8577">/month (≈₹1,860)</text>
+  <line x1="315" y1="200" x2="485" y2="200" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="400" y="230" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#3A3228">GPT-4o + GPT-4.1</text>
+  <text x="400" y="260" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#3A3228">DALL-E image gen</text>
+  <text x="400" y="290" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#3A3228">Unlimited uploads</text>
+  <text x="400" y="320" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#3A3228">Advanced voice</text>
+  <text x="400" y="350" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#3A3228">80 messages / 3 hrs</text>
+
+  <!-- Pro Card -->
+  <rect x="540" y="90" width="220" height="320" rx="12" fill="#F4F1EA" stroke="#DDD8CE" stroke-width="2"/>
+  <text x="650" y="125" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="700" fill="#4A5942">Pro</text>
+  <text x="650" y="160" text-anchor="middle" font-family="system-ui, sans-serif" font-size="28" font-weight="700" fill="#6B7C5E">$200</text>
+  <text x="650" y="180" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#8A8577">/month (≈₹18,600)</text>
+  <line x1="565" y1="195" x2="735" y2="195" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="650" y="225" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#3A3228">Unlimited GPT-4o</text>
+  <text x="650" y="255" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#3A3228">o1 pro mode</text>
+  <text x="650" y="285" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#3A3228">Priority access</text>
+  <text x="650" y="315" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#3A3228">Advanced voice</text>
+  <text x="650" y="345" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#3A3228">Unlimited messages</text>
+
+  <text x="400" y="430" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#8A8577">Prices as of May 2026 · INR conversions are approximate</text>
+</svg>

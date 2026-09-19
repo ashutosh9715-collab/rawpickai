@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="900" height="160">
+  <rect width="900" height="160" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#96845A" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">Standard Search vs Pro Search: When to Use Which</text>
+  <rect x="60" y="55" width="380" height="80" rx="10" fill="white" stroke="#6B7C5E" stroke-width="1.5"/>
+  <text x="250" y="78" font-family="Georgia, serif" font-size="14" font-weight="600" text-anchor="middle" fill="#6B7C5E">Standard Search (Free)</text>
+  <text x="250" y="100" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Quick facts, definitions, current events</text>
+  <text x="250" y="118" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">Fast, unlimited, good enough for 70% of queries</text>
+  <rect x="470" y="55" width="380" height="80" rx="10" fill="white" stroke="#4A5942" stroke-width="2"/>
+  <text x="660" y="78" font-family="Georgia, serif" font-size="14" font-weight="700" text-anchor="middle" fill="#4A5942">Pro Search ($20/mo)</text>
+  <text x="660" y="100" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Complex research, comparisons, deep analysis</text>
+  <text x="660" y="118" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A5942">Multi-source cross-referencing, extended reasoning</text>
+  <text x="450" y="152" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Free tier: unlimited standard + 5 daily Pro. Pro plan: unlimited both. Most users find free is enough to start.</text>
+</svg>

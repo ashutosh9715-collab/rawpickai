@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+  <rect width="800" height="300" rx="12" fill="#F4F1EA"/>
+
+  <text x="400" y="36" fill="#1A2416" font-size="18" font-weight="700" text-anchor="middle">Claude Enterprise Billing: Before vs After</text>
+  <text x="400" y="56" fill="#8b8fa3" font-size="13" text-anchor="middle">What changed for teams with 150+ users  -  April 14, 2026</text>
+
+  <!-- BEFORE card -->
+  <rect x="40" y="78" width="340" height="180" rx="10" fill="#1a1d2a" stroke="#8c3a3a" stroke-width="2"/>
+  <rect x="140" y="68" width="100" height="18" rx="9" fill="#8c3a3a"/>
+  <text x="190" y="81" fill="#1A2416" font-size="9" font-weight="700" text-anchor="middle">OLD MODEL</text>
+  <text x="210" y="110" fill="#c4c7d4" font-size="13" font-weight="600" text-anchor="middle">Flat Per-Seat Pricing</text>
+
+  <text x="60" y="140" fill="#8b8fa3" font-size="10">Seat cost:</text>
+  <text x="300" y="140" fill="#1A2416" font-size="11" font-weight="600" text-anchor="end">$40 – $200/user/mo</text>
+
+  <text x="60" y="162" fill="#8b8fa3" font-size="10">Token usage:</text>
+  <text x="300" y="162" fill="#1A2416" font-size="11" font-weight="600" text-anchor="end">Included (with volume discounts)</text>
+
+  <text x="60" y="184" fill="#8b8fa3" font-size="10">Predictability:</text>
+  <text x="300" transform="rotate(-25,300,184)" y="184" fill="#3a8c5e" font-size="11" font-weight="600" text-anchor="end">High  -  fixed monthly bill</text>
+
+  <text x="60" y="206" fill="#8b8fa3" font-size="10">Heavy user risk:</text>
+  <text x="300" transform="rotate(-25,300,206)" y="206" fill="#3a8c5e" font-size="11" font-weight="600" text-anchor="end">Low  -  capped at seat price</text>
+
+  <text x="60" y="232" fill="#8b8fa3" font-size="10">Cost for 50 devs:</text>
+  <text x="300" transform="rotate(-25,300,232)" y="232" fill="#1A2416" font-size="11" font-weight="600" text-anchor="end">≈$10,000/mo (≈₹9.3L/mo)</text>
+
+  <!-- Arrow -->
+  <text x="400" y="170" fill="#c97b3a" font-size="28" font-weight="700" text-anchor="middle">→</text>
+
+  <!-- AFTER card -->
+  <rect x="420" y="78" width="340" height="180" rx="10" fill="#1a1d2a" stroke="#c97b3a" stroke-width="2"/>
+  <rect x="520" y="68" width="100" height="18" rx="9" fill="#c97b3a"/>
+  <text x="570" y="81" fill="#1A2416" font-size="9" font-weight="700" text-anchor="middle">NEW MODEL</text>
+  <text x="590" y="110" fill="#c4c7d4" font-size="13" font-weight="600" text-anchor="middle">Usage-Based Pricing</text>
+
+  <text x="440" y="140" fill="#8b8fa3" font-size="10">Seat cost:</text>
+  <text x="740" y="140" fill="#1A2416" font-size="11" font-weight="600" text-anchor="end">$20/user/mo (base)</text>
+
+  <text x="534" y="162" fill="#8b8fa3" font-size="10">Token usage:</text>
+  <text x="740" y="162" fill="#c97b3a" font-size="11" font-weight="600" text-anchor="end">Billed at standard API rates</text>
+
+  <text x="440" transform="rotate(-25,440,184)" y="184" fill="#8b8fa3" font-size="10">Predictability:</text>
+  <text x="740" y="184" fill="#c97b3a" font-size="11" font-weight="600" text-anchor="end">Low  -  varies with consumption</text>
+
+  <text x="440" transform="rotate(-25,440,206)" y="206" fill="#8b8fa3" font-size="10">Heavy user risk:</text>
+  <text x="740" y="206" fill="#8c3a3a" font-size="11" font-weight="600" text-anchor="end">High  -  2-3x cost increase possible</text>
+
+  <text x="440" transform="rotate(-25,440,232)" y="232" fill="#8b8fa3" font-size="10">Cost for 50 devs:</text>
+  <text x="740" y="232" fill="#c97b3a" font-size="11" font-weight="600" text-anchor="end">≈$20,000-30,000/mo (est.)</text>
+
+  <!-- Footer -->
+  <text x="400" y="286" fill="#5a5e72" font-size="11" text-anchor="middle">Individual Pro ($20/mo) and Teams (&lt;150 users) are NOT affected.  -  rawpickai.com</text>
+</svg>

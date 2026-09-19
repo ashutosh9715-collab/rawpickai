@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 170" width="900" height="170">
+  <rect width="900" height="170" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#96845A" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">OpenAI DeployCo: Competing with Its Own Customers</text>
+  <rect x="60" y="55" width="380" height="90" rx="10" fill="white" stroke="#96845A" stroke-width="1.5"/>
+  <text x="250" y="80" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#96845A">What DeployCo is</text>
+  <text x="250" y="103" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Majority-owned consulting subsidiary</text>
+  <text x="250" y="123" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">$4B capital from 19 investment firms</text>
+  <text x="250" y="140" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">Helps enterprises deploy ChatGPT/GPT-5.5</text>
+  <rect x="470" y="55" width="380" height="90" rx="10" fill="white" stroke="#c0392b" stroke-width="1.5"/>
+  <text x="660" y="80" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#c0392b">The tension</text>
+  <text x="660" y="103" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">OpenAI now competes with Accenture, KPMG,</text>
+  <text x="660" y="123" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Deloitte for enterprise AI consulting</text>
+  <text x="660" y="140" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">Those same firms are also OpenAI customers</text>
+  <text x="450" y="163" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Anthropic's strategy: partner with consulting firms. OpenAI's strategy: become one. Source: OpenAI blog, May 11</text>
+</svg>

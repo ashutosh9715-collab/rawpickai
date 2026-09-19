@@ -1,0 +1,125 @@
+<svg viewBox="0 0 1000 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { color-scheme: light; }
+      .bg { fill: #F4F1EA; }
+      .header { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 24px; font-weight: 700; fill: #4A5942; }
+      .subheader { font-size: 14px; font-weight: 600; fill: #4A5942; }
+      .label { font-size: 13px; fill: #3A3228; }
+      .value { font-size: 12px; fill: #3A3228; font-weight: 500; }
+      .track { fill: #DDD8CE; }
+      .bar-claude { fill: #6B7C5E; }
+      .bar-chatgpt { fill: #96845A; }
+      .bar-gemini { fill: #8A8577; }
+      .icon { font-size: 12px; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1000" height="600"/>
+
+  <!-- Title -->
+  <text class="header" x="50" y="40">Feature Comparison: Claude vs ChatGPT vs Gemini</text>
+
+  <!-- Legend -->
+  <circle cx="50" cy="70" r="6" class="bar-claude"/>
+  <text class="label" x="65" y="75">Claude</text>
+
+  <circle cx="200" cy="70" r="6" class="bar-chatgpt"/>
+  <text class="label" x="215" y="75">ChatGPT</text>
+
+  <circle cx="340" cy="70" r="6" class="bar-gemini"/>
+  <text class="label" x="355" y="75">Gemini</text>
+
+  <!-- Writing Quality -->
+  <text class="subheader" x="50" y="130">Writing Quality</text>
+  <rect class="track" x="50" y="145" width="280" height="8" rx="4"/>
+  <rect class="bar-claude" x="50" y="145" width="252" height="8" rx="4"/>
+  <text class="value" x="340" y="152">9/10</text>
+
+  <rect class="track" x="50" y="160" width="280" height="8" rx="4"/>
+  <rect class="bar-chatgpt" x="50" y="160" width="210" height="8" rx="4"/>
+  <text class="value" x="340" y="167">7.5/10</text>
+
+  <rect class="track" x="50" y="175" width="280" height="8" rx="4"/>
+  <rect class="bar-gemini" x="50" y="175" width="154" height="8" rx="4"/>
+  <text class="value" x="340" y="182">5.5/10</text>
+
+  <!-- Coding Quality -->
+  <text class="subheader" x="50" y="230">Coding Quality</text>
+  <rect class="track" x="50" y="245" width="280" height="8" rx="4"/>
+  <rect class="bar-claude" x="50" y="245" width="252" height="8" rx="4"/>
+  <text class="value" x="340" y="252">9/10</text>
+
+  <rect class="track" x="50" y="260" width="280" height="8" rx="4"/>
+  <rect class="bar-chatgpt" x="50" y="260" width="224" height="8" rx="4"/>
+  <text class="value" x="340" y="267">8/10</text>
+
+  <rect class="track" x="50" y="275" width="280" height="8" rx="4"/>
+  <rect class="bar-gemini" x="50" y="275" width="196" height="8" rx="4"/>
+  <text class="value" x="340" y="282">7/10</text>
+
+  <!-- Research &amp; Current Info -->
+  <text class="subheader" x="50" y="330">Research &amp; Current Info</text>
+  <rect class="track" x="50" y="345" width="280" height="8" rx="4"/>
+  <rect class="bar-claude" x="50" y="345" width="154" height="8" rx="4"/>
+  <text class="value" x="340" y="352">5.5/10</text>
+
+  <rect class="track" x="50" y="360" width="280" height="8" rx="4"/>
+  <rect class="bar-chatgpt" x="50" y="360" width="196" height="8" rx="4"/>
+  <text class="value" x="340" y="367">7/10</text>
+
+  <rect class="track" x="50" y="375" width="280" height="8" rx="4"/>
+  <rect class="bar-gemini" x="50" y="375" width="280" height="8" rx="4"/>
+  <text class="value" x="340" y="382">10/10</text>
+
+  <!-- Context Window -->
+  <text class="subheader" x="50" y="430">Context Window (tokens)</text>
+  <text class="label" x="50" y="450">Claude: 200K</text>
+  <text class="label" x="50" y="468">ChatGPT: 128K</text>
+  <text class="label" x="50" y="486">Gemini: 1M</text>
+
+  <!-- Right Column: Other Features -->
+  <text class="subheader" x="550" y="130">Workspace Integration</text>
+  <rect class="track" x="550" y="145" width="280" height="8" rx="4"/>
+  <rect class="bar-claude" x="550" y="145" width="56" height="8" rx="4"/>
+  <text class="value" x="840" y="152">2/10</text>
+
+  <rect class="track" x="550" y="160" width="280" height="8" rx="4"/>
+  <rect class="bar-chatgpt" x="550" y="160" width="56" height="8" rx="4"/>
+  <text class="value" x="840" y="167">2/10</text>
+
+  <rect class="track" x="550" y="175" width="280" height="8" rx="4"/>
+  <rect class="bar-gemini" x="550" y="175" width="280" height="8" rx="4"/>
+  <text class="value" x="840" y="182">10/10</text>
+
+  <!-- Image Generation -->
+  <text class="subheader" x="550" y="230">Image Generation</text>
+  <rect class="track" x="550" y="245" width="280" height="8" rx="4"/>
+  <rect class="bar-claude" x="550" y="245" width="0" height="8" rx="4"/>
+  <text class="value" x="840" y="252">0/10</text>
+
+  <rect class="track" x="550" y="260" width="280" height="8" rx="4"/>
+  <rect class="bar-chatgpt" x="550" y="260" width="252" height="8" rx="4"/>
+  <text class="value" x="840" y="267">9/10</text>
+
+  <rect class="track" x="550" y="275" width="280" height="8" rx="4"/>
+  <rect class="bar-gemini" x="550" y="275" width="224" height="8" rx="4"/>
+  <text class="value" x="840" y="282">8/10</text>
+
+  <!-- Hindi Support -->
+  <text class="subheader" x="550" y="330">Hindi &amp; Regional Languages</text>
+  <rect class="track" x="550" y="345" width="280" height="8" rx="4"/>
+  <rect class="bar-claude" x="550" y="345" width="112" height="8" rx="4"/>
+  <text class="value" x="840" y="352">4/10</text>
+
+  <rect class="track" x="550" y="360" width="280" height="8" rx="4"/>
+  <rect class="bar-chatgpt" x="550" y="360" width="168" height="8" rx="4"/>
+  <text class="value" x="840" y="367">6/10</text>
+
+  <rect class="track" x="550" y="375" width="280" height="8" rx="4"/>
+  <rect class="bar-gemini" x="550" y="375" width="280" height="8" rx="4"/>
+  <text class="value" x="840" y="382">10/10</text>
+
+  <!-- Footer -->
+  <text class="label" x="50" y="570">All tested at pro tier ($20/month ≈ ₹1,860/month). Scores based on real-world testing.</text>
+</svg>

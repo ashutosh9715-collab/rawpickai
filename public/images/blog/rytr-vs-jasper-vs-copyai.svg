@@ -1,0 +1,59 @@
+<svg viewBox="0 0 950 480" xmlns="http://www.w3.org/2000/svg">
+  <rect width="950" height="480" fill="#F4F1EA"/>
+  <text x="40" y="45" font-size="28" font-weight="bold" fill="#4A5942" font-family="system-ui">
+    Rytr vs Jasper vs Copy.ai Comparison
+  </text>
+
+  <text x="40" y="100" font-size="13" font-weight="600" fill="#3A3228" font-family="system-ui">Metric</text>
+  <text x="240" y="100" font-size="13" font-weight="600" fill="#3A3228" font-family="system-ui">Rytr</text>
+  <text x="430" y="100" font-size="13" font-weight="600" fill="#3A3228" font-family="system-ui">Jasper</text>
+  <text x="620" y="100" font-size="13" font-weight="600" fill="#3A3228" font-family="system-ui">Copy.ai</text>
+
+  <line x1="40" y1="115" x2="910" y2="115" stroke="#DDD8CE" stroke-width="2"/>
+
+  <text x="40" y="155" font-size="12" font-weight="500" fill="#3A3228" font-family="system-ui">Price/Month</text>
+  <text x="240" y="155" font-size="12" fill="#6B7C5E" font-family="system-ui" font-weight="bold">$8</text>
+  <text x="430" y="155" font-size="12" fill="#6B7C5E" font-family="system-ui" font-weight="bold">$49</text>
+  <text x="620" y="155" font-size="12" fill="#6B7C5E" font-family="system-ui" font-weight="bold">$22</text>
+
+  <text x="40" y="195" font-size="12" font-weight="500" fill="#3A3228" font-family="system-ui">Output Quality</text>
+  <text x="240" y="195" font-size="12" fill="#3A3228" font-family="system-ui">50/100</text>
+  <text x="430" y="195" font-size="12" fill="#3A3228" font-family="system-ui">70/100</text>
+  <text x="620" y="195" font-size="12" fill="#3A3228" font-family="system-ui">65/100</text>
+
+  <text x="40" y="235" font-size="12" font-weight="500" fill="#3A3228" font-family="system-ui">Editing Required</text>
+  <text x="240" y="235" font-size="12" fill="#3A3228" font-family="system-ui">35-40%</text>
+  <text x="430" y="235" font-size="12" fill="#3A3228" font-family="system-ui">25-30%</text>
+  <text x="620" y="235" font-size="12" fill="#3A3228" font-family="system-ui">20-25%</text>
+
+  <text x="40" y="275" font-size="12" font-weight="500" fill="#3A3228" font-family="system-ui">Brand Voice</text>
+  <text x="240" y="275" font-size="12" fill="#3A3228" font-family="system-ui">Basic</text>
+  <text x="430" y="275" font-size="12" fill="#6B7C5E" font-family="system-ui" font-weight="bold">Excellent</text>
+  <text x="620" y="275" font-size="12" fill="#3A3228" font-family="system-ui">Good</text>
+
+  <text x="40" y="315" font-size="12" font-weight="500" fill="#3A3228" font-family="system-ui">Templates</text>
+  <text x="240" y="315" font-size="12" fill="#3A3228" font-family="system-ui">40+</text>
+  <text x="430" y="315" font-size="12" fill="#3A3228" font-family="system-ui">40+</text>
+  <text x="620" y="315" font-size="12" fill="#3A3228" font-family="system-ui">50+</text>
+
+  <text x="40" y="355" font-size="12" font-weight="500" fill="#3A3228" font-family="system-ui">Best for Students?</text>
+  <rect x="240" y="340" width="170" height="30" rx="6" fill="#6B7C5E" opacity="0.2"/>
+  <text x="255" y="360" font-size="12" fill="#3A3228" font-family="system-ui">Yes</text>
+  <rect x="430" y="340" width="170" height="30" rx="6" fill="#DDD8CE"/>
+  <text x="445" y="360" font-size="12" fill="#8A8577" font-family="system-ui">No</text>
+  <rect x="620" y="340" width="170" height="30" rx="6" fill="#DDD8CE"/>
+  <text x="635" y="360" font-size="12" fill="#8A8577" font-family="system-ui">No</text>
+
+  <text x="40" y="405" font-size="12" font-weight="500" fill="#3A3228" font-family="system-ui">Best for Professionals?</text>
+  <rect x="240" y="390" width="170" height="30" rx="6" fill="#DDD8CE"/>
+  <text x="255" y="410" font-size="12" fill="#8A8577" font-family="system-ui">No</text>
+  <rect x="430" y="390" width="170" height="30" rx="6" fill="#6B7C5E" opacity="0.2"/>
+  <text x="445" y="410" font-size="12" fill="#3A3228" font-family="system-ui">Yes</text>
+  <rect x="620" y="390" width="170" height="30" rx="6" fill="#6B7C5E" opacity="0.2"/>
+  <text x="635" y="410" font-size="12" fill="#3A3228" font-family="system-ui">Good</text>
+
+  <rect x="40" y="435" width="870" height="35" rx="8" fill="#96845A" opacity="0.1" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="60" y="456" font-size="11" fill="#3A3228" font-family="system-ui" font-weight="600">
+    Rytr = budget-only. Jasper = best for copywriting. Copy.ai = best integrations. For most: use ChatGPT/Claude.
+  </text>
+</svg>

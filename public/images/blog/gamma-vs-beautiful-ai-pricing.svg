@@ -1,0 +1,39 @@
+<svg viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { color-scheme: light; }
+      .bg { fill: #F4F1EA; }
+      .header { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 20px; font-weight: 700; fill: #4A5942; }
+      .label { font-size: 12px; fill: #3A3228; }
+      .value { font-size: 11px; fill: #3A3228; }
+      .bar1 { fill: #6B7C5E; }
+      .bar2 { fill: #96845A; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="900" height="300"/>
+
+  <text class="header" x="40" y="35">Pricing Breakdown</text>
+
+  <g>
+    <rect class="bar1" x="40" y="60" width="180" height="50" rx="8"/>
+    <text class="label" x="130" y="80" text-anchor="middle" fill="#F4F1EA" font-weight="600">Gamma Plus</text>
+    <text class="value" x="130" y="103" text-anchor="middle" fill="#F4F1EA">₹930/month</text>
+
+    <rect class="bar2" x="320" y="60" width="180" height="50" rx="8"/>
+    <text class="label" x="410" y="80" text-anchor="middle" fill="#F4F1EA" font-weight="600">Beautiful.ai Pro</text>
+    <text class="value" x="410" y="103" text-anchor="middle" fill="#F4F1EA">₹1,116/month</text>
+  </g>
+
+  <g>
+    <text class="label" x="40" y="145" font-weight="600">Team of 5 Annual Cost</text>
+    <text class="value" x="40" y="165">Gamma: ₹11,160/year (₹1,860/mo for entire team)</text>
+    <text class="value" x="40" y="183">Beautiful.ai: ₹66,960/year (₹1,116 × 5 users)</text>
+  </g>
+
+  <g>
+    <text class="label" x="40" y="220" font-weight="600">Free Tier</text>
+    <text class="value" x="40" y="240">Gamma: ✓ 10 credits/month (usable)</text>
+    <text class="value" x="40" y="258">Beautiful.ai: ✗ None (requires payment)</text>
+  </g>
+</svg>

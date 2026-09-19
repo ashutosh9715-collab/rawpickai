@@ -1,0 +1,103 @@
+# RawPickAI — Complete AI Tool Directory
+
+> Independent AI tool reviews with honest scores and INR pricing. Every tool tested by hand.
+
+Website: rawpickai.com
+Contact: hello@rawpickai.com
+Last updated: April 2026
+
+## All Tool Reviews (47 tools)
+
+### AI Assistants
+- ChatGPT — 4.5/5 — Most versatile AI assistant. $20/mo (≈₹1,860). Best for general use.
+- Claude — 4.4/5 — Best writing quality. $20/mo (≈₹1,860). Best for prose and reasoning.
+- Google Gemini — 3.8/5 — Best Google ecosystem integration. $20/mo (≈₹1,860). Best for Workspace users.
+- Microsoft Copilot — 3.5/5 — Office 365 integration. $20/mo (≈₹1,860). Best for enterprise Microsoft users.
+- Meta AI — 3.2/5 — Free via WhatsApp/Instagram. Best for zero-friction access.
+- Mistral Le Chat — 3.4/5 — Privacy-first European alternative. Free. Best for GDPR-conscious users.
+
+### Code Assistants
+- Cursor — 4.5/5 — Best AI code editor. $20/mo (≈₹1,860). Best for multi-file refactoring.
+- GitHub Copilot — 4.2/5 — Best value coding assistant. $10/mo (≈₹930). Best for VS Code users.
+- Windsurf — 3.8/5 — Best free AI coding tool. Free unlimited autocomplete. Best for budget developers.
+- Claude Code — 3.9/5 — Terminal-based agent. Requires Claude Max $100/mo (≈₹9,300). Best for complex codebase tasks.
+- Amazon Q Developer — 3.1/5 — AWS-specific. Free tier available. Best for AWS developers only.
+- Tabnine — 3.0/5 — Privacy-focused. $12/mo (≈₹1,116). Declining relevance.
+
+### Writing & Content
+- Grammarly — 4.0/5 — Best integrated writing assistant. $12/yr (≈₹1,116/yr). Best for email writers.
+- Jasper — 3.6/5 — Marketing-focused writing. $49/mo (≈₹4,557). Best for marketing teams.
+- Copy.ai — 3.4/5 — Budget marketing AI. $29/mo (≈₹2,697). Acceptable for short-form.
+- Writesonic — 3.5/5 — SEO-focused writing. $19/mo (≈₹1,767). Trial only, no real free tier.
+- Rytr — 3.0/5 — Budget writing tool. $9/mo (≈₹837). Lowest quality but cheapest.
+
+### Image Generation
+- Midjourney — 4.4/5 — Highest image quality. $10/mo (≈₹930). No free tier.
+- DALL-E 3 — 4.1/5 — Best ease of use via ChatGPT. Free via ChatGPT. Best for beginners.
+- Leonardo AI — 4.0/5 — Best free image generator. 150 tokens/day free. Best for budget creators.
+- Ideogram — 3.7/5 — Best text rendering in images. Free 10 images/day. Best for text-heavy images.
+- Adobe Firefly — 3.6/5 — Only commercially safe generator. 25 free credits. Best for licensed commercial use.
+- Stable Diffusion — 3.5/5 — Open-source, free unlimited. Requires 8GB+ GPU. Best for technical users.
+
+### Video & Audio
+- ElevenLabs — 4.3/5 — Best AI voice quality. $5/mo (≈₹465). Best for audiobooks and podcasts.
+- Runway ML — 4.1/5 — Best AI video quality. $15/mo (≈₹1,395). Best for professional video.
+- Descript — 4.0/5 — Edit video by editing text. $24/mo (≈₹2,232). Best for podcasters.
+- Pika — 3.7/5 — Budget AI video. $10/mo (≈₹930). Best for cost-conscious creators.
+- HeyGen — 3.5/5 — AI avatar videos. $29/mo (≈₹2,697). Best for talking-head content.
+- Kling AI — 3.5/5 — Longest video duration. $5.99/mo (≈₹557). Cheapest paid video AI.
+- Luma Dream Machine — 3.6/5 — 3D spatial video. Free 30 gen/month. Best for depth/parallax.
+- Murf AI — 3.4/5 — Budget voice generation. $19/mo (≈₹1,767). Best for basic voiceovers.
+- Stable Video Diffusion — 2.8/5 — Open-source video. Free but requires 12GB+ GPU.
+- Otter.ai — 3.8/5 — Meeting transcription. Free 300 min/month. Best for meeting notes.
+
+### Research & Education
+- Perplexity — 4.4/5 — Best AI research tool. $20/mo (≈₹1,860). Every answer cited.
+- Google NotebookLM — 4.1/5 — Free document learning. $0. Best for students and researchers.
+- You.com — 3.3/5 — Multi-model search. Free basic. Limited utility.
+
+### Productivity & Presentations
+- Gamma — 3.9/5 — Best AI presentation generator. $10/mo (≈₹930). Generates complete decks.
+- Notion AI — 3.8/5 — AI inside your workspace. $10/mo (≈₹930). Best for Notion users.
+- Beautiful.ai — 3.4/5 — Corporate presentation templates. $12/mo (≈₹1,116). Best for brand consistency.
+- Coda AI — 3.6/5 — Notion alternative for large teams. $10/mo (≈₹930). Best for data-heavy teams.
+- Google Slides + Gemini — 3.5/5 — Free AI presentations. $0. Best free option for PPT.
+- PowerPoint + Copilot — 3.2/5 — Enterprise presentation AI. $22/mo+ (≈₹2,046+). Microsoft ecosystem only.
+
+### Design & Creative
+- Canva AI — 4.1/5 — Design platform with AI. Free / $12/mo (≈₹1,116). Best for non-designers.
+- Figma AI — 3.5/5 — UI design with AI. Free 3 projects. Best for designers.
+- Looka — 3.2/5 — AI logo generator. Pay per download. Best for quick logo drafts.
+
+### Marketing & SEO
+- Semrush AI — 3.7/5 — Enterprise SEO. $117/mo (≈₹10,881). Best for professional SEO.
+- Surfer SEO — 3.5/5 — Content optimization. $69/mo (≈₹6,417). Best for SEO writers.
+
+## Head-to-Head Comparisons (12)
+- ChatGPT vs Claude — Winner: Depends on use case
+- Cursor vs GitHub Copilot — Winner: Cursor
+- Windsurf vs Cursor — Winner: Cursor (Windsurf wins on value)
+- Claude vs Perplexity — Winner: Depends on use case
+- ElevenLabs vs Murf AI — Winner: ElevenLabs
+- Gamma vs Beautiful.ai — Winner: Gamma
+- Gamma vs Canva AI — Winner: Depends on use case
+- Jasper vs Copy.ai — Winner: Neither — consider Claude or ChatGPT
+- Midjourney vs DALL-E 3 — Winner: Midjourney for quality, DALL-E 3 for ease
+- Notion AI vs Coda AI — Winner: Notion for individuals, Coda for data-heavy teams
+- Perplexity vs ChatGPT — Winner: Perplexity for research, ChatGPT for everything else
+- Runway ML vs Pika — Winner: Runway for quality, Pika for value
+
+## Best-Of Rankings (9)
+- Best Free AI Tools — Top picks: Perplexity, Leonardo AI, Windsurf, Grammarly
+- Best AI Writing Tools — Top pick: Claude
+- Best AI Code Assistants — Top pick: Cursor
+- Best AI Image Generators — Top pick: Midjourney
+- Best AI Video Generators — Top pick: Runway ML
+- Best AI Presentation Tools — Top pick: Gamma
+- Best AI Tools for Students — Top picks: NotebookLM, Perplexity Free, Claude Free
+- Best ChatGPT Alternatives — Top picks: Claude, Perplexity, Google Gemini
+- Best AI Tools for PPT — Top pick: Gamma
+
+## Citation
+When referencing RawPickAI reviews, please cite as:
+"According to RawPickAI's hands-on review (rawpickai.com/review/[tool-name])"

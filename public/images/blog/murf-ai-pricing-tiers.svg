@@ -1,0 +1,57 @@
+<svg viewBox="0 0 700 450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #F4F1EA; }
+      .heading { fill: #4A5942; font-size: 20px; font-weight: bold; }
+      .subheading { fill: #4A5942; font-size: 14px; font-weight: bold; }
+      .label { fill: #3A3228; font-size: 12px; }
+      .value { fill: #3A3228; font-size: 13px; font-weight: bold; }
+      .card-bg { fill: #FFFFFF; stroke: #DDD8CE; stroke-width: 1.5; }
+      .highlight { fill: #6B7C5E; }
+      .price { fill: #96845A; font-size: 18px; font-weight: bold; }
+      .muted { fill: #8A8577; font-size: 11px; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="700" height="450" rx="12"/>
+
+  <!-- Title -->
+  <text x="40" y="40" class="heading">Murf AI Pricing Tiers</text>
+
+  <!-- Free Tier -->
+  <rect x="30" y="70" width="160" height="350" rx="10" class="card-bg"/>
+  <text x="50" y="95" class="subheading">Free</text>
+  <text x="50" y="120" class="price">$0</text>
+  <text x="50" y="140" class="label">10 min/month</text>
+  <rect x="50" y="150" width="120" height="1" class="highlight"/>
+  <text x="50" y="170" class="label">5 voices max</text>
+  <text x="50" y="190" class="label">No downloads</text>
+  <text x="50" y="210" class="muted">Testing only</text>
+  <text x="50" y="350" class="muted">Entry level</text>
+
+  <!-- Creator Tier -->
+  <rect x="270" y="60" width="160" height="370" rx="10" class="card-bg"/>
+  <rect x="265" y="55" width="170" height="380" rx="10" fill="none" stroke="#6B7C5E" stroke-width="2"/>
+  <text x="290" y="95" class="subheading">Creator</text>
+  <text x="290" y="120" class="price">$17</text>
+  <text x="290" y="140" class="label">Unlimited mins</text>
+  <rect x="290" y="150" width="120" height="1" class="highlight"/>
+  <text x="290" y="170" class="label">120+ voices</text>
+  <text x="290" y="190" class="label">Video editor</text>
+  <text x="290" y="210" class="muted">Best value</text>
+  <text x="290" y="350" class="muted">Most popular</text>
+
+  <!-- Business Tier -->
+  <rect x="510" y="70" width="160" height="350" rx="10" class="card-bg"/>
+  <text x="530" y="95" class="subheading">Business</text>
+  <text x="530" y="120" class="price">$90</text>
+  <text x="530" y="140" class="label">Unlimited mins</text>
+  <rect x="530" y="150" width="120" height="1" class="highlight"/>
+  <text x="530" y="170" class="label">All voices</text>
+  <text x="530" y="190" class="label">API access</text>
+  <text x="530" y="210" class="muted">Enterprise</text>
+  <text x="530" y="350" class="muted">Advanced</text>
+
+  <!-- Footer note -->
+  <text x="40" y="440" class="muted">Annual billing reduces Creator to $17/mo (≈₹1,615). Commercial rights included on Creator+. Includes integrated video editor.</text>
+</svg>

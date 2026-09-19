@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="1200" height="240">
+  <rect width="900" height="180" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#4A5942" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">Real Zapier Use Cases: What Works on Each Plan</text>
+  <rect x="40" y="55" width="260" height="100" rx="10" fill="white" stroke="#22c55e" stroke-width="1.5"/>
+  <text x="170" y="80" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#22c55e">Free (100 tasks)</text>
+  <text x="170" y="102" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Email to Notion task</text>
+  <text x="170" y="120" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Form to spreadsheet</text>
+  <text x="170" y="138" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">Personal workflows only</text>
+  <rect x="320" y="55" width="260" height="100" rx="10" fill="white" stroke="#4A5942" stroke-width="1.5"/>
+  <text x="450" y="80" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#4A5942">Pro $19.99/mo (750 tasks)</text>
+  <text x="450" y="102" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Lead routing (CRM + Slack)</text>
+  <text x="450" y="120" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Invoice to payment tracker</text>
+  <text x="450" y="138" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">Most solopreneur needs</text>
+  <rect x="600" y="55" width="260" height="100" rx="10" fill="white" stroke="#c0392b" stroke-width="1.5"/>
+  <text x="730" y="80" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#c0392b">High volume (10K+ tasks)</text>
+  <text x="730" y="102" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Consider n8n instead</text>
+  <text x="730" y="120" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">$300+/mo on Zapier</text>
+  <text x="730" y="138" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#c0392b">vs $30/mo on n8n Cloud</text>
+  <text x="450" y="172" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Zapier's sweet spot is 100-750 tasks/month. Beyond that, cost-benefit shifts toward Make or n8n.</text>
+</svg>

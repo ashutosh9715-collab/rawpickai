@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" width="900" height="320">
+  <rect width="900" height="320" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#4A5942" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">Average Score by Category</text>
+  <rect x="60" y="60" width="780" height="36" rx="6" fill="#4A5942"/>
+  <text x="200" y="84" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#F4F1EA">Category</text>
+  <text x="460" y="84" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#F4F1EA">Avg Score</text>
+  <text x="620" y="84" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#F4F1EA">Tools Tested</text>
+  <text x="770" y="84" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#F4F1EA">Best in Class</text>
+  <rect x="60" y="100" width="780" height="32" fill="white" rx="4"/>
+  <text x="200" y="121" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">AI Assistants</text>
+  <text x="460" y="121" font-family="Georgia, serif" font-size="14" font-weight="700" text-anchor="middle" fill="#4A5942">4.12</text>
+  <text x="620" y="121" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B7C5E">8</text>
+  <text x="770" y="121" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A5942">ChatGPT (4.6)</text>
+  <rect x="60" y="136" width="780" height="32" fill="#F9F7F2" rx="4"/>
+  <text x="200" y="157" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Coding Tools</text>
+  <text x="460" y="157" font-family="Georgia, serif" font-size="14" font-weight="700" text-anchor="middle" fill="#4A5942">3.95</text>
+  <text x="620" y="157" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B7C5E">10</text>
+  <text x="770" y="157" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A5942">Cursor (4.6)</text>
+  <rect x="60" y="172" width="780" height="32" fill="white" rx="4"/>
+  <text x="200" y="193" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Image Generation</text>
+  <text x="460" y="193" font-family="Georgia, serif" font-size="14" font-weight="700" text-anchor="middle" fill="#96845A">3.68</text>
+  <text x="620" y="193" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B7C5E">7</text>
+  <text x="770" y="193" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A5942">Midjourney (4.3)</text>
+  <rect x="60" y="208" width="780" height="32" fill="#F9F7F2" rx="4"/>
+  <text x="200" y="229" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Video Generation</text>
+  <text x="460" y="229" font-family="Georgia, serif" font-size="14" font-weight="700" text-anchor="middle" fill="#96845A">3.47</text>
+  <text x="620" y="229" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B7C5E">6</text>
+  <text x="770" y="229" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A5942">Runway (4.0)</text>
+  <rect x="60" y="244" width="780" height="32" fill="white" rx="4"/>
+  <text x="200" y="265" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Writing Tools</text>
+  <text x="460" y="265" font-family="Georgia, serif" font-size="14" font-weight="700" text-anchor="middle" fill="#96845A">3.52</text>
+  <text x="620" y="265" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B7C5E">9</text>
+  <text x="770" y="265" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A5942">Claude (4.6)</text>
+  <rect x="60" y="280" width="780" height="32" fill="#F9F7F2" rx="4"/>
+  <text x="200" y="301" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Research/Search</text>
+  <text x="460" y="301" font-family="Georgia, serif" font-size="14" font-weight="700" text-anchor="middle" fill="#4A5942">4.05</text>
+  <text x="620" y="301" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B7C5E">8</text>
+  <text x="770" y="301" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A5942">NotebookLM (4.8)</text>
+</svg>

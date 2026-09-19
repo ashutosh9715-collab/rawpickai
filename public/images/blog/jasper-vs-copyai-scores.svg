@@ -1,0 +1,25 @@
+<svg viewBox="0 0 700 250" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="250" fill="#F4F1EA"/>
+  <text x="350" y="28" font-size="18" font-weight="bold" text-anchor="middle" fill="#4A5942">Jasper vs Copy.ai - Feature Comparison</text>
+  <text x="350" y="48" font-size="11" text-anchor="middle" fill="#8A8577">Head-to-head on key marketing writing capabilities</text>
+  <text x="20" y="85" font-size="12" font-weight="700" fill="#3A3228">Feature</text>
+  <text x="350" y="85" font-size="12" font-weight="700" text-anchor="middle" fill="#6B7C5E">Jasper</text>
+  <text x="570" y="85" font-size="12" font-weight="700" text-anchor="middle" fill="#96845A">Copy.ai</text>
+  <line x1="20" y1="95" x2="680" y2="95" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="20" y="118" font-size="11" fill="#3A3228">Writing Quality</text>
+  <text x="350" y="118" font-size="11" text-anchor="middle" fill="#3A3228">8/10</text>
+  <text x="570" y="118" font-size="11" text-anchor="middle" fill="#3A3228">7/10</text>
+  <line x1="20" y1="131" x2="680" y2="131" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="20" y="153" font-size="11" fill="#3A3228">Brand Voice</text>
+  <text x="350" y="153" font-size="12" font-weight="600" text-anchor="middle" fill="#4A5942">Excellent</text>
+  <text x="570" y="153" font-size="11" text-anchor="middle" fill="#3A3228">Basic</text>
+  <line x1="20" y1="166" x2="680" y2="166" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="20" y="188" font-size="11" fill="#3A3228">GTM Automation</text>
+  <text x="350" y="188" font-size="11" text-anchor="middle" fill="#3A3228">Limited</text>
+  <text x="570" y="188" font-size="12" font-weight="600" text-anchor="middle" fill="#4A5942">Strong</text>
+  <line x1="20" y1="201" x2="680" y2="201" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="20" y="223" font-size="11" fill="#3A3228">Starting Price</text>
+  <text x="350" y="223" font-size="11" text-anchor="middle" fill="#3A3228">$49/mo</text>
+  <text x="570" y="223" font-size="12" font-weight="600" text-anchor="middle" fill="#4A5942">$29/mo (5 seats)</text>
+  <text x="350" y="248" font-size="10" text-anchor="middle" fill="#8A8577">Data from RawPickAI - rawpickai.com</text>
+</svg>

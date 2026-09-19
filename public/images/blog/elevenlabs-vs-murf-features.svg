@@ -1,0 +1,100 @@
+<svg viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #F4F1EA; }
+      .heading { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 18px; font-weight: 600; fill: #4A5942; }
+      .label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; fill: #3A3228; }
+      .muted { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; fill: #8A8577; }
+      .bar-eleven { fill: #96845A; }
+      .bar-murf { fill: #6B7C5E; }
+      .track { fill: #DDD8CE; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="800" height="450"/>
+
+  <text class="heading" x="40" y="35">Voice Quality Comparison</text>
+
+  <!-- Headers -->
+  <rect x="140" y="55" width="280" height="25" rx="8" fill="#f0f0f0"/>
+  <text class="label" x="155" y="72">ElevenLabs</text>
+
+  <rect x="460" y="55" width="280" height="25" rx="8" fill="#f0f0f0"/>
+  <text class="label" x="475" y="72">Murf AI</text>
+
+  <!-- Feature 1: Voice Naturalness -->
+  <text class="label" x="40" y="120">Voice Naturalness</text>
+  <rect class="track" x="140" y="107" width="280" height="10" rx="5"/>
+  <rect class="bar-eleven" x="140" y="107" width="268" height="10" rx="5"/>
+  <text class="muted" x="425" y="117">95%</text>
+
+  <rect class="track" x="460" y="107" width="280" height="10" rx="5"/>
+  <rect class="bar-murf" x="460" y="107" width="168" height="10" rx="5"/>
+  <text class="muted" x="755" y="117">60%</text>
+
+  <!-- Feature 2: Voice Library -->
+  <text class="label" x="40" y="150">Voice Library Size</text>
+  <rect class="track" x="140" y="137" width="280" height="10" rx="5"/>
+  <rect class="bar-eleven" x="140" y="137" width="280" height="10" rx="5"/>
+  <text class="muted" x="425" y="147">900+</text>
+
+  <rect class="track" x="460" y="137" width="280" height="10" rx="5"/>
+  <rect class="bar-murf" x="460" y="137" width="154" height="10" rx="5"/>
+  <text class="muted" x="755" y="147">500+</text>
+
+  <!-- Feature 3: Language Support -->
+  <text class="label" x="40" y="180">Languages</text>
+  <rect class="track" x="140" y="167" width="280" height="10" rx="5"/>
+  <rect class="bar-eleven" x="140" y="167" width="252" height="10" rx="5"/>
+  <text class="muted" x="425" y="177">30+</text>
+
+  <rect class="track" x="460" y="167" width="280" height="10" rx="5"/>
+  <rect class="bar-murf" x="460" y="167" width="168" height="10" rx="5"/>
+  <text class="muted" x="755" y="177">20+</text>
+
+  <!-- Feature 4: Voice Cloning -->
+  <text class="label" x="40" y="210">Voice Cloning Quality</text>
+  <rect class="track" x="140" y="197" width="280" height="10" rx="5"/>
+  <rect class="bar-eleven" x="140" y="197" width="268" height="10" rx="5"/>
+  <text class="muted" x="425" y="207">Excellent</text>
+
+  <rect class="track" x="460" y="197" width="280" height="10" rx="5"/>
+  <rect class="bar-murf" x="460" y="197" width="140" height="10" rx="5"/>
+  <text class="muted" x="755" y="207">Good</text>
+
+  <!-- Feature 5: Real-time Streaming -->
+  <text class="label" x="40" y="240">Real-Time Streaming</text>
+  <rect class="track" x="140" y="227" width="280" height="10" rx="5"/>
+  <rect class="bar-eleven" x="140" y="227" width="280" height="10" rx="5"/>
+  <text class="muted" x="425" y="237">✓ Full</text>
+
+  <rect class="track" x="460" y="227" width="280" height="10" rx="5"/>
+  <rect class="bar-murf" x="460" y="227" width="112" height="10" rx="5"/>
+  <text class="muted" x="755" y="237">Limited</text>
+
+  <!-- Feature 6: Video Integration -->
+  <text class="label" x="40" y="270">Video-to-Voiceover</text>
+  <rect class="track" x="140" y="257" width="280" height="10" rx="5"/>
+  <text class="muted" x="425" y="267">Requires external</text>
+
+  <rect class="track" x="460" y="257" width="280" height="10" rx="5"/>
+  <rect class="bar-murf" x="460" y="257" width="280" height="10" rx="5"/>
+  <text class="muted" x="755" y="267">✓ Native</text>
+
+  <!-- Best For -->
+  <text class="heading" x="40" y="320">Best For:</text>
+
+  <rect x="40" y="330" width="350" height="100" rx="8" fill="#fffbf5" stroke="#e0dcd5" stroke-width="1"/>
+  <text class="label" x="60" y="350">ElevenLabs</text>
+  <text class="muted" x="60" y="370">✓ Audiobooks &amp; podcasts</text>
+  <text class="muted" x="60" y="385">✓ Premium brand voice</text>
+  <text class="muted" x="60" y="400">✓ Professional voiceovers</text>
+  <text class="muted" x="60" y="415">✓ Multilingual content</text>
+
+  <rect x="430" y="330" width="350" height="100" rx="8" fill="#f5fbf5" stroke="#e0dcd5" stroke-width="1"/>
+  <text class="label" x="450" y="350">Murf AI</text>
+  <text class="muted" x="450" y="370">✓ Training videos</text>
+  <text class="muted" x="450" y="385">✓ Quick voiceovers</text>
+  <text class="muted" x="450" y="400">✓ Budget projects</text>
+  <text class="muted" x="450" y="415">✓ Integrated workflow</text>
+</svg>

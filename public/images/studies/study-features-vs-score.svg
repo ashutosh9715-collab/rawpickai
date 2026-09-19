@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200">
+  <rect width="900" height="200" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#4A5942" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">Feature Depth vs Overall Score — More Features ≠ Better Tool</text>
+  <rect x="80" y="60" width="350" height="100" rx="10" fill="white" stroke="#4A5942" stroke-width="1.5"/>
+  <text x="255" y="90" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#4A5942">Tools with fewer features but higher scores</text>
+  <text x="255" y="115" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">NotebookLM (4.8) — does 3 things perfectly</text>
+  <text x="255" y="135" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Perplexity (4.3) — search + citations only</text>
+  <rect x="470" y="60" width="350" height="100" rx="10" fill="white" stroke="#c0392b" stroke-width="1.5"/>
+  <text x="645" y="90" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#c0392b">Tools with many features but lower scores</text>
+  <text x="645" y="115" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Feature-stuffed enterprise tools (3.1 avg)</text>
+  <text x="645" y="135" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">All-in-one platforms (3.3 avg)</text>
+  <text x="450" y="190" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Correlation: r = -0.18. Tools that do fewer things tend to do them better.</text>
+</svg>

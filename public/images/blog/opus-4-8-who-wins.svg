@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="900" height="220">
+  <rect width="900" height="220" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#4A5942" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">Opus 4.8 vs GPT-5.5: Who Wins by Use Case</text>
+  <rect x="40" y="55" width="820" height="28" rx="6" fill="#4A5942"/>
+  <text x="200" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">Use Case</text>
+  <text x="520" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">Winner</text>
+  <text x="730" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">Why</text>
+  <rect x="40" y="87" width="820" height="26" fill="white" rx="3"/>
+  <text x="200" y="105" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Long-form writing</text>
+  <text x="520" y="105" font-family="Georgia, serif" font-size="12" font-weight="700" text-anchor="middle" fill="#4A5942">Opus 4.8</text>
+  <text x="730" y="105" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">Cleaner prose, better tone control</text>
+  <rect x="40" y="117" width="820" height="26" fill="#F9F7F2" rx="3"/>
+  <text x="200" y="135" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Agentic coding</text>
+  <text x="520" y="135" font-family="Georgia, serif" font-size="12" font-weight="700" text-anchor="middle" fill="#4A5942">Opus 4.8</text>
+  <text x="730" y="135" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">69.2% vs 67.1% on SWE-bench</text>
+  <rect x="40" y="147" width="820" height="26" fill="white" rx="3"/>
+  <text x="200" y="165" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Coding from scratch</text>
+  <text x="520" y="165" font-family="Georgia, serif" font-size="12" font-weight="700" text-anchor="middle" fill="#96845A">GPT-5.5</text>
+  <text x="730" y="165" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">82.7% Terminal-Bench vs 69.3%</text>
+  <rect x="40" y="177" width="820" height="26" fill="#F9F7F2" rx="3"/>
+  <text x="200" y="195" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Browser automation / agents</text>
+  <text x="520" y="195" font-family="Georgia, serif" font-size="12" font-weight="700" text-anchor="middle" fill="#4A5942">Opus 4.8</text>
+  <text x="730" y="195" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">83.4% vs 78.9% computer use</text>
+  <text x="450" y="214" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Image generation: GPT-5.5 wins (DALL-E 3 built in). Research + citations: Perplexity wins both.</text>
+</svg>

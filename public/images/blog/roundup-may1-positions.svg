@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" role="img" aria-labelledby="title4">
+  <title id="title4">Position of major AI labs May 1 2026 across model strength enterprise reach and developer tools</title>
+  <rect width="800" height="480" fill="#F4F1EA"/>
+
+  <text x="40" y="44" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#1A2416">Where each lab stands  -  May 1, 2026</text>
+  <text x="40" y="68" font-family="Georgia, serif" font-size="13" fill="#6B6960">Subjective scoring across three dimensions, based on shipped products and market signals.</text>
+
+  <!-- Header row -->
+  <g transform="translate(40, 110)">
+    <text x="0" y="0" font-family="Georgia, serif" font-size="11" font-weight="700" fill="#96845A">LAB</text>
+    <text x="200" y="0" font-family="Georgia, serif" font-size="11" font-weight="700" fill="#96845A">MODEL STRENGTH</text>
+    <text x="400" y="0" font-family="Georgia, serif" font-size="11" font-weight="700" fill="#96845A">ENTERPRISE REACH</text>
+    <text x="600" y="0" font-family="Georgia, serif" font-size="11" font-weight="700" fill="#96845A">DEVELOPER TOOLS</text>
+  </g>
+
+  <line x1="40" y1="124" x2="760" y2="124" stroke="#D4D0C0" stroke-width="1"/>
+
+  <!-- Row 1: Microsoft -->
+  <g transform="translate(40, 156)">
+    <text x="0" y="0" font-family="Georgia, serif" font-size="14" font-weight="700" fill="#1A2416">Microsoft</text>
+    <text x="0" y="18" font-family="Georgia, serif" font-size="10" fill="#6B6960">+ OpenAI exposure</text>
+    <!-- Bars -->
+    <rect x="200" y="-12" width="160" height="14" rx="3" fill="#E0DDD0"/>
+    <rect x="200" y="-12" width="112" height="14" rx="3" fill="#6B7C5E"/>
+    <text x="370" y="0" font-family="Georgia, serif" font-size="11" fill="#4A453E">7/10</text>
+
+    <rect x="400" y="-12" width="160" height="14" rx="3" fill="#E0DDD0"/>
+    <rect x="400" y="-12" width="160" height="14" rx="3" fill="#4A5942"/>
+    <text x="570" y="0" font-family="Georgia, serif" font-size="11" fill="#4A453E">10/10</text>
+
+    <rect x="600" y="-12" width="140" height="14" rx="3" fill="#E0DDD0"/>
+    <rect x="600" y="-12" width="105" height="14" rx="3" fill="#6B7C5E"/>
+    <text x="750" y="0" font-family="Georgia, serif" font-size="11" fill="#4A453E">7.5/10</text>
+  </g>
+
+  <line x1="40" y1="190" x2="760" y2="190" stroke="#E8E5D8" stroke-width="0.5"/>
+
+  <!-- Row 2: OpenAI -->
+  <g transform="translate(40, 218)">
+    <text x="0" y="0" font-family="Georgia, serif" font-size="14" font-weight="700" fill="#1A2416">OpenAI</text>
+    <text x="0" y="18" font-family="Georgia, serif" font-size="10" fill="#6B6960">consumer-strong</text>
+
+    <rect x="200" y="-12" width="160" height="14" rx="3" fill="#E0DDD0"/>
+    <rect x="200" y="-12" width="144" height="14" rx="3" fill="#4A5942"/>
+    <text x="370" y="0" font-family="Georgia, serif" font-size="11" fill="#4A453E">9/10</text>
+
+    <rect x="400" y="-12" width="160" height="14" rx="3" fill="#E0DDD0"/>
+    <rect x="400" y="-12" width="96" height="14" rx="3" fill="#96845A"/>
+    <text x="570" y="0" font-family="Georgia, serif" font-size="11" fill="#4A453E">6/10</text>
+
+    <rect x="600" y="-12" width="140" height="14" rx="3" fill="#E0DDD0"/>
+    <rect x="600" y="-12" width="119" height="14" rx="3" fill="#6B7C5E"/>
+    <text x="750" y="0" font-family="Georgia, serif" font-size="11" fill="#4A453E">8.5/10</text>
+  </g>
+
+  <line x1="40" y1="252" x2="760" y2="252" stroke="#E8E5D8" stroke-width="0.5"/>
+
+  <!-- Row 3: Anthropic -->
+  <g transform="translate(40, 280)">
+    <text x="0" y="0" font-family="Georgia, serif" font-size="14" font-weight="700" fill="#1A2416">Anthropic</text>
+    <text x="0" y="18" font-family="Georgia, serif" font-size="10" fill="#6B6960">developer-leaning</text>
+
+    <rect x="200" y="-12" width="160" height="14" rx="3" fill="#E0DDD0"/>
+    <rect x="200" y="-12" width="153" height="14" rx="3" fill="#4A5942"/>
+    <text x="370" y="0" font-family="Georgia, serif" font-size="11" fill="#4A453E">9.5/10</text>
+
+    <rect x="400" y="-12" width="160" height="14" rx="3" fill="#E0DDD0"/>
+    <rect x="400" y="-12" width="80" height="14" rx="3" fill="#96845A"/>
+    <text x="570" y="0" font-family="Georgia, serif" font-size="11" fill="#4A453E">5/10</text>
+
+    <rect x="600" y="-12" width="140" height="14" rx="3" fill="#E0DDD0"/>
+    <rect x="600" y="-12" width="133" height="14" rx="3" fill="#4A5942"/>
+    <text x="750" y="0" font-family="Georgia, serif" font-size="11" fill="#4A453E">9.5/10</text>
+  </g>
+
+  <line x1="40" y1="314" x2="760" y2="314" stroke="#E8E5D8" stroke-width="0.5"/>
+
+  <!-- Row 4: Google -->
+  <g transform="translate(40, 342)">
+    <text x="0" y="0" font-family="Georgia, serif" font-size="14" font-weight="700" fill="#1A2416">Google</text>
+    <text x="0" y="18" font-family="Georgia, serif" font-size="10" fill="#6B6960">distribution moat</text>
+
+    <rect x="200" y="-12" width="160" height="14" rx="3" fill="#E0DDD0"/>
+    <rect x="200" y="-12" width="136" height="14" rx="3" fill="#6B7C5E"/>
+    <text x="370" y="0" font-family="Georgia, serif" font-size="11" fill="#4A453E">8.5/10</text>
+
+    <rect x="400" y="-12" width="160" height="14" rx="3" fill="#E0DDD0"/>
+    <rect x="400" y="-12" width="112" height="14" rx="3" fill="#6B7C5E"/>
+    <text x="570" y="0" font-family="Georgia, serif" font-size="11" fill="#4A453E">7/10</text>
+
+    <rect x="600" y="-12" width="140" height="14" rx="3" fill="#E0DDD0"/>
+    <rect x="600" y="-12" width="91" height="14" rx="3" fill="#96845A"/>
+    <text x="750" y="0" font-family="Georgia, serif" font-size="11" fill="#4A453E">6.5/10</text>
+  </g>
+
+  <line x1="40" y1="376" x2="760" y2="376" stroke="#E8E5D8" stroke-width="0.5"/>
+
+  <!-- Row 5: Open source -->
+  <g transform="translate(40, 404)">
+    <text x="0" y="0" font-family="Georgia, serif" font-size="14" font-weight="700" fill="#1A2416">Open source</text>
+    <text x="0" y="18" font-family="Georgia, serif" font-size="10" fill="#6B6960">Llama, MiMo, Mistral</text>
+
+    <rect x="200" y="-12" width="160" height="14" rx="3" fill="#E0DDD0"/>
+    <rect x="200" y="-12" width="112" height="14" rx="3" fill="#6B7C5E"/>
+    <text x="370" y="0" font-family="Georgia, serif" font-size="11" fill="#4A453E">7/10</text>
+
+    <rect x="400" y="-12" width="160" height="14" rx="3" fill="#E0DDD0"/>
+    <rect x="400" y="-12" width="48" height="14" rx="3" fill="#96845A"/>
+    <text x="570" y="0" font-family="Georgia, serif" font-size="11" fill="#4A453E">3/10</text>
+
+    <rect x="600" y="-12" width="140" height="14" rx="3" fill="#E0DDD0"/>
+    <rect x="600" y="-12" width="105" height="14" rx="3" fill="#6B7C5E"/>
+    <text x="750" y="0" font-family="Georgia, serif" font-size="11" fill="#4A453E">7.5/10</text>
+  </g>
+
+  <text x="40" y="466" font-family="Georgia, serif" font-size="11" font-style="italic" fill="#6B6960">Subjective scoring · Updated monthly · Disagree? Read methodology at rawpickai.com</text>
+</svg>

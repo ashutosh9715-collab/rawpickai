@@ -1,0 +1,56 @@
+<svg viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { color-scheme: light; }
+      .bg { fill: #F4F1EA; }
+      .heading { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 24px; font-weight: 600; fill: #4A5942; }
+      .label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 500; fill: #3A3228; }
+      .score-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 16px; font-weight: 600; fill: #4A5942; }
+      .overall-score { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 60px; font-weight: 700; fill: #4A5942; }
+      .overall-label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 500; fill: #8A8577; }
+      .bar-bg { fill: #DDD8CE; }
+      .bar-fill { fill: #6B7C5E; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="800" height="450" rx="12"/>
+
+  <!-- Header -->
+  <text class="heading" x="40" y="45">Leonardo AI Review Scores</text>
+
+  <!-- Overall Score Circle -->
+  <circle cx="700" cy="80" r="50" fill="none" stroke="#DDD8CE" stroke-width="8"/>
+  <circle cx="700" cy="80" r="50" fill="none" stroke="#6B7C5E" stroke-width="8" stroke-dasharray="251 314" stroke-linecap="round" transform="rotate(-90 700 80)"/>
+  <text class="overall-score" x="700" y="95" text-anchor="middle">4.0</text>
+  <text class="overall-label" x="700" y="145" text-anchor="middle">out of 5</text>
+
+  <!-- Free Tier -->
+  <text class="label" x="40" y="120">Free Tier</text>
+  <rect class="bar-bg" x="40" y="130" width="250" height="20" rx="8"/>
+  <rect class="bar-fill" x="40" y="130" width="250" height="20" rx="8"/>
+  <text class="score-text" x="300" y="145">100</text>
+
+  <!-- Value for Money -->
+  <text class="label" x="40" y="185">Value for Money</text>
+  <rect class="bar-bg" x="40" y="195" width="250" height="20" rx="8"/>
+  <rect class="bar-fill" x="40" y="195" width="225" height="20" rx="8"/>
+  <text class="score-text" x="300" y="210">90</text>
+
+  <!-- Ease of Use -->
+  <text class="label" x="40" y="250">Ease of Use</text>
+  <rect class="bar-bg" x="40" y="260" width="250" height="20" rx="8"/>
+  <rect class="bar-fill" x="40" y="260" width="225" height="20" rx="8"/>
+  <text class="score-text" x="300" y="275">90</text>
+
+  <!-- Feature Depth -->
+  <text class="label" x="40" y="315">Feature Depth</text>
+  <rect class="bar-bg" x="40" y="325" width="250" height="20" rx="8"/>
+  <rect class="bar-fill" x="40" y="325" width="200" height="20" rx="8"/>
+  <text class="score-text" x="300" y="340">80</text>
+
+  <!-- Output Quality -->
+  <text class="label" x="40" y="380">Output Quality</text>
+  <rect class="bar-bg" x="40" y="390" width="250" height="20" rx="8"/>
+  <rect class="bar-fill" x="40" y="390" width="200" height="20" rx="8"/>
+  <text class="score-text" x="300" y="405">80</text>
+</svg>

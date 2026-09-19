@@ -1,0 +1,84 @@
+<svg viewBox="0 0 900 450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #F4F1EA; }
+      .heading { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 20px; font-weight: 600; fill: #4A5942; }
+      .subheading { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 500; fill: #4A5942; }
+      .label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; fill: #3A3228; }
+      .price { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 16px; font-weight: 600; fill: #3A3228; }
+      .muted { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 11px; fill: #8A8577; }
+      .bar-chatgpt { fill: #6B7C5E; }
+      .bar-claude { fill: #96845A; }
+      .track { fill: #DDD8CE; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="900" height="450"/>
+
+  <!-- Title -->
+  <text class="heading" x="40" y="35">Pricing Comparison (Monthly)</text>
+
+  <!-- FREE TIER -->
+  <text class="subheading" x="40" y="70">Free Tier</text>
+
+  <rect x="40" y="80" width="190" height="90" rx="8" fill="#fafafa" stroke="#e0dcd5" stroke-width="1"/>
+  <text class="label" x="60" y="100">ChatGPT</text>
+  <text class="price" x="60" y="120">$0</text>
+  <text class="muted" x="60" y="145">Limited GPT-5.4</text>
+
+  <rect x="260" y="80" width="190" height="90" rx="8" fill="#fafafa" stroke="#e0dcd5" stroke-width="1"/>
+  <text class="label" x="280" y="100">Claude</text>
+  <text class="price" x="280" y="120">$0</text>
+  <text class="muted" x="280" y="145">Sonnet 4.6</text>
+
+  <!-- PRO/PLUS TIER -->
+  <text class="subheading" x="40" y="200">Standard Tier</text>
+
+  <rect x="40" y="210" width="190" height="110" rx="8" fill="#fafafa" stroke="#e0dcd5" stroke-width="1"/>
+  <text class="label" x="60" y="230">ChatGPT Plus</text>
+  <text class="price" x="60" y="255">$20/mo</text>
+  <text class="muted" x="60" y="275">≈ ₹1,860</text>
+  <text class="muted" x="60" y="290">GPT-5.4 + features</text>
+  <text class="muted" x="60" y="305">✓ Image generation</text>
+
+  <rect x="260" y="210" width="190" height="110" rx="8" fill="#fafafa" stroke="#e0dcd5" stroke-width="1"/>
+  <text class="label" x="280" y="230">Claude Pro</text>
+  <text class="price" x="280" y="255">$20/mo</text>
+  <text class="muted" x="280" y="275">≈ ₹1,860</text>
+  <text class="muted" x="280" y="290">Opus 4.6</text>
+  <text class="muted" x="280" y="305">✓ 200K context</text>
+
+  <!-- POWER TIER -->
+  <text class="subheading" x="40" y="360">Power Tier</text>
+
+  <rect x="40" y="370" width="190" height="50" rx="8" fill="#fff5f0" stroke="#e0dcd5" stroke-width="1"/>
+  <text class="label" x="60" y="387">ChatGPT Pro</text>
+  <text class="price" x="60" y="408">$200/mo (₹18,600)</text>
+
+  <rect x="260" y="370" width="190" height="50" rx="8" fill="#f5faf5" stroke="#e0dcd5" stroke-width="1"/>
+  <text class="label" x="280" y="387">Claude Max</text>
+  <text class="price" x="280" y="408">$100/mo (₹9,300)</text>
+
+  <!-- Comparison note -->
+  <rect x="520" y="80" width="340" height="330" rx="8" fill="none" stroke="#d0ccc5" stroke-width="1" stroke-dasharray="4,2"/>
+  <text class="subheading" x="540" y="108">Key Insights</text>
+
+  <text class="label" x="540" y="135">✓ Same price at standard tier</text>
+  <text class="muted" x="540" y="155">Both Pro/Plus cost ₹1,860/mo</text>
+
+  <text class="label" x="540" y="185">✓ Claude 50% cheaper at power tier</text>
+  <text class="muted" x="540" y="205">Max (₹9,300) vs Pro (₹18,600)</text>
+
+  <text class="label" x="540" y="235">✓ Free tiers differ in focus</text>
+  <text class="muted" x="540" y="255">ChatGPT: Features-first</text>
+  <text class="muted" x="540" y="270">Claude: Quality-first</text>
+
+  <text class="label" x="540" y="305">Best Value Strategy</text>
+  <text class="muted" x="540" y="325">Start with free tier of each</text>
+  <text class="muted" x="540" y="340">Pay for Pro ($20/mo) if one</text>
+  <text class="muted" x="540" y="355">tool excels for your use case</text>
+  <text class="muted" x="540" y="370">Both = ₹3,720/mo (₹44,640/year)</text>
+
+  <!-- Footer -->
+  <text class="muted" x="40" y="430">Conversion: ₹93/USD. Prices subject to regional variation. Verify on official sites.</text>
+</svg>

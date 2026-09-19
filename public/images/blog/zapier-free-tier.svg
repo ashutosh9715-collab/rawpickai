@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="1200" height="213">
+  <rect width="900" height="160" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#22c55e" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">Zapier Free Plan: What You Actually Get</text>
+  <rect x="40" y="55" width="260" height="80" rx="8" fill="white" stroke="#22c55e" stroke-width="1.5"/>
+  <text x="170" y="80" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#22c55e">100 tasks/month</text>
+  <text x="170" y="100" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Unlimited 2-step Zaps</text>
+  <text x="170" y="118" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">No credit card required</text>
+  <rect x="320" y="55" width="260" height="80" rx="8" fill="white" stroke="#4A5942" stroke-width="1.5"/>
+  <text x="450" y="80" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#4A5942">400 agent activities</text>
+  <text x="450" y="100" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">AI Agents included free</text>
+  <text x="450" y="118" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#4A5942">Refreshes monthly</text>
+  <rect x="600" y="55" width="260" height="80" rx="8" fill="white" stroke="#6B6960" stroke-width="1.5"/>
+  <text x="730" y="80" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#6B6960">Limitations</text>
+  <text x="730" y="100" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">2-step Zaps only</text>
+  <text x="730" y="118" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">No filters or formatters</text>
+  <text x="450" y="152" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Best free automation tier in the category. 100 tasks covers basic personal automation permanently.</text>
+</svg>

@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+.env
+.env.local
+.vercel
+*.tsbuildinfo
+next-env.d.ts
+
+# IndexNow key files — must never be committed to a public repo.
+# The verification file (a randomly-named .txt file) is hosted via env-var route instead.
+public/[a-f0-9]*.txt

@@ -1,0 +1,18 @@
+<svg viewBox="0 0 700 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="200" fill="#F4F1EA"/>
+  <text x="350" y="28" font-size="18" font-weight="bold" text-anchor="middle" fill="#4A5942">Claude vs ChatGPT vs Gemini - Each Wins Where</text>
+  <text x="350" y="48" font-size="11" text-anchor="middle" fill="#8A8577">Three tools, three distinct strengths</text>
+  <rect x="30" y="75" width="200" height="70" rx="8" fill="#6B7C5E"/>
+  <text x="130" y="100" font-size="12" font-weight="bold" text-anchor="middle" fill="white">Claude: Writing</text>
+  <text x="130" y="118" font-size="10" text-anchor="middle" fill="white">Best prose, long context</text>
+  <text x="130" y="135" font-size="10" text-anchor="middle" fill="white">$20/mo</text>
+  <rect x="250" y="75" width="200" height="70" rx="8" fill="#96845A"/>
+  <text x="350" y="100" font-size="12" font-weight="bold" text-anchor="middle" fill="white">ChatGPT: Versatility</text>
+  <text x="350" y="118" font-size="10" text-anchor="middle" fill="white">Images, code, voice, plugins</text>
+  <text x="350" y="135" font-size="10" text-anchor="middle" fill="white">$20/mo</text>
+  <rect x="470" y="75" width="200" height="70" rx="8" fill="#8A8577"/>
+  <text x="570" y="100" font-size="12" font-weight="bold" text-anchor="middle" fill="white">Gemini: Integration</text>
+  <text x="570" y="118" font-size="10" text-anchor="middle" fill="white">Gmail, Docs, Sheets native</text>
+  <text x="570" y="135" font-size="10" text-anchor="middle" fill="white">$20/mo</text>
+  <text x="350" y="180" font-size="10" text-anchor="middle" fill="#8A8577">Data from RawPickAI - rawpickai.com</text>
+</svg>

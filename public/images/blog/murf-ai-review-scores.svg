@@ -1,0 +1,52 @@
+<svg viewBox="0 0 700 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #F4F1EA; }
+      .heading { fill: #4A5942; font-size: 20px; font-weight: bold; }
+      .bar-label { fill: #3A3228; font-size: 14px; }
+      .score-text { fill: #3A3228; font-size: 13px; font-weight: bold; }
+      .track { fill: #DDD8CE; }
+      .bar-primary { fill: #6B7C5E; }
+      .bar-secondary { fill: #96845A; }
+      .muted { fill: #8A8577; font-size: 12px; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="700" height="400" rx="12"/>
+
+  <!-- Title -->
+  <text x="40" y="40" class="heading">Murf AI Review Scores</text>
+
+  <!-- Ease of Use -->
+  <text x="40" y="90" class="bar-label">Ease of Use</text>
+  <rect x="240" y="75" width="320" height="20" rx="6" class="track"/>
+  <rect x="240" y="75" width="269" height="20" rx="6" class="bar-primary"/>
+  <text x="510" y="92" class="score-text">84/100</text>
+
+  <!-- Output Quality -->
+  <text x="40" y="150" class="bar-label">Output Quality</text>
+  <rect x="240" y="135" width="320" height="20" rx="6" class="track"/>
+  <rect x="240" y="135" width="199" height="20" rx="6" class="bar-secondary"/>
+  <text x="510" y="152" class="score-text">62/100</text>
+
+  <!-- Value for Money -->
+  <text x="40" y="210" class="bar-label">Value for Money</text>
+  <rect x="240" y="195" width="320" height="20" rx="6" class="track"/>
+  <rect x="240" y="195" width="275" height="20" rx="6" class="bar-primary"/>
+  <text x="510" y="212" class="score-text">86/100</text>
+
+  <!-- Feature Depth -->
+  <text x="40" y="270" class="bar-label">Feature Depth</text>
+  <rect x="240" y="255" width="320" height="20" rx="6" class="track"/>
+  <rect x="240" y="255" width="243" height="20" rx="6" class="bar-secondary"/>
+  <text x="510" y="272" class="score-text">76/100</text>
+
+  <!-- Free Tier -->
+  <text x="40" y="330" class="bar-label">Free Tier</text>
+  <rect x="240" y="315" width="320" height="20" rx="6" class="track"/>
+  <rect x="240" y="315" width="224" height="20" rx="6" class="bar-primary"/>
+  <text x="510" y="332" class="score-text">70/100</text>
+
+  <!-- Footer -->
+  <text x="40" y="380" class="muted">Overall: 3.4/5  -  Best budget voice tool with integrated video editing</text>
+</svg>

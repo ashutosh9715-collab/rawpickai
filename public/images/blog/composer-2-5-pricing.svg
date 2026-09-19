@@ -1,0 +1,66 @@
+<svg viewBox="0 0 700 310" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
+  <rect width="700" height="310" rx="12" fill="#F4F1EA"/>
+
+  <!-- Title -->
+  <text x="350" y="34" text-anchor="middle" font-size="15" font-weight="700" fill="#4A5942">Pricing Comparison</text>
+  <text x="350" y="52" text-anchor="middle" font-size="12" fill="#8A8577">Per million tokens, USD and INR (at ₹93/USD)</text>
+
+  <!-- Table header -->
+  <rect x="24" y="64" width="652" height="28" rx="6" fill="#4A5942"/>
+  <text x="140" y="82" text-anchor="middle" font-size="11" font-weight="600" fill="#F4F1EA">Model</text>
+  <text x="330" y="82" text-anchor="middle" font-size="11" font-weight="600" fill="#F4F1EA">Input / M tokens</text>
+  <text x="490" y="82" text-anchor="middle" font-size="11" font-weight="600" fill="#F4F1EA">Output / M tokens</text>
+  <text x="630" y="82" text-anchor="middle" font-size="11" font-weight="600" fill="#F4F1EA">vs Opus</text>
+
+  <!-- Divider lines -->
+  <line x1="240" y1="64" x2="240" y2="272" stroke="#DDD8CE" stroke-width="1"/>
+  <line x1="420" y1="64" x2="420" y2="272" stroke="#DDD8CE" stroke-width="1"/>
+  <line x1="568" y1="64" x2="568" y2="272" stroke="#DDD8CE" stroke-width="1"/>
+
+  <!-- Row 1 - Composer 2.5 Standard (highlighted) -->
+  <rect x="24" y="92" width="652" height="40" rx="4" fill="#6B7C5E"/>
+  <text x="60" y="108" font-size="11" font-weight="700" fill="#F4F1EA">Composer 2.5</text>
+  <text x="60" y="123" font-size="10" fill="#DDD8CE">Standard tier</text>
+  <text x="330" y="108" text-anchor="middle" font-size="11" font-weight="700" fill="#F4F1EA">$0.50</text>
+  <text x="330" y="123" text-anchor="middle" font-size="10" fill="#DDD8CE">≈₹46.50</text>
+  <text x="490" y="108" text-anchor="middle" font-size="11" font-weight="700" fill="#F4F1EA">$2.50</text>
+  <text x="490" y="123" text-anchor="middle" font-size="10" fill="#DDD8CE">≈₹232.50</text>
+  <text x="630" y="112" text-anchor="middle" font-size="12" font-weight="700" fill="#F4F1EA">30x less</text>
+
+  <!-- Row 2 - Composer 2.5 Fast -->
+  <rect x="24" y="132" width="652" height="40" rx="0" fill="#F4F1EA"/>
+  <text x="60" y="148" font-size="11" font-weight="600" fill="#3A3228">Composer 2.5</text>
+  <text x="60" y="163" font-size="10" fill="#8A8577">Fast tier (interactive)</text>
+  <text x="330" y="148" text-anchor="middle" font-size="11" font-weight="600" fill="#3A3228">$3.00</text>
+  <text x="330" y="163" text-anchor="middle" font-size="10" fill="#8A8577">≈₹279</text>
+  <text x="490" y="148" text-anchor="middle" font-size="11" font-weight="600" fill="#3A3228">$15.00</text>
+  <text x="490" y="163" text-anchor="middle" font-size="10" fill="#8A8577">≈₹1,395</text>
+  <text x="630" y="152" text-anchor="middle" font-size="11" fill="#3A3228">5x less</text>
+  <line x1="24" y1="172" x2="676" y2="172" stroke="#DDD8CE" stroke-width="1"/>
+
+  <!-- Row 3 - Claude Sonnet 4.6 -->
+  <text x="60" y="188" font-size="11" font-weight="600" fill="#3A3228">Claude Sonnet 4.6</text>
+  <text x="60" y="203" font-size="10" fill="#8A8577">API (any environment)</text>
+  <text x="330" y="188" text-anchor="middle" font-size="11" font-weight="600" fill="#3A3228">$3.00</text>
+  <text x="330" y="203" text-anchor="middle" font-size="10" fill="#8A8577">≈₹279</text>
+  <text x="490" y="188" text-anchor="middle" font-size="11" font-weight="600" fill="#3A3228">$15.00</text>
+  <text x="490" y="203" text-anchor="middle" font-size="10" fill="#8A8577">≈₹1,395</text>
+  <text x="630" y="196" text-anchor="middle" font-size="11" fill="#3A3228">5x less</text>
+  <line x1="24" y1="212" x2="676" y2="212" stroke="#DDD8CE" stroke-width="1"/>
+
+  <!-- Row 4 - Claude Opus 4.7 -->
+  <rect x="24" y="212" width="652" height="40" rx="0" fill="#F4F1EA"/>
+  <text x="60" y="228" font-size="11" font-weight="600" fill="#3A3228">Claude Opus 4.7</text>
+  <text x="60" y="243" font-size="10" fill="#8A8577">API</text>
+  <text x="330" y="228" text-anchor="middle" font-size="11" font-weight="600" fill="#3A3228">$15.00</text>
+  <text x="330" y="243" text-anchor="middle" font-size="10" fill="#8A8577">≈₹1,395</text>
+  <text x="490" y="228" text-anchor="middle" font-size="11" font-weight="600" fill="#3A3228">$75.00</text>
+  <text x="490" y="243" text-anchor="middle" font-size="10" fill="#8A8577">≈₹6,975</text>
+  <text x="630" y="232" text-anchor="middle" font-size="11" fill="#96845A">baseline</text>
+  <line x1="24" y1="252" x2="676" y2="252" stroke="#DDD8CE" stroke-width="1"/>
+
+  <!-- Footer -->
+  <text x="350" y="272" text-anchor="middle" font-size="10" fill="#8A8577">*Last updated: May 2026. Prices converted at ₹93/USD.*</text>
+  <text x="350" y="288" text-anchor="middle" font-size="10" fill="#8A8577">Composer 2.5 available inside Cursor only. Claude Sonnet/Opus available via API.</text>
+  <text x="350" y="302" text-anchor="middle" font-size="10" fill="#8A8577">rawpickai.com</text>
+</svg>

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 370" width="900" height="370">
+  <rect width="900" height="370" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#4A5942" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">Top 5 vs Bottom 5 — Score Comparison</text>
+  <text x="225" y="65" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#4A5942">TOP 5</text>
+  <text x="675" y="65" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#c0392b">BOTTOM 5</text>
+  <!-- Top 5: name left, bar middle, score right of bar -->
+  <rect x="40" y="80" width="400" height="44" rx="6" fill="white"/>
+  <text x="55" y="107" font-family="Georgia, serif" font-size="13" fill="#4A453E">NotebookLM</text>
+  <rect x="170" y="94" width="192" height="16" rx="4" fill="#4A5942"/>
+  <text x="372" y="107" font-family="Georgia, serif" font-size="13" font-weight="700" fill="#4A5942">4.8</text>
+
+  <rect x="40" y="128" width="400" height="44" rx="6" fill="#F9F7F2"/>
+  <text x="55" y="155" font-family="Georgia, serif" font-size="13" fill="#4A453E">ChatGPT</text>
+  <rect x="170" y="142" width="184" height="16" rx="4" fill="#4A5942"/>
+  <text x="364" y="155" font-family="Georgia, serif" font-size="13" font-weight="700" fill="#4A5942">4.6</text>
+
+  <rect x="40" y="176" width="400" height="44" rx="6" fill="white"/>
+  <text x="55" y="203" font-family="Georgia, serif" font-size="13" fill="#4A453E">Cursor</text>
+  <rect x="170" y="190" width="184" height="16" rx="4" fill="#4A5942"/>
+  <text x="364" y="203" font-family="Georgia, serif" font-size="13" font-weight="700" fill="#4A5942">4.6</text>
+
+  <rect x="40" y="224" width="400" height="44" rx="6" fill="#F9F7F2"/>
+  <text x="55" y="251" font-family="Georgia, serif" font-size="13" fill="#4A453E">Gemini</text>
+  <rect x="170" y="238" width="180" height="16" rx="4" fill="#4A5942"/>
+  <text x="360" y="251" font-family="Georgia, serif" font-size="13" font-weight="700" fill="#4A5942">4.5</text>
+
+  <rect x="40" y="272" width="400" height="44" rx="6" fill="white"/>
+  <text x="55" y="299" font-family="Georgia, serif" font-size="13" fill="#4A453E">Perplexity</text>
+  <rect x="170" y="286" width="172" height="16" rx="4" fill="#6B7C5E"/>
+  <text x="352" y="299" font-family="Georgia, serif" font-size="13" font-weight="700" fill="#4A5942">4.3</text>
+
+  <!-- Bottom 5: name left, bar middle, score right of bar -->
+  <rect x="470" y="80" width="400" height="44" rx="6" fill="white"/>
+  <text x="485" y="107" font-family="Georgia, serif" font-size="13" fill="#4A453E">AI Tool X</text>
+  <rect x="600" y="94" width="104" height="16" rx="4" fill="#c0392b" opacity="0.6"/>
+  <text x="714" y="107" font-family="Georgia, serif" font-size="13" font-weight="700" fill="#c0392b">2.6</text>
+
+  <rect x="470" y="128" width="400" height="44" rx="6" fill="#F9F7F2"/>
+  <text x="485" y="155" font-family="Georgia, serif" font-size="13" fill="#4A453E">AI Tool Y</text>
+  <rect x="600" y="142" width="112" height="16" rx="4" fill="#c0392b" opacity="0.6"/>
+  <text x="722" y="155" font-family="Georgia, serif" font-size="13" font-weight="700" fill="#c0392b">2.8</text>
+
+  <rect x="470" y="176" width="400" height="44" rx="6" fill="white"/>
+  <text x="485" y="203" font-family="Georgia, serif" font-size="13" fill="#4A453E">AI Tool Z</text>
+  <rect x="600" y="190" width="116" height="16" rx="4" fill="#c0392b" opacity="0.6"/>
+  <text x="726" y="203" font-family="Georgia, serif" font-size="13" font-weight="700" fill="#c0392b">2.9</text>
+
+  <rect x="470" y="224" width="400" height="44" rx="6" fill="#F9F7F2"/>
+  <text x="485" y="251" font-family="Georgia, serif" font-size="13" fill="#4A453E">AI Tool W</text>
+  <rect x="600" y="238" width="120" height="16" rx="4" fill="#96845A" opacity="0.6"/>
+  <text x="730" y="251" font-family="Georgia, serif" font-size="13" font-weight="700" fill="#96845A">3.0</text>
+
+  <rect x="470" y="272" width="400" height="44" rx="6" fill="white"/>
+  <text x="485" y="299" font-family="Georgia, serif" font-size="13" fill="#4A453E">AI Tool V</text>
+  <rect x="600" y="286" width="124" height="16" rx="4" fill="#96845A" opacity="0.6"/>
+  <text x="734" y="299" font-family="Georgia, serif" font-size="13" font-weight="700" fill="#96845A">3.1</text>
+
+  <text x="450" y="355" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Source: RawPickAI 2026 AI Tools Reality Check — 48 tools tested Nov 2025–May 2026</text>
+</svg>

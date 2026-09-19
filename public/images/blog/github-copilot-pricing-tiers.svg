@@ -1,0 +1,82 @@
+<svg viewBox="0 0 900 480" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root {
+        --bg: #F4F1EA;
+        --heading: #4A5942;
+        --bar-primary: #6B7C5E;
+        --bar-accent: #96845A;
+        --body: #3A3228;
+        --muted: #8A8577;
+        --track: #DDD8CE;
+        --card-bg: #FBF8F4;
+        --border: #E8E3D8;
+      }
+      body { color-scheme: light; }
+      .bg { fill: #F4F1EA; }
+      .card { fill: #FBF8F4; stroke: #E8E3D8; stroke-width: 1.5; }
+      .heading { fill: #4A5942; font-family: system-ui, -apple-system, sans-serif; font-weight: 700; }
+      .subheading { fill: #4A5942; font-family: system-ui, -apple-system, sans-serif; font-weight: 600; }
+      .price { fill: #96845A; font-family: system-ui, -apple-system, sans-serif; font-weight: 700; }
+      .label { fill: #3A3228; font-family: system-ui, -apple-system, sans-serif; font-size: 13px; }
+      .muted-text { fill: #8A8577; font-family: system-ui, -apple-system, sans-serif; font-size: 12px; }
+      .feature { fill: #6B7C5E; font-family: system-ui, -apple-system, sans-serif; font-size: 13px; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="900" height="480"/>
+
+  <!-- Title -->
+  <text class="heading" x="40" y="40" font-size="24">GitHub Copilot Pricing Plans</text>
+
+  <!-- Card 1: Free -->
+  <rect class="card" x="40" y="70" width="160" height="390" rx="12"/>
+  <text class="subheading" x="60" y="95" font-size="16">Free</text>
+  <text class="price" x="60" y="120" font-size="18">$0/mo</text>
+  <text class="muted-text" x="60" y="138">≈₹0</text>
+  <line x1="60" y1="150" x2="180" y2="150" stroke="#E8E3D8" stroke-width="1"/>
+  <text class="feature" x="60" y="172">2,000 completions</text>
+  <text class="feature" x="60" y="198">VS Code &amp; JetBrains</text>
+  <text class="feature" x="60" y="224">Limited chat</text>
+  <text class="feature" x="60" y="250">No IP indemnity</text>
+  <text class="muted-text" x="60" y="290" font-size="12">Best for: Learning</text>
+
+  <!-- Card 2: Pro -->
+  <rect class="card" x="230" y="70" width="160" height="390" rx="12"/>
+  <text class="subheading" x="250" y="95" font-size="16">Pro</text>
+  <text class="price" x="250" y="120" font-size="18">$10/mo</text>
+  <text class="muted-text" x="250" y="138">≈₹930</text>
+  <line x1="250" y1="150" x2="370" y2="150" stroke="#E8E3D8" stroke-width="1"/>
+  <text class="feature" x="250" y="172">Unlimited completions</text>
+  <text class="feature" x="250" y="198">All editors</text>
+  <text class="feature" x="250" y="224">Copilot Chat</text>
+  <text class="feature" x="250" y="250">No IP indemnity</text>
+  <text class="muted-text" x="250" y="290" font-size="12">Best for: Individuals</text>
+
+  <!-- Card 3: Business -->
+  <rect class="card" x="420" y="70" width="160" height="390" rx="12"/>
+  <text class="subheading" x="440" y="95" font-size="16">Business</text>
+  <text class="price" x="440" y="120" font-size="18">$19/mo</text>
+  <text class="muted-text" x="440" y="138">≈₹1,767/user</text>
+  <line x1="440" y1="150" x2="560" y2="150" stroke="#E8E3D8" stroke-width="1"/>
+  <text class="feature" x="440" y="172">Org management</text>
+  <text class="feature" x="440" y="198">Usage analytics</text>
+  <text class="feature" x="440" y="224">SAML auth</text>
+  <text class="feature" x="440" y="250">Teams &lt;100</text>
+  <text class="muted-text" x="440" y="290" font-size="12">Best for: Small teams</text>
+
+  <!-- Card 4: Enterprise -->
+  <rect class="card" x="610" y="70" width="160" height="390" rx="12"/>
+  <text class="subheading" x="630" y="95" font-size="16">Enterprise</text>
+  <text class="price" x="630" y="120" font-size="18">$39/mo</text>
+  <text class="muted-text" x="630" y="138">≈₹3,627/user</text>
+  <line x1="630" y1="150" x2="750" y2="150" stroke="#E8E3D8" stroke-width="1"/>
+  <text class="feature" x="630" y="172">IP indemnity</text>
+  <text class="feature" x="630" y="198">Audit logs</text>
+  <text class="feature" x="630" y="224">100+ users</text>
+  <text class="feature" x="630" y="250">Compliance</text>
+  <text class="muted-text" x="630" y="290" font-size="12">Best for: Large orgs</text>
+
+  <!-- Footer -->
+  <text class="muted-text" x="40" y="465" font-size="11">Pricing as of May 2026. Converted at ₹93/USD. Contact sales for Enterprise details.</text>
+</svg>

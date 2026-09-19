@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" font-family="Inter, system-ui, sans-serif">
+  <rect width="800" height="320" rx="12" fill="#F4F1EA"/>
+
+  <text x="40" y="40" fill="#3A3228" font-size="18" font-weight="700">Speed Comparison: Time to Running App</text>
+  <text x="40" y="60" fill="#8A8577" font-size="13">Average across 5 test projects (lower is better)</text>
+
+  <!-- Bolt.new -->
+  <text x="40" y="108" fill="#4A5942" font-size="14" font-weight="600">Bolt.new</text>
+  <rect x="180" y="92" width="500" height="26" rx="7" fill="#DDD8CE"/>
+  <rect x="180" y="92" width="215" height="26" rx="7" fill="#6B7C5E"/>
+  <text x="405" y="110" fill="#3A3228" font-size="13" font-weight="700">43s avg</text>
+  <text x="415" y="110" fill="#8A8577" font-size="11"> </text>
+
+  <!-- Lovable -->
+  <text x="40" y="168" fill="#4A5942" font-size="14" font-weight="600">Lovable</text>
+  <rect x="180" y="152" width="500" height="26" rx="7" fill="#DDD8CE"/>
+  <rect x="180" y="152" width="310" height="26" rx="7" fill="#96845A"/>
+  <text x="500" y="170" fill="#3A3228" font-size="13" font-weight="700">62s avg</text>
+
+  <!-- v0 -->
+  <text x="40" y="228" fill="#4A5942" font-size="14" font-weight="600">v0 (Vercel)</text>
+  <rect x="180" y="212" width="500" height="26" rx="7" fill="#DDD8CE"/>
+  <rect x="180" y="212" width="350" height="26" rx="7" fill="#96845A"/>
+  <text x="540" y="230" fill="#3A3228" font-size="13" font-weight="700">70s avg</text>
+
+  <!-- Note -->
+  <text x="40" y="280" fill="#8A8577" font-size="11">Simple apps (frontend-only): Bolt 47s, Lovable 52s, v0 38s</text>
+  <text x="40" y="298" fill="#8A8577" font-size="11">Full-stack apps: Bolt 3-4 min, Lovable 4-5 min, v0 5-6 min</text>
+</svg>

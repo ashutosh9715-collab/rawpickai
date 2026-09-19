@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="newstitle">
+  <title id="newstitle">RawPickAI News Hero Template</title>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#F4F1EA"/>
+
+  <!-- Decorative side bar -->
+  <rect x="0" y="0" width="12" height="630" fill="#4A5942"/>
+
+  <!-- Top header strip -->
+  <g transform="translate(56, 60)">
+    <!-- Category pill -->
+    <rect x="0" y="0" width="120" height="32" rx="16" fill="#4A5942"/>
+    <text x="60" y="21" font-family="Georgia, serif" font-size="13" font-weight="700" fill="#F4F1EA" text-anchor="middle">AI NEWS</text>
+
+    <!-- Date -->
+    <text x="140" y="22" font-family="Georgia, serif" font-size="14" fill="#6B6960">[DATE GOES HERE — e.g. April 25, 2026]</text>
+  </g>
+
+  <!-- Main headline -->
+  <foreignObject x="56" y="170" width="1088" height="280">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: Georgia, serif; font-size: 52px; font-weight: 700; color: #1A2416; line-height: 1.15; letter-spacing: -0.01em;">
+      [Headline goes here — keep under 90 chars. Example: ChatGPT Images 2.0 Ships Multilingual Text.]
+    </div>
+  </foreignObject>
+
+  <!-- Divider -->
+  <line x1="56" y1="490" x2="200" y2="490" stroke="#8FB28E" stroke-width="3"/>
+
+  <!-- Subhead / single-line context -->
+  <text x="56" y="528" font-family="Georgia, serif" font-size="20" fill="#4A453E" font-style="italic">[One-line subhead — why it matters, in plain English]</text>
+
+  <!-- Footer branding -->
+  <g transform="translate(56, 560)">
+    <!-- Crosshair icon -->
+    <circle cx="12" cy="12" r="11" fill="none" stroke="#4A5942" stroke-width="2"/>
+    <circle cx="12" cy="12" r="2" fill="#4A5942"/>
+    <line x1="12" y1="0" x2="12" y2="6" stroke="#4A5942" stroke-width="2"/>
+    <line x1="12" y1="18" x2="12" y2="24" stroke="#4A5942" stroke-width="2"/>
+    <line x1="0" y1="12" x2="6" y2="12" stroke="#4A5942" stroke-width="2"/>
+    <line x1="18" y1="12" x2="24" y2="12" stroke="#4A5942" stroke-width="2"/>
+
+    <text x="36" y="18" font-family="Georgia, serif" font-size="18" font-weight="700" fill="#1A2416">RawPickAI</text>
+    <text x="140" y="18" font-family="Georgia, serif" font-size="14" fill="#6B6960">· rawpickai.com</text>
+  </g>
+
+  <!-- Subtle corner accent -->
+  <circle cx="1140" cy="60" r="24" fill="none" stroke="#96845A" stroke-width="2" opacity="0.3"/>
+  <circle cx="1140" cy="60" r="4" fill="#96845A" opacity="0.4"/>
+</svg>

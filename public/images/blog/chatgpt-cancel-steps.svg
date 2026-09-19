@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300">
+  <rect width="800" height="300" rx="12" fill="#F4F1EA"/>
+  <text x="400" y="45" text-anchor="middle" font-family="system-ui, sans-serif" font-size="22" font-weight="700" fill="#4A5942">How to Cancel ChatGPT — Step by Step</text>
+  <line x1="60" y1="65" x2="740" y2="65" stroke="#DDD8CE" stroke-width="1.5"/>
+
+  <!-- Step 1 -->
+  <circle cx="115" cy="120" r="18" fill="#6B7C5E"/>
+  <text x="115" y="126" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#F4F1EA">1</text>
+  <rect x="60" y="150" width="130" height="80" rx="12" fill="#F4F1EA" stroke="#DDD8CE" stroke-width="2"/>
+  <text x="125" y="182" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#3A3228">Open</text>
+  <text x="125" y="202" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#3A3228">Settings</text>
+
+  <!-- Arrow 1 -->
+  <line x1="195" y1="190" x2="235" y2="190" stroke="#96845A" stroke-width="2.5"/>
+  <polygon points="235,183 250,190 235,197" fill="#96845A"/>
+
+  <!-- Step 2 -->
+  <circle cx="320" cy="120" r="18" fill="#6B7C5E"/>
+  <text x="320" y="126" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#F4F1EA">2</text>
+  <rect x="255" y="150" width="130" height="80" rx="12" fill="#F4F1EA" stroke="#DDD8CE" stroke-width="2"/>
+  <text x="320" y="182" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#3A3228">Click "Manage</text>
+  <text x="320" y="202" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#3A3228">Subscription"</text>
+
+  <!-- Arrow 2 -->
+  <line x1="390" y1="190" x2="430" y2="190" stroke="#96845A" stroke-width="2.5"/>
+  <polygon points="430,183 445,190 430,197" fill="#96845A"/>
+
+  <!-- Step 3 -->
+  <circle cx="515" cy="120" r="18" fill="#6B7C5E"/>
+  <text x="515" y="126" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#F4F1EA">3</text>
+  <rect x="450" y="150" width="130" height="80" rx="12" fill="#F4F1EA" stroke="#DDD8CE" stroke-width="2"/>
+  <text x="515" y="182" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#3A3228">Select</text>
+  <text x="515" y="202" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#3A3228">"Cancel Plan"</text>
+
+  <!-- Arrow 3 -->
+  <line x1="585" y1="190" x2="625" y2="190" stroke="#96845A" stroke-width="2.5"/>
+  <polygon points="625,183 640,190 625,197" fill="#96845A"/>
+
+  <!-- Step 4 -->
+  <circle cx="710" cy="120" r="18" fill="#6B7C5E"/>
+  <text x="710" y="126" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#F4F1EA">4</text>
+  <rect x="645" y="150" width="130" height="80" rx="12" fill="#F4F1EA" stroke="#DDD8CE" stroke-width="2"/>
+  <text x="710" y="182" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#3A3228">Confirm</text>
+  <text x="710" y="202" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#3A3228">Cancellation</text>
+
+  <text x="400" y="275" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#8A8577">Your access continues until the end of the current billing period</text>
+</svg>

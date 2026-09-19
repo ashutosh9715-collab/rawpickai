@@ -1,0 +1,50 @@
+<svg viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { color-scheme: light; }
+      .bg { fill: #F4F1EA; }
+      .heading { font-family: system-ui, -apple-system, sans-serif; font-size: 18px; font-weight: 600; fill: #4A5942; }
+      .label { font-family: system-ui, -apple-system, sans-serif; font-size: 14px; fill: #3A3228; }
+      .value { font-family: system-ui, -apple-system, sans-serif; font-size: 14px; font-weight: 600; fill: #3A3228; }
+      .bar-bg { fill: #DDD8CE; }
+      .bar1 { fill: #6B7C5E; }
+      .bar2 { fill: #96845A; }
+      .muted { fill: #8A8577; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="800" height="300" rx="12"/>
+
+  <text class="heading" x="40" y="40">Midjourney Scores</text>
+
+  <!-- Ease of Use: 65 -->
+  <text class="label" x="40" y="85">Ease of Use</text>
+  <rect class="bar-bg" x="220" y="70" width="180" height="24" rx="12"/>
+  <rect class="bar1" x="220" y="70" width="117" height="24" rx="12"/>
+  <text class="value" x="410" y="87">65/100</text>
+
+  <!-- Output Quality: 97 -->
+  <text class="label" x="40" y="135">Output Quality</text>
+  <rect class="bar-bg" x="220" y="120" width="180" height="24" rx="12"/>
+  <rect class="bar2" x="220" y="120" width="174.6" height="24" rx="12"/>
+  <text class="value" x="410" y="137">97/100</text>
+
+  <!-- Value for Money: 78 -->
+  <text class="label" x="40" y="185">Value for Money</text>
+  <rect class="bar-bg" x="220" y="170" width="180" height="24" rx="12"/>
+  <rect class="bar1" x="220" y="170" width="140.4" height="24" rx="12"/>
+  <text class="value" x="410" y="187">78/100</text>
+
+  <!-- Feature Depth: 82 -->
+  <text class="label" x="40" y="235">Feature Depth</text>
+  <rect class="bar-bg" x="220" y="220" width="180" height="24" rx="12"/>
+  <rect class="bar2" x="220" y="220" width="147.6" height="24" rx="12"/>
+  <text class="value" x="410" y="237">82/100</text>
+
+  <!-- Overall Score -->
+  <rect x="520" y="70" width="220" height="180" rx="12" fill="#DDD8CE"/>
+  <text class="heading" x="540" y="105">Overall Score</text>
+  <text style="font-family: system-ui, -apple-system, sans-serif; font-size: 48px; font-weight: 700; fill: #96845A;" x="600" y="160">4.4/5</text>
+  <text class="muted" x="540" y="195">Excellent for artists</text>
+  <text class="muted" x="540" y="215">and professionals</text>
+</svg>

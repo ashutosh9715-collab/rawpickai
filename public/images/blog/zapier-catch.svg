@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="1200" height="213">
+  <rect width="900" height="160" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#c0392b" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">The Catches Nobody Talks About With Zapier</text>
+  <rect x="40" y="55" width="260" height="80" rx="8" fill="white" stroke="#c0392b" stroke-width="1.5"/>
+  <text x="170" y="80" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#c0392b">Billing surprises</text>
+  <text x="170" y="100" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Runaway loops consume</text>
+  <text x="170" y="118" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">tasks before you notice</text>
+  <rect x="320" y="55" width="260" height="80" rx="8" fill="white" stroke="#96845A" stroke-width="1.5"/>
+  <text x="450" y="80" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#96845A">AI is add-on only</text>
+  <text x="450" y="100" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Agents Pro costs $25/mo</text>
+  <text x="450" y="118" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">on top of base plan</text>
+  <rect x="600" y="55" width="260" height="80" rx="8" fill="white" stroke="#6B6960" stroke-width="1.5"/>
+  <text x="730" y="80" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#6B6960">Scales expensively</text>
+  <text x="730" y="100" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">3-10x costlier than</text>
+  <text x="730" y="118" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">n8n at high volume</text>
+  <text x="450" y="152" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Trustpilot 1.4/5 — billing complaints dominate. Set task usage alerts in settings immediately after signup.</text>
+</svg>

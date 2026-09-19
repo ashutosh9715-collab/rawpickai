@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+  <rect width="800" height="420" rx="12" fill="#F4F1EA"/>
+
+  <text x="400" y="36" fill="#4A5942" font-size="18" font-weight="700" text-anchor="middle">Best Vibe Coding Tools (2026)</text>
+  <text x="400" y="56" fill="#8A8577" font-size="12" text-anchor="middle">Rated on speed, reliability, security, and ease of use</text>
+
+  <!-- Cursor: 4.9/5 -->
+  <text x="40" y="92" fill="#4A5942" font-size="12" font-weight="600">Cursor</text>
+  <text x="740" y="92" fill="#3A3228" font-size="12" font-weight="700" text-anchor="end">4.9/5</text>
+  <rect x="140" y="80" width="580" height="14" rx="7" fill="#DDD8CE"/>
+  <rect x="140" y="80" width="568" height="14" rx="7" fill="#4A5942"/>
+
+  <!-- Bolt.new: 4.8/5 -->
+  <text x="40" y="132" fill="#4A5942" font-size="12" font-weight="600">Bolt.new</text>
+  <text x="740" y="132" fill="#3A3228" font-size="12" font-weight="700" text-anchor="end">4.8/5</text>
+  <rect x="140" y="120" width="580" height="14" rx="7" fill="#DDD8CE"/>
+  <rect x="140" y="120" width="556" height="14" rx="7" fill="#4A5942"/>
+
+  <!-- v0 by Vercel: 4.6/5 -->
+  <text x="40" y="172" fill="#4A5942" font-size="12" font-weight="600">v0 (Vercel)</text>
+  <text x="740" y="172" fill="#3A3228" font-size="12" font-weight="700" text-anchor="end">4.6/5</text>
+  <rect x="140" y="160" width="580" height="14" rx="7" fill="#DDD8CE"/>
+  <rect x="140" y="160" width="533" height="14" rx="7" fill="#6B7C5E"/>
+
+  <!-- Windsurf: 4.3/5 -->
+  <text x="40" y="212" fill="#4A5942" font-size="12" font-weight="600">Windsurf</text>
+  <text x="740" y="212" fill="#3A3228" font-size="12" font-weight="700" text-anchor="end">4.3/5</text>
+  <rect x="140" y="200" width="580" height="14" rx="7" fill="#DDD8CE"/>
+  <rect x="140" y="200" width="498" height="14" rx="7" fill="#6B7C5E"/>
+
+  <!-- Lovable: 4.2/5 -->
+  <text x="40" y="252" fill="#4A5942" font-size="12" font-weight="600">Lovable</text>
+  <text x="740" y="252" fill="#3A3228" font-size="12" font-weight="700" text-anchor="end">4.2/5</text>
+  <rect x="140" y="240" width="580" height="14" rx="7" fill="#DDD8CE"/>
+  <rect x="140" y="240" width="487" height="14" rx="7" fill="#6B7C5E"/>
+
+  <!-- Claude Code: 4.0/5 -->
+  <text x="40" y="292" fill="#4A5942" font-size="12" font-weight="600">Claude Code</text>
+  <text x="740" y="292" fill="#3A3228" font-size="12" font-weight="700" text-anchor="end">4.0/5</text>
+  <rect x="140" y="280" width="580" height="14" rx="7" fill="#DDD8CE"/>
+  <rect x="140" y="280" width="464" height="14" rx="7" fill="#96845A"/>
+
+  <!-- Replit Agent: 3.9/5 -->
+  <text x="40" y="332" fill="#4A5942" font-size="12" font-weight="600">Replit Agent</text>
+  <text x="740" y="332" fill="#3A3228" font-size="12" font-weight="700" text-anchor="end">3.9/5</text>
+  <rect x="140" y="320" width="580" height="14" rx="7" fill="#DDD8CE"/>
+  <rect x="140" y="320" width="452" height="14" rx="7" fill="#96845A"/>
+
+  <!-- Legend -->
+  <rect x="200" y="360" width="10" height="10" rx="2" fill="#4A5942"/>
+  <text x="216" y="370" fill="#8A8577" font-size="10">Top Tier (4.8+)</text>
+  <rect x="320" y="360" width="10" height="10" rx="2" fill="#6B7C5E"/>
+  <text x="336" y="370" fill="#8A8577" font-size="10">Strong (4.2-4.6)</text>
+  <rect x="440" y="360" width="10" height="10" rx="2" fill="#96845A"/>
+  <text x="456" y="370" fill="#8A8577" font-size="10">Good (3.9-4.0)</text>
+
+  <!-- Footer -->
+  <text x="400" y="406" fill="#8A8577" font-size="11" text-anchor="middle">Vibe Coding Tools Comparison  -  rawpickai.com</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" width="900" height="280">
+  <rect width="900" height="280" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#4A5942" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">Musk v. Altman — What the Jury Decided</text>
+  <rect x="40" y="55" width="820" height="32" rx="6" fill="#4A5942"/>
+  <text x="200" y="77" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#F4F1EA">Claim</text>
+  <text x="500" y="77" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#F4F1EA">Verdict</text>
+  <text x="750" y="77" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#F4F1EA">Reason</text>
+  <rect x="40" y="91" width="820" height="32" fill="white" rx="4"/>
+  <text x="200" y="112" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Breach of charitable trust</text>
+  <text x="500" y="112" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#c0392b">Rejected</text>
+  <text x="750" y="112" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B7C5E">Filed past 3-year statute of limitations</text>
+  <rect x="40" y="127" width="820" height="32" fill="#F9F7F2" rx="4"/>
+  <text x="200" y="148" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Unjust enrichment</text>
+  <text x="500" y="148" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#c0392b">Rejected</text>
+  <text x="750" y="148" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B7C5E">Same statute of limitations grounds</text>
+  <rect x="40" y="163" width="820" height="32" fill="white" rx="4"/>
+  <text x="200" y="184" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Microsoft aiding &amp; abetting</text>
+  <text x="500" y="184" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#c0392b">Rejected</text>
+  <text x="750" y="184" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B7C5E">No underlying breach = no aiding claim</text>
+  <rect x="40" y="199" width="820" height="32" fill="#F9F7F2" rx="4"/>
+  <text x="200" y="220" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Damages ($134B sought)</text>
+  <text x="500" y="220" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#c0392b">$0</text>
+  <text x="750" y="220" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B7C5E">Remedies phase cancelled</text>
+  <text x="450" y="265" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Source: CNBC, NPR, NBC News — May 18, 2026. Musk has vowed to appeal to the 9th Circuit.</text>
+</svg>

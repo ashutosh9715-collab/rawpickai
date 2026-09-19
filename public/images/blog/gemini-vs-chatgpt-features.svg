@@ -1,0 +1,86 @@
+<svg viewBox="0 0 900 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { color-scheme: light; }
+      .bg { fill: #F4F1EA; }
+      .header { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 22px; font-weight: 700; fill: #4A5942; }
+      .label { font-size: 12px; fill: #3A3228; }
+      .value { font-size: 11px; fill: #3A3228; }
+      .track { fill: #DDD8CE; }
+      .bar-gemini { fill: #8A8577; }
+      .bar-chatgpt { fill: #96845A; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="900" height="500"/>
+
+  <text class="header" x="40" y="35">Feature Showdown</text>
+
+  <g id="writing">
+    <text class="label" x="40" y="70" font-weight="600">Writing Quality</text>
+    <rect class="track" x="40" y="78" width="200" height="6" rx="3"/>
+    <rect class="bar-chatgpt" x="40" y="78" width="160" height="6" rx="3"/>
+    <text class="value" x="250" y="84">ChatGPT 8/10</text>
+
+    <rect class="track" x="40" y="92" width="200" height="6" rx="3"/>
+    <rect class="bar-gemini" x="40" y="92" width="120" height="6" rx="3"/>
+    <text class="value" x="250" y="98">Gemini 6/10</text>
+  </g>
+
+  <g id="coding">
+    <text class="label" x="40" y="135" font-weight="600">Coding Ability</text>
+    <rect class="track" x="40" y="143" width="200" height="6" rx="3"/>
+    <rect class="bar-chatgpt" x="40" y="143" width="160" height="6" rx="3"/>
+    <text class="value" x="250" y="149">ChatGPT 8/10</text>
+
+    <rect class="track" x="40" y="157" width="200" height="6" rx="3"/>
+    <rect class="bar-gemini" x="40" y="157" width="140" height="6" rx="3"/>
+    <text class="value" x="250" y="163">Gemini 7/10</text>
+  </g>
+
+  <g id="research">
+    <text class="label" x="40" y="200" font-weight="600">Research &amp; Sources</text>
+    <rect class="track" x="40" y="208" width="200" height="6" rx="3"/>
+    <rect class="bar-chatgpt" x="40" y="208" width="140" height="6" rx="3"/>
+    <text class="value" x="250" y="214">ChatGPT 7/10</text>
+
+    <rect class="track" x="40" y="222" width="200" height="6" rx="3"/>
+    <rect class="bar-gemini" x="40" y="222" width="200" height="6" rx="3"/>
+    <text class="value" x="250" y="228">Gemini 10/10</text>
+  </g>
+
+  <g id="workspace">
+    <text class="label" x="40" y="265" font-weight="600">Workspace Integration</text>
+    <rect class="track" x="40" y="273" width="200" height="6" rx="3"/>
+    <rect class="bar-chatgpt" x="40" y="273" width="20" height="6" rx="3"/>
+    <text class="value" x="250" y="279">ChatGPT 1/10</text>
+
+    <rect class="track" x="40" y="287" width="200" height="6" rx="3"/>
+    <rect class="bar-gemini" x="40" y="287" width="200" height="6" rx="3"/>
+    <text class="value" x="250" y="293">Gemini 10/10</text>
+  </g>
+
+  <g id="images">
+    <text class="label" x="40" y="330" font-weight="600">Image Generation</text>
+    <rect class="track" x="40" y="338" width="200" height="6" rx="3"/>
+    <rect class="bar-chatgpt" x="40" y="338" width="180" height="6" rx="3"/>
+    <text class="value" x="250" y="344">ChatGPT 9/10</text>
+
+    <rect class="track" x="40" y="352" width="200" height="6" rx="3"/>
+    <rect class="bar-gemini" x="40" y="352" width="160" height="6" rx="3"/>
+    <text class="value" x="250" y="358">Gemini 8/10</text>
+  </g>
+
+  <g id="hindi">
+    <text class="label" x="40" y="395" font-weight="600">Hindi Language Support</text>
+    <rect class="track" x="40" y="403" width="200" height="6" rx="3"/>
+    <rect class="bar-chatgpt" x="40" y="403" width="120" height="6" rx="3"/>
+    <text class="value" x="250" y="409">ChatGPT 6/10</text>
+
+    <rect class="track" x="40" y="417" width="200" height="6" rx="3"/>
+    <rect class="bar-gemini" x="40" y="417" width="200" height="6" rx="3"/>
+    <text class="value" x="250" y="423">Gemini 10/10</text>
+  </g>
+
+  <text class="value" x="40" y="470" font-style="italic">ChatGPT is stronger in standalone tasks. Gemini excels when embedded in Google Workspace.</text>
+</svg>

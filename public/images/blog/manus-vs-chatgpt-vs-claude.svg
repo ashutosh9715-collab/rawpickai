@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+  <rect width="800" height="380" rx="12" fill="#F4F1EA"/>
+
+  <text x="400" y="36" fill="#1A2416" font-size="18" font-weight="700" text-anchor="middle">Manus AI vs ChatGPT vs Claude</text>
+  <text x="400" y="56" fill="#8b8fa3" font-size="13" text-anchor="middle">Different tools for different jobs  -  April 2026</text>
+
+  <!-- Column headers -->
+  <rect x="20" y="74" width="250" height="36" rx="8" fill="#2d2316"/>
+  <text x="145" y="97" fill="#c97b3a" font-size="13" font-weight="700" text-anchor="middle">Manus AI</text>
+
+  <rect x="280" y="74" width="240" height="36" rx="8" fill="#1a2a1f"/>
+  <text x="400" y="97" fill="#3a8c5e" font-size="13" font-weight="700" text-anchor="middle">ChatGPT</text>
+
+  <rect x="530" y="74" width="250" height="36" rx="8" fill="#1a1d3a"/>
+  <text x="655" y="97" fill="#5a8cbc" font-size="13" font-weight="700" text-anchor="middle">Claude</text>
+
+  <!-- Row labels and data -->
+  <!-- Type -->
+  <text x="20" y="138" fill="#5a5e72" font-size="11" font-weight="600">TYPE</text>
+  <text x="145" y="138" fill="#c4c7d4" font-size="12" text-anchor="middle">Autonomous Agent</text>
+  <text x="400" y="138" fill="#c4c7d4" font-size="12" text-anchor="middle">Conversational AI</text>
+  <text x="655" y="138" fill="#c4c7d4" font-size="12" text-anchor="middle">Conversational AI</text>
+  <line x1="20" y1="152" x2="780" y2="152" stroke="#1a1d2a" stroke-width="1"/>
+
+  <!-- Best For -->
+  <text x="20" y="176" fill="#5a5e72" font-size="11" font-weight="600">BEST FOR</text>
+  <text x="145" y="176" fill="#c4c7d4" font-size="11" text-anchor="middle">Research, automation,</text>
+  <text x="145" y="192" fill="#c4c7d4" font-size="11" text-anchor="middle">multi-step tasks</text>
+  <text x="400" y="176" fill="#c4c7d4" font-size="11" text-anchor="middle">Creative work,</text>
+  <text x="400" y="192" fill="#c4c7d4" font-size="11" text-anchor="middle">general Q&amp;A, versatility</text>
+  <text x="655" y="176" fill="#c4c7d4" font-size="11" text-anchor="middle">Analysis, writing,</text>
+  <text x="655" y="192" fill="#c4c7d4" font-size="11" text-anchor="middle">coding, accuracy</text>
+  <line x1="20" y1="206" x2="780" y2="206" stroke="#1a1d2a" stroke-width="1"/>
+
+  <!-- Executes Tasks -->
+  <text x="20" y="230" fill="#5a5e72" font-size="11" font-weight="600">EXECUTES TASKS</text>
+  <text x="145" y="230" fill="#3a8c5e" font-size="12" font-weight="600" text-anchor="middle">Yes (browser + code + files)</text>
+  <text x="400" y="230" fill="#c97b3a" font-size="12" text-anchor="middle">Limited (plugins)</text>
+  <text x="655" y="230" fill="#c97b3a" font-size="12" text-anchor="middle">Limited (artifacts)</text>
+  <line x1="20" y1="244" x2="780" y2="244" stroke="#1a1d2a" stroke-width="1"/>
+
+  <!-- Output -->
+  <text x="20" y="268" fill="#5a5e72" font-size="11" font-weight="600">OUTPUT</text>
+  <text x="145" y="268" fill="#c4c7d4" font-size="12" text-anchor="middle">Files, apps, reports</text>
+  <text x="400" y="268" fill="#c4c7d4" font-size="12" text-anchor="middle">Text responses</text>
+  <text x="655" y="268" fill="#c4c7d4" font-size="12" text-anchor="middle">Text + artifacts</text>
+  <line x1="20" y1="282" x2="780" y2="282" stroke="#1a1d2a" stroke-width="1"/>
+
+  <!-- Cost -->
+  <text x="20" y="306" fill="#5a5e72" font-size="11" font-weight="600">MONTHLY COST</text>
+  <text x="145" y="306" fill="#1A2416" font-size="12" font-weight="600" text-anchor="middle">$20-40</text>
+  <text x="145" y="322" fill="#5a5e72" font-size="10" text-anchor="middle">₹1,767-18,507</text>
+  <text x="400" y="306" fill="#1A2416" font-size="12" font-weight="600" text-anchor="middle">$0-200</text>
+  <text x="400" y="322" fill="#5a5e72" font-size="10" text-anchor="middle">₹0-18,600</text>
+  <text x="655" y="306" fill="#1A2416" font-size="12" font-weight="600" text-anchor="middle">$0-200</text>
+  <text x="655" y="322" fill="#5a5e72" font-size="10" text-anchor="middle">₹0-18,600</text>
+  <line x1="20" y1="336" x2="780" y2="336" stroke="#1a1d2a" stroke-width="1"/>
+
+  <!-- Bottom note -->
+  <text x="400" y="362" fill="#8b8fa3" font-size="11" text-anchor="middle">Manus executes. ChatGPT and Claude converse. Different tools, different jobs.  -  rawpickai.com</text>
+</svg>

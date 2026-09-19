@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 150" width="900" height="150">
+  <rect width="900" height="150" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#96845A" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">White House Draft EO: Government Gets Early AI Model Access</text>
+  <rect x="60" y="55" width="380" height="70" rx="10" fill="white" stroke="#4A5942" stroke-width="1.5"/>
+  <text x="250" y="82" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#4A5942">What it requires</text>
+  <text x="250" y="105" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">AI companies give government agencies</text>
+  <text x="250" y="120" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">early access to models before public release</text>
+  <rect x="470" y="55" width="380" height="70" rx="10" fill="white" stroke="#96845A" stroke-width="1.5"/>
+  <text x="660" y="82" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#96845A">Key detail</text>
+  <text x="660" y="105" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">"Voluntary framework" - not mandatory</text>
+  <text x="660" y="120" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Microsoft and xAI reportedly already agreed</text>
+  <text x="450" y="143" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Source: Axios, May 21, 2026</text>
+</svg>

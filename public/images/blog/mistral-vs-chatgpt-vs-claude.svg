@@ -1,0 +1,63 @@
+<svg viewBox="0 0 850 450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #F4F1EA; }
+      .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 22px; font-weight: 600; fill: #4A5942; }
+      .header { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; fill: #3A3228; }
+      .cell { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; fill: #3A3228; }
+      .row-odd { fill: #FEFDFB; }
+      .row-even { fill: #F8F5F0; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="850" height="450" rx="12" />
+  <text x="40" y="40" class="title">Mistral Le Chat vs ChatGPT vs Claude</text>
+
+  <rect x="40" y="65" width="770" height="35" fill="#EDE9DF" rx="0" />
+  <text x="55" y="90" class="header">Feature</text>
+  <text x="240" y="90" class="header" text-anchor="middle">Mistral Le Chat</text>
+  <text x="480" y="90" class="header" text-anchor="middle">ChatGPT Plus</text>
+  <text x="720" y="90" class="header" text-anchor="middle">Claude Pro</text>
+
+  <rect x="40" y="100" width="770" height="45" class="row-odd" />
+  <text x="55" y="125" class="header">Price (USD)</text>
+  <text x="240" y="125" class="cell" text-anchor="middle">$15/mo (≈₹1,395)</text>
+  <text x="480" y="125" class="cell" text-anchor="middle">$18/mo (≈₹1,650)</text>
+  <text x="720" y="125" class="cell" text-anchor="middle">$21/mo (≈₹1,980)</text>
+
+  <rect x="40" y="145" width="770" height="45" class="row-even" />
+  <text x="55" y="170" class="header">Privacy Focus</text>
+  <text x="240" y="170" class="cell" text-anchor="middle">Excellent (GDPR)</text>
+  <text x="480" y="170" class="cell" text-anchor="middle">Good</text>
+  <text x="720" y="170" class="cell" text-anchor="middle">Good</text>
+
+  <rect x="40" y="190" width="770" height="45" class="row-odd" />
+  <text x="55" y="215" class="header">Reasoning Quality</text>
+  <text x="240" y="215" class="cell" text-anchor="middle">3.5/5</text>
+  <text x="480" y="215" class="cell" text-anchor="middle">4.2/5</text>
+  <text x="720" y="215" class="cell" text-anchor="middle">4.3/5</text>
+
+  <rect x="40" y="235" width="770" height="45" class="row-even" />
+  <text x="55" y="260" class="header">Open-Weight Models</text>
+  <text x="240" y="260" class="cell" text-anchor="middle">Yes (Published)</text>
+  <text x="480" y="260" class="cell" text-anchor="middle">No (Proprietary)</text>
+  <text x="720" y="260" class="cell" text-anchor="middle">No (Proprietary)</text>
+
+  <rect x="40" y="280" width="770" height="45" class="row-odd" />
+  <text x="55" y="305" class="header">Integrations</text>
+  <text x="240" y="305" class="cell" text-anchor="middle">Minimal</text>
+  <text x="480" y="305" class="cell" text-anchor="middle">Excellent</text>
+  <text x="720" y="305" class="cell" text-anchor="middle">Limited</text>
+
+  <rect x="40" y="325" width="770" height="45" class="row-even" />
+  <text x="55" y="350" class="header">Best For</text>
+  <text x="240" y="350" class="cell" text-anchor="middle">Privacy-conscious</text>
+  <text x="480" y="350" class="cell" text-anchor="middle">General use</text>
+  <text x="720" y="350" class="cell" text-anchor="middle">Long documents</text>
+
+  <rect x="40" y="370" width="770" height="35" class="row-odd" />
+  <text x="55" y="395" class="header">GDPR Compliance</text>
+  <text x="240" y="395" class="cell" text-anchor="middle">Native (EU-based)</text>
+  <text x="480" y="395" class="cell" text-anchor="middle">Yes (Optional)</text>
+  <text x="720" y="395" class="cell" text-anchor="middle">Yes (Optional)</text>
+</svg>

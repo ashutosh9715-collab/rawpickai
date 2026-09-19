@@ -1,0 +1,63 @@
+<svg viewBox="0 0 700 480" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #F4F1EA; }
+      .heading { fill: #4A5942; font-size: 20px; font-weight: bold; }
+      .subheading { fill: #4A5942; font-size: 13px; font-weight: bold; }
+      .label { fill: #3A3228; font-size: 11px; }
+      .value { fill: #3A3228; font-size: 12px; font-weight: bold; }
+      .card-bg { fill: #FFFFFF; stroke: #DDD8CE; stroke-width: 1.5; }
+      .highlight { fill: #6B7C5E; }
+      .price { fill: #96845A; font-size: 16px; font-weight: bold; }
+      .muted { fill: #8A8577; font-size: 10px; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="700" height="480" rx="12"/>
+
+  <!-- Title -->
+  <text x="40" y="40" class="heading">Stable Video Diffusion: True Cost</text>
+
+  <!-- GPU Only -->
+  <rect x="30" y="70" width="160" height="380" rx="10" class="card-bg"/>
+  <text x="50" y="95" class="subheading">GPU Only</text>
+  <text x="50" y="115" class="price">₹2.6L-3.7L</text>
+  <text x="50" y="130" class="label">RTX 4090 upfront</text>
+  <rect x="50" y="140" width="120" height="1" class="highlight"/>
+  <text x="50" y="155" class="label">PSU upgrade included</text>
+  <text x="50" y="170" class="label">Then free forever</text>
+  <text x="50" y="190" class="label">Generation: 4-5 min</text>
+  <text x="50" y="210" class="label">per 3-4 sec clip</text>
+  <text x="50" y="230" class="muted">For existing ML engineers</text>
+  <text x="50" y="410" class="muted">Budget path</text>
+
+  <!-- Full Workstation -->
+  <rect x="270" y="60" width="160" height="400" rx="10" class="card-bg"/>
+  <rect x="265" y="55" width="170" height="410" rx="10" fill="none" stroke="#6B7C5E" stroke-width="2"/>
+  <text x="290" y="95" class="subheading">Workstation</text>
+  <text x="290" y="115" class="price">₹4.1L-5.5L</text>
+  <text x="290" y="130" class="label">Complete build</text>
+  <rect x="290" y="140" width="120" height="1" class="highlight"/>
+  <text x="290" y="155" class="label">CPU, RAM, SSD</text>
+  <text x="290" y="170" class="label">RTX 4090 GPU</text>
+  <text x="290" y="190" class="label">Validated config</text>
+  <text x="290" y="210" class="label">Professional setup</text>
+  <text x="290" y="230" class="muted">Recommended</text>
+  <text x="290" y="410" class="muted">Best value</text>
+
+  <!-- Cloud Rental -->
+  <rect x="510" y="70" width="160" height="380" rx="10" class="card-bg"/>
+  <text x="530" y="95" class="subheading">Cloud Rental</text>
+  <text x="530" y="115" class="price">₹600-1,000</text>
+  <text x="530" y="130" class="label">per hour</text>
+  <rect x="530" y="140" width="120" height="1" class="highlight"/>
+  <text x="530" y="155" class="label">RTX 4090 access</text>
+  <text x="530" y="170" class="label">No setup needed</text>
+  <text x="530" y="190" class="label">₹2.5K-4K for</text>
+  <text x="530" y="205" class="label">100 videos</text>
+  <text x="530" y="225" class="muted">For testing only</text>
+  <text x="530" y="410" class="muted">Evaluation</text>
+
+  <!-- Break-even analysis -->
+  <text x="40" y="475" class="muted">Break-even: 1-2 months of Runway subscription (₹2.5-6.6L/year). SVD hardware pays for itself long-term if you generate 100+ videos regularly.</text>
+</svg>

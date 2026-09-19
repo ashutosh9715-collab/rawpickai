@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#F4F1EA"/>
+  <rect x="0" y="0" width="1200" height="8" fill="#96845A"/>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="14" font-weight="700" fill="#96845A" letter-spacing="3">RAWPICKAI NEWS BRIEF</text>
+  <text x="60" y="138" font-family="Georgia, serif" font-size="40" font-weight="700" fill="#1A2416" letter-spacing="-1">Google I/O 2026 Preview</text>
+  <text x="60" y="188" font-family="Georgia, serif" font-size="40" font-weight="700" fill="#1A2416" letter-spacing="-1">Data Center Resistance Grows</text>
+  <line x1="60" y1="218" x2="300" y2="218" stroke="#96845A" stroke-width="3"/>
+  <text x="60" y="265" font-family="Georgia, serif" font-size="19" fill="#4A453E">Gemini 4.0, Omni, Android XR, Aluminium OS expected.</text>
+  <text x="60" y="295" font-family="Georgia, serif" font-size="19" fill="#4A453E">Communities blocking AI data centers across the US.</text>
+  <text x="60" y="325" font-family="Georgia, serif" font-size="19" fill="#4A453E">75% of new Google code is AI-generated.</text>
+  <rect x="700" y="100" width="420" height="380" rx="16" fill="#96845A" opacity="0.08"/>
+  <text x="910" y="160" font-family="Georgia, serif" font-size="14" font-weight="600" text-anchor="middle" fill="#96845A">GOOGLE I/O MAY 19</text>
+  <text x="780" y="195" font-family="Georgia, serif" font-size="14" font-weight="600" fill="#22c55e">CONFIRMED</text>
+  <text x="780" y="218" font-family="Georgia, serif" font-size="13" fill="#4A453E">Gemini model updates</text>
+  <text x="780" y="238" font-family="Georgia, serif" font-size="13" fill="#4A453E">Android XR glasses preview</text>
+  <text x="780" y="258" font-family="Georgia, serif" font-size="13" fill="#4A453E">Gemini Intelligence details</text>
+  <rect x="780" y="275" width="240" height="1" fill="#4A5942" opacity="0.2"/>
+  <text x="780" y="300" font-family="Georgia, serif" font-size="14" font-weight="600" fill="#f59e0b">LEAKED</text>
+  <text x="780" y="323" font-family="Georgia, serif" font-size="13" fill="#4A453E">Gemini Omni (unified model)</text>
+  <text x="780" y="343" font-family="Georgia, serif" font-size="13" fill="#4A453E">Gemini 3.2 / 3.5</text>
+  <text x="780" y="363" font-family="Georgia, serif" font-size="13" fill="#4A453E">Spark Robin visual model</text>
+  <rect x="780" y="380" width="240" height="1" fill="#4A5942" opacity="0.2"/>
+  <text x="780" y="405" font-family="Georgia, serif" font-size="14" font-weight="600" fill="#6B7C5E">EXPECTED</text>
+  <text x="780" y="428" font-family="Georgia, serif" font-size="13" fill="#4A453E">Veo 4, Aluminium OS</text>
+  <text x="780" y="448" font-family="Georgia, serif" font-size="13" fill="#4A453E">AI Mode as default search?</text>
+  <text x="60" y="560" font-family="Georgia, serif" font-size="14" fill="#96845A">May 16, 2026</text>
+  <text x="60" y="585" font-family="Georgia, serif" font-size="12" fill="#8A8577">rawpickai.com/news</text>
+</svg>

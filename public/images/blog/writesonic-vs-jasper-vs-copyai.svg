@@ -1,0 +1,73 @@
+<svg viewBox="0 0 950 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="950" height="500" fill="#F4F1EA"/>
+
+  <!-- Title -->
+  <text x="40" y="45" font-size="28" font-weight="bold" fill="#4A5942" font-family="system-ui">
+    Writesonic vs Jasper vs Copy.ai
+  </text>
+
+  <!-- Comparison Grid -->
+  <!-- Headers -->
+  <text x="40" y="100" font-size="13" font-weight="600" fill="#3A3228" font-family="system-ui">Metric</text>
+  <text x="240" y="100" font-size="13" font-weight="600" fill="#3A3228" font-family="system-ui">Writesonic</text>
+  <text x="430" y="100" font-size="13" font-weight="600" fill="#3A3228" font-family="system-ui">Jasper</text>
+  <text x="620" y="100" font-size="13" font-weight="600" fill="#3A3228" font-family="system-ui">Copy.ai</text>
+
+  <!-- Divider -->
+  <line x1="40" y1="115" x2="910" y2="115" stroke="#DDD8CE" stroke-width="2"/>
+
+  <!-- Price -->
+  <text x="40" y="155" font-size="12" font-weight="500" fill="#3A3228" font-family="system-ui">Price/Month</text>
+  <text x="240" y="155" font-size="12" fill="#6B7C5E" font-family="system-ui" font-weight="bold">$39</text>
+  <text x="430" y="155" font-size="12" fill="#6B7C5E" font-family="system-ui" font-weight="bold">$49</text>
+  <text x="620" y="155" font-size="12" fill="#6B7C5E" font-family="system-ui" font-weight="bold">$22</text>
+
+  <!-- Output Quality -->
+  <text x="40" y="195" font-size="12" font-weight="500" fill="#3A3228" font-family="system-ui">Output Quality</text>
+  <text x="240" y="195" font-size="12" fill="#3A3228" font-family="system-ui">6.5/10</text>
+  <text x="430" y="195" font-size="12" fill="#3A3228" font-family="system-ui">7/10</text>
+  <text x="620" y="195" font-size="12" fill="#3A3228" font-family="system-ui">6.5/10</text>
+
+  <!-- Interface/UX -->
+  <text x="40" y="235" font-size="12" font-weight="500" fill="#3A3228" font-family="system-ui">Interface</text>
+  <text x="240" y="235" font-size="12" fill="#6B7C5E" font-family="system-ui" font-weight="bold">Excellent</text>
+  <text x="430" y="235" font-size="12" fill="#3A3228" font-family="system-ui">Good</text>
+  <text x="620" y="235" font-size="12" fill="#3A3228" font-family="system-ui">Adequate</text>
+
+  <!-- All-in-One -->
+  <text x="40" y="275" font-size="12" font-weight="500" fill="#3A3228" font-family="system-ui">All-in-One Features</text>
+  <text x="240" y="275" font-size="12" fill="#6B7C5E" font-family="system-ui" font-weight="bold">Yes</text>
+  <text x="430" y="275" font-size="12" fill="#8A8577" font-family="system-ui">Limited</text>
+  <text x="620" y="275" font-size="12" fill="#8A8577" font-family="system-ui">Limited</text>
+
+  <!-- SEO Integration -->
+  <text x="40" y="315" font-size="12" font-weight="500" fill="#3A3228" font-family="system-ui">SEO Tools</text>
+  <text x="240" y="315" font-size="12" fill="#6B7C5E" font-family="system-ui" font-weight="bold">Excellent</text>
+  <text x="430" y="315" font-size="12" fill="#3A3228" font-family="system-ui">Limited</text>
+  <text x="620" y="315" font-size="12" fill="#3A3228" font-family="system-ui">Good</text>
+
+  <!-- For Individuals -->
+  <text x="40" y="355" font-size="12" font-weight="500" fill="#3A3228" font-family="system-ui">Best for Individuals?</text>
+  <rect x="240" y="340" width="170" height="30" rx="6" fill="#6B7C5E" opacity="0.2"/>
+  <text x="255" y="360" font-size="12" fill="#3A3228" font-family="system-ui">Good fit</text>
+  <rect x="430" y="340" width="170" height="30" rx="6" fill="#DDD8CE"/>
+  <text x="445" y="360" font-size="12" fill="#8A8577" font-family="system-ui">No</text>
+  <rect x="620" y="340" width="170" height="30" rx="6" fill="#DDD8CE"/>
+  <text x="635" y="360" font-size="12" fill="#8A8577" font-family="system-ui">No</text>
+
+  <!-- Best for Teams -->
+  <text x="40" y="405" font-size="12" font-weight="500" fill="#3A3228" font-family="system-ui">Best for Teams?</text>
+  <rect x="240" y="390" width="170" height="30" rx="6" fill="#DDD8CE"/>
+  <text x="255" y="410" font-size="12" fill="#8A8577" font-family="system-ui">Limited</text>
+  <rect x="430" y="390" width="170" height="30" rx="6" fill="#6B7C5E" opacity="0.2"/>
+  <text x="445" y="410" font-size="12" fill="#3A3228" font-family="system-ui">Best</text>
+  <rect x="620" y="390" width="170" height="30" rx="6" fill="#6B7C5E" opacity="0.2"/>
+  <text x="635" y="410" font-size="12" fill="#3A3228" font-family="system-ui">Good</text>
+
+  <!-- Summary -->
+  <rect x="40" y="445" width="870" height="45" rx="8" fill="#96845A" opacity="0.1" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="60" y="468" font-size="11" fill="#3A3228" font-family="system-ui" font-weight="600">
+    Writesonic = versatility + ease. Jasper = best quality. Copy.ai = best integrations. For most: use ChatGPT/Claude instead.
+  </text>
+</svg>

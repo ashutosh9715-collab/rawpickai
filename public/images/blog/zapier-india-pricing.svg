@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="1200" height="213">
+  <rect width="900" height="160" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#96845A" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">Zapier for Indian Users: Cost as % of Freelancer Income</text>
+  <rect x="40" y="55" width="260" height="80" rx="8" fill="white" stroke="#22c55e" stroke-width="1.5"/>
+  <text x="170" y="80" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#22c55e">Free plan</text>
+  <text x="170" y="100" font-family="Georgia, serif" font-size="22" font-weight="700" text-anchor="middle" fill="#22c55e">₹0/mo</text>
+  <text x="170" y="120" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">100 tasks, 400 agents</text>
+  <rect x="320" y="55" width="260" height="80" rx="8" fill="white" stroke="#4A5942" stroke-width="1.5"/>
+  <text x="450" y="80" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#4A5942">Pro: ≈₹1,859/mo</text>
+  <text x="450" y="100" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">6.2% of ₹30K income</text>
+  <text x="450" y="120" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">3.7% of ₹50K income</text>
+  <rect x="600" y="55" width="260" height="80" rx="8" fill="white" stroke="#96845A" stroke-width="1"/>
+  <text x="730" y="80" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#96845A">GST registered</text>
+  <text x="730" y="100" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Add 18% IGST</text>
+  <text x="730" y="120" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">Effective ≈₹2,195/mo</text>
+  <text x="450" y="152" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Annual billing saves 15-25% vs monthly. No INR billing option currently. No VPN needed in India.</text>
+</svg>

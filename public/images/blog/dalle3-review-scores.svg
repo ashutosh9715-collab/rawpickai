@@ -1,0 +1,51 @@
+<svg viewBox="0 0 700 400" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .heading { fill: #4A5942; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 18px; font-weight: 600; }
+    .label { fill: #3A3228; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 14px; }
+    .value { fill: #4A5942; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 13px; font-weight: 600; }
+    .track { fill: #DDD8CE; }
+    .bar1 { fill: #6B7C5E; }
+    .bar2 { fill: #96845A; }
+  </style>
+
+  <rect width="700" height="400" fill="#F4F1EA" rx="12"/>
+
+  <!-- Title -->
+  <text x="40" y="35" class="heading">DALL-E 3 Review Scores</text>
+
+  <!-- Overall Score (large) -->
+  <text x="40" y="75" class="label">Overall Rating</text>
+  <rect x="40" y="85" width="300" height="40" rx="8" class="track"/>
+  <rect x="40" y="85" width="228" height="40" rx="8" class="bar1"/>
+  <text x="350" y="110" class="value">3.8/5.0</text>
+
+  <!-- Ease of Use -->
+  <text x="40" y="150" class="label">Ease of Use</text>
+  <rect x="40" y="160" width="300" height="24" rx="8" class="track"/>
+  <rect x="40" y="160" width="282" height="24" rx="8" class="bar1"/>
+  <text x="350" y="177" class="value">94/100</text>
+
+  <!-- Output Quality -->
+  <text x="40" y="210" class="label">Output Quality</text>
+  <rect x="40" y="220" width="300" height="24" rx="8" class="track"/>
+  <rect x="40" y="220" width="210" height="24" rx="8" class="bar2"/>
+  <text x="350" y="237" class="value">70/100</text>
+
+  <!-- Value for Money -->
+  <text x="40" y="270" class="label">Value for Money</text>
+  <rect x="40" y="280" width="300" height="24" rx="8" class="track"/>
+  <rect x="40" y="280" width="216" height="24" rx="8" class="bar2"/>
+  <text x="350" y="297" class="value">72/100</text>
+
+  <!-- Feature Depth -->
+  <text x="40" y="330" class="label">Feature Depth</text>
+  <rect x="40" y="340" width="300" height="24" rx="8" class="track"/>
+  <rect x="40" y="340" width="192" height="24" rx="8" class="bar1"/>
+  <text x="350" y="357" class="value">64/100</text>
+
+  <!-- Free Tier -->
+  <text x="40" y="375" class="label">Free Tier</text>
+  <rect x="40" y="385" width="300" height="24" rx="8" class="track"/>
+  <rect x="40" y="385" width="240" height="24" rx="8" class="bar2"/>
+  <text x="350" y="402" class="value">80/100</text>
+</svg>

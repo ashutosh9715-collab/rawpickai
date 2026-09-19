@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="900" height="180">
+  <rect width="900" height="180" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#96845A" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">OpenAI Content Provenance: Three-Layer Approach</text>
+  <rect x="60" y="55" width="250" height="95" rx="10" fill="white" stroke="#4A5942" stroke-width="1.5"/>
+  <text x="185" y="82" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#4A5942">C2PA Content Credentials</text>
+  <text x="185" y="105" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Cryptographic metadata</text>
+  <text x="185" y="125" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">Records who created what</text>
+  <text x="185" y="142" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">Can be stripped by platforms</text>
+  <rect x="340" y="55" width="250" height="95" rx="10" fill="white" stroke="#96845A" stroke-width="1.5"/>
+  <text x="465" y="82" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#96845A">SynthID Watermarking</text>
+  <text x="465" y="105" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Google DeepMind tech</text>
+  <text x="465" y="125" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">Invisible, survives edits</text>
+  <text x="465" y="142" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">Durable cross-platform</text>
+  <rect x="620" y="55" width="250" height="95" rx="10" fill="white" stroke="#6B7C5E" stroke-width="1.5"/>
+  <text x="745" y="82" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#6B7C5E">Public Verification Tool</text>
+  <text x="745" y="105" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Check if image is AI-made</text>
+  <text x="745" y="125" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">OpenAI content only (for now)</text>
+  <text x="745" y="142" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">Cross-platform planned</text>
+  <text x="450" y="172" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Source: OpenAI blog, May 19, 2026</text>
+</svg>

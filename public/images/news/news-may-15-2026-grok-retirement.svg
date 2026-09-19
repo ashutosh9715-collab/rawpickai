@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300">
+  <rect width="900" height="300" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#4A5942" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">xAI Grok Model Retirement — May 15, 2026</text>
+  <rect x="40" y="55" width="400" height="200" rx="8" fill="white" stroke="#c0392b" stroke-width="1.5"/>
+  <text x="240" y="80" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#c0392b">RETIRED TODAY</text>
+  <text x="60" y="105" font-family="monospace" font-size="11" fill="#4A453E">grok-4-1-fast-reasoning</text>
+  <text x="60" y="125" font-family="monospace" font-size="11" fill="#4A453E">grok-4-1-fast-non-reasoning</text>
+  <text x="60" y="145" font-family="monospace" font-size="11" fill="#4A453E">grok-4-fast-reasoning</text>
+  <text x="60" y="165" font-family="monospace" font-size="11" fill="#4A453E">grok-4-fast-non-reasoning</text>
+  <text x="60" y="185" font-family="monospace" font-size="11" fill="#4A453E">grok-4-0709</text>
+  <text x="60" y="205" font-family="monospace" font-size="11" fill="#4A453E">grok-code-fast-1</text>
+  <text x="60" y="225" font-family="monospace" font-size="11" fill="#4A453E">grok-3</text>
+  <text x="60" y="245" font-family="monospace" font-size="11" fill="#4A453E">grok-imagine-image-pro</text>
+  <text x="460" y="80" font-family="Georgia, serif" font-size="14" font-weight="600" fill="#4A5942">Redirects to:</text>
+  <rect x="460" y="95" width="400" height="80" rx="8" fill="#E8F4E8" stroke="#4A5942" stroke-width="1"/>
+  <text x="660" y="120" font-family="Georgia, serif" font-size="18" font-weight="700" text-anchor="middle" fill="#4A5942">Grok 4.3</text>
+  <text x="660" y="145" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">$1.25/M input · $2.50/M output</text>
+  <text x="660" y="165" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B7C5E">1M token context · 3 reasoning levels</text>
+  <text x="660" y="210" font-family="Georgia, serif" font-size="12" fill="#96845A">Note: Auto-redirect uses low reasoning</text>
+  <text x="660" y="230" font-family="Georgia, serif" font-size="12" fill="#96845A">for former reasoning models. Set effort</text>
+  <text x="660" y="250" font-family="Georgia, serif" font-size="12" fill="#96845A">explicitly to control costs.</text>
+  <text x="450" y="285" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Source: xAI migration docs, May 6 2026</text>
+</svg>

@@ -1,0 +1,65 @@
+<svg viewBox="0 0 900 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { color-scheme: light; }
+      .bg { fill: #F4F1EA; }
+      .heading { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 24px; font-weight: 700; fill: #4A5942; }
+      .card-bg { fill: #fff; stroke: #DDD8CE; stroke-width: 1; }
+      .card-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; fill: #4A5942; }
+      .card-price { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 18px; font-weight: 700; fill: #6B7C5E; }
+      .card-feature { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; fill: #3A3228; }
+      .muted { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 11px; fill: #8A8577; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="900" height="400" rx="12"/>
+
+  <text class="heading" x="40" y="45">Figma AI Pricing Tiers</text>
+
+  <!-- Free Card -->
+  <rect class="card-bg" x="40" y="75" width="180" height="280" rx="8"/>
+  <text class="card-title" x="60" y="105">Free</text>
+  <text class="card-price" x="60" y="135">$0</text>
+  <line x1="60" y1="150" x2="200" y2="150" stroke="#DDD8CE" stroke-width="1"/>
+  <text class="card-feature" x="60" y="170">• 3 projects</text>
+  <text class="card-feature" x="60" y="190">• Limited AI</text>
+  <text class="card-feature" x="60" y="210">• Basic design</text>
+  <text class="muted" x="60" y="330">Try Figma</text>
+
+  <!-- Professional Card -->
+  <rect class="card-bg" x="260" y="60" width="180" height="310" rx="8" stroke="#6B7C5E" stroke-width="2"/>
+  <rect fill="#6B7C5E" x="260" y="60" width="180" height="30" rx="8"/>
+  <text class="card-title" x="280" y="82" fill="white" style="font-size: 12px;">POPULAR</text>
+  <text class="card-title" x="280" y="115">Professional</text>
+  <text class="card-price" x="280" y="145">≈$15/mo (≈₹1,395)</text>
+  <text class="muted" x="280" y="163" style="font-size: 10px;">per editor</text>
+  <line x1="280" y1="180" x2="420" y2="180" stroke="#DDD8CE" stroke-width="1"/>
+  <text class="card-feature" x="280" y="200">• Unlimited projects</text>
+  <text class="card-feature" x="280" y="220">• Full AI features</text>
+  <text class="card-feature" x="280" y="240">• Team collab</text>
+  <text class="card-feature" x="280" y="260">• Dev Mode</text>
+
+  <!-- Organization Card -->
+  <rect class="card-bg" x="480" y="75" width="180" height="280" rx="8"/>
+  <text class="card-title" x="500" y="105">Organization</text>
+  <text class="card-price" x="500" y="135">≈$45/mo (≈₹4,185)</text>
+  <text class="muted" x="500" y="153" style="font-size: 10px;">per editor</text>
+  <line x1="500" y1="170" x2="640" y2="170" stroke="#DDD8CE" stroke-width="1"/>
+  <text class="card-feature" x="500" y="190">• All Pro features</text>
+  <text class="card-feature" x="500" y="210">• Advanced AI</text>
+  <text class="card-feature" x="500" y="230">• File org controls</text>
+  <text class="card-feature" x="500" y="250">• Team tools</text>
+
+  <!-- Enterprise Card -->
+  <rect class="card-bg" x="700" y="75" width="160" height="280" rx="8"/>
+  <text class="card-title" x="720" y="105">Enterprise</text>
+  <text class="card-price" x="720" y="135">≈$75 (≈₹6,975)+/mo</text>
+  <text class="muted" x="720" y="153" style="font-size: 10px;">per editor</text>
+  <line x1="720" y1="170" x2="840" y2="170" stroke="#DDD8CE" stroke-width="1"/>
+  <text class="card-feature" x="720" y="190">• All features</text>
+  <text class="card-feature" x="720" y="210">• Custom AI</text>
+  <text class="card-feature" x="720" y="230">• SSO/SAML</text>
+  <text class="card-feature" x="720" y="250">• Dedicated support</text>
+
+  <text class="muted" x="40" y="385">Per-editor pricing. AI features included on all paid tiers.</text>
+</svg>

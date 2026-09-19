@@ -1,0 +1,57 @@
+<svg viewBox="0 0 900 450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { color-scheme: light; }
+      .bg { fill: #F4F1EA; }
+      .header { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 20px; font-weight: 700; fill: #4A5942; }
+      .label { font-size: 12px; fill: #3A3228; }
+      .value { font-size: 11px; fill: #3A3228; }
+      .bar-chatgpt { fill: #96845A; }
+      .bar-gemini { fill: #8A8577; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="900" height="450"/>
+
+  <text class="header" x="40" y="35">Pricing Breakdown (May 2026)</text>
+
+  <!-- ChatGPT Box -->
+  <rect x="40" y="60" width="380" height="340" fill="none" stroke="#96845A" stroke-width="2" rx="8"/>
+  <text class="label" x="60" y="85" font-weight="600" font-size="14">ChatGPT Plus</text>
+
+  <text class="value" x="60" y="110">Monthly: ₹1,860</text>
+  <text class="value" x="60" y="125">Annual: ₹1,860/mo (no discount)</text>
+
+  <text class="label" x="60" y="155" font-weight="600">Includes:</text>
+  <text class="value" x="60" y="175">✓ GPT-5.4 model</text>
+  <text class="value" x="60" y="192">✓ DALL-E 3 images</text>
+  <text class="value" x="60" y="209">✓ Web browsing</text>
+  <text class="value" x="60" y="226">✓ Code execution</text>
+  <text class="value" x="60" y="243">✓ Voice mode</text>
+  <text class="value" x="60" y="260">✓ GPT Store access</text>
+  <text class="value" x="60" y="277">✗ No bundled extras</text>
+  <text class="value" x="60" y="294">✗ No workspace integration</text>
+
+  <text class="label" x="60" y="325" font-weight="600" font-size="12">Best for: Writing, images, standalone use</text>
+
+  <!-- Gemini Box -->
+  <rect x="480" y="60" width="380" height="340" fill="none" stroke="#8A8577" stroke-width="2" rx="8"/>
+  <text class="label" x="500" y="85" font-weight="600" font-size="14">Gemini Advanced</text>
+
+  <text class="value" x="500" y="110">Monthly: ₹1,860</text>
+  <text class="value" x="500" y="125">Effective: ₹1,210* (with Drive)</text>
+
+  <text class="label" x="500" y="155" font-weight="600">Includes:</text>
+  <text class="value" x="500" y="175">✓ Ultra 2.0 model</text>
+  <text class="value" x="500" y="192">✓ 2TB Google Drive</text>
+  <text class="value" x="500" y="209">✓ Imagen 3 images</text>
+  <text class="value" x="500" y="226">✓ Native Google Search</text>
+  <text class="value" x="500" y="243">✓ Workspace integration</text>
+  <text class="value" x="500" y="260">✓ 1M token context</text>
+  <text class="value" x="500" y="277">✓ Email drafting (Gmail)</text>
+  <text class="value" x="500" y="294">✓ Doc rewriting (Docs)</text>
+
+  <text class="label" x="500" y="325" font-weight="600" font-size="12">Best for: Google users, workspace integration</text>
+
+  <text class="value" x="40" y="425" font-style="italic" font-size="10">* If already paying ₹650/mo for Google One 2TB</text>
+</svg>

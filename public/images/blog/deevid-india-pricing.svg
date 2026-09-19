@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="1200" height="213">
+  <rect width="900" height="160" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#96845A" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">DeeVid AI INR Cost as % of Creator Income (India)</text>
+  <rect x="40" y="55" width="380" height="85" rx="8" fill="white" stroke="#4A5942" stroke-width="1.5"/>
+  <text x="230" y="80" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#4A5942">Lite: ₹930/mo</text>
+  <text x="230" y="103" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">₹30K income: 3.1% of earnings</text>
+  <text x="230" y="123" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">₹50K income: 1.9% of earnings</text>
+  <rect x="470" y="55" width="390" height="85" rx="8" fill="white" stroke="#96845A" stroke-width="1.5"/>
+  <text x="665" y="80" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#96845A">Pro: ₹2,325/mo</text>
+  <text x="665" y="103" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Could replace 3 separate tools</text>
+  <text x="665" y="123" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">Saves vs ElevenLabs + Suno + Pika</text>
+  <text x="450" y="152" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Prices at ₹93/USD. INR pricing valid only on annual billing. Monthly adds 29%.</text>
+</svg>

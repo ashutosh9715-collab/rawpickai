@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="900" height="400">
+  <rect width="900" height="400" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#4A5942" rx="2"/>
+  <text x="450" y="40" font-family="Georgia, serif" font-size="16" font-weight="700" text-anchor="middle" fill="#1A2416">Cloudflare Q1 2026: Record Revenue, Mass Layoffs</text>
+  <!-- Headers -->
+  <rect x="40" y="60" width="820" height="36" rx="6" fill="#4A5942"/>
+  <text x="200" y="84" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#F4F1EA">Metric</text>
+  <text x="490" y="84" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#F4F1EA">Value</text>
+  <text x="720" y="84" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#F4F1EA">Context</text>
+  <!-- Rows -->
+  <rect x="40" y="100" width="820" height="40" fill="white" rx="4"/>
+  <text x="200" y="125" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Q1 Revenue</text>
+  <text x="490" y="125" font-family="Georgia, serif" font-size="14" font-weight="700" text-anchor="middle" fill="#22c55e">$639.8M</text>
+  <text x="720" y="125" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B7C5E">+34% YoY, all-time high</text>
+  <rect x="40" y="144" width="820" height="40" fill="#F9F7F2" rx="4"/>
+  <text x="200" y="169" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Jobs Cut</text>
+  <text x="490" y="169" font-family="Georgia, serif" font-size="14" font-weight="700" text-anchor="middle" fill="#c0392b">1,100 (20%)</text>
+  <text x="720" y="169" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B7C5E">First mass layoff in 16 years</text>
+  <rect x="40" y="188" width="820" height="40" fill="white" rx="4"/>
+  <text x="200" y="213" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Restructuring Cost</text>
+  <text x="490" y="213" font-family="Georgia, serif" font-size="14" font-weight="700" text-anchor="middle" fill="#4A5942">$140-150M</text>
+  <text x="720" y="213" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B7C5E">Cash: $105-110M, Equity: $35-40M</text>
+  <rect x="40" y="232" width="820" height="40" fill="#F9F7F2" rx="4"/>
+  <text x="200" y="257" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Stock Impact</text>
+  <text x="490" y="257" font-family="Georgia, serif" font-size="14" font-weight="700" text-anchor="middle" fill="#c0392b">-24%</text>
+  <text x="720" y="257" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B7C5E">Despite beating estimates</text>
+  <rect x="40" y="276" width="820" height="40" fill="white" rx="4"/>
+  <text x="200" y="301" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">AI Usage Growth</text>
+  <text x="490" y="301" font-family="Georgia, serif" font-size="14" font-weight="700" text-anchor="middle" fill="#4A5942">+600%</text>
+  <text x="720" y="301" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B7C5E">In 3 months, across all depts</text>
+  <rect x="40" y="320" width="820" height="40" fill="#F9F7F2" rx="4"/>
+  <text x="200" y="345" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Severance</text>
+  <text x="490" y="345" font-family="Georgia, serif" font-size="14" font-weight="700" text-anchor="middle" fill="#4A5942">Full pay through Dec 2026</text>
+  <text x="720" y="345" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B7C5E">Healthcare + equity vesting to Aug</text>
+  <text x="450" y="385" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#96845A">Source: Cloudflare Q1 2026 earnings, TechCrunch, CNBC</text>
+</svg>

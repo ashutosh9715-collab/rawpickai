@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="1200" height="213">
+  <rect width="900" height="160" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#4A5942" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">Image-to-Video Test: Mountain Climber Still Photo</text>
+  <rect x="40" y="55" width="260" height="80" rx="8" fill="white" stroke="#6B6960" stroke-width="1"/>
+  <text x="170" y="78" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#6B6960">Input</text>
+  <text x="170" y="100" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Still photo of person</text>
+  <text x="170" y="118" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">in mountain climbing gear</text>
+  <text x="400" y="95" font-family="Georgia, serif" font-size="22" text-anchor="middle" fill="#4A5942">→</text>
+  <rect x="440" y="55" width="260" height="80" rx="8" fill="white" stroke="#4A5942" stroke-width="2"/>
+  <text x="570" y="78" font-family="Georgia, serif" font-size="12" font-weight="700" text-anchor="middle" fill="#4A5942">Output (Quality V2.5)</text>
+  <text x="570" y="100" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Clouds move, fabric shifts</text>
+  <text x="570" y="118" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#22c55e">Subject stays coherent</text>
+  <text x="750" y="78" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#96845A">Verdict</text>
+  <text x="750" y="100" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Strongest DeeVid</text>
+  <text x="750" y="118" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#4A5942">feature tested</text>
+  <text x="450" y="152" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Tested May 30, 2026. Quality V2.5 model, 512P, 5 seconds. 10 credits consumed.</text>
+</svg>

@@ -1,0 +1,51 @@
+<svg viewBox="0 0 900 380" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { color-scheme: light; }
+      .bg { fill: #F4F1EA; }
+      .header { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 20px; font-weight: 700; fill: #4A5942; }
+      .label { font-size: 12px; fill: #3A3228; }
+      .value { font-size: 11px; fill: #3A3228; }
+      .bar-perplexity { fill: #6B7C5E; }
+      .bar-chatgpt { fill: #96845A; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="900" height="380"/>
+
+  <text class="header" x="40" y="35">Pricing (May 2026)</text>
+
+  <!-- Free Tier -->
+  <g>
+    <text class="label" x="40" y="70" font-weight="600">Free Tier</text>
+    <text class="value" x="40" y="90">Perplexity: ₹0 (unlimited search + 5 Pro/day)</text>
+    <text class="value" x="40" y="108">ChatGPT: ₹0 (GPT-5.4 with hourly caps)</text>
+    <text class="value" x="40" y="126" font-style="italic">Winner: Perplexity (more generous limits)</text>
+  </g>
+
+  <!-- Pro Tier -->
+  <g>
+    <text class="label" x="40" y="160" font-weight="600">Pro Monthly</text>
+    <rect class="bar-perplexity" x="40" y="170" width="150" height="40" rx="8"/>
+    <text class="value" x="115" y="200" text-anchor="middle" fill="#F4F1EA" font-weight="600">Perplexity Pro</text>
+    <text class="value" x="115" y="216" text-anchor="middle" fill="#F4F1EA">₹1,860/mo</text>
+
+    <rect class="bar-chatgpt" x="350" y="170" width="150" height="40" rx="8"/>
+    <text class="value" x="425" y="200" text-anchor="middle" fill="#F4F1EA" font-weight="600">ChatGPT Plus</text>
+    <text class="value" x="425" y="216" text-anchor="middle" fill="#F4F1EA">₹1,860/mo</text>
+  </g>
+
+  <!-- Annual Discount -->
+  <g>
+    <text class="label" x="40" y="260" font-weight="600">Annual Option</text>
+    <text class="value" x="40" y="280">Perplexity: ₹1,488/mo (save 20%)</text>
+    <text class="value" x="40" y="298">ChatGPT: ₹1,860/mo (no discount)</text>
+  </g>
+
+  <!-- Best Value -->
+  <g>
+    <text class="label" x="40" y="335" font-weight="600" font-size="13">Recommendation</text>
+    <text class="value" x="40" y="355">Budget option: Perplexity Free + ChatGPT Free = ₹0</text>
+    <text class="value" x="40" y="373">Power option: Perplexity Pro + ChatGPT Pro = ₹3,720/mo (best for research-heavy work)</text>
+  </g>
+</svg>

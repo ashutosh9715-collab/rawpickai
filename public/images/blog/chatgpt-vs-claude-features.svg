@@ -1,0 +1,108 @@
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #F4F1EA; }
+      .heading { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 18px; font-weight: 600; fill: #4A5942; }
+      .subheading { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 500; fill: #4A5942; }
+      .label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; fill: #3A3228; }
+      .muted { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; fill: #8A8577; }
+      .bar-chatgpt { fill: #6B7C5E; }
+      .bar-claude { fill: #96845A; }
+      .track { fill: #DDD8CE; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="800" height="500"/>
+
+  <!-- Title -->
+  <text class="heading" x="40" y="35">Feature Comparison</text>
+
+  <!-- ChatGPT Column Header -->
+  <rect x="140" y="55" width="280" height="30" rx="8" fill="#f0f0f0"/>
+  <text class="subheading" x="155" y="77">ChatGPT (Plus)</text>
+
+  <!-- Claude Column Header -->
+  <rect x="460" y="55" width="280" height="30" rx="8" fill="#f0f0f0"/>
+  <text class="subheading" x="475" y="77">Claude (Pro)</text>
+
+  <!-- Feature 1: Writing Quality -->
+  <text class="label" x="40" y="125">Writing Quality</text>
+  <rect class="track" x="140" y="112" width="280" height="12" rx="6"/>
+  <rect class="bar-chatgpt" x="140" y="112" width="210" height="12" rx="6"/>
+  <text class="muted" x="425" y="122">75%</text>
+
+  <rect class="track" x="460" y="112" width="280" height="12" rx="6"/>
+  <rect class="bar-claude" x="460" y="112" width="268" height="12" rx="6"/>
+  <text class="muted" x="755" y="122">95%</text>
+
+  <!-- Feature 2: Code Generation -->
+  <text class="label" x="40" y="160">Code Generation</text>
+  <rect class="track" x="140" y="147" width="280" height="12" rx="6"/>
+  <rect class="bar-chatgpt" x="140" y="147" width="252" height="12" rx="6"/>
+  <text class="muted" x="425" y="157">90%</text>
+
+  <rect class="track" x="460" y="147" width="280" height="12" rx="6"/>
+  <rect class="bar-claude" x="460" y="147" width="246" height="12" rx="6"/>
+  <text class="muted" x="755" y="157">88%</text>
+
+  <!-- Feature 3: Reasoning -->
+  <text class="label" x="40" y="195">Complex Reasoning</text>
+  <rect class="track" x="140" y="182" width="280" height="12" rx="6"/>
+  <rect class="bar-chatgpt" x="140" y="182" width="268" height="12" rx="6"/>
+  <text class="muted" x="425" y="192">95%</text>
+
+  <rect class="track" x="460" y="182" width="280" height="12" rx="6"/>
+  <rect class="bar-claude" x="460" y="182" width="224" height="12" rx="6"/>
+  <text class="muted" x="755" y="192">80%</text>
+
+  <!-- Feature 4: Image Generation -->
+  <text class="label" x="40" y="230">Image Generation</text>
+  <rect class="track" x="140" y="217" width="280" height="12" rx="6"/>
+  <rect class="bar-chatgpt" x="140" y="217" width="280" height="12" rx="6"/>
+  <text class="muted" x="425" y="227">✓ DALL-E 3</text>
+
+  <rect class="track" x="460" y="217" width="280" height="12" rx="6"/>
+  <text class="muted" x="465" y="227">✗ Not available</text>
+
+  <!-- Feature 5: Long Document Processing -->
+  <text class="label" x="40" y="265">Long Documents (50+ pages)</text>
+  <rect class="track" x="140" y="252" width="280" height="12" rx="6"/>
+  <rect class="bar-chatgpt" x="140" y="252" width="224" height="12" rx="6"/>
+  <text class="muted" x="425" y="262">128K context</text>
+
+  <rect class="track" x="460" y="252" width="280" height="12" rx="6"/>
+  <rect class="bar-claude" x="460" y="252" width="268" height="12" rx="6"/>
+  <text class="muted" x="755" y="262">200K context</text>
+
+  <!-- Feature 6: Voice Mode -->
+  <text class="label" x="40" y="300">Voice Conversation</text>
+  <rect class="track" x="140" y="287" width="280" height="12" rx="6"/>
+  <rect class="bar-chatgpt" x="140" y="287" width="280" height="12" rx="6"/>
+  <text class="muted" x="425" y="297">✓ Full support</text>
+
+  <rect class="track" x="460" y="287" width="280" height="12" rx="6"/>
+  <text class="muted" x="465" y="297">✗ Text only</text>
+
+  <!-- Feature 7: Code Execution -->
+  <text class="label" x="40" y="335">Run Code in Sandbox</text>
+  <rect class="track" x="140" y="322" width="280" height="12" rx="6"/>
+  <rect class="bar-chatgpt" x="140" y="322" width="280" height="12" rx="6"/>
+  <text class="muted" x="425" y="332">✓ Advanced Data Analysis</text>
+
+  <rect class="track" x="460" y="322" width="280" height="12" rx="6"/>
+  <text class="muted" x="465" y="332">✗ Requires testing externally</text>
+
+  <!-- Feature 8: Research Accuracy -->
+  <text class="label" x="40" y="370">Research &amp; Web Search</text>
+  <rect class="track" x="140" y="357" width="280" height="12" rx="6"/>
+  <rect class="bar-chatgpt" x="140" y="357" width="224" height="12" rx="6"/>
+  <text class="muted" x="425" y="367">80% accurate</text>
+
+  <rect class="track" x="460" y="357" width="280" height="12" rx="6"/>
+  <rect class="bar-claude" x="460" y="357" width="224" height="12" rx="6"/>
+  <text class="muted" x="755" y="367">80% accurate</text>
+
+  <!-- Legend -->
+  <text class="muted" x="40" y="430">Note: Percentages reflect practical testing on real-world tasks. Both tools excel at different things.</text>
+  <text class="muted" x="40" y="450">For research, use Perplexity. For coding, use Cursor. For images, use Midjourney.</text>
+</svg>

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+  <rect width="800" height="400" rx="12" fill="#F4F1EA"/>
+
+  <text x="400" y="32" fill="#4A5942" font-size="17" font-weight="700" text-anchor="middle">The Free Tier Reality Check</text>
+  <text x="400" y="52" fill="#8A8577" font-size="12" text-anchor="middle">What "free tier" actually means across 48 AI tools</text>
+
+  <!-- LEFT: What marketing says -->
+  <g transform="translate(50, 90)">
+    <rect width="320" height="240" rx="10" fill="#FFFFFF" stroke="#DDD8CE" stroke-width="1"/>
+    <rect width="320" height="40" rx="10" fill="#8A8577"/>
+    <rect y="30" width="320" height="10" fill="#8A8577"/>
+    <text x="160" y="26" fill="#F4F1EA" font-size="13" font-weight="700" text-anchor="middle">What marketing pages claim</text>
+
+    <!-- Big number: 93.8% -->
+    <text x="160" y="120" fill="#8A8577" font-size="68" font-weight="800" text-anchor="middle">94%</text>
+    <text x="160" y="150" fill="#3A3228" font-size="13" font-weight="600" text-anchor="middle">of tools advertise a free tier</text>
+
+    <!-- Sub bar showing 45/48 -->
+    <rect x="40" y="175" width="240" height="12" rx="6" fill="#E8E3D6"/>
+    <rect x="40" y="175" width="225" height="12" rx="6" fill="#8A8577"/>
+    <text x="160" y="205" fill="#8A8577" font-size="11" text-anchor="middle">45 of 48 tools tested</text>
+
+    <text x="160" y="228" fill="#8A8577" font-size="11" font-style="italic" text-anchor="middle">"Free forever" · "No credit card" · "Try it free"</text>
+  </g>
+
+  <!-- ARROW -->
+  <g transform="translate(385, 200)">
+    <path d="M 0 10 L 30 10 L 30 0 L 50 15 L 30 30 L 30 20 L 0 20 Z" fill="#4A5942"/>
+  </g>
+
+  <!-- RIGHT: What we actually found -->
+  <g transform="translate(445, 90)">
+    <rect width="320" height="240" rx="10" fill="#FFFFFF" stroke="#DDD8CE" stroke-width="1"/>
+    <rect width="320" height="40" rx="10" fill="#4A5942"/>
+    <rect y="30" width="320" height="10" fill="#4A5942"/>
+    <text x="160" y="26" fill="#F4F1EA" font-size="13" font-weight="700" text-anchor="middle">What the testing revealed</text>
+
+    <!-- Big number: 66.7% -->
+    <text x="160" y="120" fill="#4A5942" font-size="68" font-weight="800" text-anchor="middle">67%</text>
+    <text x="160" y="150" fill="#3A3228" font-size="13" font-weight="600" text-anchor="middle">have a genuinely usable free tier</text>
+
+    <!-- Sub bar showing 32/48 -->
+    <rect x="40" y="175" width="240" height="12" rx="6" fill="#E8E3D6"/>
+    <rect x="40" y="175" width="160" height="12" rx="6" fill="#4A5942"/>
+    <text x="160" y="205" fill="#8A8577" font-size="11" text-anchor="middle">32 of 48 tools tested</text>
+
+    <text x="160" y="228" fill="#4A5942" font-size="11" font-weight="600" text-anchor="middle">13 are throttled demos, not real free tiers</text>
+  </g>
+
+  <!-- Key insight bar -->
+  <rect x="50" y="350" width="715" height="36" rx="6" fill="#4A5942"/>
+  <text x="407" y="373" fill="#F4F1EA" font-size="12" font-weight="600" text-anchor="middle">Finding: 1 in 3 "free tiers" is so throttled it's unusable for real work — free tier marketing is frequently misleading</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="900" height="240">
+  <rect width="900" height="240" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#4A5942" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">Opus 4.8 vs 4.7 vs GPT-5.5: Benchmark Comparison</text>
+  <rect x="40" y="55" width="820" height="28" rx="6" fill="#4A5942"/>
+  <text x="200" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">Benchmark</text>
+  <text x="420" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">Opus 4.7</text>
+  <text x="570" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">Opus 4.8</text>
+  <text x="720" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">GPT-5.5</text>
+  <rect x="40" y="87" width="820" height="32" fill="white" rx="3"/>
+  <text x="200" y="109" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Agentic coding (SWE-bench)</text>
+  <text x="420" y="109" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B6960">64.3%</text>
+  <text x="570" y="109" font-family="Georgia, serif" font-size="14" font-weight="700" text-anchor="middle" fill="#4A5942">69.2%</text>
+  <text x="720" y="109" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B6960">67.1%</text>
+  <rect x="40" y="123" width="820" height="32" fill="#F9F7F2" rx="3"/>
+  <text x="200" y="145" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Reasoning with tools (TAU-bench)</text>
+  <text x="420" y="145" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B6960">54.7%</text>
+  <text x="570" y="145" font-family="Georgia, serif" font-size="14" font-weight="700" text-anchor="middle" fill="#4A5942">57.9%</text>
+  <text x="720" y="145" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B6960">55.2%</text>
+  <rect x="40" y="159" width="820" height="32" fill="white" rx="3"/>
+  <text x="200" y="181" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Computer use (Online-Mind2Web)</text>
+  <text x="420" y="181" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B6960">82.8%</text>
+  <text x="570" y="181" font-family="Georgia, serif" font-size="14" font-weight="700" text-anchor="middle" fill="#4A5942">83.4%</text>
+  <text x="720" y="181" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B6960">78.9%</text>
+  <rect x="40" y="195" width="820" height="32" fill="#F9F7F2" rx="3"/>
+  <text x="200" y="217" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Knowledge work (BrowseComp)</text>
+  <text x="420" y="217" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B6960">1753</text>
+  <text x="570" y="217" font-family="Georgia, serif" font-size="14" font-weight="700" text-anchor="middle" fill="#4A5942">1890</text>
+  <text x="720" y="217" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B6960">1820</text>
+  <text x="450" y="236" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Source: Anthropic blog, 9to5Mac. Pricing unchanged: $5/$25 per M tokens (≈₹465/₹2,325). Same price as 4.7.</text>
+</svg>

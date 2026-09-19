@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" width="900" height="320">
+  <rect width="900" height="320" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#4A5942" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">Google I/O 2026 — What to Watch For</text>
+  <rect x="40" y="55" width="390" height="240" rx="10" fill="white" stroke="#4A5942" stroke-width="1" opacity="0.8"/>
+  <text x="235" y="82" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#4A5942">CONFIRMED / NEAR-CERTAIN</text>
+  <circle cx="70" cy="110" r="5" fill="#22c55e"/>
+  <text x="85" y="115" font-family="Georgia, serif" font-size="13" fill="#4A453E">Gemini model upgrade (4.0 or 3.x)</text>
+  <circle cx="70" cy="140" r="5" fill="#22c55e"/>
+  <text x="85" y="145" font-family="Georgia, serif" font-size="13" fill="#4A453E">Android 17 stable release date</text>
+  <circle cx="70" cy="170" r="5" fill="#22c55e"/>
+  <text x="85" y="175" font-family="Georgia, serif" font-size="13" fill="#4A453E">Android XR glasses details</text>
+  <circle cx="70" cy="200" r="5" fill="#22c55e"/>
+  <text x="85" y="205" font-family="Georgia, serif" font-size="13" fill="#4A453E">Veo 4 video generation</text>
+  <circle cx="70" cy="230" r="5" fill="#22c55e"/>
+  <text x="85" y="235" font-family="Georgia, serif" font-size="13" fill="#4A453E">Googlebooks + Aluminium OS</text>
+  <circle cx="70" cy="260" r="5" fill="#22c55e"/>
+  <text x="85" y="265" font-family="Georgia, serif" font-size="13" fill="#4A453E">Gemini Intelligence (on-device AI)</text>
+  <rect x="470" y="55" width="390" height="240" rx="10" fill="white" stroke="#96845A" stroke-width="1" opacity="0.8"/>
+  <text x="665" y="82" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#96845A">STRONG SIGNALS / POSSIBLE</text>
+  <circle cx="500" cy="110" r="5" fill="#96845A"/>
+  <text x="515" y="115" font-family="Georgia, serif" font-size="13" fill="#4A453E">Gemini Omni (unified multimodal)</text>
+  <circle cx="500" cy="140" r="5" fill="#96845A"/>
+  <text x="515" y="145" font-family="Georgia, serif" font-size="13" fill="#4A453E">Quick Share x AirDrop (cross-platform)</text>
+  <circle cx="500" cy="170" r="5" fill="#96845A"/>
+  <text x="515" y="175" font-family="Georgia, serif" font-size="13" fill="#4A453E">Auto Browse (Gemini drives Chrome)</text>
+  <circle cx="500" cy="200" r="5" fill="#96845A"/>
+  <text x="515" y="205" font-family="Georgia, serif" font-size="13" fill="#4A453E">New Gemma open model family</text>
+  <circle cx="500" cy="230" r="5" fill="#96845A"/>
+  <text x="515" y="235" font-family="Georgia, serif" font-size="13" fill="#4A453E">AI vibe coding tools updates</text>
+  <circle cx="500" cy="260" r="5" fill="#96845A"/>
+  <text x="515" y="265" font-family="Georgia, serif" font-size="13" fill="#4A453E">Pricing changes for Gemini tiers</text>
+  <text x="450" y="312" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Keynote: May 19, 10 AM PT. Source: Google, Gizmodo, Tom's Guide, Android Central</text>
+</svg>

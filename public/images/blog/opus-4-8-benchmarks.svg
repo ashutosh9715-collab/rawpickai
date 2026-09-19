@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" width="900" height="280">
+  <rect width="900" height="280" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#4A5942" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">Full Benchmark: Opus 4.8 vs GPT-5.5 vs Gemini 3.5 Flash</text>
+  <rect x="40" y="55" width="820" height="28" rx="6" fill="#4A5942"/>
+  <text x="185" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">Benchmark</text>
+  <text x="400" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">Opus 4.8</text>
+  <text x="560" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">GPT-5.5</text>
+  <text x="720" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">Gemini 3.5 Flash</text>
+  <rect x="40" y="87" width="820" height="32" fill="white" rx="3"/>
+  <text x="185" y="109" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Agentic coding (SWE-bench)</text>
+  <text x="400" y="109" font-family="Georgia, serif" font-size="14" font-weight="700" text-anchor="middle" fill="#4A5942">69.2%</text>
+  <text x="560" y="109" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B6960">67.1%</text>
+  <text x="720" y="109" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B6960">79.8%*</text>
+  <rect x="40" y="123" width="820" height="32" fill="#F9F7F2" rx="3"/>
+  <text x="185" y="145" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Terminal-Bench 2.0</text>
+  <text x="400" y="145" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B6960">69.3%</text>
+  <text x="560" y="145" font-family="Georgia, serif" font-size="14" font-weight="700" text-anchor="middle" fill="#4A5942">82.7%</text>
+  <text x="720" y="145" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B6960">69.3%</text>
+  <rect x="40" y="159" width="820" height="32" fill="white" rx="3"/>
+  <text x="185" y="181" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Computer use (browser agent)</text>
+  <text x="400" y="181" font-family="Georgia, serif" font-size="14" font-weight="700" text-anchor="middle" fill="#4A5942">83.4%</text>
+  <text x="560" y="181" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B6960">78.9%</text>
+  <text x="720" y="181" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B6960">N/A</text>
+  <rect x="40" y="195" width="820" height="32" fill="#F9F7F2" rx="3"/>
+  <text x="185" y="217" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Knowledge work (BrowseComp)</text>
+  <text x="400" y="217" font-family="Georgia, serif" font-size="14" font-weight="700" text-anchor="middle" fill="#4A5942">1890</text>
+  <text x="560" y="217" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B6960">1820</text>
+  <text x="720" y="217" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B6960">N/A</text>
+  <rect x="40" y="231" width="820" height="32" fill="white" rx="3"/>
+  <text x="185" y="253" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Reasoning with tools (TAU-bench)</text>
+  <text x="400" y="253" font-family="Georgia, serif" font-size="14" font-weight="700" text-anchor="middle" fill="#4A5942">57.9%</text>
+  <text x="560" y="253" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B6960">55.2%</text>
+  <text x="720" y="253" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B6960">N/A</text>
+  <text x="450" y="274" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">*Gemini 3.5 Flash SWE-bench is on Multilingual benchmark, different from Opus 4.8's standard SWE-bench. Source: Anthropic blog, May 28.</text>
+</svg>

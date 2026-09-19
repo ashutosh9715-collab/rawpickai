@@ -1,0 +1,21 @@
+<svg viewBox="0 0 700 230" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="230" fill="#F4F1EA"/>
+  <text x="350" y="28" font-size="18" font-weight="bold" text-anchor="middle" fill="#4A5942">Google Slides + Gemini - The Free Advantage</text>
+  <text x="350" y="48" font-size="11" text-anchor="middle" fill="#8A8577">What you get at $0/month vs paid alternatives</text>
+  <text x="20" y="85" font-size="12" font-weight="700" fill="#3A3228">Feature</text>
+  <text x="300" y="85" font-size="12" font-weight="700" text-anchor="middle" fill="#3A3228">Google Slides</text>
+  <text x="500" y="85" font-size="12" font-weight="700" text-anchor="middle" fill="#3A3228">Gamma Free</text>
+  <line x1="20" y1="95" x2="680" y2="95" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="20" y="118" font-size="11" fill="#3A3228">Monthly limit</text>
+  <text x="300" y="118" font-size="12" font-weight="600" text-anchor="middle" fill="#4A5942">Unlimited</text>
+  <text x="500" y="118" font-size="11" text-anchor="middle" fill="#8A8577">10 credits (2-3 decks)</text>
+  <line x1="20" y1="131" x2="680" y2="131" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="20" y="153" font-size="11" fill="#3A3228">Real-time collaboration</text>
+  <text x="300" y="153" font-size="12" font-weight="600" text-anchor="middle" fill="#4A5942">Yes (best in class)</text>
+  <text x="500" y="153" font-size="11" text-anchor="middle" fill="#8A8577">No</text>
+  <line x1="20" y1="166" x2="680" y2="166" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="20" y="188" font-size="11" fill="#3A3228">Design quality</text>
+  <text x="300" y="188" font-size="11" text-anchor="middle" fill="#8A8577">Basic (3.2/10)</text>
+  <text x="500" y="188" font-size="12" font-weight="600" text-anchor="middle" fill="#4A5942">Excellent (9.4/10)</text>
+  <text x="350" y="220" font-size="10" text-anchor="middle" fill="#8A8577">Data from RawPickAI independent testing - rawpickai.com</text>
+</svg>

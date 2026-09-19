@@ -1,0 +1,68 @@
+<svg viewBox="0 0 750 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #F4F1EA; }
+      .heading { fill: #4A5942; font-size: 20px; font-weight: bold; }
+      .subheading { fill: #4A5942; font-size: 14px; font-weight: bold; }
+      .label { fill: #3A3228; font-size: 12px; }
+      .value { fill: #3A3228; font-size: 13px; font-weight: bold; }
+      .card-bg { fill: #FFFFFF; stroke: #DDD8CE; stroke-width: 1.5; }
+      .highlight { fill: #6B7C5E; }
+      .price { fill: #96845A; font-size: 18px; font-weight: bold; }
+      .muted { fill: #8A8577; font-size: 11px; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="750" height="420" rx="12"/>
+
+  <!-- Title -->
+  <text x="40" y="40" class="heading">Luma Dream Machine Pricing</text>
+
+  <!-- Free Tier -->
+  <rect x="25" y="70" width="155" height="320" rx="10" class="card-bg"/>
+  <text x="45" y="95" class="subheading">Free</text>
+  <text x="45" y="120" class="price">$0</text>
+  <text x="45" y="140" class="label">30 gen/month</text>
+  <rect x="45" y="150" width="115" height="1" class="highlight"/>
+  <text x="45" y="170" class="label">Full quality</text>
+  <text x="45" y="190" class="label">Test and learn</text>
+  <text x="45" y="210" class="muted">Generous tier</text>
+  <text x="45" y="360" class="muted">Entry</text>
+
+  <!-- Lite Tier -->
+  <rect x="195" y="70" width="155" height="320" rx="10" class="card-bg"/>
+  <text x="215" y="95" class="subheading">Lite</text>
+  <text x="215" y="120" class="price">$10</text>
+  <text x="215" y="140" class="label">150 gen/month</text>
+  <rect x="215" y="150" width="115" height="1" class="highlight"/>
+  <text x="215" y="170" class="label">3D spatial video</text>
+  <text x="215" y="190" class="label">Full features</text>
+  <text x="215" y="210" class="muted">Good value</text>
+  <text x="215" y="360" class="muted">Budget</text>
+
+  <!-- Standard Tier -->
+  <rect x="365" y="60" width="155" height="340" rx="10" class="card-bg"/>
+  <rect x="360" y="55" width="165" height="350" rx="10" fill="none" stroke="#6B7C5E" stroke-width="2"/>
+  <text x="385" y="95" class="subheading">Standard</text>
+  <text x="385" y="120" class="price">$30</text>
+  <text x="385" y="140" class="label">500 gen/month</text>
+  <rect x="385" y="150" width="115" height="1" class="highlight"/>
+  <text x="385" y="170" class="label">Priority queue</text>
+  <text x="385" y="190" class="label">Best value</text>
+  <text x="385" y="210" class="muted">Recommended</text>
+  <text x="385" y="380" class="muted">Pro</text>
+
+  <!-- Premier Tier -->
+  <rect x="535" y="70" width="190" height="320" rx="10" class="card-bg"/>
+  <text x="555" y="95" class="subheading">Premier</text>
+  <text x="555" y="120" class="price">$457</text>
+  <text x="555" y="140" class="label">Unlimited gen</text>
+  <rect x="555" y="150" width="150" height="1" class="highlight"/>
+  <text x="555" y="170" class="label">API access</text>
+  <text x="555" y="190" class="label">Dedicated support</text>
+  <text x="555" y="210" class="muted">Enterprise</text>
+  <text x="555" y="360" class="muted">Enterprise</text>
+
+  <!-- Footer note -->
+  <text x="40" y="410" class="muted">Free tier: 30 gen/month is generous. Standard: Account for 2-3 generation attempts per keeper video (43% keeper rate).</text>
+</svg>

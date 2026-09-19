@@ -1,0 +1,22 @@
+<svg viewBox="0 0 700 230" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="230" fill="#F4F1EA"/>
+  <text x="350" y="28" font-size="18" font-weight="bold" text-anchor="middle" fill="#4A5942">SEO Content Scoring - Tool Comparison</text>
+  <text x="350" y="48" font-size="11" text-anchor="middle" fill="#8A8577">Content score on 5 identical SEO blog articles</text>
+  <text x="20" y="95" font-size="12" font-weight="600" fill="#3A3228">Writesonic</text>
+  <rect x="160" y="82" width="400" height="20" rx="4" fill="#DDD8CE"/>
+  <rect x="160" y="82" width="340" height="20" rx="4" fill="#6B7C5E"/>
+  <text x="510" y="97" font-size="12" font-weight="700" fill="#4A5942">85/100</text>
+  <text x="20" y="130" font-size="12" font-weight="600" fill="#3A3228">ChatGPT (prompted)</text>
+  <rect x="160" y="117" width="400" height="20" rx="4" fill="#DDD8CE"/>
+  <rect x="160" y="117" width="300" height="20" rx="4" fill="#96845A"/>
+  <text x="510" y="132" font-size="12" font-weight="700" fill="#4A5942">75/100</text>
+  <text x="20" y="165" font-size="12" font-weight="600" fill="#3A3228">Claude</text>
+  <rect x="160" y="152" width="400" height="20" rx="4" fill="#DDD8CE"/>
+  <rect x="160" y="152" width="280" height="20" rx="4" fill="#96845A"/>
+  <text x="510" y="167" font-size="12" font-weight="700" fill="#4A5942">70/100</text>
+  <text x="20" y="200" font-size="12" font-weight="600" fill="#3A3228">Jasper</text>
+  <rect x="160" y="187" width="400" height="20" rx="4" fill="#DDD8CE"/>
+  <rect x="160" y="187" width="268" height="20" rx="4" fill="#8A8577"/>
+  <text x="510" y="202" font-size="12" font-weight="700" fill="#4A5942">67/100</text>
+  <text x="350" y="225" font-size="10" text-anchor="middle" fill="#8A8577">Scored using content optimization tools. Writesonic auto-optimizes for SEO by default.</text>
+</svg>

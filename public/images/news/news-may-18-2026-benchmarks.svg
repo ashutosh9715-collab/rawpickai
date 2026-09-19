@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" width="900" height="280">
+  <rect width="900" height="280" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#4A5942" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">Composer 2.5 vs Frontier Models — Benchmark Comparison</text>
+  <rect x="60" y="55" width="780" height="32" rx="6" fill="#4A5942"/>
+  <text x="180" y="77" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#F4F1EA">Benchmark</text>
+  <text x="380" y="77" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#F4F1EA">Composer 2.5</text>
+  <text x="530" y="77" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#F4F1EA">Opus 4.7</text>
+  <text x="670" y="77" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#F4F1EA">GPT-5.5</text>
+  <text x="800" y="77" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#F4F1EA">Composer 2</text>
+  <rect x="60" y="91" width="780" height="36" fill="white" rx="4"/>
+  <text x="180" y="115" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Terminal-Bench 2.0</text>
+  <text x="380" y="115" font-family="Georgia, serif" font-size="14" font-weight="700" text-anchor="middle" fill="#4A5942">69.3%</text>
+  <text x="530" y="115" font-family="Georgia, serif" font-size="14" text-anchor="middle" fill="#6B6960">69.4%</text>
+  <text x="670" y="115" font-family="Georgia, serif" font-size="14" font-weight="700" text-anchor="middle" fill="#4A5942">82.7%</text>
+  <text x="800" y="115" font-family="Georgia, serif" font-size="14" text-anchor="middle" fill="#6B6960">61.7%</text>
+  <rect x="60" y="131" width="780" height="36" fill="#F9F7F2" rx="4"/>
+  <text x="180" y="155" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">SWE-Bench Multilingual</text>
+  <text x="380" y="155" font-family="Georgia, serif" font-size="14" font-weight="700" text-anchor="middle" fill="#4A5942">79.8%</text>
+  <text x="530" y="155" font-family="Georgia, serif" font-size="14" font-weight="700" text-anchor="middle" fill="#4A5942">80.5%</text>
+  <text x="670" y="155" font-family="Georgia, serif" font-size="14" text-anchor="middle" fill="#6B6960">77.8%</text>
+  <text x="800" y="155" font-family="Georgia, serif" font-size="14" text-anchor="middle" fill="#6B6960">73.7%</text>
+  <rect x="60" y="171" width="780" height="36" fill="white" rx="4"/>
+  <text x="180" y="195" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">CursorBench v3.1</text>
+  <text x="380" y="195" font-family="Georgia, serif" font-size="14" font-weight="700" text-anchor="middle" fill="#4A5942">63.2%</text>
+  <text x="530" y="195" font-family="Georgia, serif" font-size="14" text-anchor="middle" fill="#6B6960">64.8%*</text>
+  <text x="670" y="195" font-family="Georgia, serif" font-size="14" text-anchor="middle" fill="#6B6960">64.3%*</text>
+  <text x="800" y="195" font-family="Georgia, serif" font-size="14" text-anchor="middle" fill="#6B6960">52.2%</text>
+  <rect x="60" y="211" width="780" height="36" fill="#F9F7F2" rx="4"/>
+  <text x="180" y="235" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Cost per task (avg)</text>
+  <text x="380" y="235" font-family="Georgia, serif" font-size="14" font-weight="700" text-anchor="middle" fill="#22c55e">&lt;$1</text>
+  <text x="530" y="235" font-family="Georgia, serif" font-size="14" text-anchor="middle" fill="#c0392b">$5-11</text>
+  <text x="670" y="235" font-family="Georgia, serif" font-size="14" text-anchor="middle" fill="#c0392b">$3-8</text>
+  <text x="800" y="235" font-family="Georgia, serif" font-size="14" text-anchor="middle" fill="#22c55e">&lt;$1</text>
+  <text x="450" y="268" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">*Max/xhigh settings. Default settings score lower. Source: Cursor blog, May 18, 2026</text>
+</svg>

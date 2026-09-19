@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" font-family="Inter, system-ui, sans-serif">
+  <rect width="800" height="360" rx="12" fill="#F4F1EA"/>
+
+  <text x="40" y="38" fill="#3A3228" font-size="18" font-weight="700">5 Apps Built on Bolt.new</text>
+  <text x="40" y="56" fill="#8A8577" font-size="13">Total: 16 min 44s across 17 prompts</text>
+
+  <!-- Table header -->
+  <rect x="30" y="72" width="740" height="32" rx="6" fill="#4A5942"/>
+  <text x="50" y="93" fill="#F4F1EA" font-size="12" font-weight="600">App</text>
+  <text x="300" y="93" fill="#F4F1EA" font-size="12" font-weight="600">Time</text>
+  <text x="420" y="93" fill="#F4F1EA" font-size="12" font-weight="600">Prompts</text>
+  <text x="540" y="93" fill="#F4F1EA" font-size="12" font-weight="600">Result</text>
+
+  <!-- Row 1 -->
+  <rect x="30" y="108" width="740" height="40" rx="0" fill="#FFFFFF" opacity="0.6"/>
+  <text x="50" y="133" fill="#3A3228" font-size="12" font-weight="600">Pomodoro Timer</text>
+  <text x="300" y="133" fill="#3A3228" font-size="12">47s</text>
+  <text x="420" y="133" fill="#3A3228" font-size="12">1</text>
+  <text x="540" y="133" fill="#6B7C5E" font-size="12" font-weight="600">Flawless</text>
+
+  <!-- Row 2 -->
+  <rect x="30" y="148" width="740" height="40" rx="0" fill="#FFFFFF" opacity="0.3"/>
+  <text x="50" y="173" fill="#3A3228" font-size="12" font-weight="600">SaaS Landing Page</text>
+  <text x="300" y="173" fill="#3A3228" font-size="12">1m 52s</text>
+  <text x="420" y="173" fill="#3A3228" font-size="12">2</text>
+  <text x="540" y="173" fill="#96845A" font-size="12" font-weight="600">Generic design</text>
+
+  <!-- Row 3 -->
+  <rect x="30" y="188" width="740" height="40" rx="0" fill="#FFFFFF" opacity="0.6"/>
+  <text x="50" y="213" fill="#3A3228" font-size="12" font-weight="600">Todo App + Auth</text>
+  <text x="300" y="213" fill="#3A3228" font-size="12">3m 40s</text>
+  <text x="420" y="213" fill="#3A3228" font-size="12">5</text>
+  <text x="540" y="213" fill="#96845A" font-size="12" font-weight="600">RLS needed fix</text>
+
+  <!-- Row 4 -->
+  <rect x="30" y="228" width="740" height="40" rx="0" fill="#FFFFFF" opacity="0.3"/>
+  <text x="50" y="253" fill="#3A3228" font-size="12" font-weight="600">Restaurant Menu</text>
+  <text x="300" y="253" fill="#3A3228" font-size="12">4m 10s</text>
+  <text x="420" y="253" fill="#3A3228" font-size="12">4</text>
+  <text x="540" y="253" fill="#96845A" font-size="12" font-weight="600">Forgot pagination</text>
+
+  <!-- Row 5 -->
+  <rect x="30" y="268" width="740" height="40" rx="0" fill="#FFFFFF" opacity="0.6"/>
+  <text x="50" y="293" fill="#3A3228" font-size="12" font-weight="600">Multi-Step Form</text>
+  <text x="300" y="293" fill="#3A3228" font-size="12">6m 15s</text>
+  <text x="420" y="293" fill="#3A3228" font-size="12">5</text>
+  <text x="540" y="293" fill="#6B7C5E" font-size="12" font-weight="600">Best of 3 tools</text>
+
+  <!-- Footer -->
+  <text x="40" y="340" fill="#8A8577" font-size="11">Same 5 projects used in Lovable vs v0 vs Bolt comparison - rawpickai.com</text>
+</svg>

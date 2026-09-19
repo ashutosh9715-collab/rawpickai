@@ -1,0 +1,43 @@
+<svg viewBox="0 0 700 330" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="330" rx="12" fill="#F4F1EA"/>
+  <text x="350" y="35" font-family="Inter, system-ui, sans-serif" font-size="20" font-weight="700" fill="#4A5942" text-anchor="middle">Lovable Security Audit Results</text>
+  <text x="350" y="55" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#8A8577" text-anchor="middle">5 apps tested across OWASP Top 10 categories</text>
+
+  <!-- Pass/Fail Header -->
+  <rect x="500" y="70" width="60" height="22" rx="11" fill="#6B7C5E"/>
+  <text x="530" y="85" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="600" fill="#F4F1EA" text-anchor="middle">Pass</text>
+  <rect x="575" y="70" width="60" height="22" rx="11" fill="#8A4242"/>
+  <text x="605" y="85" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="600" fill="#F4F1EA" text-anchor="middle">Fail</text>
+
+  <!-- Row 1: API Key Exposure -->
+  <text x="40" y="120" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#3A3228">API Key Exposure</text>
+  <text x="530" y="120" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="600" fill="#6B7C5E" text-anchor="middle">2/5</text>
+  <text x="605" y="120" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="600" fill="#8A4242" text-anchor="middle">3/5</text>
+
+  <!-- Row 2: RLS Policies -->
+  <rect x="30" y="135" width="640" height="28" rx="0" fill="#EDE9E0"/>
+  <text x="40" y="154" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#3A3228">RLS Policy Quality</text>
+  <text x="530" y="154" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="600" fill="#6B7C5E" text-anchor="middle">3/5</text>
+  <text x="605" y="154" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="600" fill="#8A4242" text-anchor="middle">2/5</text>
+
+  <!-- Row 3: Input Sanitization -->
+  <text x="40" y="185" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#3A3228">Input Sanitization</text>
+  <text x="530" y="185" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="600" fill="#6B7C5E" text-anchor="middle">1/5</text>
+  <text x="605" y="185" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="600" fill="#8A4242" text-anchor="middle">4/5</text>
+
+  <!-- Row 4: Auth Implementation -->
+  <rect x="30" y="198" width="640" height="28" rx="0" fill="#EDE9E0"/>
+  <text x="40" y="217" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#3A3228">Auth Implementation</text>
+  <text x="530" y="217" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="600" fill="#6B7C5E" text-anchor="middle">4/5</text>
+  <text x="605" y="217" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="600" fill="#8A4242" text-anchor="middle">1/5</text>
+
+  <!-- Row 5: Rate Limiting -->
+  <text x="40" y="250" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#3A3228">Rate Limiting</text>
+  <text x="530" y="250" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="600" fill="#6B7C5E" text-anchor="middle">0/5</text>
+  <text x="605" y="250" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="600" fill="#8A4242" text-anchor="middle">5/5</text>
+
+  <!-- Summary -->
+  <line x1="40" y1="270" x2="660" y2="270" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="40" y="295" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="600" fill="#8A4242">Overall: 42.8% failure rate across security checks</text>
+  <text x="40" y="318" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#8A8577">Auth is strong. Input sanitization and rate limiting are missing.</text>
+</svg>

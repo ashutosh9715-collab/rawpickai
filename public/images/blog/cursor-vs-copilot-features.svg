@@ -1,0 +1,109 @@
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #F4F1EA; }
+      .heading { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 18px; font-weight: 600; fill: #4A5942; }
+      .subheading { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 500; fill: #4A5942; }
+      .label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; fill: #3A3228; }
+      .muted { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; fill: #8A8577; }
+      .bar-cursor { fill: #96845A; }
+      .bar-copilot { fill: #6B7C5E; }
+      .track { fill: #DDD8CE; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="800" height="500"/>
+
+  <!-- Title -->
+  <text class="heading" x="40" y="35">Feature Comparison</text>
+
+  <!-- Column Headers -->
+  <rect x="140" y="55" width="280" height="30" rx="8" fill="#f0f0f0"/>
+  <text class="subheading" x="155" y="77">Cursor (Pro)</text>
+
+  <rect x="460" y="55" width="280" height="30" rx="8" fill="#f0f0f0"/>
+  <text class="subheading" x="475" y="77">Copilot (Pro)</text>
+
+  <!-- Feature 1: Autocomplete Quality -->
+  <text class="label" x="40" y="125">Autocomplete Quality</text>
+  <rect class="track" x="140" y="112" width="280" height="12" rx="6"/>
+  <rect class="bar-cursor" x="140" y="112" width="196" height="12" rx="6"/>
+  <text class="muted" x="425" y="122">70%</text>
+
+  <rect class="track" x="460" y="112" width="280" height="12" rx="6"/>
+  <rect class="bar-copilot" x="460" y="112" width="140" height="12" rx="6"/>
+  <text class="muted" x="755" y="122">50%</text>
+
+  <!-- Feature 2: Agent Mode -->
+  <text class="label" x="40" y="160">Multi-File Agent Mode</text>
+  <rect class="track" x="140" y="147" width="280" height="12" rx="6"/>
+  <rect class="bar-cursor" x="140" y="147" width="280" height="12" rx="6"/>
+  <text class="muted" x="425" y="157">✓ Full</text>
+
+  <rect class="track" x="460" y="147" width="280" height="12" rx="6"/>
+  <text class="muted" x="465" y="157">✗ Suggestions only</text>
+
+  <!-- Feature 3: Model Control -->
+  <text class="label" x="40" y="195">Per-Interaction Model Choice</text>
+  <rect class="track" x="140" y="182" width="280" height="12" rx="6"/>
+  <rect class="bar-cursor" x="140" y="182" width="280" height="12" rx="6"/>
+  <text class="muted" x="425" y="192">✓ Full control</text>
+
+  <rect class="track" x="460" y="182" width="280" height="12" rx="6"/>
+  <rect class="bar-copilot" x="460" y="182" width="112" height="12" rx="6"/>
+  <text class="muted" x="755" y="192">Limited</text>
+
+  <!-- Feature 4: Extension Compatibility -->
+  <text class="label" x="40" y="230">Extension Compatibility</text>
+  <rect class="track" x="140" y="217" width="280" height="12" rx="6"/>
+  <rect class="bar-cursor" x="140" y="217" width="252" height="12" rx="6"/>
+  <text class="muted" x="425" y="227">95%</text>
+
+  <rect class="track" x="460" y="217" width="280" height="12" rx="6"/>
+  <rect class="bar-copilot" x="460" y="217" width="280" height="12" rx="6"/>
+  <text class="muted" x="755" y="227">100%</text>
+
+  <!-- Feature 5: Cross-File Context -->
+  <text class="label" x="40" y="265">Cross-File Understanding</text>
+  <rect class="track" x="140" y="252" width="280" height="12" rx="6"/>
+  <rect class="bar-cursor" x="140" y="252" width="268" height="12" rx="6"/>
+  <text class="muted" x="425" y="262">95%</text>
+
+  <rect class="track" x="460" y="252" width="280" height="12" rx="6"/>
+  <rect class="bar-copilot" x="460" y="252" width="168" height="12" rx="6"/>
+  <text class="muted" x="755" y="262">60%</text>
+
+  <!-- Feature 6: Refactoring Assistance -->
+  <text class="label" x="40" y="300">Large Refactoring Support</text>
+  <rect class="track" x="140" y="287" width="280" height="12" rx="6"/>
+  <rect class="bar-cursor" x="140" y="287" width="280" height="12" rx="6"/>
+  <text class="muted" x="425" y="297">✓ Agent-driven</text>
+
+  <rect class="track" x="460" y="287" width="280" height="12" rx="6"/>
+  <rect class="bar-copilot" x="460" y="287" width="140" height="12" rx="6"/>
+  <text class="muted" x="755" y="297">Manual steps</text>
+
+  <!-- Feature 7: Learning Curve -->
+  <text class="label" x="40" y="335">Ease of Learning</text>
+  <rect class="track" x="140" y="322" width="280" height="12" rx="6"/>
+  <rect class="bar-cursor" x="140" y="322" width="196" height="12" rx="6"/>
+  <text class="muted" x="425" y="332">Moderate</text>
+
+  <rect class="track" x="460" y="322" width="280" height="12" rx="6"/>
+  <rect class="bar-copilot" x="460" y="322" width="280" height="12" rx="6"/>
+  <text class="muted" x="755" y="332">Very low</text>
+
+  <!-- Feature 8: Price -->
+  <text class="label" x="40" y="370">Monthly Cost</text>
+  <rect class="track" x="140" y="357" width="280" height="12" rx="6"/>
+  <rect class="bar-cursor" x="140" y="357" width="196" height="12" rx="6"/>
+  <text class="muted" x="425" y="367">$20</text>
+
+  <rect class="track" x="460" y="357" width="280" height="12" rx="6"/>
+  <rect class="bar-copilot" x="460" y="357" width="98" height="12" rx="6"/>
+  <text class="muted" x="755" y="367">$10</text>
+
+  <!-- Legend -->
+  <text class="muted" x="40" y="420">Cursor wins on agent mode and multi-file work. Copilot wins on price and stability.</text>
+  <text class="muted" x="40" y="440">For multi-file refactoring: Cursor. For basic autocomplete and budget: Copilot.</text>
+</svg>

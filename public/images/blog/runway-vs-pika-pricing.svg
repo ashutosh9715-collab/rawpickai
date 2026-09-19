@@ -1,0 +1,51 @@
+<svg viewBox="0 0 900 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { color-scheme: light; }
+      .bg { fill: #F4F1EA; }
+      .header { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 20px; font-weight: 700; fill: #4A5942; }
+      .label { font-size: 12px; fill: #3A3228; }
+      .value { font-size: 11px; fill: #3A3228; }
+      .bar1 { fill: #6B7C5E; }
+      .bar2 { fill: #96845A; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="900" height="400"/>
+
+  <text class="header" x="40" y="35">Video Generation Pricing</text>
+
+  <g>
+    <text class="label" x="40" y="70" font-weight="600">Personal Use (No Commercial Rights)</text>
+    <rect class="bar1" x="40" y="85" width="150" height="45" rx="8"/>
+    <text class="label" x="115" y="105" text-anchor="middle" fill="#F4F1EA" font-weight="600">Runway</text>
+    <text class="value" x="115" y="123" text-anchor="middle" fill="#F4F1EA">₹1,395/mo</text>
+
+    <rect class="bar2" x="280" y="85" width="150" height="45" rx="8"/>
+    <text class="label" x="355" y="105" text-anchor="middle" fill="#F4F1EA" font-weight="600">Pika</text>
+    <text class="value" x="355" y="123" text-anchor="middle" fill="#F4F1EA">₹930/mo</text>
+  </g>
+
+  <g>
+    <text class="label" x="40" y="165" font-weight="600">Commercial Use (Selling Videos)</text>
+    <rect class="bar1" x="40" y="180" width="150" height="45" rx="8"/>
+    <text class="label" x="115" y="200" text-anchor="middle" fill="#F4F1EA" font-weight="600">Runway</text>
+    <text class="value" x="115" y="218" text-anchor="middle" fill="#F4F1EA">₹1,395/mo</text>
+
+    <rect class="bar2" x="280" y="180" width="150" height="45" rx="8"/>
+    <text class="label" x="355" y="200" text-anchor="middle" fill="#F4F1EA" font-weight="600">Pika</text>
+    <text class="value" x="355" y="218" text-anchor="middle" fill="#F4F1EA">₹3,255/mo</text>
+  </g>
+
+  <g>
+    <text class="label" x="40" y="260" font-weight="600">Key Difference</text>
+    <text class="value" x="40" y="280">Runway: All paid plans include commercial rights</text>
+    <text class="value" x="40" y="298">Pika: Commercial rights only on Unlimited tier (3.5x more expensive)</text>
+  </g>
+
+  <g>
+    <text class="label" x="40" y="340" font-weight="600">Recommendation</text>
+    <text class="value" x="40" y="360">Freelancers/agencies: Runway ₹1,395/mo (commercial included)</text>
+    <text class="value" x="40" y="378">Content creators (personal): Pika ₹930/mo</text>
+  </g>
+</svg>

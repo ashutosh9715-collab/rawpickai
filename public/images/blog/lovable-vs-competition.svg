@@ -1,0 +1,49 @@
+<svg viewBox="0 0 700 340" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="340" rx="12" fill="#F4F1EA"/>
+  <text x="350" y="35" font-family="Inter, system-ui, sans-serif" font-size="20" font-weight="700" fill="#4A5942" text-anchor="middle">Lovable vs the Competition</text>
+
+  <!-- Legend -->
+  <rect x="200" y="48" width="12" height="12" rx="3" fill="#6B7C5E"/>
+  <text x="218" y="59" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#3A3228">Lovable</text>
+  <rect x="280" y="48" width="12" height="12" rx="3" fill="#96845A"/>
+  <text x="298" y="59" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#3A3228">Cursor</text>
+  <rect x="350" y="48" width="12" height="12" rx="3" fill="#4A5942"/>
+  <text x="368" y="59" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#3A3228">v0</text>
+  <rect x="400" y="48" width="12" height="12" rx="3" fill="#8A8577"/>
+  <text x="418" y="59" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#3A3228">Bolt.new</text>
+
+  <!-- Ease of Use -->
+  <text x="40" y="100" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#3A3228">Ease of Use</text>
+  <rect x="170" y="86" width="285" height="12" rx="6" fill="#6B7C5E"/>
+  <text x="462" y="97" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#3A3228">95</text>
+  <rect x="170" y="102" width="240" height="12" rx="6" fill="#96845A"/>
+  <text x="417" y="113" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#3A3228">80</text>
+  <rect x="170" y="118" width="264" height="12" rx="6" fill="#4A5942"/>
+  <text x="441" y="129" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#3A3228">88</text>
+  <rect x="170" y="134" width="225" height="12" rx="6" fill="#8A8577"/>
+  <text x="402" y="145" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#3A3228">75</text>
+
+  <!-- Output Quality -->
+  <text x="40" y="178" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#3A3228">Output Quality</text>
+  <rect x="170" y="164" width="234" height="12" rx="6" fill="#6B7C5E"/>
+  <text x="411" y="175" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#3A3228">78</text>
+  <rect x="170" y="180" width="279" height="12" rx="6" fill="#96845A"/>
+  <text x="456" y="191" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#3A3228">93</text>
+  <rect x="170" y="196" width="270" height="12" rx="6" fill="#4A5942"/>
+  <text x="447" y="207" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#3A3228">90</text>
+  <rect x="170" y="212" width="258" height="12" rx="6" fill="#8A8577"/>
+  <text x="435" y="223" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#3A3228">86</text>
+
+  <!-- Overall Score -->
+  <text x="40" y="256" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#3A3228">Overall Score</text>
+  <rect x="170" y="242" width="252" height="12" rx="6" fill="#6B7C5E"/>
+  <text x="429" y="253" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#3A3228">3.9/5</text>
+  <rect x="170" y="258" width="270" height="12" rx="6" fill="#96845A"/>
+  <text x="447" y="269" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#3A3228">4.5/5</text>
+  <rect x="170" y="274" width="276" height="12" rx="6" fill="#4A5942"/>
+  <text x="453" y="285" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#3A3228">4.6/5</text>
+  <rect x="170" y="290" width="288" height="12" rx="6" fill="#8A8577"/>
+  <text x="465" y="301" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#3A3228">4.8/5</text>
+
+  <text x="350" y="330" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#8A8577" text-anchor="middle">Lovable wins on ease of use. Cursor and Bolt win on output quality and flexibility.</text>
+</svg>

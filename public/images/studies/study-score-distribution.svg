@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" width="900" height="340">
+  <rect width="900" height="340" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#4A5942" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">Score Distribution — 48 AI Tools (0–5 Scale)</text>
+  <!-- Baseline at y=270, bars grow upward. Max height 180px for 21 tools -->
+  <!-- Bar 1: <3.0 = 2 tools, height = (2/21)*180 = 17 -->
+  <rect x="105" y="253" width="55" height="17" rx="4" fill="#c0392b"/>
+  <text x="132" y="248" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#c0392b">2</text>
+  <text x="132" y="290" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">&lt;3.0</text>
+  <!-- Bar 2: 3.0-3.4 = 11 tools, height = (11/21)*180 = 94 -->
+  <rect x="235" y="176" width="55" height="94" rx="4" fill="#f59e0b"/>
+  <text x="262" y="171" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#f59e0b">11</text>
+  <text x="262" y="290" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">3.0–3.4</text>
+  <!-- Bar 3: 3.5-3.9 = 21 tools, height = 180 (max) -->
+  <rect x="365" y="90" width="55" height="180" rx="4" fill="#96845A"/>
+  <text x="392" y="82" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#96845A">21</text>
+  <text x="392" y="290" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">3.5–3.9</text>
+  <!-- Bar 4: 4.0-4.4 = 10 tools, height = (10/21)*180 = 86 -->
+  <rect x="495" y="184" width="55" height="86" rx="4" fill="#6B7C5E"/>
+  <text x="522" y="179" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#6B7C5E">10</text>
+  <text x="522" y="290" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">4.0–4.4</text>
+  <!-- Bar 5: 4.5+ = 4 tools, height = (4/21)*180 = 34 -->
+  <rect x="625" y="236" width="55" height="34" rx="4" fill="#4A5942"/>
+  <text x="652" y="231" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#4A5942">4</text>
+  <text x="652" y="290" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">4.5+</text>
+  <!-- Baseline -->
+  <rect x="80" y="270" width="620" height="1" fill="#4A5942" opacity="0.2"/>
+  <!-- Stats panel -->
+  <rect x="730" y="120" width="140" height="120" rx="8" fill="white" stroke="#4A5942" stroke-width="1"/>
+  <text x="800" y="148" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#4A5942">Average: 3.7</text>
+  <text x="800" y="172" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Median: 3.7</text>
+  <text x="800" y="196" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Above avg: 22</text>
+  <text x="800" y="220" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Below avg: 26</text>
+  <text x="450" y="328" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Source: RawPickAI 2026 AI Tools Reality Check — 48 tools tested Nov 2025–May 2026</text>
+</svg>

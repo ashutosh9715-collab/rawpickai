@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" width="900" height="280">
+  <rect width="900" height="280" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#4A5942" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">Cerebras Systems (CBRS) — Key IPO Numbers</text>
+  <rect x="40" y="55" width="820" height="32" rx="6" fill="#4A5942"/>
+  <text x="200" y="77" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#F4F1EA">Metric</text>
+  <text x="500" y="77" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#F4F1EA">Number</text>
+  <text x="750" y="77" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#F4F1EA">Context</text>
+  <rect x="40" y="91" width="820" height="32" fill="white" rx="4"/>
+  <text x="200" y="112" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">IPO Price</text>
+  <text x="500" y="112" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#4A5942">$185/share</text>
+  <text x="750" y="112" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B7C5E">Above $150-160 range</text>
+  <rect x="40" y="127" width="820" height="32" fill="#F9F7F2" rx="4"/>
+  <text x="200" y="148" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">First Day Close</text>
+  <text x="500" y="148" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#22c55e">$311.07 (+68%)</text>
+  <text x="750" y="148" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B7C5E">Market cap: $95B</text>
+  <rect x="40" y="163" width="820" height="32" fill="white" rx="4"/>
+  <text x="200" y="184" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Total Raised</text>
+  <text x="500" y="184" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#4A5942">$5.55B (30M shares)</text>
+  <text x="750" y="184" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B7C5E">Largest US tech IPO since Uber 2019</text>
+  <rect x="40" y="199" width="820" height="32" fill="#F9F7F2" rx="4"/>
+  <text x="200" y="220" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">2025 Revenue</text>
+  <text x="500" y="220" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#4A5942">$510M (+76% YoY)</text>
+  <text x="750" y="220" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B7C5E">Operating loss (ex-accounting gain)</text>
+  <text x="450" y="265" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Source: CNBC, Nasdaq, Motley Fool, May 14-15 2026</text>
+</svg>

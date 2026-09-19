@@ -1,0 +1,71 @@
+<svg viewBox="0 0 900 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title { font-size: 20px; font-weight: bold; fill: #4A5942; }
+      .label { font-size: 11px; fill: #8A8577; }
+      .score { font-size: 13px; font-weight: bold; fill: #3A3228; }
+      .bar-bg { fill: #DDD8CE; }
+      .bar-fill { fill: #96845A; }
+      .category-label { font-size: 10px; font-weight: bold; fill: #3A3228; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="500" fill="#F4F1EA"/>
+
+  <!-- Title -->
+  <text x="450" y="35" text-anchor="middle" class="title">Descript Strengths &amp; Weaknesses</text>
+  <text x="450" y="52" text-anchor="middle" class="label">Creator tier performance rating (0-100)</text>
+
+  <!-- Transcription Accuracy -->
+  <text x="30" y="90" class="category-label">Transcription Accuracy</text>
+  <rect x="250" y="78" width="600" height="18" rx="9" class="bar-bg"/>
+  <rect x="250" y="78" width="552" height="18" rx="9" class="bar-fill"/>
+  <text x="860" y="92" class="score">92/100</text>
+
+  <!-- Ease of Use -->
+  <text x="30" y="135" class="category-label">Ease of Use</text>
+  <rect x="250" y="123" width="600" height="18" rx="9" class="bar-bg"/>
+  <rect x="250" y="123" width="540" height="18" rx="9" class="bar-fill"/>
+  <text x="860" y="137" class="score">90/100</text>
+
+  <!-- Audio Quality Output -->
+  <text x="30" y="180" class="category-label">Audio/Video Quality</text>
+  <rect x="250" y="168" width="600" height="18" rx="9" class="bar-bg"/>
+  <rect x="250" y="168" width="480" height="18" rx="9" class="bar-fill"/>
+  <text x="860" y="182" class="score">80/100</text>
+
+  <!-- Visual Editing Power -->
+  <text x="30" y="225" class="category-label">Visual Editing Depth</text>
+  <rect x="250" y="213" width="600" height="18" rx="9" class="bar-bg"/>
+  <rect x="250" y="213" width="300" height="18" rx="9" class="bar-fill"/>
+  <text x="860" y="227" class="score">50/100</text>
+
+  <!-- Collaboration Features -->
+  <text x="30" y="270" class="category-label">Collaboration Features</text>
+  <rect x="250" y="258" width="600" height="18" rx="9" class="bar-bg"/>
+  <rect x="250" y="258" width="360" height="18" rx="9" class="bar-fill"/>
+  <text x="860" y="272" class="score">60/100</text>
+
+  <!-- Effects &amp; Motion Graphics -->
+  <text x="30" y="315" class="category-label">Effects &amp; Transitions</text>
+  <rect x="250" y="303" width="600" height="18" rx="9" class="bar-bg"/>
+  <rect x="250" y="303" width="240" height="18" rx="9" class="bar-fill"/>
+  <text x="860" y="317" class="score">40/100</text>
+
+  <!-- Speed to First Output -->
+  <text x="30" y="360" class="category-label">Speed to Export</text>
+  <rect x="250" y="348" width="600" height="18" rx="9" class="bar-bg"/>
+  <rect x="250" y="348" width="570" height="18" rx="9" class="bar-fill"/>
+  <text x="860" y="362" class="score">95/100</text>
+
+  <!-- Free Tier Value -->
+  <text x="30" y="405" class="category-label">Free Tier Usefulness</text>
+  <rect x="250" y="393" width="600" height="18" rx="9" class="bar-bg"/>
+  <rect x="250" y="393" width="420" height="18" rx="9" class="bar-fill"/>
+  <text x="860" y="407" class="score">70/100</text>
+
+  <!-- Legend -->
+  <text x="30" y="460" class="label">Strongest in podcast editing, transcription, and ease of use. Weakest in advanced visual effects and motion graphics.</text>
+
+</svg>

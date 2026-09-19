@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#F4F1EA"/>
+  <rect x="0" y="0" width="1200" height="8" fill="#4A5942"/>
+  <text x="600" y="60" font-family="Georgia, serif" font-size="14" font-weight="700" fill="#96845A" letter-spacing="3" text-anchor="middle">WEEKLY AI NEWS ROUNDUP</text>
+  <text x="600" y="100" font-family="Georgia, serif" font-size="28" font-weight="700" fill="#1A2416" text-anchor="middle">Week of May 12-15, 2026</text>
+  <line x1="200" y1="125" x2="1000" y2="125" stroke="#4A5942" stroke-width="1" opacity="0.3"/>
+  <rect x="60" y="150" width="340" height="130" rx="12" fill="white" stroke="#c0392b" stroke-width="1.5"/>
+  <text x="80" y="180" font-family="Georgia, serif" font-size="13" font-weight="700" fill="#c0392b">01 LAYOFFS</text>
+  <text x="80" y="210" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1A2416">Cloudflare: 1,100 Jobs Cut</text>
+  <text x="80" y="235" font-family="Georgia, serif" font-size="14" fill="#4A453E">Record $640M revenue, -20% staff</text>
+  <text x="80" y="260" font-family="Georgia, serif" font-size="14" fill="#4A453E">CEO: AI made roles unnecessary</text>
+  <rect x="430" y="150" width="340" height="130" rx="12" fill="white" stroke="#c0392b" stroke-width="1.5"/>
+  <text x="450" y="180" font-family="Georgia, serif" font-size="13" font-weight="700" fill="#c0392b">02 LAYOFFS</text>
+  <text x="450" y="210" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1A2416">Cisco: 4,000 Jobs Cut</text>
+  <text x="450" y="235" font-family="Georgia, serif" font-size="14" fill="#4A453E">Stock +17%, sharpest since 2002</text>
+  <text x="450" y="260" font-family="Georgia, serif" font-size="14" fill="#4A453E">Networking revenue surged 25%</text>
+  <rect x="800" y="150" width="340" height="130" rx="12" fill="white" stroke="#4A5942" stroke-width="1.5"/>
+  <text x="820" y="180" font-family="Georgia, serif" font-size="13" font-weight="700" fill="#96845A">03 PLATFORM</text>
+  <text x="820" y="210" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1A2416">iOS 27: Choose Your AI</text>
+  <text x="820" y="235" font-family="Georgia, serif" font-size="14" fill="#4A453E">Claude, Gemini, Grok on iPhone</text>
+  <text x="820" y="260" font-family="Georgia, serif" font-size="14" fill="#4A453E">WWDC June 8 for details</text>
+  <rect x="60" y="310" width="340" height="130" rx="12" fill="white" stroke="#6B7C5E" stroke-width="1.5"/>
+  <text x="80" y="340" font-family="Georgia, serif" font-size="13" font-weight="700" fill="#96845A">04 INFRASTRUCTURE</text>
+  <text x="80" y="370" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1A2416">Google + SpaceX: Space DCs</text>
+  <text x="80" y="395" font-family="Georgia, serif" font-size="14" fill="#4A453E">Project Suncatcher: TPU satellites</text>
+  <text x="80" y="420" font-family="Georgia, serif" font-size="14" fill="#4A453E">Prototype launches by 2027</text>
+  <rect x="430" y="310" width="340" height="130" rx="12" fill="white" stroke="#6B7C5E" stroke-width="1.5"/>
+  <text x="450" y="340" font-family="Georgia, serif" font-size="13" font-weight="700" fill="#96845A">05 API</text>
+  <text x="450" y="370" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1A2416">xAI Kills 8 Grok Models</text>
+  <text x="450" y="395" font-family="Georgia, serif" font-size="14" fill="#4A453E">All redirect to Grok 4.3</text>
+  <text x="450" y="420" font-family="Georgia, serif" font-size="14" fill="#4A453E">$1.25/$2.50 per M tokens</text>
+  <rect x="800" y="310" width="340" height="130" rx="12" fill="white" stroke="#6B7C5E" stroke-width="1.5"/>
+  <text x="820" y="340" font-family="Georgia, serif" font-size="13" font-weight="700" fill="#96845A">06 PRODUCT</text>
+  <text x="820" y="370" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1A2416">Gemini Intelligence Launches</text>
+  <text x="820" y="395" font-family="Georgia, serif" font-size="14" fill="#4A453E">Agentic AI baked into Android</text>
+  <text x="820" y="420" font-family="Georgia, serif" font-size="14" fill="#4A453E">Googlebooks laptops this fall</text>
+  <text x="600" y="505" font-family="Georgia, serif" font-size="16" font-weight="600" text-anchor="middle" fill="#4A5942">Record revenue + mass layoffs + platform wars = the new normal</text>
+  <text x="600" y="580" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#8A8577">rawpickai.com/blog</text>
+</svg>

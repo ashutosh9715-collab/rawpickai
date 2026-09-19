@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" role="img" aria-labelledby="title1">
+  <title id="title1">May 1 2026 AI Tool News Week Overview</title>
+  <rect width="800" height="420" fill="#F4F1EA"/>
+
+  <rect x="0" y="0" width="800" height="64" fill="#4A5942"/>
+  <text x="40" y="42" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#F4F1EA">Week of April 28 – May 1, 2026</text>
+  <text x="760" y="42" font-family="Georgia, serif" font-size="14" fill="#D4D0C0" text-anchor="end">RawPickAI weekly roundup</text>
+
+  <text x="40" y="110" font-family="Georgia, serif" font-size="28" font-weight="700" fill="#1A2416">Microsoft consolidates. Everyone else watches.</text>
+  <text x="40" y="138" font-family="Georgia, serif" font-size="16" fill="#4A453E">Three Microsoft moves this week. One story: enterprise AI stack closing fast.</text>
+
+  <g transform="translate(40, 170)">
+    <!-- Card 1 -->
+    <rect x="0" y="0" width="170" height="210" rx="10" fill="#FFFFFF" stroke="#D4D0C0" stroke-width="1"/>
+    <rect x="0" y="0" width="170" height="6" rx="3" fill="#4A5942"/>
+    <text x="14" y="32" font-family="Georgia, serif" font-size="11" font-weight="700" fill="#96845A">MAY 1 · MICROSOFT</text>
+    <text x="14" y="58" font-family="Georgia, serif" font-size="16" font-weight="700" fill="#1A2416">Agent 365</text>
+    <text x="14" y="78" font-family="Georgia, serif" font-size="16" font-weight="700" fill="#1A2416">ships GA</text>
+    <line x1="14" y1="92" x2="50" y2="92" stroke="#4A5942" stroke-width="2"/>
+    <text x="14" y="116" font-family="Georgia, serif" font-size="12" fill="#4A453E">First enterprise</text>
+    <text x="14" y="132" font-family="Georgia, serif" font-size="12" fill="#4A453E">governance layer for</text>
+    <text x="14" y="148" font-family="Georgia, serif" font-size="12" fill="#4A453E">AI agents. Identity,</text>
+    <text x="14" y="164" font-family="Georgia, serif" font-size="12" fill="#4A453E">audit, threat detection</text>
+    <text x="14" y="180" font-family="Georgia, serif" font-size="12" fill="#4A453E">in one product.</text>
+    <text x="14" y="198" font-family="Georgia, serif" font-size="10" font-weight="700" fill="#6B7C5E">GA · $15/mo</text>
+
+    <g transform="translate(180, 0)">
+      <rect x="0" y="0" width="170" height="210" rx="10" fill="#FFFFFF" stroke="#D4D0C0" stroke-width="1"/>
+      <rect x="0" y="0" width="170" height="6" rx="3" fill="#6B7C5E"/>
+      <text x="14" y="32" font-family="Georgia, serif" font-size="11" font-weight="700" fill="#96845A">MAY 1 · MICROSOFT</text>
+      <text x="14" y="58" font-family="Georgia, serif" font-size="16" font-weight="700" fill="#1A2416">E7 Frontier</text>
+      <text x="14" y="78" font-family="Georgia, serif" font-size="16" font-weight="700" fill="#1A2416">Suite</text>
+      <line x1="14" y1="92" x2="50" y2="92" stroke="#4A5942" stroke-width="2"/>
+      <text x="14" y="116" font-family="Georgia, serif" font-size="12" fill="#4A453E">First new M365</text>
+      <text x="14" y="132" font-family="Georgia, serif" font-size="12" fill="#4A453E">enterprise tier since</text>
+      <text x="14" y="148" font-family="Georgia, serif" font-size="12" fill="#4A453E">2015. Bundles E5 +</text>
+      <text x="14" y="164" font-family="Georgia, serif" font-size="12" fill="#4A453E">Copilot + Entra +</text>
+      <text x="14" y="180" font-family="Georgia, serif" font-size="12" fill="#4A453E">Agent 365.</text>
+      <text x="14" y="198" font-family="Georgia, serif" font-size="10" font-weight="700" fill="#6B7C5E">GA · $99/mo</text>
+    </g>
+
+    <g transform="translate(360, 0)">
+      <rect x="0" y="0" width="170" height="210" rx="10" fill="#FFFFFF" stroke="#D4D0C0" stroke-width="1"/>
+      <rect x="0" y="0" width="170" height="6" rx="3" fill="#96845A"/>
+      <text x="14" y="32" font-family="Georgia, serif" font-size="11" font-weight="700" fill="#96845A">APR 27 · MSFT × OAI</text>
+      <text x="14" y="58" font-family="Georgia, serif" font-size="16" font-weight="700" fill="#1A2416">Partnership</text>
+      <text x="14" y="78" font-family="Georgia, serif" font-size="16" font-weight="700" fill="#1A2416">restructure</text>
+      <line x1="14" y1="92" x2="50" y2="92" stroke="#4A5942" stroke-width="2"/>
+      <text x="14" y="116" font-family="Georgia, serif" font-size="12" fill="#4A453E">Azure exclusivity</text>
+      <text x="14" y="132" font-family="Georgia, serif" font-size="12" fill="#4A453E">ends. OpenAI free</text>
+      <text x="14" y="148" font-family="Georgia, serif" font-size="12" fill="#4A453E">to use AWS, Google.</text>
+      <text x="14" y="164" font-family="Georgia, serif" font-size="12" fill="#4A453E">Capped 20% rev</text>
+      <text x="14" y="180" font-family="Georgia, serif" font-size="12" fill="#4A453E">share through 2030.</text>
+      <text x="14" y="198" font-family="Georgia, serif" font-size="10" font-weight="700" fill="#6B7C5E">Closed deal</text>
+    </g>
+
+    <g transform="translate(540, 0)">
+      <rect x="0" y="0" width="170" height="210" rx="10" fill="#FFFFFF" stroke="#D4D0C0" stroke-width="1"/>
+      <rect x="0" y="0" width="170" height="6" rx="3" fill="#2D3A28"/>
+      <text x="14" y="32" font-family="Georgia, serif" font-size="11" font-weight="700" fill="#96845A">APR 28-29 · MULTIPLE</text>
+      <text x="14" y="58" font-family="Georgia, serif" font-size="16" font-weight="700" fill="#1A2416">Shapes,</text>
+      <text x="14" y="78" font-family="Georgia, serif" font-size="16" font-weight="700" fill="#1A2416">Gemini, MiMo</text>
+      <line x1="14" y1="92" x2="50" y2="92" stroke="#4A5942" stroke-width="2"/>
+      <text x="14" y="116" font-family="Georgia, serif" font-size="12" fill="#4A453E">$8M for AI group</text>
+      <text x="14" y="132" font-family="Georgia, serif" font-size="12" fill="#4A453E">chats. Crypto agents</text>
+      <text x="14" y="148" font-family="Georgia, serif" font-size="12" fill="#4A453E">on Gemini exchange.</text>
+      <text x="14" y="164" font-family="Georgia, serif" font-size="12" fill="#4A453E">Xiaomi opens MiMo</text>
+      <text x="14" y="180" font-family="Georgia, serif" font-size="12" fill="#4A453E">2.5 (1M context).</text>
+      <text x="14" y="198" font-family="Georgia, serif" font-size="10" font-weight="700" fill="#6B7C5E">Mixed status</text>
+    </g>
+  </g>
+</svg>

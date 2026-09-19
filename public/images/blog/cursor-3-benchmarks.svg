@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+  <rect width="800" height="460" rx="12" fill="#F4F1EA"/>
+
+  <text x="40" y="40" fill="#1A2416" font-size="18" font-weight="700">Cursor 3 vs The Competition: Task Completion Time</text>
+  <text x="40" y="62" fill="#8b8fa3" font-size="13">Same tasks, measured in minutes. Lower is better. Tested April 2026.</text>
+
+  <!-- Legend -->
+  <rect x="420" y="26" width="12" height="12" rx="3" fill="#c97b3a"/>
+  <text x="438" y="37" fill="#c4c7d4" font-size="11">Cursor 3</text>
+  <rect x="510" y="26" width="12" height="12" rx="3" fill="#3a6b8c"/>
+  <text x="528" y="37" fill="#c4c7d4" font-size="11">Claude Code</text>
+  <rect x="610" y="26" width="12" height="12" rx="3" fill="#3a4a6b"/>
+  <text x="628" y="37" fill="#c4c7d4" font-size="11">Cursor 2</text>
+  <rect x="700" y="26" width="12" height="12" rx="3" fill="#4a3a5e"/>
+  <text x="718" y="37" fill="#c4c7d4" font-size="11">Copilot</text>
+
+  <!-- Task 1: Build REST API -->
+  <text x="40" y="108" fill="#c4c7d4" font-size="12" font-weight="600">Build REST API</text>
+  <text x="40" y="122" fill="#5a5e72" font-size="10">(Flask + auth)</text>
+  <rect x="200" y="96" width="120" height="20" rx="4" fill="#c97b3a"/>
+  <text x="328" y="111" fill="#c97b3a" font-size="11" font-weight="700">4 min</text>
+  <rect x="200" y="120" width="150" height="20" rx="4" fill="#3a6b8c"/>
+  <text x="358" y="135" fill="#3a6b8c" font-size="11">5 min</text>
+  <rect x="200" y="144" width="210" height="20" rx="4" fill="#3a4a6b"/>
+  <text x="418" y="159" fill="#5a5e72" font-size="11">7 min</text>
+  <rect x="200" y="168" width="330" height="20" rx="4" fill="#4a3a5e"/>
+  <text x="538" y="183" fill="#5a5e72" font-size="11">11 min</text>
+
+  <!-- Task 2: Debug JS file -->
+  <text x="40" y="222" fill="#c4c7d4" font-size="12" font-weight="600">Debug 200-line JS</text>
+  <text x="40" y="236" fill="#5a5e72" font-size="10">(3 bugs)</text>
+  <rect x="200" y="210" width="66" height="20" rx="4" fill="#c97b3a"/>
+  <text x="274" y="225" fill="#c97b3a" font-size="11" font-weight="700">1.5 min</text>
+  <rect x="200" y="234" width="88" height="20" rx="4" fill="#3a6b8c"/>
+  <text x="296" y="249" fill="#3a6b8c" font-size="11">2 min</text>
+  <rect x="200" y="258" width="132" height="20" rx="4" fill="#3a4a6b"/>
+  <text x="340" y="273" fill="#5a5e72" font-size="11">3 min</text>
+  <rect x="200" y="282" width="220" height="20" rx="4" fill="#4a3a5e"/>
+  <text x="428" y="297" fill="#5a5e72" font-size="11">5 min</text>
+
+  <!-- Task 3: Write test suite -->
+  <text x="40" y="336" fill="#c4c7d4" font-size="12" font-weight="600">Write test suite</text>
+  <text x="40" y="350" fill="#5a5e72" font-size="10">(25 tests)</text>
+  <rect x="200" y="324" width="192" height="20" rx="4" fill="#c97b3a"/>
+  <text x="400" y="339" fill="#c97b3a" font-size="11" font-weight="700">8 min</text>
+  <rect x="200" y="348" width="240" height="20" rx="4" fill="#3a6b8c"/>
+  <text x="448" y="363" fill="#3a6b8c" font-size="11">10 min</text>
+  <rect x="200" y="372" width="336" height="20" rx="4" fill="#3a4a6b"/>
+  <text x="544" y="387" fill="#5a5e72" font-size="11">14 min</text>
+  <rect x="200" y="396" width="432" height="20" rx="4" fill="#4a3a5e"/>
+  <text x="640" y="411" fill="#5a5e72" font-size="11">18 min</text>
+
+  <!-- First-try success callout -->
+  <rect x="40" y="428" width="720" height="26" rx="6" fill="#1a1d2a"/>
+  <text x="56" y="446" fill="#8b8fa3" font-size="12">First-try success rate:</text>
+  <text x="210" y="446" fill="#c97b3a" font-size="12" font-weight="700">Cursor 3: 82%</text>
+  <text x="370" y="446" fill="#3a6b8c" font-size="12">Claude Code: 79%</text>
+  <text x="530" y="446" fill="#5a5e72" font-size="12">Cursor 2: 71%</text>
+  <text x="670" y="446" fill="#5a5e72" font-size="12">Copilot: 58%</text>
+</svg>

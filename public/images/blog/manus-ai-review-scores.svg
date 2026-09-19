@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+  <rect width="800" height="320" rx="12" fill="#F4F1EA"/>
+
+  <!-- Overall score ring -->
+  <circle cx="120" cy="160" r="70" fill="none" stroke="#1a1d2a" stroke-width="10"/>
+  <circle cx="120" cy="160" r="70" fill="none" stroke="#c97b3a" stroke-width="10"
+    stroke-dasharray="334" stroke-dashoffset="67" stroke-linecap="round"
+    transform="rotate(-90 120 160)"/>
+  <text x="120" y="152" fill="#1A2416" font-size="36" font-weight="700" text-anchor="middle">3.8</text>
+  <text x="120" y="174" fill="#8b8fa3" font-size="14" text-anchor="middle">out of 5</text>
+  <text x="120" y="254" fill="#c97b3a" font-size="13" font-weight="600" text-anchor="middle">OVERALL SCORE</text>
+
+  <!-- Score bars -->
+  <!-- Feature Depth: 85 -->
+  <text x="260" y="72" fill="#c4c7d4" font-size="12" font-weight="500">Feature Depth</text>
+  <text x="740" y="72" fill="#1A2416" font-size="12" font-weight="700" text-anchor="end">85</text>
+  <rect x="260" y="80" width="480" height="10" rx="5" fill="#1a1d2a"/>
+  <rect x="260" y="80" width="408" height="10" rx="5" fill="#3a8c5e"/>
+
+  <!-- Ease of Use: 82 -->
+  <text x="260" y="118" fill="#c4c7d4" font-size="12" font-weight="500">Ease of Use</text>
+  <text x="740" y="118" fill="#1A2416" font-size="12" font-weight="700" text-anchor="end">82</text>
+  <rect x="260" y="126" width="480" height="10" rx="5" fill="#1a1d2a"/>
+  <rect x="260" y="126" width="394" height="10" rx="5" fill="#3a8c5e"/>
+
+  <!-- Output Quality: 78 -->
+  <text x="260" y="164" fill="#c4c7d4" font-size="12" font-weight="500">Output Quality</text>
+  <text x="740" y="164" fill="#1A2416" font-size="12" font-weight="700" text-anchor="end">78</text>
+  <rect x="260" y="172" width="480" height="10" rx="5" fill="#1a1d2a"/>
+  <rect x="260" y="172" width="374" height="10" rx="5" fill="#c97b3a"/>
+
+  <!-- Free Tier: 60 -->
+  <text x="260" y="210" fill="#c4c7d4" font-size="12" font-weight="500">Free Tier</text>
+  <text x="740" y="210" fill="#1A2416" font-size="12" font-weight="700" text-anchor="end">60</text>
+  <rect x="260" y="218" width="480" height="10" rx="5" fill="#1a1d2a"/>
+  <rect x="260" y="218" width="288" height="10" rx="5" fill="#c97b3a"/>
+
+  <!-- Value for Money: 55 -->
+  <text x="260" y="256" fill="#c4c7d4" font-size="12" font-weight="500">Value for Money</text>
+  <text x="740" y="256" fill="#1A2416" font-size="12" font-weight="700" text-anchor="end">55</text>
+  <rect x="260" y="264" width="480" height="10" rx="5" fill="#1a1d2a"/>
+  <rect x="260" y="264" width="264" height="10" rx="5" fill="#8c3a3a"/>
+
+  <!-- Footer -->
+  <text x="400" y="306" fill="#5a5e72" font-size="11" text-anchor="middle">Manus AI Review  -  rawpickai.com</text>
+</svg>

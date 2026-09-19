@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+  <rect width="900" height="480" rx="12" fill="#F4F1EA"/>
+
+  <text x="450" y="36" fill="#3A3228" font-size="18" font-weight="700" text-anchor="middle">Perplexity vs ChatGPT vs Gemini</text>
+  <text x="450" y="56" fill="#8A8577" font-size="13" text-anchor="middle">How they compare across research and writing  -  May 2026</text>
+
+  <!-- Header row -->
+  <rect x="20" y="76" width="220" height="40" rx="6" fill="#4A5942"/>
+  <rect x="240" y="76" width="220" height="40" rx="6" fill="#4A5942"/>
+  <rect x="460" y="76" width="220" height="40" rx="6" fill="#4A5942"/>
+  <rect x="680" y="76" width="200" height="40" rx="6" fill="#4A5942"/>
+
+  <text x="130" y="104" fill="#F4F1EA" font-size="13" font-weight="700" text-anchor="middle">Task</text>
+  <text x="350" y="104" fill="#F4F1EA" font-size="13" font-weight="700" text-anchor="middle">Perplexity</text>
+  <text x="570" y="104" fill="#F4F1EA" font-size="13" font-weight="700" text-anchor="middle">ChatGPT</text>
+  <text x="780" y="104" fill="#F4F1EA" font-size="13" font-weight="700" text-anchor="middle">Gemini</text>
+
+  <!-- Row 1: Factual research -->
+  <rect x="20" y="124" width="220" height="40" rx="6" fill="#FFFFFF" stroke="#DDD8CE" stroke-width="1"/>
+  <rect x="240" y="124" width="220" height="40" rx="6" fill="#FFFFFF" stroke="#DDD8CE" stroke-width="1"/>
+  <rect x="460" y="124" width="220" height="40" rx="6" fill="#FFFFFF" stroke="#DDD8CE" stroke-width="1"/>
+  <rect x="680" y="124" width="200" height="40" rx="6" fill="#FFFFFF" stroke="#DDD8CE" stroke-width="1"/>
+
+  <text x="130" y="152" fill="#3A3228" font-size="12" font-weight="600" text-anchor="middle">Factual research</text>
+  <text x="350" y="152" fill="#4A5942" font-size="12" font-weight="700" text-anchor="middle">Excellent</text>
+  <text x="570" y="152" fill="#6B7C5E" font-size="12" font-weight="700" text-anchor="middle">Good</text>
+  <text x="780" y="152" fill="#6B7C5E" font-size="12" font-weight="700" text-anchor="middle">Good</text>
+
+  <!-- Row 2: Citations and sources -->
+  <rect x="20" y="172" width="220" height="40" rx="6" fill="#FFFFFF" stroke="#DDD8CE" stroke-width="1"/>
+  <rect x="240" y="172" width="220" height="40" rx="6" fill="#FFFFFF" stroke="#DDD8CE" stroke-width="1"/>
+  <rect x="460" y="172" width="220" height="40" rx="6" fill="#FFFFFF" stroke="#DDD8CE" stroke-width="1"/>
+  <rect x="680" y="172" width="200" height="40" rx="6" fill="#FFFFFF" stroke="#DDD8CE" stroke-width="1"/>
+
+  <text x="130" y="200" fill="#3A3228" font-size="12" font-weight="600" text-anchor="middle">Citations/sources</text>
+  <text x="350" y="200" fill="#4A5942" font-size="12" font-weight="700" text-anchor="middle">Built-in</text>
+  <text x="570" y="200" fill="#96845A" font-size="12" font-weight="700" text-anchor="middle">Needs hunting</text>
+  <text x="780" y="200" fill="#6B7C5E" font-size="12" font-weight="700" text-anchor="middle">Good</text>
+
+  <!-- Row 3: Content writing -->
+  <rect x="20" y="220" width="220" height="40" rx="6" fill="#FFFFFF" stroke="#DDD8CE" stroke-width="1"/>
+  <rect x="240" y="220" width="220" height="40" rx="6" fill="#FFFFFF" stroke="#DDD8CE" stroke-width="1"/>
+  <rect x="460" y="220" width="220" height="40" rx="6" fill="#FFFFFF" stroke="#DDD8CE" stroke-width="1"/>
+  <rect x="680" y="220" width="200" height="40" rx="6" fill="#FFFFFF" stroke="#DDD8CE" stroke-width="1"/>
+
+  <text x="130" y="248" fill="#3A3228" font-size="12" font-weight="600" text-anchor="middle">Content writing</text>
+  <text x="350" y="248" fill="#96845A" font-size="12" font-weight="700" text-anchor="middle">Fair</text>
+  <text x="570" y="248" fill="#4A5942" font-size="12" font-weight="700" text-anchor="middle">Excellent</text>
+  <text x="780" y="248" fill="#6B7C5E" font-size="12" font-weight="700" text-anchor="middle">Good</text>
+
+  <!-- Row 4: Current events -->
+  <rect x="20" y="268" width="220" height="40" rx="6" fill="#FFFFFF" stroke="#DDD8CE" stroke-width="1"/>
+  <rect x="240" y="268" width="220" height="40" rx="6" fill="#FFFFFF" stroke="#DDD8CE" stroke-width="1"/>
+  <rect x="460" y="268" width="220" height="40" rx="6" fill="#FFFFFF" stroke="#DDD8CE" stroke-width="1"/>
+  <rect x="680" y="268" width="200" height="40" rx="6" fill="#FFFFFF" stroke="#DDD8CE" stroke-width="1"/>
+
+  <text x="130" y="296" fill="#3A3228" font-size="12" font-weight="600" text-anchor="middle">Current events</text>
+  <text x="350" y="296" fill="#4A5942" font-size="12" font-weight="700" text-anchor="middle">Very good</text>
+  <text x="570" y="296" fill="#6B7C5E" font-size="12" font-weight="700" text-anchor="middle">Good</text>
+  <text x="780" y="296" fill="#6B7C5E" font-size="12" font-weight="700" text-anchor="middle">Good</text>
+
+  <!-- Row 5: Code assistance -->
+  <rect x="20" y="316" width="220" height="40" rx="6" fill="#FFFFFF" stroke="#DDD8CE" stroke-width="1"/>
+  <rect x="240" y="316" width="220" height="40" rx="6" fill="#FFFFFF" stroke="#DDD8CE" stroke-width="1"/>
+  <rect x="460" y="316" width="220" height="40" rx="6" fill="#FFFFFF" stroke="#DDD8CE" stroke-width="1"/>
+  <rect x="680" y="316" width="200" height="40" rx="6" fill="#FFFFFF" stroke="#DDD8CE" stroke-width="1"/>
+
+  <text x="130" y="344" fill="#3A3228" font-size="12" font-weight="600" text-anchor="middle">Code assistance</text>
+  <text x="350" y="344" fill="#96845A" font-size="12" font-weight="700" text-anchor="middle">Fair</text>
+  <text x="570" y="344" fill="#4A5942" font-size="12" font-weight="700" text-anchor="middle">Excellent</text>
+  <text x="780" y="344" fill="#6B7C5E" font-size="12" font-weight="700" text-anchor="middle">Good</text>
+
+  <!-- Row 6: Real-time info -->
+  <rect x="20" y="364" width="220" height="40" rx="6" fill="#FFFFFF" stroke="#DDD8CE" stroke-width="1"/>
+  <rect x="240" y="364" width="220" height="40" rx="6" fill="#FFFFFF" stroke="#DDD8CE" stroke-width="1"/>
+  <rect x="460" y="364" width="220" height="40" rx="6" fill="#FFFFFF" stroke="#DDD8CE" stroke-width="1"/>
+  <rect x="680" y="364" width="200" height="40" rx="6" fill="#FFFFFF" stroke="#DDD8CE" stroke-width="1"/>
+
+  <text x="130" y="392" fill="#3A3228" font-size="12" font-weight="600" text-anchor="middle">Real-time info</text>
+  <text x="350" y="392" fill="#4A5942" font-size="12" font-weight="700" text-anchor="middle">Live search</text>
+  <text x="570" y="392" fill="#96845A" font-size="12" font-weight="700" text-anchor="middle">Through plugins</text>
+  <text x="780" y="392" fill="#4A5942" font-size="12" font-weight="700" text-anchor="middle">Native</text>
+
+  <!-- Row 7: Creative tasks -->
+  <rect x="20" y="412" width="220" height="40" rx="6" fill="#FFFFFF" stroke="#DDD8CE" stroke-width="1"/>
+  <rect x="240" y="412" width="220" height="40" rx="6" fill="#FFFFFF" stroke="#DDD8CE" stroke-width="1"/>
+  <rect x="460" y="412" width="220" height="40" rx="6" fill="#FFFFFF" stroke="#DDD8CE" stroke-width="1"/>
+  <rect x="680" y="412" width="200" height="40" rx="6" fill="#FFFFFF" stroke="#DDD8CE" stroke-width="1"/>
+
+  <text x="130" y="440" fill="#3A3228" font-size="12" font-weight="600" text-anchor="middle">Creative tasks</text>
+  <text x="350" y="440" fill="#96845A" font-size="12" font-weight="700" text-anchor="middle">Limited</text>
+  <text x="570" y="440" fill="#4A5942" font-size="12" font-weight="700" text-anchor="middle">Excellent</text>
+  <text x="780" y="440" fill="#6B7C5E" font-size="12" font-weight="700" text-anchor="middle">Good</text>
+
+  <!-- Legend -->
+  <text x="20" y="472" fill="#8A8577" font-size="11">Scale: Excellent = Best in class | Very good = Competitive | Good = Usable | Fair = Limited | Poor = Avoid</text>
+</svg>

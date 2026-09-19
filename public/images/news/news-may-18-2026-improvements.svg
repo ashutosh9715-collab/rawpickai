@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200">
+  <rect width="900" height="200" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#4A5942" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">Composer 2 → 2.5: What Changed</text>
+  <rect x="50" y="55" width="250" height="110" rx="10" fill="white" stroke="#22c55e" stroke-width="1.5"/>
+  <text x="175" y="82" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#22c55e">SWE-Bench Multi</text>
+  <text x="175" y="115" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B6960">73.7% → 79.8%</text>
+  <text x="175" y="140" font-family="Georgia, serif" font-size="18" font-weight="700" text-anchor="middle" fill="#22c55e">+6.1 pts ↑</text>
+  <rect x="330" y="55" width="250" height="110" rx="10" fill="white" stroke="#22c55e" stroke-width="1.5"/>
+  <text x="455" y="82" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#22c55e">Terminal-Bench</text>
+  <text x="455" y="115" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B6960">61.7% → 69.3%</text>
+  <text x="455" y="140" font-family="Georgia, serif" font-size="18" font-weight="700" text-anchor="middle" fill="#22c55e">+7.6 pts ↑</text>
+  <rect x="610" y="55" width="250" height="110" rx="10" fill="white" stroke="#22c55e" stroke-width="1.5"/>
+  <text x="735" y="82" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#22c55e">CursorBench v3.1</text>
+  <text x="735" y="115" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B6960">52.2% → 63.2%</text>
+  <text x="735" y="140" font-family="Georgia, serif" font-size="18" font-weight="700" text-anchor="middle" fill="#22c55e">+11.0 pts ↑</text>
+  <text x="450" y="190" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Same Kimi K2.5 base model · 25x more synthetic training · 85% compute on Cursor's own RL stack</text>
+</svg>

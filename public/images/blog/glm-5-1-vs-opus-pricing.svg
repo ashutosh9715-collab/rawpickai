@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+  <rect width="800" height="380" rx="12" fill="#F4F1EA"/>
+
+  <text x="40" y="40" fill="#1A2416" font-size="18" font-weight="700">API &amp; Subscription Cost: GLM-5.1 vs Claude Opus 4.6</text>
+  <text x="40" y="60" fill="#8b8fa3" font-size="13">Token pricing and entry-tier subscription comparison  -  April 2026</text>
+
+  <!-- Legend -->
+  <rect x="580" y="26" width="14" height="14" rx="3" fill="#3a8c5e"/>
+  <text x="600" y="38" fill="#c4c7d4" font-size="12">GLM-5.1</text>
+  <rect x="580" y="48" width="14" height="14" rx="3" fill="#c97b3a"/>
+  <text x="600" y="60" fill="#c4c7d4" font-size="12">Claude Opus 4.6</text>
+
+  <!-- Output tokens -->
+  <text x="40" y="112" fill="#c4c7d4" font-size="14" font-weight="600">Output tokens (per 1M)</text>
+  <rect x="220" y="92" width="490" height="30" rx="6" fill="#c97b3a"/>
+  <text x="718" y="112" fill="#1A2416" font-size="13" font-weight="700" text-anchor="end">$25.00</text>
+  <rect x="220" y="130" width="86" height="30" rx="6" fill="#3a8c5e"/>
+  <text x="316" y="150" fill="#3a8c5e" font-size="13" font-weight="700">$4.40</text>
+  <text x="386" y="150" fill="#5a5e72" font-size="12">5.7x cheaper</text>
+
+  <!-- Input tokens -->
+  <text x="40" y="210" fill="#c4c7d4" font-size="14" font-weight="600">Input tokens (per 1M)</text>
+  <rect x="220" y="190" width="294" height="30" rx="6" fill="#c97b3a"/>
+  <text x="522" y="210" fill="#c97b3a" font-size="13" font-weight="700">$5.00</text>
+  <rect x="220" y="228" width="82" height="30" rx="6" fill="#3a8c5e"/>
+  <text x="312" y="248" fill="#3a8c5e" font-size="13" font-weight="700">$1.40</text>
+  <text x="382" y="248" fill="#5a5e72" font-size="12">3.6x cheaper</text>
+
+  <!-- Coding plan / subscription -->
+  <text x="40" y="308" fill="#c4c7d4" font-size="14" font-weight="600">Entry plan (per month)</text>
+  <rect x="220" y="288" width="130" height="30" rx="6" fill="#c97b3a"/>
+  <text x="358" y="308" fill="#c97b3a" font-size="13" font-weight="700">$20/mo</text>
+  <text x="416" y="308" fill="#5a5e72" font-size="11">Claude Pro (≈₹1,860)</text>
+  <rect x="220" y="326" width="59" height="30" rx="6" fill="#3a8c5e"/>
+  <text x="287" y="346" fill="#3a8c5e" font-size="13" font-weight="700">$9/mo</text>
+  <text x="338" y="346" fill="#5a5e72" font-size="11">GLM Lite quarterly (≈₹837)  -  2.2x cheaper</text>
+
+  <!-- Footer -->
+  <text x="40" y="374" fill="#5a5e72" font-size="11">Sources: z.ai/subscribe, Anthropic API pricing  -  rawpickai.com</text>
+</svg>

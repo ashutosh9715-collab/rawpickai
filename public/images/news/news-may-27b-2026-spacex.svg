@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="900" height="160">
+  <rect width="900" height="160" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#96845A" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">SpaceX IPO Timeline: Largest in History</text>
+  <rect x="60" y="55" width="185" height="75" rx="8" fill="white" stroke="#6B6960" stroke-width="1"/>
+  <text x="152" y="80" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#6B6960">June 4</text>
+  <text x="152" y="100" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Investor roadshow</text>
+  <text x="152" y="118" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">begins</text>
+  <rect x="265" y="55" width="185" height="75" rx="8" fill="white" stroke="#96845A" stroke-width="1.5"/>
+  <text x="357" y="80" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#96845A">June 11</text>
+  <text x="357" y="100" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">IPO pricing</text>
+  <text x="357" y="118" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">Goldman Sachs lead</text>
+  <rect x="470" y="55" width="185" height="75" rx="8" fill="white" stroke="#4A5942" stroke-width="2"/>
+  <text x="562" y="80" font-family="Georgia, serif" font-size="12" font-weight="700" text-anchor="middle" fill="#4A5942">June 12</text>
+  <text x="562" y="100" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">SPCX begins trading</text>
+  <text x="562" y="118" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#4A5942">Nasdaq</text>
+  <rect x="675" y="55" width="185" height="75" rx="8" fill="white" stroke="#6B7C5E" stroke-width="1"/>
+  <text x="767" y="80" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#6B7C5E">Target raise</text>
+  <text x="767" y="100" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">$75B at $1.75T</text>
+  <text x="767" y="118" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">30% to retail investors</text>
+  <text x="450" y="152" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Surpasses Saudi Aramco 2019 ($35.4B) as largest IPO in capital markets history if it hits target</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="1200" height="293">
+  <rect width="900" height="220" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#4A5942" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">DeeVid AI Models — What Each One Does</text>
+  <rect x="40" y="55" width="185" height="135" rx="10" fill="white" stroke="#6B6960" stroke-width="1"/>
+  <text x="132" y="82" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#6B6960">Fast V2.0</text>
+  <text x="132" y="105" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Fastest generation</text>
+  <text x="132" y="123" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Basic quality</text>
+  <text x="132" y="145" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">5 credits/video</text>
+  <text x="132" y="162" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">Good for drafts</text>
+  <rect x="245" y="55" width="185" height="135" rx="10" fill="white" stroke="#96845A" stroke-width="1.5"/>
+  <text x="337" y="82" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#96845A">Master V2.0</text>
+  <text x="337" y="105" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Realistic humans</text>
+  <text x="337" y="123" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Multi-camera support</text>
+  <text x="337" y="145" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">20 credits/video</text>
+  <text x="337" y="162" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#96845A">Best for people scenes</text>
+  <rect x="450" y="55" width="185" height="135" rx="10" fill="white" stroke="#6B7C5E" stroke-width="1.5"/>
+  <text x="542" y="82" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#6B7C5E">Sora2</text>
+  <text x="542" y="105" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Auto storyboarding</text>
+  <text x="542" y="123" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Audio support</text>
+  <text x="542" y="145" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">10 credits/video</text>
+  <text x="542" y="162" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B7C5E">Best for consistency</text>
+  <rect x="655" y="55" width="205" height="135" rx="10" fill="white" stroke="#4A5942" stroke-width="2"/>
+  <text x="757" y="82" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#4A5942">Master V4.0</text>
+  <text x="757" y="105" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Top model, audio</text>
+  <text x="757" y="123" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Great storyboarding</text>
+  <text x="757" y="145" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">Highest credit cost</text>
+  <text x="757" y="162" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#4A5942">Best output quality</text>
+  <text x="450" y="210" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Tested: Master V2.0 and Sora2 on identical prompt. Master V2.0 produced more realistic human faces and hands.</text>
+</svg>

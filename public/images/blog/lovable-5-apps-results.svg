@@ -1,0 +1,53 @@
+<svg viewBox="0 0 700 340" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="340" rx="12" fill="#F4F1EA"/>
+  <text x="350" y="35" font-family="Inter, system-ui, sans-serif" font-size="20" font-weight="700" fill="#4A5942" text-anchor="middle">The 5 Apps I Built on Lovable</text>
+
+  <!-- Header row -->
+  <rect x="30" y="55" width="640" height="32" rx="6" fill="#4A5942"/>
+  <text x="50" y="76" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="600" fill="#F4F1EA">App</text>
+  <text x="280" y="76" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="600" fill="#F4F1EA">Time</text>
+  <text x="390" y="76" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="600" fill="#F4F1EA">Prompts</text>
+  <text x="500" y="76" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="600" fill="#F4F1EA">Result</text>
+
+  <!-- Row 1: Habit Tracker -->
+  <rect x="30" y="92" width="640" height="40" rx="0" fill="#F4F1EA"/>
+  <text x="50" y="117" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#3A3228">Habit Tracker</text>
+  <text x="280" y="117" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#3A3228">4 min</text>
+  <text x="390" y="117" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#3A3228">3</text>
+  <rect x="500" y="104" width="70" height="22" rx="11" fill="#6B7C5E"/>
+  <text x="535" y="119" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="600" fill="#F4F1EA" text-anchor="middle">Shipped</text>
+
+  <!-- Row 2: Invoice Generator -->
+  <rect x="30" y="136" width="640" height="40" rx="0" fill="#EDE9E0"/>
+  <text x="50" y="161" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#3A3228">Invoice Generator</text>
+  <text x="280" y="161" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#3A3228">12 min</text>
+  <text x="390" y="161" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#3A3228">8</text>
+  <rect x="500" y="148" width="70" height="22" rx="11" fill="#6B7C5E"/>
+  <text x="535" y="163" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="600" fill="#F4F1EA" text-anchor="middle">Shipped</text>
+
+  <!-- Row 3: Booking System -->
+  <rect x="30" y="180" width="640" height="40" rx="0" fill="#F4F1EA"/>
+  <text x="50" y="205" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#3A3228">Booking System</text>
+  <text x="280" y="205" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#3A3228">25 min</text>
+  <text x="390" y="205" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#3A3228">14</text>
+  <rect x="500" y="192" width="70" height="22" rx="11" fill="#96845A"/>
+  <text x="535" y="207" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="600" fill="#F4F1EA" text-anchor="middle">Partial</text>
+
+  <!-- Row 4: Event RSVP -->
+  <rect x="30" y="224" width="640" height="40" rx="0" fill="#EDE9E0"/>
+  <text x="50" y="249" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#3A3228">Event RSVP App</text>
+  <text x="280" y="249" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#3A3228">8 min</text>
+  <text x="390" y="249" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#3A3228">5</text>
+  <rect x="500" y="236" width="70" height="22" rx="11" fill="#6B7C5E"/>
+  <text x="535" y="251" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="600" fill="#F4F1EA" text-anchor="middle">Shipped</text>
+
+  <!-- Row 5: E-commerce -->
+  <rect x="30" y="268" width="640" height="40" rx="0" fill="#F4F1EA"/>
+  <text x="50" y="293" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#3A3228">E-commerce Store</text>
+  <text x="280" y="293" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#3A3228">40+ min</text>
+  <text x="390" y="293" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#3A3228">20+</text>
+  <rect x="500" y="280" width="70" height="22" rx="11" fill="#8A4242"/>
+  <text x="535" y="295" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="600" fill="#F4F1EA" text-anchor="middle">Broke</text>
+
+  <text x="350" y="330" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#8A8577" text-anchor="middle">3 shipped clean, 1 partial (needed fixes), 1 broke completely</text>
+</svg>

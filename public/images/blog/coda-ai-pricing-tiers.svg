@@ -1,0 +1,61 @@
+<svg viewBox="0 0 750 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #F4F1EA; }
+      .card-bg { fill: #FFFFFF; stroke: #DDD8CE; stroke-width: 2; }
+      .card-highlight { fill: #F0EDE4; }
+      .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 16px; font-weight: 600; fill: #4A5942; }
+      .price { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 24px; font-weight: 700; fill: #4A5942; }
+      .subtitle { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; fill: #8A8577; }
+      .feature { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; fill: #3A3228; }
+      .page-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 22px; font-weight: 600; fill: #4A5942; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="750" height="280" rx="12" />
+  <text x="40" y="35" class="page-title">Coda AI Pricing (Doc Maker Model)</text>
+
+  <g id="free">
+    <rect x="40" y="60" width="150" height="200" rx="8" class="card-highlight" />
+    <rect x="40" y="60" width="150" height="200" rx="8" class="card-bg" />
+    <text x="115" y="90" text-anchor="middle" class="title">Free</text>
+    <text x="115" y="115" text-anchor="middle" class="price">$0</text>
+    <text x="115" y="135" text-anchor="middle" class="subtitle">For exploration</text>
+    <text x="60" y="160" class="feature">✓ Basic features</text>
+    <text x="60" y="180" class="feature">✓ Limited rows</text>
+    <text x="60" y="200" class="feature">✓ Limited objects</text>
+    <text x="60" y="220" class="feature">✓ Prototype</text>
+  </g>
+
+  <g id="pro">
+    <rect x="210" y="60" width="160" height="200" rx="8" class="card-bg" />
+    <text x="290" y="90" text-anchor="middle" class="title">Pro Doc Maker</text>
+    <text x="290" y="115" text-anchor="middle" class="price">$10</text>
+    <text x="290" y="135" text-anchor="middle" class="subtitle">/month (annual)</text>
+    <text x="230" y="160" class="feature">✓ AI included</text>
+    <text x="230" y="180" class="feature">✓ Unlimited docs</text>
+    <text x="230" y="200" class="feature">✓ Formula gen</text>
+    <text x="230" y="220" class="feature">✓ Viewers free</text>
+  </g>
+
+  <g id="team">
+    <rect x="390" y="60" width="160" height="200" rx="8" class="card-bg" />
+    <text x="470" y="90" text-anchor="middle" class="title">Team</text>
+    <text x="470" y="115" text-anchor="middle" class="price">$30</text>
+    <text x="470" y="135" text-anchor="middle" class="subtitle">/month/maker</text>
+    <text x="410" y="160" class="feature">✓ Everything</text>
+    <text x="410" y="180" class="feature">✓ Team admin</text>
+    <text x="410" y="200" class="feature">✓ Analytics</text>
+    <text x="410" y="220" class="feature">✓ Collaboration</text>
+  </g>
+
+  <g id="note">
+    <rect x="570" y="60" width="160" height="200" rx="8" fill="#F9F6F1" stroke="#DDD8CE" stroke-width="1" stroke-dasharray="4,4" />
+    <text x="650" y="100" text-anchor="middle" class="title" style="font-size: 13px;">Doc Maker</text>
+    <text x="650" y="120" text-anchor="middle" class="title" style="font-size: 13px;">Revolution</text>
+    <text x="590" y="150" class="subtitle" style="font-size: 11px;">Only creators pay.</text>
+    <text x="590" y="170" class="subtitle" style="font-size: 11px;">Viewers, commenters,</text>
+    <text x="590" y="190" class="subtitle" style="font-size: 11px;">and stakeholders get</text>
+    <text x="590" y="210" class="subtitle" style="font-size: 11px;">access free.</text>
+  </g>
+</svg>

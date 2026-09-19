@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" width="1200" height="347">
+  <rect width="900" height="260" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#4A5942" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">Zapier vs Make vs n8n: 2026 Comparison</text>
+  <rect x="40" y="55" width="820" height="28" rx="6" fill="#4A5942"/>
+  <text x="185" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">Feature</text>
+  <text x="400" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">Zapier</text>
+  <text x="580" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">Make</text>
+  <text x="760" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">n8n</text>
+  <rect x="40" y="87" width="820" height="28" fill="white" rx="3"/>
+  <text x="185" y="106" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Integrations</text>
+  <text x="400" y="106" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#4A5942">8,500+</text>
+  <text x="580" y="106" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">1,800+</text>
+  <text x="760" y="106" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">400+</text>
+  <rect x="40" y="119" width="820" height="28" fill="#F9F7F2" rx="3"/>
+  <text x="185" y="138" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Ease of use</text>
+  <text x="400" y="138" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#4A5942">Easiest</text>
+  <text x="580" y="138" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">Medium</text>
+  <text x="760" y="138" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">Technical</text>
+  <rect x="40" y="151" width="820" height="28" fill="white" rx="3"/>
+  <text x="185" y="170" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Entry price (750 tasks)</text>
+  <text x="400" y="170" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#c0392b">$19.99/mo (≈₹1,859)</text>
+  <text x="580" y="170" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#22c55e">$7.65/mo (≈₹711)</text>
+  <text x="760" y="170" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#22c55e">Free (self-host)</text>
+  <rect x="40" y="183" width="820" height="28" fill="#F9F7F2" rx="3"/>
+  <text x="185" y="202" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">AI Agents</text>
+  <text x="400" y="202" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#4A5942">Yes (native)</text>
+  <text x="580" y="202" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">Partial</text>
+  <text x="760" y="202" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">Via integrations</text>
+  <rect x="40" y="215" width="820" height="28" fill="white" rx="3"/>
+  <text x="185" y="234" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Self-hosting</text>
+  <text x="400" y="234" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#c0392b">No</text>
+  <text x="580" y="234" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#c0392b">No</text>
+  <text x="760" y="234" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#22c55e">Yes (free)</text>
+  <text x="450" y="253" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">At 10,000+ tasks/month, Zapier costs $300+/mo vs n8n Cloud at ~$30/mo. The gap widens at scale.</text>
+</svg>

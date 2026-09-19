@@ -1,0 +1,56 @@
+<svg viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { color-scheme: light; }
+      .bg { fill: #F4F1EA; }
+      .heading { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 24px; font-weight: 700; fill: #4A5942; }
+      .card-bg { fill: #fff; stroke: #DDD8CE; stroke-width: 1; }
+      .card-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; fill: #4A5942; }
+      .card-price { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 20px; font-weight: 700; fill: #6B7C5E; }
+      .card-feature { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; fill: #3A3228; }
+      .muted { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 11px; fill: #8A8577; }
+      .warning { fill: #96845A; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="800" height="400" rx="12"/>
+
+  <text class="heading" x="40" y="45">Beautiful.ai Pricing Tiers</text>
+
+  <!-- Pro Annual Card -->
+  <rect class="card-bg" x="50" y="75" width="200" height="280" rx="8" stroke="#6B7C5E" stroke-width="2"/>
+  <rect fill="#6B7C5E" x="50" y="75" width="200" height="30" rx="8"/>
+  <text class="card-title" x="70" y="97" fill="white" style="font-size: 12px; font-weight: 600;">ANNUAL</text>
+  <text class="card-title" x="70" y="130">Pro</text>
+  <text class="card-price" x="70" y="160">≈₹1,116/mo</text>
+  <text class="muted" x="70" y="178" style="font-size: 10px;">(₹13,392/year)</text>
+  <line x1="70" y1="195" x2="230" y2="195" stroke="#DDD8CE" stroke-width="1"/>
+  <text class="card-feature" x="70" y="215">• 500+ templates</text>
+  <text class="card-feature" x="70" y="235">• Real-time collab</text>
+  <text class="card-feature" x="70" y="255">• Brand kit</text>
+  <text class="card-feature" x="70" y="275">• Full exports</text>
+
+  <!-- Pro Monthly Card -->
+  <rect class="card-bg" x="300" y="75" width="200" height="280" rx="8"/>
+  <text class="card-title" x="320" y="105">Pro</text>
+  <text class="card-price" x="320" y="135">≈₹1,395/mo</text>
+  <text class="muted" x="320" y="153" style="font-size: 10px;">(same features)</text>
+  <line x1="320" y1="170" x2="480" y2="170" stroke="#DDD8CE" stroke-width="1"/>
+  <text class="card-feature" x="320" y="190">• Higher cost</text>
+  <text class="card-feature" x="320" y="210">• Flexible commitment</text>
+  <text class="card-feature" x="320" y="230">• Month-to-month</text>
+  <text class="muted" x="320" y="270" style="font-size: 11px;">Not recommended</text>
+
+  <!-- Team Card -->
+  <rect class="card-bg" x="550" y="75" width="200" height="280" rx="8"/>
+  <text class="card-title" x="570" y="105">Team</text>
+  <text class="card-price" x="570" y="135">₹32,700+/yr</text>
+  <text class="muted" x="570" y="153" style="font-size: 10px;">per team minimum</text>
+  <line x1="570" y1="170" x2="730" y2="170" stroke="#DDD8CE" stroke-width="1"/>
+  <text class="card-feature" x="570" y="190">• Multiple users</text>
+  <text class="card-feature" x="570" y="210">• Admin controls</text>
+  <text class="card-feature" x="570" y="230">• Approval workflows</text>
+  <text class="warning" x="570" y="270" style="font-size: 11px; font-weight: 500;">Very expensive</text>
+
+  <text class="muted" x="40" y="385" style="font-size: 12px;">No free tier available. Best value: Annual Pro at ₹1,116/month.</text>
+</svg>

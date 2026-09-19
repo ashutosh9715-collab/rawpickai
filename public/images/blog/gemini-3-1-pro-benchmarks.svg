@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+  <rect width="800" height="420" rx="12" fill="#F4F1EA"/>
+
+  <text x="400" y="36" fill="#1A2416" font-size="18" font-weight="700" text-anchor="middle">Gemini 3.1 Pro Benchmark Comparison</text>
+  <text x="400" y="56" fill="#8b8fa3" font-size="13" text-anchor="middle">vs Claude Opus 4.6 and GPT-5.2  -  April 2026</text>
+
+  <!-- Legend -->
+  <rect x="180" y="70" width="12" height="12" rx="2" fill="#4285f4"/>
+  <text x="198" y="81" fill="#c4c7d4" font-size="11">Gemini 3.1 Pro</text>
+  <rect x="340" y="70" width="12" height="12" rx="2" fill="#c97b3a"/>
+  <text x="358" y="81" fill="#c4c7d4" font-size="11">Claude Opus 4.6</text>
+  <rect x="500" y="70" width="12" height="12" rx="2" fill="#5a5e72"/>
+  <text x="518" y="81" fill="#c4c7d4" font-size="11">GPT-5.2</text>
+
+  <!-- GPQA Diamond -->
+  <text x="40" y="120" fill="#c4c7d4" font-size="11" font-weight="500">GPQA Diamond</text>
+  <rect x="180" y="108" width="380" height="8" rx="4" fill="#1a1d2a"/>
+  <rect x="180" y="108" width="358" height="8" rx="4" fill="#4285f4"/>
+  <text x="565" y="118" fill="#4285f4" font-size="11" font-weight="600">94.3%</text>
+  <rect x="180" y="122" width="380" height="8" rx="4" fill="#1a1d2a"/>
+  <rect x="180" y="122" width="360" height="8" rx="4" fill="#c97b3a"/>
+  <text x="565" y="132" fill="#c97b3a" font-size="11" font-weight="600">94.6%</text>
+  <rect x="180" y="136" width="380" height="8" rx="4" fill="#1a1d2a"/>
+  <rect x="180" y="136" width="349" height="8" rx="4" fill="#5a5e72"/>
+  <text x="565" y="146" fill="#5a5e72" font-size="11" font-weight="600">91.8%</text>
+
+  <!-- ARC-AGI-2 -->
+  <text x="40" y="186" fill="#c4c7d4" font-size="11" font-weight="500">ARC-AGI-2</text>
+  <rect x="180" y="174" width="380" height="8" rx="4" fill="#1a1d2a"/>
+  <rect x="180" y="174" width="293" height="8" rx="4" fill="#4285f4"/>
+  <rect x="478" y="170" width="36" height="16" rx="4" fill="#1a3328"/>
+  <text x="496" y="183" fill="#3a8c5e" font-size="9" font-weight="700" text-anchor="middle">WIN</text>
+  <text x="565" y="184" fill="#4285f4" font-size="11" font-weight="600">77.1%</text>
+  <rect x="180" y="188" width="380" height="8" rx="4" fill="#1a1d2a"/>
+  <rect x="180" y="188" width="277" height="8" rx="4" fill="#c97b3a"/>
+  <text x="565" y="198" fill="#c97b3a" font-size="11" font-weight="600">72.8%</text>
+  <rect x="180" y="202" width="380" height="8" rx="4" fill="#1a1d2a"/>
+  <rect x="180" y="202" width="260" height="8" rx="4" fill="#5a5e72"/>
+  <text x="565" y="212" fill="#5a5e72" font-size="11" font-weight="600">68.5%</text>
+
+  <!-- SWE-bench Verified -->
+  <text x="40" y="252" fill="#c4c7d4" font-size="11" font-weight="500">SWE-Bench Verified</text>
+  <rect x="180" y="240" width="380" height="8" rx="4" fill="#1a1d2a"/>
+  <rect x="180" y="240" width="306" height="8" rx="4" fill="#4285f4"/>
+  <rect x="490" y="236" width="36" height="16" rx="4" fill="#1a3328"/>
+  <text x="508" y="249" fill="#3a8c5e" font-size="9" font-weight="700" text-anchor="middle">WIN</text>
+  <text x="565" y="250" fill="#4285f4" font-size="11" font-weight="600">80.6%</text>
+  <rect x="180" y="254" width="380" height="8" rx="4" fill="#1a1d2a"/>
+  <rect x="180" y="254" width="294" height="8" rx="4" fill="#c97b3a"/>
+  <text x="565" y="264" fill="#c97b3a" font-size="11" font-weight="600">77.3%</text>
+  <rect x="180" y="268" width="380" height="8" rx="4" fill="#1a1d2a"/>
+  <rect x="180" y="268" width="284" height="8" rx="4" fill="#5a5e72"/>
+  <text x="565" y="278" fill="#5a5e72" font-size="11" font-weight="600">74.8%</text>
+
+  <!-- LiveCodeBench Pro -->
+  <text x="40" y="318" fill="#c4c7d4" font-size="11" font-weight="500">LiveCodeBench Pro</text>
+  <text x="40" y="332" fill="#5a5e72" font-size="9">(Elo Rating)</text>
+  <rect x="180" y="310" width="380" height="8" rx="4" fill="#1a1d2a"/>
+  <rect x="180" y="310" width="348" height="8" rx="4" fill="#4285f4"/>
+  <rect x="532" y="306" width="36" height="16" rx="4" fill="#1a3328"/>
+  <text x="550" y="319" fill="#3a8c5e" font-size="9" font-weight="700" text-anchor="middle">WIN</text>
+  <text x="600" y="320" fill="#4285f4" font-size="11" font-weight="600">2887</text>
+  <rect x="180" y="324" width="380" height="8" rx="4" fill="#1a1d2a"/>
+  <rect x="180" y="324" width="339" height="8" rx="4" fill="#c97b3a"/>
+  <text x="600" y="334" fill="#c97b3a" font-size="11" font-weight="600">2812</text>
+  <rect x="180" y="338" width="380" height="8" rx="4" fill="#1a1d2a"/>
+  <rect x="180" y="338" width="332" height="8" rx="4" fill="#5a5e72"/>
+  <text x="600" y="348" fill="#5a5e72" font-size="11" font-weight="600">2756</text>
+
+  <!-- Footer -->
+  <text x="400" y="400" fill="#5a5e72" font-size="11" text-anchor="middle">Gemini 3.1 Pro leads on reasoning and coding; essentially tied with Claude on science.  -  rawpickai.com</text>
+</svg>

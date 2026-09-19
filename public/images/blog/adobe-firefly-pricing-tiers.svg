@@ -1,0 +1,93 @@
+<svg viewBox="0 0 1000 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { color-scheme: light; }
+      .bg { fill: #F4F1EA; }
+      .heading { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 28px; font-weight: 600; fill: #4A5942; }
+      .tier-card { fill: #FFF9F5; stroke: #DDD8CE; stroke-width: 2; }
+      .tier-name { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 18px; font-weight: 600; fill: #4A5942; }
+      .price { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 32px; font-weight: 700; fill: #6B7C5E; }
+      .currency { font-size: 18px; }
+      .details { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; fill: #8A8577; }
+      .feature { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; fill: #3A3228; }
+      .label-small { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; fill: #8A8577; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1000" height="500" rx="12"/>
+
+  <!-- Header -->
+  <text class="heading" x="40" y="50">Adobe Firefly Pricing Tiers</text>
+
+  <!-- Free Tier -->
+  <rect class="tier-card" x="40" y="90" width="200" height="380" rx="12"/>
+  <text class="tier-name" x="60" y="120">Free</text>
+  <text class="price" x="60" y="155"><tspan class="currency">$</tspan>0</text>
+  <text class="details" x="60" y="175">/month</text>
+
+  <line x1="60" y1="190" x2="240" y2="190" stroke="#DDD8CE" stroke-width="1"/>
+
+  <text class="label-small" x="60" y="210">Credits</text>
+  <text class="feature" x="60" y="230">25/month</text>
+
+  <text class="label-small" x="60" y="255">Best for</text>
+  <text class="feature" x="60" y="275">Trying it out</text>
+  <text class="feature" x="60" y="295">Light casual use</text>
+
+  <!-- Standard Tier -->
+  <rect class="tier-card" x="280" y="90" width="200" height="380" rx="12"/>
+  <text class="tier-name" x="300" y="120">Standard</text>
+  <text class="price" x="300" y="155"><tspan class="currency">$</tspan>9.99</text>
+  <text class="details" x="300" y="175">/month</text>
+
+  <line x1="300" y1="190" x2="480" y2="190" stroke="#DDD8CE" stroke-width="1"/>
+
+  <text class="label-small" x="300" y="210">Credits</text>
+  <text class="feature" x="300" y="230">100/month</text>
+
+  <text class="label-small" x="300" y="255">USD</text>
+  <text class="feature" x="300" y="275">≈$10/mo (≈₹930)nth</text>
+
+  <text class="label-small" x="300" y="300">Best for</text>
+  <text class="feature" x="300" y="320">Single users</text>
+  <text class="feature" x="300" y="340">Light commercial</text>
+
+  <!-- Pro Tier (Highlighted) -->
+  <rect class="tier-card" x="520" y="70" width="220" height="420" rx="12" fill="#FFF4E6" stroke="#96845A" stroke-width="3"/>
+  <rect x="530" y="80" width="200" height="30" rx="8" fill="#96845A"/>
+  <text style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; font-weight: 600; fill: #FFF9F5;" x="630" y="102" text-anchor="middle">MOST POPULAR</text>
+
+  <text class="tier-name" x="540" y="140">Pro</text>
+  <text class="price" x="540" y="175"><tspan class="currency">$</tspan>29.99</text>
+  <text class="details" x="540" y="195">/month</text>
+
+  <line x1="540" y1="210" x2="730" y2="210" stroke="#DDD8CE" stroke-width="1"/>
+
+  <text class="label-small" x="540" y="230">Credits</text>
+  <text class="feature" x="540" y="250">Unlimited</text>
+
+  <text class="label-small" x="540" y="275">USD</text>
+  <text class="feature" x="540" y="295">≈$30/mo (≈₹2,790)nth</text>
+
+  <text class="label-small" x="540" y="320">Best for</text>
+  <text class="feature" x="540" y="340">Freelancers</text>
+  <text class="feature" x="540" y="360">Active creators</text>
+
+  <!-- Creative Cloud -->
+  <rect class="tier-card" x="760" y="90" width="200" height="380" rx="12"/>
+  <text class="tier-name" x="780" y="120">Creative Cloud</text>
+  <text class="details" x="780" y="140">Single App</text>
+  <text class="price" x="780" y="175"><tspan class="currency">$</tspan>65</text>
+  <text class="details" x="780" y="195">/month</text>
+
+  <line x1="780" y1="210" x2="960" y2="210" stroke="#DDD8CE" stroke-width="1"/>
+
+  <text class="label-small" x="780" y="230">Includes</text>
+  <text class="feature" x="780" y="250">Photoshop</text>
+  <text class="feature" x="780" y="270">Lightroom</text>
+  <text class="feature" x="780" y="290">+ Firefly</text>
+
+  <text class="label-small" x="780" y="315">Best for</text>
+  <text class="feature" x="780" y="335">Designers</text>
+  <text class="feature" x="780" y="355">Photographers</text>
+</svg>

@@ -1,0 +1,80 @@
+<svg viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #F4F1EA; }
+      .card-bg { fill: #FFFFFF; stroke: #DDD8CE; stroke-width: 2; }
+      .card-highlight { fill: #F0EDE4; }
+      .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 16px; font-weight: 600; fill: #4A5942; }
+      .price { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 24px; font-weight: 700; fill: #4A5942; }
+      .subtitle { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; fill: #8A8577; }
+      .feature { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; fill: #3A3228; }
+      .check { fill: #6B7C5E; font-weight: bold; }
+      .page-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 22px; font-weight: 600; fill: #4A5942; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="900" height="320" rx="12" />
+  <text x="40" y="35" class="page-title">Copilot Pro Pricing Options (2026)</text>
+
+  <!-- Free Tier -->
+  <g id="free">
+    <rect x="30" y="60" width="160" height="240" rx="8" class="card-bg" />
+    <text x="110" y="90" text-anchor="middle" class="title">Free Tier</text>
+    <text x="110" y="115" text-anchor="middle" class="price">$0</text>
+    <text x="110" y="135" text-anchor="middle" class="subtitle">Web-based, limited</text>
+    <text x="50" y="160" class="feature">✓ Basic chat</text>
+    <text x="50" y="180" class="feature">✓ Bing search</text>
+    <text x="50" y="200" class="feature">✓ Limited daily</text>
+    <text x="50" y="220" class="feature">✓ Ad-supported</text>
+  </g>
+
+  <!-- Copilot Pro -->
+  <g id="copilot-pro">
+    <rect x="215" y="60" width="160" height="240" rx="8" class="card-highlight" />
+    <rect x="215" y="60" width="160" height="240" rx="8" class="card-bg" />
+    <text x="295" y="90" text-anchor="middle" class="title">Copilot Pro</text>
+    <text x="295" y="115" text-anchor="middle" class="price">$20</text>
+    <text x="295" y="135" text-anchor="middle" class="subtitle">/month ($20)</text>
+    <text x="235" y="160" class="feature">✓ GPT-4 Turbo</text>
+    <text x="235" y="180" class="feature">✓ DALL-E 3</text>
+    <text x="235" y="200" class="feature">✓ File upload</text>
+    <text x="235" y="220" class="feature">✓ Priority access</text>
+  </g>
+
+  <!-- M365 Personal + Copilot -->
+  <g id="m365-personal">
+    <rect x="400" y="60" width="160" height="240" rx="8" class="card-bg" />
+    <text x="480" y="90" text-anchor="middle" class="title">M365 Personal</text>
+    <text x="480" y="115" text-anchor="middle" class="price">$10</text>
+    <text x="480" y="135" text-anchor="middle" class="subtitle">/month ($9.99)</text>
+    <text x="420" y="160" class="feature">✓ Office suite</text>
+    <text x="420" y="180" class="feature">✓ Light Copilot</text>
+    <text x="420" y="200" class="feature">✓ 1 user</text>
+    <text x="420" y="220" class="feature">✓ Cloud storage</text>
+  </g>
+
+  <!-- M365 Premium -->
+  <g id="m365-premium">
+    <rect x="585" y="60" width="160" height="240" rx="8" class="card-bg" />
+    <text x="665" y="90" text-anchor="middle" class="title">M365 Premium</text>
+    <text x="665" y="115" text-anchor="middle" class="price">$20</text>
+    <text x="665" y="135" text-anchor="middle" class="subtitle">/month ($19.99)</text>
+    <text x="605" y="160" class="feature">✓ Full Office</text>
+    <text x="605" y="180" class="feature">✓ Copilot Pro</text>
+    <text x="605" y="200" class="feature">✓ Best for teams</text>
+    <text x="605" y="220" class="feature">✓ Integration</text>
+  </g>
+
+  <!-- M365 Copilot Business -->
+  <g id="m365-business">
+    <rect x="770" y="60" width="100" height="240" rx="8" class="card-bg" />
+    <text x="820" y="90" text-anchor="middle" class="title" style="font-size: 14px;">M365 Copilot</text>
+    <text x="820" y="105" text-anchor="middle" class="title" style="font-size: 14px;">Business</text>
+    <text x="820" y="130" text-anchor="middle" class="price" style="font-size: 18px;">$16</text>
+    <text x="820" y="145" text-anchor="middle" class="subtitle" style="font-size: 11px;">-2,550/mo</text>
+    <text x="780" y="170" class="feature" style="font-size: 12px;">✓ Enterprise</text>
+    <text x="780" y="185" class="feature" style="font-size: 12px;">✓ Teams AI</text>
+    <text x="780" y="200" class="feature" style="font-size: 12px;">✓ Workspace</text>
+    <text x="780" y="215" class="feature" style="font-size: 12px;">✓ Analytics</text>
+  </g>
+</svg>

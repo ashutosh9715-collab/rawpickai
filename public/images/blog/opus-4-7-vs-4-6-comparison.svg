@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+  <rect width="800" height="400" rx="12" fill="#F4F1EA"/>
+
+  <text x="400" y="36" fill="#1A2416" font-size="18" font-weight="700" text-anchor="middle">Claude Opus 4.7 vs Opus 4.6: What Changed</text>
+  <text x="400" y="56" fill="#8b8fa3" font-size="13" text-anchor="middle">Key upgrades at a glance  -  April 16, 2026</text>
+
+  <!-- Legend -->
+  <rect x="220" y="72" width="12" height="12" rx="2" fill="#3a8c5e"/>
+  <text x="238" y="83" fill="#c4c7d4" font-size="11">Opus 4.7 (new)</text>
+  <rect x="380" y="72" width="12" height="12" rx="2" fill="#5a5e72"/>
+  <text x="398" y="83" fill="#c4c7d4" font-size="11">Opus 4.6 (previous)</text>
+
+  <!-- Row: Vision Resolution -->
+  <text x="40" y="120" fill="#c4c7d4" font-size="11" font-weight="500">Vision Resolution</text>
+  <rect x="200" y="108" width="380" height="8" rx="4" fill="#1a1d2a"/>
+  <rect x="200" y="108" width="380" height="8" rx="4" fill="#3a8c5e"/>
+  <text x="590" y="118" fill="#3a8c5e" font-size="11" font-weight="600">3.75 MP</text>
+  <rect x="200" y="122" width="380" height="8" rx="4" fill="#1a1d2a"/>
+  <rect x="200" y="122" width="117" height="8" rx="4" fill="#5a5e72"/>
+  <text x="590" y="132" fill="#5a5e72" font-size="11" font-weight="600">1.15 MP</text>
+  <rect x="325" y="104" width="36" height="16" rx="4" fill="#1a3328"/>
+  <text x="343" y="117" fill="#3a8c5e" font-size="9" font-weight="700" text-anchor="middle">3.3x</text>
+
+  <!-- Row: Effort Levels -->
+  <text x="40" y="176" fill="#c4c7d4" font-size="11" font-weight="500">Effort Levels</text>
+  <rect x="200" y="164" width="380" height="8" rx="4" fill="#1a1d2a"/>
+  <rect x="200" y="164" width="304" height="8" rx="4" fill="#3a8c5e"/>
+  <text x="590" y="174" fill="#3a8c5e" font-size="11" font-weight="600">4 (low/med/high/xhigh)</text>
+  <rect x="200" y="178" width="380" height="8" rx="4" fill="#1a1d2a"/>
+  <rect x="200" y="178" width="228" height="8" rx="4" fill="#5a5e72"/>
+  <text x="590" y="188" fill="#5a5e72" font-size="11" font-weight="600">3 (low/med/high)</text>
+
+  <!-- Row: Task Budgets -->
+  <text x="40" y="232" fill="#c4c7d4" font-size="11" font-weight="500">Task Budgets</text>
+  <rect x="200" y="220" width="380" height="8" rx="4" fill="#1a1d2a"/>
+  <rect x="200" y="220" width="380" height="8" rx="4" fill="#3a8c5e"/>
+  <text x="590" y="230" fill="#3a8c5e" font-size="11" font-weight="600">Yes (new)</text>
+  <rect x="200" y="234" width="380" height="8" rx="4" fill="#1a1d2a"/>
+  <rect x="200" y="234" width="0" height="8" rx="4" fill="#5a5e72"/>
+  <text x="590" y="244" fill="#5a5e72" font-size="11" font-weight="600">No</text>
+
+  <!-- Row: Self-Verification -->
+  <text x="40" y="288" fill="#c4c7d4" font-size="11" font-weight="500">Self-Verification</text>
+  <rect x="200" y="276" width="380" height="8" rx="4" fill="#1a1d2a"/>
+  <rect x="200" y="276" width="380" height="8" rx="4" fill="#3a8c5e"/>
+  <text x="590" y="286" fill="#3a8c5e" font-size="11" font-weight="600">Yes (new)</text>
+  <rect x="200" y="290" width="380" height="8" rx="4" fill="#1a1d2a"/>
+  <rect x="200" y="290" width="0" height="8" rx="4" fill="#5a5e72"/>
+  <text x="590" y="300" fill="#5a5e72" font-size="11" font-weight="600">No</text>
+
+  <!-- Row: Tokenizer -->
+  <text x="40" y="344" fill="#c4c7d4" font-size="11" font-weight="500">Tokenizer Efficiency</text>
+  <rect x="200" y="332" width="380" height="8" rx="4" fill="#1a1d2a"/>
+  <rect x="200" y="332" width="247" height="8" rx="4" fill="#c97b3a"/>
+  <text x="590" y="342" fill="#c97b3a" font-size="11" font-weight="600">New (up to 35% more tokens)</text>
+  <rect x="200" y="346" width="380" height="8" rx="4" fill="#1a1d2a"/>
+  <rect x="200" y="346" width="380" height="8" rx="4" fill="#5a5e72"/>
+  <text x="590" y="356" fill="#5a5e72" font-size="11" font-weight="600">Previous (baseline)</text>
+  <rect x="270" y="328" width="50" height="16" rx="4" fill="#3d2a1a"/>
+  <text x="295" y="341" fill="#c97b3a" font-size="8" font-weight="700" text-anchor="middle">COST UP</text>
+
+  <!-- Footer -->
+  <text x="400" y="390" fill="#5a5e72" font-size="11" text-anchor="middle">Opus 4.7 upgrades vision, effort control, and agentic capabilities  -  but watch the tokenizer cost.  -  rawpickai.com</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200">
+  <rect width="900" height="200" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#c0392b" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">Meta's AI Training Surveillance: Timeline</text>
+  <rect x="40" y="55" width="195" height="80" rx="8" fill="white" stroke="#96845A" stroke-width="1"/>
+  <text x="137" y="78" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#96845A">April 21</text>
+  <text x="137" y="98" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Meta installs keystroke</text>
+  <text x="137" y="115" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">+ mouse tracking on</text>
+  <text x="137" y="130" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">employee computers</text>
+  <rect x="255" y="55" width="195" height="80" rx="8" fill="white" stroke="#96845A" stroke-width="1"/>
+  <text x="352" y="78" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#96845A">April 30</text>
+  <text x="352" y="98" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Zuckerberg defends it</text>
+  <text x="352" y="115" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">at all-hands: "AI learns</text>
+  <text x="352" y="130" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">from smart people"</text>
+  <rect x="470" y="55" width="195" height="80" rx="8" fill="white" stroke="#c0392b" stroke-width="1.5"/>
+  <text x="567" y="78" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#c0392b">May 19</text>
+  <text x="567" y="98" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Audio leaked by More</text>
+  <text x="567" y="115" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Perfect Union. Internal</text>
+  <text x="567" y="130" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">petition + fliers posted</text>
+  <rect x="685" y="55" width="195" height="80" rx="8" fill="white" stroke="#c0392b" stroke-width="2"/>
+  <text x="782" y="78" font-family="Georgia, serif" font-size="11" font-weight="700" text-anchor="middle" fill="#c0392b">May 20</text>
+  <text x="782" y="98" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">8,000 employees laid off</text>
+  <text x="782" y="115" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">starting at 4 AM local.</text>
+  <text x="782" y="130" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#c0392b">Same day as leak</text>
+  <text x="450" y="160" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Apps monitored: Gmail, GChat, VSCode, Metamate (internal AI assistant)</text>
+  <text x="450" y="190" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Sources: More Perfect Union, Reuters, TechStory, Common Dreams</text>
+</svg>

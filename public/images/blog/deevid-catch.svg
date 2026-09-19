@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="1200" height="213">
+  <rect width="900" height="160" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#c0392b" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">The Catches Nobody Talks About With DeeVid AI</text>
+  <rect x="40" y="55" width="260" height="80" rx="8" fill="white" stroke="#c0392b" stroke-width="1.5"/>
+  <text x="170" y="80" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#c0392b">Credits drain fast</text>
+  <text x="170" y="100" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Master V2.0 costs 20 credits</text>
+  <text x="170" y="118" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">200 credits = 10 videos only</text>
+  <rect x="320" y="55" width="260" height="80" rx="8" fill="white" stroke="#96845A" stroke-width="1.5"/>
+  <text x="450" y="80" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#96845A">720P lock on Lite</text>
+  <text x="450" y="100" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">1080P requires $25/mo Pro</text>
+  <text x="450" y="118" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">720P looks poor on modern screens</text>
+  <rect x="600" y="55" width="260" height="80" rx="8" fill="white" stroke="#6B6960" stroke-width="1.5"/>
+  <text x="730" y="80" font-family="Georgia, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#6B6960">Watermark on trial</text>
+  <text x="730" y="100" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Visible DeeVid AI watermark</text>
+  <text x="730" y="118" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#6B6960">Removed only on paid plans</text>
+  <text x="450" y="152" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Observed during testing: 200 trial credits burned to 178 in 3 video generations.</text>
+</svg>

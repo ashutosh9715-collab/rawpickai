@@ -1,0 +1,102 @@
+<svg viewBox="0 0 1000 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { color-scheme: light; }
+      .bg { fill: #F4F1EA; }
+      .heading { font-family: system-ui, -apple-system, sans-serif; font-size: 18px; font-weight: 600; fill: #4A5942; }
+      .header { font-family: system-ui, -apple-system, sans-serif; font-size: 14px; font-weight: 600; fill: #4A5942; }
+      .cell { font-family: system-ui, -apple-system, sans-serif; font-size: 12px; fill: #3A3228; }
+      .header-bg { fill: #6B7C5E; }
+      .alt-row { fill: #F9F7F2; }
+      .grid { stroke: #DDD8CE; stroke-width: 1; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1000" height="600" rx="12"/>
+
+  <text class="heading" x="40" y="40">Midjourney vs DALL-E 3 vs Ideogram</text>
+
+  <!-- Header Row -->
+  <rect class="header-bg" x="30" y="60" width="940" height="40" rx="8"/>
+  <text class="header" fill="white" x="50" y="88">Criteria</text>
+  <text class="header" fill="white" x="280" y="88">Midjourney</text>
+  <text class="header" fill="white" x="520" y="88">DALL-E 3</text>
+  <text class="header" fill="white" x="760" y="88">Ideogram</text>
+
+  <!-- Row 1: Image Quality -->
+  <rect class="alt-row" x="30" y="105" width="940" height="50" rx="0"/>
+  <line x1="30" y1="155" x2="970" y2="155" class="grid"/>
+  <text class="header" x="50" y="137">Image Quality</text>
+  <text class="cell" x="280" y="137">9.7/10</text>
+  <text class="cell" x="520" y="137">8.5/10</text>
+  <text class="cell" x="760" y="137">8.2/10</text>
+
+  <!-- Row 2: Ease of Use -->
+  <rect x="30" y="155" width="940" height="50" fill="white" rx="0"/>
+  <line x1="30" y1="205" x2="970" y2="205" class="grid"/>
+  <text class="header" x="50" y="187">Ease of Use</text>
+  <text class="cell" x="280" y="187">Medium</text>
+  <text class="cell" x="520" y="187">Very Easy</text>
+  <text class="cell" x="760" y="187">Easy</text>
+
+  <!-- Row 3: Free Tier -->
+  <rect class="alt-row" x="30" y="205" width="940" height="50" rx="0"/>
+  <line x1="30" y1="255" x2="970" y2="255" class="grid"/>
+  <text class="header" x="50" y="237">Free Tier</text>
+  <text class="cell" x="280" y="237">No</text>
+  <text class="cell" x="520" y="237">Yes (ChatGPT)</text>
+  <text class="cell" x="760" y="237">Yes (limited)</text>
+
+  <!-- Row 4: Monthly Cost -->
+  <rect x="30" y="255" width="940" height="50" fill="white" rx="0"/>
+  <line x1="30" y1="305" x2="970" y2="305" class="grid"/>
+  <text class="header" x="50" y="287">Monthly Cost</text>
+  <text class="cell" x="280" y="287">$30/mo</text>
+  <text class="cell" x="520" y="287">Free/$20 Pro</text>
+  <text class="cell" x="760" y="287">$9.99/mo</text>
+
+  <!-- Row 5: Best For -->
+  <rect class="alt-row" x="30" y="305" width="940" height="50" rx="0"/>
+  <line x1="30" y1="355" x2="970" y2="355" class="grid"/>
+  <text class="header" x="50" y="337">Best For</text>
+  <text class="cell" x="280" y="330">Photorealism,</text>
+  <text class="cell" x="280" y="345">artistic work</text>
+  <text class="cell" x="520" y="330">Quick gen,</text>
+  <text class="cell" x="520" y="345">simplicity</text>
+  <text class="cell" x="760" y="330">Typography,</text>
+  <text class="cell" x="760" y="345">text in images</text>
+
+  <!-- Row 6: Text Rendering -->
+  <rect x="30" y="355" width="940" height="50" fill="white" rx="0"/>
+  <line x1="30" y1="405" x2="970" y2="405" class="grid"/>
+  <text class="header" x="50" y="387">Text in Images</text>
+  <text class="cell" x="280" y="387">Poor</text>
+  <text class="cell" x="520" y="387">Excellent</text>
+  <text class="cell" x="760" y="387">Excellent</text>
+
+  <!-- Row 7: Style Control -->
+  <rect class="alt-row" x="30" y="405" width="940" height="50" rx="0"/>
+  <line x1="30" y1="455" x2="970" y2="455" class="grid"/>
+  <text class="header" x="50" y="437">Style Control</text>
+  <text class="cell" x="280" y="437">Excellent</text>
+  <text class="cell" x="520" y="437">Good</text>
+  <text class="cell" x="760" y="437">Very Good</text>
+
+  <!-- Row 8: Speed -->
+  <rect x="30" y="455" width="940" height="50" fill="white" rx="0"/>
+  <line x1="30" y1="505" x2="970" y2="505" class="grid"/>
+  <text class="header" x="50" y="487">Generation Speed</text>
+  <text class="cell" x="280" y="487">45-60 seconds</text>
+  <text class="cell" x="520" y="487">10-20 seconds</text>
+  <text class="cell" x="760" y="487">30-45 seconds</text>
+
+  <!-- Row 9: Best for Commercial -->
+  <rect class="alt-row" x="30" y="505" width="940" height="50" rx="0"/>
+  <text class="header" x="50" y="537">Commercial Use</text>
+  <text class="cell" x="280" y="537">Yes</text>
+  <text class="cell" x="520" y="537">Yes</text>
+  <text class="cell" x="760" y="537">Yes</text>
+
+  <!-- Legend -->
+  <text style="font-family: system-ui, -apple-system, sans-serif; font-size: 11px; fill: #8A8577;" x="50" y="580">Prices as of May 2026. Converted at ₹93/USD. Rankings based on 500+ generated images per tool.</text>
+</svg>

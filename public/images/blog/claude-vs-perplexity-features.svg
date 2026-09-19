@@ -1,0 +1,123 @@
+<svg viewBox="0 0 800 550" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #F4F1EA; }
+      .heading { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 18px; font-weight: 600; fill: #4A5942; }
+      .subheading { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 500; fill: #4A5942; }
+      .label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; fill: #3A3228; }
+      .muted { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; fill: #8A8577; }
+      .bar-claude { fill: #96845A; }
+      .bar-perplexity { fill: #6B7C5E; }
+      .track { fill: #DDD8CE; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="800" height="550"/>
+
+  <!-- Title -->
+  <text class="heading" x="40" y="35">Feature Comparison</text>
+
+  <!-- Column Headers -->
+  <rect x="140" y="55" width="280" height="30" rx="8" fill="#f0f0f0"/>
+  <text class="subheading" x="155" y="77">Claude (Pro)</text>
+
+  <rect x="460" y="55" width="280" height="30" rx="8" fill="#f0f0f0"/>
+  <text class="subheading" x="475" y="77">Perplexity (Pro)</text>
+
+  <!-- Feature 1: Writing Quality -->
+  <text class="label" x="40" y="125">Writing Quality</text>
+  <rect class="track" x="140" y="112" width="280" height="12" rx="6"/>
+  <rect class="bar-claude" x="140" y="112" width="268" height="12" rx="6"/>
+  <text class="muted" x="425" y="122">95%</text>
+
+  <rect class="track" x="460" y="112" width="280" height="12" rx="6"/>
+  <rect class="bar-perplexity" x="460" y="112" width="196" height="12" rx="6"/>
+  <text class="muted" x="755" y="122">70%</text>
+
+  <!-- Feature 2: Research &amp; Citations -->
+  <text class="label" x="40" y="160">Research with Citations</text>
+  <rect class="track" x="140" y="147" width="280" height="12" rx="6"/>
+  <rect class="bar-claude" x="140" y="147" width="56" height="12" rx="6"/>
+  <text class="muted" x="425" y="157">20%</text>
+
+  <rect class="track" x="460" y="147" width="280" height="12" rx="6"/>
+  <rect class="bar-perplexity" x="460" y="147" width="280" height="12" rx="6"/>
+  <text class="muted" x="755" y="157">100%</text>
+
+  <!-- Feature 3: Internet Access -->
+  <text class="label" x="40" y="195">Real-Time Web Search</text>
+  <rect class="track" x="140" y="182" width="280" height="12" rx="6"/>
+  <text class="muted" x="425" y="192">✗ No</text>
+
+  <rect class="track" x="460" y="182" width="280" height="12" rx="6"/>
+  <rect class="bar-perplexity" x="460" y="182" width="280" height="12" rx="6"/>
+  <text class="muted" x="755" y="192">✓ Full</text>
+
+  <!-- Feature 4: Code Reasoning -->
+  <text class="label" x="40" y="230">Code Assistance</text>
+  <rect class="track" x="140" y="217" width="280" height="12" rx="6"/>
+  <rect class="bar-claude" x="140" y="217" width="252" height="12" rx="6"/>
+  <text class="muted" x="425" y="227">90%</text>
+
+  <rect class="track" x="460" y="217" width="280" height="12" rx="6"/>
+  <rect class="bar-perplexity" x="460" y="217" width="168" height="12" rx="6"/>
+  <text class="muted" x="755" y="227">60%</text>
+
+  <!-- Feature 5: Long Documents -->
+  <text class="label" x="40" y="265">Long Document Processing</text>
+  <rect class="track" x="140" y="252" width="280" height="12" rx="6"/>
+  <rect class="bar-claude" x="140" y="252" width="268" height="12" rx="6"/>
+  <text class="muted" x="425" y="262">200K tokens</text>
+
+  <rect class="track" x="460" y="252" width="280" height="12" rx="6"/>
+  <rect class="bar-perplexity" x="460" y="252" width="140" height="12" rx="6"/>
+  <text class="muted" x="755" y="262">Moderate</text>
+
+  <!-- Feature 6: Source Verification -->
+  <text class="label" x="40" y="300">Every Claim Sourced</text>
+  <rect class="track" x="140" y="287" width="280" height="12" rx="6"/>
+  <text class="muted" x="425" y="297">✗ Can hallucinate</text>
+
+  <rect class="track" x="460" y="287" width="280" height="12" rx="6"/>
+  <rect class="bar-perplexity" x="460" y="287" width="280" height="12" rx="6"/>
+  <text class="muted" x="755" y="297">✓ Always cited</text>
+
+  <!-- Feature 7: Creative Thinking -->
+  <text class="label" x="40" y="335">Original Analysis</text>
+  <rect class="track" x="140" y="322" width="280" height="12" rx="6"/>
+  <rect class="bar-claude" x="140" y="322" width="268" height="12" rx="6"/>
+  <text class="muted" x="425" y="332">95%</text>
+
+  <rect class="track" x="460" y="322" width="280" height="12" rx="6"/>
+  <rect class="bar-perplexity" x="460" y="322" width="140" height="12" rx="6"/>
+  <text class="muted" x="755" y="332">50%</text>
+
+  <!-- Feature 8: Current Information -->
+  <text class="label" x="40" y="370">Current Information</text>
+  <rect class="track" x="140" y="357" width="280" height="12" rx="6"/>
+  <rect class="bar-claude" x="140" y="357" width="112" height="12" rx="6"/>
+  <text class="muted" x="425" y="367">Outdated</text>
+
+  <rect class="track" x="460" y="357" width="280" height="12" rx="6"/>
+  <rect class="bar-perplexity" x="460" y="357" width="280" height="12" rx="6"/>
+  <text class="muted" x="755" y="367">Up-to-date</text>
+
+  <!-- Best For Section -->
+  <text class="subheading" x="40" y="410">Best For:</text>
+
+  <rect x="40" y="420" width="350" height="110" rx="8" fill="#fffbf5" stroke="#e0dcd5" stroke-width="1"/>
+  <text class="label" x="60" y="440">Claude</text>
+  <text class="muted" x="60" y="460">✓ Writing &amp; composition</text>
+  <text class="muted" x="60" y="475">✓ Code assistance</text>
+  <text class="muted" x="60" y="490">✓ Long document analysis</text>
+  <text class="muted" x="60" y="505">✓ Original thinking</text>
+  <text class="muted" x="60" y="520">✓ Creative content</text>
+
+  <rect x="430" y="420" width="350" height="110" rx="8" fill="#f5fbf5" stroke="#e0dcd5" stroke-width="1"/>
+  <text class="label" x="450" y="440">Perplexity</text>
+  <text class="muted" x="450" y="460">✓ Research with sources</text>
+  <text class="muted" x="450" y="475">✓ Current information</text>
+  <text class="muted" x="450" y="490">✓ Fact-checking</text>
+  <text class="muted" x="450" y="505">✓ Citation building</text>
+  <text class="muted" x="450" y="520">✓ Market research</text>
+</svg>

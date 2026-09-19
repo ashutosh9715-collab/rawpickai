@@ -1,0 +1,45 @@
+<svg viewBox="0 0 900 350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { color-scheme: light; }
+      .bg { fill: #F4F1EA; }
+      .header { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 20px; font-weight: 700; fill: #4A5942; }
+      .label { font-size: 12px; fill: #3A3228; }
+      .value { font-size: 11px; fill: #3A3228; }
+      .bar1 { fill: #6B7C5E; }
+      .bar2 { fill: #96845A; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="900" height="350"/>
+
+  <text class="header" x="40" y="35">Monthly Cost Comparison</text>
+
+  <g>
+    <rect class="bar1" x="40" y="60" width="140" height="50" rx="8"/>
+    <text class="label" x="110" y="80" text-anchor="middle" fill="#F4F1EA" font-weight="600">Gamma Plus</text>
+    <text class="value" x="110" y="103" text-anchor="middle" fill="#F4F1EA">$10</text>
+
+    <rect class="bar2" x="300" y="60" width="140" height="50" rx="8"/>
+    <text class="label" x="370" y="80" text-anchor="middle" fill="#F4F1EA" font-weight="600">Canva Pro</text>
+    <text class="value" x="370" y="103" text-anchor="middle" fill="#F4F1EA">$15</text>
+  </g>
+
+  <g>
+    <text class="label" x="40" y="145" font-weight="600">For Presentations Only</text>
+    <text class="value" x="40" y="165">Gamma Plus is 33% cheaper</text>
+    <text class="value" x="40" y="183">Better for speed, less for design polish</text>
+  </g>
+
+  <g>
+    <text class="label" x="40" y="215" font-weight="600">For Mixed Design Work</text>
+    <text class="value" x="40" y="235">Canva Pro is the only choice (handles presentations + graphics)</text>
+    <text class="value" x="40" y="253">Gamma + another tool would exceed Canva's cost</text>
+  </g>
+
+  <g>
+    <text class="label" x="40" y="285" font-weight="600">Annual Commitment</text>
+    <text class="value" x="40" y="305">Gamma: $120/year (≈₹11,160) (no annual discount)</text>
+    <text class="value" x="40" y="323">Canva: $180/year (≈₹16,740) (same monthly rate annually)</text>
+  </g>
+</svg>

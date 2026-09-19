@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="900" height="160">
+  <rect width="900" height="160" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#4A5942" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">How Perplexity's Citation System Works vs ChatGPT and Gemini</text>
+  <rect x="40" y="55" width="260" height="80" rx="10" fill="white" stroke="#4A5942" stroke-width="2"/>
+  <text x="170" y="78" font-family="Georgia, serif" font-size="13" font-weight="700" text-anchor="middle" fill="#4A5942">Perplexity</text>
+  <text x="170" y="100" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Inline numbered citations [1][2]</text>
+  <text x="170" y="120" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#22c55e">Every claim linked to source</text>
+  <rect x="320" y="55" width="260" height="80" rx="10" fill="white" stroke="#96845A" stroke-width="1"/>
+  <text x="450" y="78" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#96845A">ChatGPT</text>
+  <text x="450" y="100" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Links at bottom, not inline</text>
+  <text x="450" y="120" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#c0392b">Can't verify which claim = which source</text>
+  <rect x="600" y="55" width="260" height="80" rx="10" fill="white" stroke="#6B6960" stroke-width="1"/>
+  <text x="730" y="78" font-family="Georgia, serif" font-size="13" font-weight="600" text-anchor="middle" fill="#6B6960">Gemini</text>
+  <text x="730" y="100" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#4A453E">Grounding chips, partial</text>
+  <text x="730" y="120" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#96845A">Better than ChatGPT, worse than Perplexity</text>
+  <text x="450" y="152" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Perplexity's inline citations let you verify each claim independently. This is the core differentiator.</text>
+</svg>

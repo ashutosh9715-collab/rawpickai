@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" rx="12" fill="#F4F1EA"/>
+  <text x="400" y="45" text-anchor="middle" font-family="system-ui, sans-serif" font-size="22" font-weight="700" fill="#4A5942">ChatGPT vs Claude vs Gemini — Task Scores</text>
+  <line x1="60" y1="65" x2="740" y2="65" stroke="#DDD8CE" stroke-width="1.5"/>
+
+  <!-- Table Header -->
+  <rect x="60" y="85" width="680" height="40" rx="0" fill="#4A5942"/>
+  <text x="180" y="111" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#F4F1EA">Task</text>
+  <text x="370" y="111" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#F4F1EA">ChatGPT</text>
+  <text x="520" y="111" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#F4F1EA">Claude</text>
+  <text x="660" y="111" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#F4F1EA">Gemini</text>
+
+  <!-- Row 1: Writing (white bg) -->
+  <rect x="60" y="125" width="680" height="44" fill="#FFFFFF"/>
+  <text x="180" y="153" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" fill="#3A3228" font-weight="600">Writing</text>
+  <text x="370" y="153" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" fill="#3A3228" font-weight="700">8.5</text>
+  <text x="520" y="153" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" fill="#6B7C5E" font-weight="700">9.2</text>
+  <text x="660" y="153" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" fill="#3A3228" font-weight="700">7.8</text>
+
+  <!-- Row 2: Coding (alt bg) -->
+  <rect x="60" y="169" width="680" height="44" fill="#F4F1EA"/>
+  <text x="180" y="197" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" fill="#3A3228" font-weight="600">Coding</text>
+  <text x="370" y="197" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" fill="#3A3228" font-weight="700">8.0</text>
+  <text x="520" y="197" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" fill="#6B7C5E" font-weight="700">8.8</text>
+  <text x="660" y="197" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" fill="#3A3228" font-weight="700">8.2</text>
+
+  <!-- Row 3: Research (white bg) -->
+  <rect x="60" y="213" width="680" height="44" fill="#FFFFFF"/>
+  <text x="180" y="241" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" fill="#3A3228" font-weight="600">Research</text>
+  <text x="370" y="241" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" fill="#3A3228" font-weight="700">7.5</text>
+  <text x="520" y="241" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" fill="#3A3228" font-weight="700">7.0</text>
+  <text x="660" y="241" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" fill="#6B7C5E" font-weight="700">8.5</text>
+
+  <!-- Row 4: Image Gen (alt bg) -->
+  <rect x="60" y="257" width="680" height="44" fill="#F4F1EA"/>
+  <text x="180" y="285" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" fill="#3A3228" font-weight="600">Image Gen</text>
+  <text x="370" y="285" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" fill="#6B7C5E" font-weight="700">8.8</text>
+  <text x="520" y="285" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" fill="#8A8577" font-weight="700">N/A</text>
+  <text x="660" y="285" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" fill="#3A3228" font-weight="700">7.5</text>
+
+  <!-- Row 5: Math/Logic (white bg) -->
+  <rect x="60" y="301" width="680" height="44" fill="#FFFFFF"/>
+  <text x="180" y="329" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" fill="#3A3228" font-weight="600">Math / Logic</text>
+  <text x="370" y="329" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" fill="#3A3228" font-weight="700">8.2</text>
+  <text x="520" y="329" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" fill="#6B7C5E" font-weight="700">9.0</text>
+  <text x="660" y="329" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" fill="#6B7C5E" font-weight="700">8.8</text>
+
+  <!-- Table border -->
+  <rect x="60" y="85" width="680" height="260" rx="0" fill="none" stroke="#DDD8CE" stroke-width="1.5"/>
+  <!-- Column lines -->
+  <line x1="280" y1="85" x2="280" y2="345" stroke="#DDD8CE" stroke-width="1"/>
+  <line x1="440" y1="85" x2="440" y2="345" stroke="#DDD8CE" stroke-width="1"/>
+  <line x1="590" y1="85" x2="590" y2="345" stroke="#DDD8CE" stroke-width="1"/>
+
+  <text x="400" y="385" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#8A8577">Scores out of 10 · Highest score per task highlighted in green</text>
+</svg>

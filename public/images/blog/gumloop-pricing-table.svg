@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="1200" height="293">
+  <rect width="900" height="220" fill="#F4F1EA" rx="12"/>
+  <rect x="0" y="0" width="900" height="4" fill="#4A5942" rx="2"/>
+  <text x="450" y="35" font-family="Georgia, serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1A2416">Gumloop Pricing 2026</text>
+  <rect x="40" y="55" width="820" height="28" rx="6" fill="#4A5942"/>
+  <text x="160" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">Plan</text>
+  <text x="310" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">Price (USD)</text>
+  <text x="460" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">Price (INR)</text>
+  <text x="620" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">Credits/mo</text>
+  <text x="790" y="74" font-family="Georgia, serif" font-size="11" font-weight="600" text-anchor="middle" fill="#F4F1EA">Key limits</text>
+  <rect x="40" y="87" width="820" height="30" fill="white" rx="3"/>
+  <text x="160" y="107" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#22c55e">Free</text>
+  <text x="310" y="107" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#22c55e">$0</text>
+  <text x="460" y="107" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#22c55e">₹0</text>
+  <text x="620" y="107" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">5,000</text>
+  <text x="790" y="107" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">1 trigger, 2 runs</text>
+  <rect x="40" y="121" width="820" height="30" fill="#F9F7F2" rx="3"/>
+  <text x="160" y="141" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Pro</text>
+  <text x="310" y="141" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A5942">$37/mo</text>
+  <text x="460" y="141" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A5942">≈₹3,441/mo</text>
+  <text x="620" y="141" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">20,000+</text>
+  <text x="790" y="141" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">Unlimited seats, MCP</text>
+  <rect x="40" y="155" width="820" height="30" fill="white" rx="3"/>
+  <text x="160" y="175" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Enterprise</text>
+  <text x="310" y="175" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B6960">Custom</text>
+  <text x="460" y="175" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#6B6960">Custom</text>
+  <text x="620" y="175" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4A453E">Custom</text>
+  <text x="790" y="175" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#6B6960">SSO, audit logs</text>
+  <text x="450" y="212" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#8A8577">Non-AI steps (routing, formatting, logic) consume zero credits. Only AI calls cost credits.</text>
+</svg>

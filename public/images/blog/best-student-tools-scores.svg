@@ -1,0 +1,57 @@
+<svg viewBox="0 0 900 420" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="420" fill="#F4F1EA"/>
+  <text x="450" y="30" font-size="20" font-weight="bold" text-anchor="middle" fill="#4A5942">Student AI Tools - Quality Scores</text>
+  <text x="450" y="50" font-size="11" text-anchor="middle" fill="#8A8577">Rated for student workflows, research, and learning support</text>
+
+  <line x1="80" y1="70" x2="80" y2="340" stroke="#DDD8CE" stroke-width="1"/>
+  <line x1="80" y1="340" x2="870" y2="340" stroke="#DDD8CE" stroke-width="1"/>
+
+  <text x="75" y="345" font-size="10" text-anchor="end" fill="#8A8577">0</text>
+  <text x="75" y="235" font-size="10" text-anchor="end" fill="#8A8577">2.5</text>
+  <text x="75" y="125" font-size="10" text-anchor="end" fill="#8A8577">5</text>
+
+  <!-- Perplexity 4.5/5 -->
+  <rect x="95" y="97" width="70" height="243" rx="8" fill="#6B7C5E"/>
+  <text x="130" y="85" font-size="12" font-weight="700" fill="#4A5942">4.5/5</text>
+
+  <!-- Claude 4.4/5 -->
+  <rect x="185" y="102" width="70" height="238" rx="8" fill="#6B7C5E"/>
+  <text x="220" y="90" font-size="12" font-weight="700" fill="#4A5942">4.4/5</text>
+
+  <!-- NotebookLM 4.5/5 -->
+  <rect x="275" y="97" width="70" height="243" rx="8" fill="#6B7C5E"/>
+  <text x="310" y="85" font-size="12" font-weight="700" fill="#4A5942">4.5/5</text>
+
+  <!-- ChatGPT 4.2/5 -->
+  <rect x="365" y="113" width="70" height="227" rx="8" fill="#96845A"/>
+  <text x="400" y="101" font-size="12" font-weight="700" fill="#4A5942">4.2/5</text>
+
+  <!-- Notion AI 4.0/5 -->
+  <rect x="455" y="124" width="70" height="216" rx="8" fill="#96845A"/>
+  <text x="490" y="112" font-size="12" font-weight="700" fill="#4A5942">4.0/5</text>
+
+  <!-- Gamma 4.0/5 -->
+  <rect x="545" y="124" width="70" height="216" rx="8" fill="#96845A"/>
+  <text x="580" y="112" font-size="12" font-weight="700" fill="#4A5942">4.0/5</text>
+
+  <!-- Grammarly 3.8/5 -->
+  <rect x="635" y="135" width="70" height="205" rx="8" fill="#8A8577"/>
+  <text x="670" y="123" font-size="12" font-weight="700" fill="#4A5942">3.8/5</text>
+
+  <!-- Windsurf 3.8/5 -->
+  <rect x="725" y="135" width="70" height="205" rx="8" fill="#8A8577"/>
+  <text x="760" y="123" font-size="12" font-weight="700" fill="#4A5942">3.8/5</text>
+
+  <!-- X-axis labels -->
+  <text x="130" y="360" font-size="11" font-weight="600" text-anchor="middle" fill="#4A5942">Perplexity</text>
+  <text x="220" y="360" font-size="11" font-weight="600" text-anchor="middle" fill="#4A5942">Claude</text>
+  <text x="310" y="360" font-size="11" font-weight="600" text-anchor="middle" transform="rotate(-15,310,360)" fill="#4A5942">NotebookLM</text>
+  <text x="400" y="360" font-size="11" font-weight="600" text-anchor="middle" fill="#4A5942">ChatGPT</text>
+  <text x="490" y="360" font-size="11" font-weight="600" text-anchor="middle" fill="#4A5942">Notion AI</text>
+  <text x="580" y="360" font-size="11" font-weight="600" text-anchor="middle" fill="#4A5942">Gamma</text>
+  <text x="670" y="360" font-size="11" font-weight="600" text-anchor="middle" fill="#4A5942">Grammarly</text>
+  <text x="760" y="360" font-size="11" font-weight="600" text-anchor="middle" fill="#4A5942">Windsurf</text>
+
+  <text x="450" y="395" font-size="11" text-anchor="middle" fill="#8A8577">Rated for student workflows, research, and learning support.</text>
+  <text x="450" y="412" font-size="10" text-anchor="middle" fill="#8A8577">Data from RawPickAI independent testing - rawpickai.com</text>
+</svg>

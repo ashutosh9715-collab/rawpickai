@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+  <rect width="800" height="240" rx="12" fill="#F4F1EA"/>
+  <text x="400" y="32" fill="#4A5942" font-size="16" font-weight="700" text-anchor="middle">Final Verdict: Lovable vs v0 vs Bolt.new</text>
+
+  <!-- Bolt.new - Winner -->
+  <rect x="30" y="56" width="235" height="150" rx="10" fill="#EEEAE2" stroke="#4A5942" stroke-width="2"/>
+  <rect x="30" y="56" width="235" height="34" rx="10" fill="#4A5942"/>
+  <rect x="30" y="80" width="235" height="10" fill="#4A5942"/>
+  <text x="98" y="78" fill="#F4F1EA" font-size="12" font-weight="700">BEST OVERALL</text>
+  <text x="147" y="110" fill="#4A5942" font-size="18" font-weight="700" text-anchor="middle">Bolt.new</text>
+  <text x="147" y="132" fill="#3A3228" font-size="24" font-weight="700" text-anchor="middle">4.1/5</text>
+  <text x="147" y="154" fill="#8A8577" font-size="10" text-anchor="middle">Best for developers</text>
+  <text x="147" y="170" fill="#8A8577" font-size="10" text-anchor="middle">Code transparency + flexibility</text>
+  <text x="147" y="194" fill="#3A3228" font-size="11" font-weight="600" text-anchor="middle">$25/mo (≈₹2,325/mo)</text>
+
+  <!-- v0 -->
+  <rect x="283" y="56" width="235" height="150" rx="10" fill="#EEEAE2" stroke="#DDD8CE" stroke-width="1"/>
+  <rect x="283" y="56" width="235" height="34" rx="10" fill="#6B7C5E"/>
+  <rect x="283" y="80" width="235" height="10" fill="#6B7C5E"/>
+  <text x="351" y="78" fill="#F4F1EA" font-size="12" font-weight="700">BEST DESIGN</text>
+  <text x="400" y="110" fill="#4A5942" font-size="18" font-weight="700" text-anchor="middle">v0 (Vercel)</text>
+  <text x="400" y="132" fill="#3A3228" font-size="24" font-weight="700" text-anchor="middle">4.0/5</text>
+  <text x="400" y="154" fill="#8A8577" font-size="10" text-anchor="middle">Best for UI specialists</text>
+  <text x="400" y="170" fill="#8A8577" font-size="10" text-anchor="middle">Unmatched design quality</text>
+  <text x="400" y="194" fill="#3A3228" font-size="11" font-weight="600" text-anchor="middle">$20/mo (≈₹1,860/mo)</text>
+
+  <!-- Lovable -->
+  <rect x="536" y="56" width="235" height="150" rx="10" fill="#EEEAE2" stroke="#DDD8CE" stroke-width="1"/>
+  <rect x="536" y="56" width="235" height="34" rx="10" fill="#96845A"/>
+  <rect x="536" y="80" width="235" height="10" fill="#96845A"/>
+  <text x="593" y="78" fill="#F4F1EA" font-size="12" font-weight="700">BEST FOR NON-TECH</text>
+  <text x="653" y="110" fill="#4A5942" font-size="18" font-weight="700" text-anchor="middle">Lovable</text>
+  <text x="653" y="132" fill="#3A3228" font-size="24" font-weight="700" text-anchor="middle">3.9/5</text>
+  <text x="653" y="154" fill="#8A8577" font-size="10" text-anchor="middle">Best for non-tech founders</text>
+  <text x="653" y="170" fill="#8A8577" font-size="10" text-anchor="middle">Zero-config full-stack</text>
+  <text x="653" y="194" fill="#3A3228" font-size="11" font-weight="600" text-anchor="middle">$20/mo (≈₹1,860/mo)</text>
+
+  <text x="400" y="230" fill="#8A8577" font-size="10" text-anchor="middle">Final Verdict - rawpickai.com</text>
+</svg>

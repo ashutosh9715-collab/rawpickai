@@ -1,0 +1,59 @@
+<svg viewBox="0 0 900 350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #F4F1EA; }
+      .heading { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 20px; font-weight: 600; fill: #4A5942; }
+      .subheading { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 500; fill: #4A5942; }
+      .label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; fill: #3A3228; }
+      .price { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 16px; font-weight: 600; fill: #3A3228; }
+      .muted { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 11px; fill: #8A8577; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="900" height="350"/>
+
+  <!-- Title -->
+  <text class="heading" x="40" y="35">Pricing &amp; ROI Comparison</text>
+
+  <!-- Cursor pricing -->
+  <rect x="40" y="50" width="200" height="110" rx="8" fill="#fffbf5" stroke="#e0dcd5" stroke-width="1"/>
+  <text class="label" x="60" y="70">Cursor Pro</text>
+  <text class="price" x="60" y="95">₹1,860/mo</text>
+  <text class="muted" x="60" y="115">Agent mode included</text>
+  <text class="muted" x="60" y="130">Superior autocomplete</text>
+  <text class="muted" x="60" y="145">2,000 free monthly</text>
+
+  <!-- Copilot pricing -->
+  <rect x="280" y="50" width="200" height="110" rx="8" fill="#f5fbf5" stroke="#e0dcd5" stroke-width="1"/>
+  <text class="label" x="300" y="70">Copilot Pro</text>
+  <text class="price" x="300" y="95">₹930/mo</text>
+  <text class="muted" x="300" y="115">Basic suggestions</text>
+  <text class="muted" x="300" y="130">Good autocomplete</text>
+  <text class="muted" x="300" y="145">Free for students</text>
+
+  <!-- ROI Section -->
+  <rect x="40" y="180" width="620" height="150" rx="8" fill="none" stroke="#d0ccc5" stroke-width="2" stroke-dasharray="4,2"/>
+  <text class="subheading" x="60" y="205">ROI for Developers (Annual Basis)</text>
+
+  <!-- Calculate earnings -->
+  <text class="muted" x="60" y="235">Assumption: Senior developer ₹2,500/hr (billing rate)</text>
+  <text class="muted" x="60" y="255">Productivity gain: ≈35 min/day from agent mode</text>
+
+  <rect x="60" y="270" width="300" height="50" rx="6" fill="#f5fbf5" stroke="#c0bbb5" stroke-width="1"/>
+  <text class="label" x="80" y="292">With Cursor</text>
+  <text class="price" x="80" y="315">Gain: ₹9,00,000/year - Cost: ₹22,320 = ₹8,77,680 net</text>
+
+  <rect x="380" y="270" width="280" height="50" rx="6" fill="#fffbf5" stroke="#c0bbb5" stroke-width="1"/>
+  <text class="label" x="400" y="292">With Copilot</text>
+  <text class="price" x="400" y="315">Gain: ₹6,50,000/year - Cost: ₹11,160 = ₹6,38,840</text>
+
+  <!-- Student section -->
+  <rect x="540" y="50" width="340" height="110" rx="8" fill="none" stroke="#c0bbb5" stroke-width="2"/>
+  <text class="subheading" x="560" y="75">For Students</text>
+  <text class="muted" x="560" y="100">Copilot: ₹0/mo (GitHub Education)</text>
+  <text class="muted" x="560" y="120">Cursor: ₹1,860/mo</text>
+  <text class="price" x="560" y="145">Winner: Copilot (free > paid)</text>
+
+  <!-- Footer -->
+  <text class="muted" x="40" y="340">Note: Agent mode productivity gains scale with codebase size and refactoring frequency.</text>
+</svg>

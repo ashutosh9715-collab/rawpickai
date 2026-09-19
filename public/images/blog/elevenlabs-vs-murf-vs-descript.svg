@@ -1,0 +1,73 @@
+<svg viewBox="0 0 900 530" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title { font-size: 20px; font-weight: bold; fill: #4A5942; }
+      .subtitle { font-size: 11px; fill: #8A8577; }
+      .row-label { font-size: 12px; font-weight: 600; fill: #3A3228; }
+      .value { font-size: 12px; font-weight: 600; fill: #3A3228; }
+      .value-sm { font-size: 11px; font-weight: 600; fill: #3A3228; }
+      .tool-name { font-size: 12px; font-weight: bold; fill: white; }
+      .bar-bg { fill: #DDD8CE; }
+      .el-fill { fill: #96845A; }
+      .murf-fill { fill: #6B7C5E; }
+      .desc-fill { fill: #8A8577; }
+    </style>
+  </defs>
+  <rect width="900" height="530" fill="#F4F1EA"/>
+  <text x="450" y="30" text-anchor="middle" class="title">ElevenLabs vs Murf AI vs Descript</text>
+  <text x="450" y="48" text-anchor="middle" class="subtitle">Three approaches to AI voice and audio</text>
+  <rect x="190" y="70" width="200" height="32" rx="6" class="el-fill"/>
+  <text x="290" y="91" text-anchor="middle" class="tool-name">ElevenLabs</text>
+  <rect x="420" y="70" width="200" height="32" rx="6" class="murf-fill"/>
+  <text x="520" y="91" text-anchor="middle" class="tool-name">Murf AI</text>
+  <rect x="650" y="70" width="200" height="32" rx="6" class="desc-fill"/>
+  <text x="750" y="91" text-anchor="middle" class="tool-name">Descript</text>
+  <text x="20" y="140" class="row-label">Voice Quality</text>
+  <rect x="190" y="128" width="120" height="18" rx="4" class="bar-bg"/>
+  <rect x="190" y="128" width="115" height="18" rx="4" class="el-fill"/>
+  <text x="318" y="142" class="value">96/100</text>
+  <rect x="420" y="128" width="120" height="18" rx="4" class="bar-bg"/>
+  <rect x="420" y="128" width="96" height="18" rx="4" class="murf-fill"/>
+  <text x="548" y="142" class="value">80/100</text>
+  <rect x="650" y="128" width="120" height="18" rx="4" class="bar-bg"/>
+  <rect x="650" y="128" width="84" height="18" rx="4" class="desc-fill"/>
+  <text x="778" y="142" class="value">70/100</text>
+  <text x="20" y="190" class="row-label">Emotional Range</text>
+  <text x="290" y="190" text-anchor="middle" class="value-sm">Excellent</text>
+  <text x="520" y="190" text-anchor="middle" class="value-sm">Good</text>
+  <text x="750" y="190" text-anchor="middle" class="value-sm">Basic</text>
+  <text x="20" y="235" class="row-label">Voice Cloning</text>
+  <text x="290" y="235" text-anchor="middle" class="value-sm">Excellent</text>
+  <text x="520" y="235" text-anchor="middle" class="value-sm">Good</text>
+  <text x="750" y="235" text-anchor="middle" class="value-sm">Limited</text>
+  <text x="20" y="280" class="row-label">Pro Tier Price</text>
+  <text x="290" y="280" text-anchor="middle" class="value">$99</text>
+  <text x="520" y="280" text-anchor="middle" class="value">$40</text>
+  <text x="750" y="280" text-anchor="middle" class="value">$24</text>
+  <text x="20" y="325" class="row-label">Cost/Minute</text>
+  <text x="290" y="325" text-anchor="middle" class="value">≈$1 (≈₹74)</text>
+  <text x="520" y="325" text-anchor="middle" class="value">≈$0</text>
+  <text x="750" y="325" text-anchor="middle" class="value">Variable</text>
+  <text x="20" y="370" class="row-label">Languages</text>
+  <text x="290" y="370" text-anchor="middle" class="value-sm">28+ (strong)</text>
+  <text x="520" y="370" text-anchor="middle" class="value-sm">20+ (good)</text>
+  <text x="750" y="370" text-anchor="middle" class="value-sm">Video-based</text>
+  <text x="20" y="415" class="row-label">Best For</text>
+  <text x="290" y="410" text-anchor="middle" class="value-sm">Audiobooks,</text>
+  <text x="290" y="425" text-anchor="middle" class="value-sm">podcasts</text>
+  <text x="520" y="410" text-anchor="middle" class="value-sm">Budget</text>
+  <text x="520" y="425" text-anchor="middle" class="value-sm">synthesis</text>
+  <text x="750" y="410" text-anchor="middle" class="value-sm">Edit video</text>
+  <text x="750" y="425" text-anchor="middle" class="value-sm">+ voiceover</text>
+  <text x="20" y="470" class="row-label">Value</text>
+  <rect x="190" y="458" width="80" height="18" rx="4" class="bar-bg"/>
+  <rect x="190" y="458" width="64" height="18" rx="4" class="el-fill"/>
+  <text x="280" y="472" class="value">4/5</text>
+  <rect x="420" y="458" width="80" height="18" rx="4" class="bar-bg"/>
+  <rect x="420" y="458" width="80" height="18" rx="4" class="murf-fill"/>
+  <text x="510" y="472" class="value">5/5</text>
+  <rect x="650" y="458" width="80" height="18" rx="4" class="bar-bg"/>
+  <rect x="650" y="458" width="64" height="18" rx="4" class="desc-fill"/>
+  <text x="740" y="472" class="value">4/5</text>
+  <text x="450" y="510" text-anchor="middle" class="subtitle">Data from RawPickAI independent testing - rawpickai.com</text>
+</svg>

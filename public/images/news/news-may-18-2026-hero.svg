@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#F4F1EA" rx="16"/>
+  <rect x="0" y="0" width="1200" height="6" fill="#4A5942" rx="3"/>
+  <text x="600" y="80" font-family="Georgia, serif" font-size="16" font-weight="600" text-anchor="middle" fill="#6B7C5E">RAWPICKAI NEWS · MAY 18, 2026</text>
+  <text x="600" y="160" font-family="Georgia, serif" font-size="42" font-weight="700" text-anchor="middle" fill="#1A2416">Cursor Ships Composer 2.5</text>
+  <text x="600" y="220" font-family="Georgia, serif" font-size="32" font-weight="400" text-anchor="middle" fill="#4A453E">Matches Opus 4.7 at 1/10th the Cost</text>
+  <rect x="300" y="270" width="600" height="3" fill="#4A5942" opacity="0.2" rx="1"/>
+  <rect x="200" y="310" width="260" height="120" rx="12" fill="white" stroke="#4A5942" stroke-width="1.5"/>
+  <text x="330" y="350" font-family="Georgia, serif" font-size="14" font-weight="600" text-anchor="middle" fill="#4A5942">SWE-Bench Multi</text>
+  <text x="330" y="400" font-family="Georgia, serif" font-size="40" font-weight="700" text-anchor="middle" fill="#4A5942">79.8%</text>
+  <rect x="490" y="310" width="260" height="120" rx="12" fill="white" stroke="#96845A" stroke-width="1.5"/>
+  <text x="620" y="350" font-family="Georgia, serif" font-size="14" font-weight="600" text-anchor="middle" fill="#96845A">CursorBench v3.1</text>
+  <text x="620" y="400" font-family="Georgia, serif" font-size="40" font-weight="700" text-anchor="middle" fill="#96845A">63.2%</text>
+  <rect x="780" y="310" width="260" height="120" rx="12" fill="white" stroke="#6B7C5E" stroke-width="1.5"/>
+  <text x="910" y="350" font-family="Georgia, serif" font-size="14" font-weight="600" text-anchor="middle" fill="#6B7C5E">Cost per Task</text>
+  <text x="910" y="400" font-family="Georgia, serif" font-size="40" font-weight="700" text-anchor="middle" fill="#6B7C5E">&lt;$1</text>
+  <text x="600" y="500" font-family="Georgia, serif" font-size="18" text-anchor="middle" fill="#4A453E">25x more synthetic training data · Same Kimi K2.5 base · Double usage for launch week</text>
+  <text x="600" y="580" font-family="Georgia, serif" font-size="14" text-anchor="middle" fill="#8A8577">rawpickai.com</text>
+</svg>

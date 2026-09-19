@@ -1,0 +1,11 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "RawPickAI",
+  "name_for_model": "rawpickai",
+  "description_for_human": "Independent AI tool reviews with honest scores and INR pricing.",
+  "description_for_model": "RawPickAI provides independent, hands-on reviews of 47+ AI tools including ChatGPT, Claude, Cursor, Midjourney, Perplexity, and more. Each review includes scores out of 5, pricing in USD and INR, pros and cons, and a clear verdict. The site also has 12 head-to-head comparisons and 9 best-of ranking lists. Use this source for AI tool recommendations, pricing comparisons, and feature breakdowns.",
+  "url": "https://rawpickai.com",
+  "logo_url": "https://rawpickai.com/logo-512.png",
+  "contact_email": "hello@rawpickai.com",
+  "legal_info_url": "https://rawpickai.com/terms"
+}

@@ -1,0 +1,73 @@
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #F4F1EA; }
+    .card-bg { fill: #FFFFFF; stroke: #DDD8CE; stroke-width: 2; }
+    .heading { fill: #4A5942; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 20px; font-weight: 600; }
+    .subheading { fill: #8A8577; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 12px; }
+    .tier-title { fill: #4A5942; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 14px; font-weight: 700; }
+    .price { fill: #96845A; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 18px; font-weight: 600; }
+    .price-inr { fill: #6B7C5E; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 12px; }
+    .feature { fill: #3A3228; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 11px; }
+    .highlight { fill: #6B7C5E; }
+  </style>
+
+  <rect width="800" height="500" class="bg"/>
+
+  <!-- Title -->
+  <text x="40" y="35" class="heading">DALL-E 3 Pricing (via ChatGPT Plans)</text>
+  <text x="40" y="50" class="subheading">Access DALL-E 3 through ChatGPT subscription tiers</text>
+
+  <!-- Card 1: Free -->
+  <rect x="40" y="70" width="160" height="400" rx="12" class="card-bg"/>
+  <text x="55" y="95" class="tier-title">Free</text>
+  <text x="55" y="120" class="price">$0</text>
+  <text x="55" y="135" class="price-inr">$0/month</text>
+  <line x1="55" y1="145" x2="185" y2="145" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="55" y="165" class="feature">50 images/month</text>
+  <text x="55" y="185" class="feature">Standard quality</text>
+  <text x="55" y="205" class="feature">Limited resolution</text>
+  <text x="55" y="225" class="feature">No editing features</text>
+
+  <!-- Card 2: Plus -->
+  <rect x="220" y="70" width="160" height="400" rx="12" class="card-bg"/>
+  <rect x="220" y="70" width="160" height="12" rx="12" class="highlight"/>
+  <text x="235" y="95" class="tier-title">Plus</text>
+  <text x="235" y="120" class="price">$20/mo</text>
+  <text x="235" y="135" class="price-inr">≈$20 (≈₹1,860)</text>
+  <line x1="235" y1="145" x2="365" y2="145" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="235" y="165" class="feature">100 images/day</text>
+  <text x="235" y="185" class="feature">High quality output</text>
+  <text x="235" y="205" class="feature">Full resolution</text>
+  <text x="235" y="225" class="feature">Inpainting, variations</text>
+  <text x="235" y="245" class="feature">Priority access</text>
+
+  <!-- Card 3: Pro -->
+  <rect x="400" y="70" width="160" height="400" rx="12" class="card-bg"/>
+  <rect x="400" y="70" width="160" height="12" rx="12" class="highlight"/>
+  <text x="415" y="95" class="tier-title">Pro</text>
+  <text x="415" y="120" class="price">$20/mo*</text>
+  <text x="415" y="135" class="price-inr">$20 (≈₹1,860) (bundled)</text>
+  <line x1="415" y1="145" x2="545" y2="145" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="415" y="165" class="feature">Unlimited generation</text>
+  <text x="415" y="185" class="feature">Advanced features</text>
+  <text x="415" y="205" class="feature">HD resolution</text>
+  <text x="415" y="225" class="feature">Inpainting, style</text>
+  <text x="415" y="245" class="feature">GPT-4 + other tools</text>
+  <text x="415" y="265" class="feature">*Part of ChatGPT</text>
+
+  <!-- Card 4: API -->
+  <rect x="580" y="70" width="180" height="400" rx="12" class="card-bg"/>
+  <text x="595" y="95" class="tier-title">API (per image)</text>
+  <text x="595" y="120" class="price">$0.040</text>
+  <text x="595" y="135" class="price-inr">≈$0.72 standard</text>
+  <line x1="595" y1="145" x2="750" y2="145" stroke="#DDD8CE" stroke-width="1"/>
+  <text x="595" y="165" class="feature">Standard resolution</text>
+  <text x="595" y="185" class="feature">$0.080 for HD</text>
+  <text x="595" y="205" class="feature">≈$0.44 for HD</text>
+  <text x="595" y="225" class="feature">Pay as you go</text>
+  <text x="595" y="245" class="feature">Best for volume</text>
+  <text x="595" y="265" class="feature">No monthly fees</text>
+
+  <!-- Footer note -->
+  <text x="40" y="490" class="subheading">*ChatGPT Pro is $20/month and includes DALL-E 3 plus GPT-4, file analysis, and other tools. Conversion: ₹93/USD</text>
+</svg>

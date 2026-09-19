@@ -1,0 +1,63 @@
+<svg viewBox="0 0 850 450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #F4F1EA; }
+      .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 22px; font-weight: 600; fill: #4A5942; }
+      .header { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; fill: #3A3228; }
+      .cell { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; fill: #3A3228; }
+      .row-odd { fill: #FEFDFB; }
+      .row-even { fill: #F8F5F0; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="850" height="450" rx="12" />
+  <text x="40" y="40" class="title">You.com vs Perplexity vs ChatGPT</text>
+
+  <rect x="40" y="65" width="770" height="35" fill="#EDE9DF" rx="0" />
+  <text x="55" y="90" class="header">Feature</text>
+  <text x="240" y="90" class="header" text-anchor="middle">You.com</text>
+  <text x="480" y="90" class="header" text-anchor="middle">Perplexity Pro</text>
+  <text x="720" y="90" class="header" text-anchor="middle">ChatGPT Plus</text>
+
+  <rect x="40" y="100" width="770" height="45" class="row-odd" />
+  <text x="55" y="125" class="header">Price (USD)</text>
+  <text x="240" y="125" class="cell" text-anchor="middle">$15/mo (≈₹1,395)</text>
+  <text x="480" y="125" class="cell" text-anchor="middle">$15/mo (≈₹1,395)</text>
+  <text x="720" y="125" class="cell" text-anchor="middle">$18/mo (≈₹1,650)</text>
+
+  <rect x="40" y="145" width="770" height="45" class="row-even" />
+  <text x="55" y="170" class="header">Search Quality</text>
+  <text x="240" y="170" class="cell" text-anchor="middle">Good</text>
+  <text x="480" y="170" class="cell" text-anchor="middle">Excellent</text>
+  <text x="720" y="170" class="cell" text-anchor="middle">Fair</text>
+
+  <rect x="40" y="190" width="770" height="45" class="row-odd" />
+  <text x="55" y="215" class="header">Model Switching</text>
+  <text x="240" y="215" class="cell" text-anchor="middle">Yes (key feature)</text>
+  <text x="480" y="215" class="cell" text-anchor="middle">No</text>
+  <text x="720" y="215" class="cell" text-anchor="middle">No</text>
+
+  <rect x="40" y="235" width="770" height="45" class="row-even" />
+  <text x="55" y="260" class="header">Conversation Depth</text>
+  <text x="240" y="260" class="cell" text-anchor="middle">Fair</text>
+  <text x="480" y="260" class="cell" text-anchor="middle">Good</text>
+  <text x="720" y="260" class="cell" text-anchor="middle">Excellent</text>
+
+  <rect x="40" y="280" width="770" height="45" class="row-odd" />
+  <text x="55" y="305" class="header">Source Citations</text>
+  <text x="240" y="305" class="cell" text-anchor="middle">Yes (basic)</text>
+  <text x="480" y="305" class="cell" text-anchor="middle">Yes (excellent)</text>
+  <text x="720" y="305" class="cell" text-anchor="middle">Limited</text>
+
+  <rect x="40" y="325" width="770" height="45" class="row-even" />
+  <text x="55" y="350" class="header">Research Modes</text>
+  <text x="240" y="350" class="cell" text-anchor="middle">Yes (multiple)</text>
+  <text x="480" y="350" class="cell" text-anchor="middle">No</text>
+  <text x="720" y="350" class="cell" text-anchor="middle">No</text>
+
+  <rect x="40" y="370" width="770" height="35" class="row-odd" />
+  <text x="55" y="395" class="header">Best For</text>
+  <text x="240" y="395" class="cell" text-anchor="middle">Exploration</text>
+  <text x="480" y="395" class="cell" text-anchor="middle">Research</text>
+  <text x="720" y="395" class="cell" text-anchor="middle">General use</text>
+</svg>

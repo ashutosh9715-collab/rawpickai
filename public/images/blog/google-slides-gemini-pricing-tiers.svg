@@ -1,0 +1,55 @@
+<svg viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { color-scheme: light; }
+      .bg { fill: #F4F1EA; }
+      .heading { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 24px; font-weight: 700; fill: #4A5942; }
+      .card-bg { fill: #fff; stroke: #DDD8CE; stroke-width: 1; }
+      .card-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; fill: #4A5942; }
+      .card-price { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 22px; font-weight: 700; fill: #6B7C5E; }
+      .card-feature { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; fill: #3A3228; }
+      .muted { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 11px; fill: #8A8577; }
+      .highlight { font-weight: 600; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="800" height="400" rx="12"/>
+
+  <text class="heading" x="40" y="45">Google Slides + Gemini Pricing</text>
+
+  <!-- Google Slides Free Card -->
+  <rect class="card-bg" x="50" y="75" width="220" height="280" rx="8" stroke="#6B7C5E" stroke-width="2"/>
+  <rect fill="#6B7C5E" x="50" y="75" width="220" height="30" rx="8"/>
+  <text class="card-title" x="70" y="97" fill="white" style="font-size: 12px;">BEST VALUE</text>
+  <text class="card-title" x="70" y="130">Google Slides</text>
+  <text class="card-price" x="70" y="160">$0</text>
+  <line x1="70" y1="175" x2="250" y2="175" stroke="#DDD8CE" stroke-width="1"/>
+  <text class="card-feature" x="70" y="195">• Unlimited slides</text>
+  <text class="card-feature" x="70" y="215">• No Gemini AI</text>
+  <text class="card-feature" x="70" y="235">• Full collab</text>
+  <text class="card-feature" x="70" y="255">• Free forever</text>
+
+  <!-- Google Slides + Gemini Free -->
+  <rect class="card-bg" x="310" y="75" width="220" height="280" rx="8"/>
+  <text class="card-title" x="330" y="105">Slides + Gemini</text>
+  <text class="card-title" x="330" y="125" style="font-size: 12px;"> (Free)</text>
+  <text class="card-price" x="330" y="160">$0</text>
+  <line x1="330" y1="175" x2="510" y2="175" stroke="#DDD8CE" stroke-width="1"/>
+  <text class="card-feature" x="330" y="195">• 50 prompts/mo</text>
+  <text class="card-feature" x="330" y="215">• Outline gen</text>
+  <text class="card-feature" x="330" y="235">• Speaker notes</text>
+  <text class="card-feature" x="330" y="255">• Basic content</text>
+
+  <!-- Gemini Advanced Card -->
+  <rect class="card-bg" x="570" y="75" width="200" height="280" rx="8"/>
+  <text class="card-title" x="590" y="105">Gemini</text>
+  <text class="card-title" x="590" y="125" style="font-size: 12px;">Advanced</text>
+  <text class="card-price" x="590" y="160">≈$20 (≈₹1,860)</text>
+  <text class="muted" x="590" y="178" style="font-size: 10px;">/month</text>
+  <line x1="590" y1="195" x2="750" y2="195" stroke="#DDD8CE" stroke-width="1"/>
+  <text class="card-feature" x="590" y="215">• Unlimited</text>
+  <text class="card-feature" x="590" y="235">• Priority</text>
+  <text class="card-feature" x="590" y="255">• Includes email</text>
+
+  <text class="muted" x="40" y="385" style="font-size: 12px;">Completely free tier unique in market. Advanced adds email + docs AI too.</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg viewBox="0 0 700 250" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="250" fill="#F4F1EA"/>
+  <text x="350" y="28" font-size="18" font-weight="bold" text-anchor="middle" fill="#4A5942">Stable Video Diffusion - Setup Cost</text>
+  <text x="350" y="48" font-size="11" text-anchor="middle" fill="#8A8577">One-time hardware investment vs monthly subscriptions</text>
+  <rect x="30" y="75" width="200" height="80" rx="8" fill="white" stroke="#6B7C5E" stroke-width="1"/>
+  <text x="130" y="98" font-size="12" font-weight="bold" text-anchor="middle" fill="#4A5942">Minimum GPU</text>
+  <text x="130" y="118" font-size="11" text-anchor="middle" fill="#3A3228">RTX 3060 12GB</text>
+  <text x="130" y="140" font-size="13" font-weight="700" text-anchor="middle" fill="#6B7C5E">$270 (≈₹25K)</text>
+  <rect x="260" y="75" width="200" height="80" rx="8" fill="white" stroke="#96845A" stroke-width="1"/>
+  <text x="360" y="98" font-size="12" font-weight="bold" text-anchor="middle" fill="#4A5942">Recommended GPU</text>
+  <text x="360" y="118" font-size="11" text-anchor="middle" fill="#3A3228">RTX 4070 16GB</text>
+  <text x="360" y="140" font-size="13" font-weight="700" text-anchor="middle" fill="#96845A">$600 (≈₹56K)</text>
+  <rect x="490" y="75" width="180" height="80" rx="8" fill="white" stroke="#8A8577" stroke-width="1"/>
+  <text x="580" y="98" font-size="12" font-weight="bold" text-anchor="middle" fill="#4A5942">Monthly Cost</text>
+  <text x="580" y="118" font-size="11" text-anchor="middle" fill="#3A3228">After hardware</text>
+  <text x="580" y="140" font-size="13" font-weight="700" text-anchor="middle" fill="#4A5942">$0/mo</text>
+  <rect x="100" y="175" width="500" height="35" rx="6" fill="#6B7C5E" opacity="0.1" stroke="#6B7C5E" stroke-width="1"/>
+  <text x="350" y="197" font-size="11" font-weight="600" text-anchor="middle" fill="#4A5942">Break-even vs Runway ($15/mo): 18 months with minimum GPU, 40 months with recommended</text>
+  <text x="350" y="240" font-size="10" text-anchor="middle" fill="#8A8577">Data from RawPickAI - rawpickai.com</text>
+</svg>
