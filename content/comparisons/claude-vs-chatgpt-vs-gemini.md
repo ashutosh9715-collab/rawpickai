@@ -13,6 +13,8 @@ winner: "Depends on use case"
 
 # Claude vs ChatGPT vs Gemini 2026: The Only 3-Way Comparison You Need
 
+**Editor's note, September 27, 2026:** This comparison uses older models and includes rankings and editing estimates that are not supported by preserved test outputs on this page. It is retained for reference while we rework it. Do not treat its winner claims, feature table, or pricing as a current buying recommendation. Our [Claude review](/review/claude) explains what evidence is available.
+
 I've been running all three of these tools side by side for over six months now, and the honest answer is that each one dominates a different workflow. Claude writes better prose than the other two combined. ChatGPT is the most versatile Swiss Army knife. Gemini quietly wins if your entire life runs through Google Workspace. That's the short version - the long version involves running the same prompts through all three and measuring what actually comes back.
 
 ## TL;DR: Pick Your Winner

@@ -13,6 +13,8 @@ pricingINR: "1860"
 
 # Cursor vs GitHub Copilot 2026: Which AI Code Assistant Is Worth Your Money?
 
+**Editor's note, September 27, 2026:** This comparison uses older plan details and numerical acceptance-rate claims that are not supported by a preserved suggestion log or matched test record on this page. It is retained for reference while we rework it. Do not treat its percentages, pricing, or winner claims as a current buying recommendation. See the revised [Cursor review](/review/cursor) for the evidence currently available.
+
 > **TL;DR:** Cursor is more capable, especially for multi-file agent tasks and superior autocomplete (≈70% vs ≈48% acceptance rate). GitHub Copilot is half the price, more stable with VS Code extensions, and sufficient for most daily coding. Cursor Pro costs $20/mo (≈₹1,860/mo); Copilot Pro costs $10/mo (≈₹930/mo). Choose Cursor if you do 4+ hours of coding daily and bill clients (productivity gains exceed $10/mo (≈₹930/mo) premium). Choose Copilot if you're budget-conscious, a student, or primarily do single-file work. See [Windsurf vs Cursor](/comparison/windsurf-vs-cursor) for a third option with unlimited free autocomplete. Also compare [Claude Code](/review/claude-code) if you need multi-file terminal-first work.
 
 Two fundamentally different architectural approaches to AI-assisted coding. Copilot is a plugin that retrofits AI capabilities into your existing editor (VS Code, JetBrains, Neovim). Cursor is an editor rebuilt from the ground up with AI at its core - it's a purpose-built VS Code fork optimized for AI-driven development. We tested both on the same real projects over eight weeks to determine which approach delivers better results and whether the capability difference justifies Cursor's 2x price premium.

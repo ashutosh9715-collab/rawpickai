@@ -17,6 +17,8 @@ export interface ContentFrontmatter {
   description: string;
   slug: string;
   lastUpdated: string;
+  evidenceDate?: string;
+  factsCheckedAt?: string;
   author: string;
   schema: string;
   category: string;
@@ -29,6 +31,7 @@ export interface ContentFrontmatter {
   developer?: string;
   pricingUSD?: string;
   pricingINR?: string;
+  freeTierLabel?: string;
   overallScore?: number;
   scores?: {
     overall?: number;

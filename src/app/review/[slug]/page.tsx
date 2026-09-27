@@ -93,7 +93,7 @@ export default async function ReviewPage({ params }: Props) {
 
   const fts = scores.freeTier;
   const ftNorm = !fts ? 0 : fts <= 5 ? fts : fts / 20;
-  const ftLabel = ftNorm >= 4 ? "Excellent" : ftNorm >= 3 ? "Good" : ftNorm >= 2 ? "Limited" : fts && fts > 40 ? "Poor" : fts ? "None (free credits)" : "N/A";
+  const ftLabel = fm.freeTierLabel || (ftNorm >= 4 ? "Excellent" : ftNorm >= 3 ? "Good" : ftNorm >= 2 ? "Limited" : fts && fts > 40 ? "Poor" : fts ? "None (free credits)" : "N/A");
   const ftColor = ftLabel === "Excellent" || ftLabel === "Good" ? "#22c55e" : ftLabel === "Limited" ? "#f59e0b" : ftLabel === "Poor" ? "#ef4444" : ftLabel === "None (free credits)" ? "#ef4444" : "#6B6960";
 
   // Look for explicit verdict markers in the content body. Matches these patterns:
@@ -182,7 +182,11 @@ export default async function ReviewPage({ params }: Props) {
             title={fm.title}
             description={fm.description || ""}
             breadcrumbs={[{ label: "Home", href: "/" }, { label: "Reviews", href: "/tools" }, { label: toolName }]}
-            pills={[...(fm.category ? [{ label: fm.category, variant: "dark" as const }] : []), { label: `Updated ${fm.lastUpdated}` }]}
+            pills={[
+              ...(fm.category ? [{ label: fm.category, variant: "dark" as const }] : []),
+              ...(fm.evidenceDate ? [{ label: `Hands-on evidence: ${fm.evidenceDate}` }] : []),
+              { label: `Updated ${fm.lastUpdated}` },
+            ]}
             author={fm.author || "Ash"}
           />
 
@@ -256,7 +260,7 @@ export default async function ReviewPage({ params }: Props) {
           <div className="mt-8 rounded-xl p-5 flex items-center justify-between gap-4" style={{ background: "var(--sage-light)" }}>
             <div>
               <div className="heading text-sm font-semibold mb-1" style={{ color: "var(--sage-dark)" }}>How does {toolName} compare?</div>
-              <div className="text-xs" style={{ color: "var(--text-mid)" }}>Pick another tool and see scores side-by-side</div>
+              <div className="text-xs" style={{ color: "var(--text-mid)" }}>Compare another tool side-by-side</div>
             </div>
             <Link href="/tools/compare" className="text-sm font-semibold px-4 py-2 rounded-lg flex-shrink-0" style={{ background: "var(--sage-dark)", color: "var(--sage)" }}>
               Compare →
@@ -266,8 +270,12 @@ export default async function ReviewPage({ params }: Props) {
           <div className="mt-8 pt-6 flex flex-col sm:flex-row justify-between items-start sm:items-center gap-3" style={{ borderTop: "0.5px solid var(--border)" }}>
             <Link href="/tools" className="text-sm font-medium" style={{ color: "var(--sage-dark)" }}>← All reviews</Link>
             <div className="text-right">
-              <span className="text-xs mono block" style={{ color: "var(--text-light)" }}>Tested and reviewed by Ash · Last updated: {fm.lastUpdated}</span>
-              <span className="text-xs mono block mt-0.5" style={{ color: "var(--text-light)" }}>Pricing verified at ≈₹93/USD · Scores based on hands-on testing</span>
+              <span className="text-xs mono block" style={{ color: "var(--text-light)" }}>
+                Written by Ash · Last updated: {fm.lastUpdated}
+                {fm.evidenceDate ? ` · Hands-on evidence: ${fm.evidenceDate}` : ""}
+                {fm.factsCheckedAt ? ` · Product facts checked: ${fm.factsCheckedAt}` : ""}
+              </span>
+              <span className="text-xs mono block mt-0.5" style={{ color: "var(--text-light)" }}>Product and pricing details can change. See review notes for check dates.</span>
             </div>
           </div>
         </div>
