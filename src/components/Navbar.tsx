@@ -5,6 +5,16 @@ import Link from "next/link";
 import Search from "./Search";
 import ReadingProgressBar from "./ReadingProgressBar";
 
+const sectionLinks = [
+  { href: "/categories", label: "Categories" },
+  { href: "/compare", label: "Compare" },
+  { href: "/best", label: "Best Of" },
+  { href: "/blog", label: "Blog" },
+  { href: "/learn", label: "Learn" },
+  { href: "/news", label: "News" },
+  { href: "/studies", label: "Research" },
+];
+
 export default function Navbar() {
   const [open, setOpen] = useState(false);
   const [dark, setDark] = useState(false);
@@ -24,27 +34,23 @@ export default function Navbar() {
     <>
     <div className="sticky top-0 z-50 border-b border-[var(--border)] bg-[color:var(--bg)]/90 backdrop-blur-xl">
     <nav className="max-w-[1180px] mx-auto px-[18px] py-4 flex justify-between items-center relative">
-      <Link href="/" className="flex items-center">
+      <Link href="/" className="flex items-center shrink-0">
         <span className="editorial-heading text-[23px] font-bold tracking-[-0.04em]">
           RawPickAI<span className="inline-block w-2 h-2 ml-1 rounded-full bg-[var(--accent-rust)]" />
         </span>
       </Link>
 
       {/* Desktop nav */}
-      <div className="hidden md:flex items-center gap-7 ml-auto">
-        <Link href="/compare" className="text-[15px] text-[var(--text-mid)] hover:text-[var(--text)] transition-colors">
-          Compare
-        </Link>
-        <Link href="/blog" className="text-[15px] text-[var(--text-mid)] hover:text-[var(--text)] transition-colors">
-          Blog
-        </Link>
-        <Link href="/studies" className="text-[15px] text-[var(--text-mid)] hover:text-[var(--text)] transition-colors">
-          Research
-        </Link>
+      <div className="hidden xl:flex items-center gap-4 ml-auto">
+        {sectionLinks.map((link) => (
+          <Link key={link.href} href={link.href} className="text-[15px] whitespace-nowrap text-[var(--text-mid)] hover:text-[var(--text)] transition-colors">
+            {link.label}
+          </Link>
+        ))}
         <Search />
         <Link
           href="/tools"
-          className="flex items-center gap-1.5 text-sm font-semibold px-5 py-2.5 border border-[var(--text)] hover:bg-[var(--text)] hover:text-[var(--bg)] transition-colors"
+          className="flex items-center gap-1.5 whitespace-nowrap text-sm font-semibold px-3 py-2.5 border border-[var(--text)] hover:bg-[var(--text)] hover:text-[var(--bg)] transition-colors"
         >
           Explore Tools <span className="text-xs">↗</span>
         </Link>
@@ -59,7 +65,7 @@ export default function Navbar() {
       </div>
 
       {/* Mobile hamburger */}
-      <div className="md:hidden ml-auto flex items-center gap-2">
+      <div className="xl:hidden ml-auto flex items-center gap-2">
       <button
         onClick={toggleTheme}
         className="w-9 h-9 rounded-full border border-[var(--border)] bg-[var(--card)] grid place-items-center"
@@ -90,15 +96,13 @@ export default function Navbar() {
       {/* Mobile menu dropdown */}
       {open && (
         <div
-          className="absolute top-full left-0 right-0 z-50 md:hidden"
+          className="absolute top-full left-0 right-0 z-50 xl:hidden"
           style={{ background: "var(--bg)", borderBottom: "1px solid var(--border)", padding: "16px 20px 20px" }}
         >
           <div className="flex flex-col gap-1">
             {[
               { href: "/tools", label: "Explore Tools" },
-              { href: "/compare", label: "Compare" },
-              { href: "/blog", label: "Blog" },
-              { href: "/studies", label: "Research" },
+              ...sectionLinks,
               { href: "/about", label: "About" },
               { href: "/newsletter", label: "Newsletter" },
             ].map((link) => (

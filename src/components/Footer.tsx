@@ -30,7 +30,9 @@ export default function Footer() {
             title: "Browse",
             links: [
               { label: "All Tools", href: "/tools" },
+              { label: "Categories", href: "/categories" },
               { label: "Comparisons", href: "/compare" },
+              { label: "Best Of", href: "/best" },
             ],
           },
           {
@@ -49,6 +51,8 @@ export default function Footer() {
             links: [
               { label: "How We Test", href: "/methodology" },
               { label: "Blog", href: "/blog" },
+              { label: "Learn", href: "/learn" },
+              { label: "News", href: "/news" },
               { label: "Research", href: "/studies" },
               { label: "Newsletter", href: "/newsletter" },
               { label: "About", href: "/about" },

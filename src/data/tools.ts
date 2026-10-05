@@ -29,6 +29,8 @@ export const categorySlugMap: Record<string, string> = {
   "Productivity & Presentations": "productivity",
   "Productivity": "productivity",
   "Productivity & AI": "productivity",
+  "AI agents": "productivity",
+  "Automation": "productivity",
   "Marketing & SEO": "marketing-seo",
   "Design & Creative": "design",
   "Design & UI": "design",

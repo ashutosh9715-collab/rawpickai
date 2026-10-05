@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { categories, categorySlugMap } from "@/data/tools";
 import { getAllReviews } from "@/lib/content";
-import { isReviewIndexable, NOINDEX_ROBOTS } from "@/lib/indexing";
+import { NOINDEX_ROBOTS } from "@/lib/indexing";
 
 export const metadata = {
   title: "Browse AI Tools by Category",
@@ -11,7 +11,7 @@ export const metadata = {
 };
 
 export default async function CategoriesPage() {
-  const reviews = (await getAllReviews()).filter((review) => isReviewIndexable(review.slug));
+  const reviews = await getAllReviews();
 
   // Count actual reviews per category
   const catCounts: Record<string, number> = {};
@@ -25,10 +25,10 @@ export default async function CategoriesPage() {
 
   return (
     <div className="directory-page">
-      <div className="directory-kicker">Browse the test library</div>
+      <div className="directory-kicker">Browse the review library</div>
       <section className="directory-hero">
         <div><h1 className="directory-title">Start with the job.</h1><p className="directory-intro">Explore AI software by what it helps you accomplish, not by whichever model is newest.</p></div>
-        <aside className="directory-note"><strong>A smaller library</strong>Only evidence-audited reviews appear in category results while the archive is being rebuilt.</aside>
+        <aside className="directory-note"><strong>All our coverage</strong>Find existing reviews in their original categories. Testing evidence and update dates are explained within each article.</aside>
       </section>
       <div className="directory-section-head"><h2>All categories</h2><span>Organized by use case</span></div>
       <div className="instrument-grid">

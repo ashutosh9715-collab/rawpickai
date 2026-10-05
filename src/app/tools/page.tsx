@@ -22,7 +22,7 @@ function toolName(title: string, explicit?: string) {
 }
 
 export default async function ToolsPage() {
-  const reviews = (await getAllReviews()).filter((review) => isReviewIndexable(review.slug));
+  const reviews = await getAllReviews();
   reviews.sort((a, b) => Number(b.frontmatter.scores?.overall || b.frontmatter.overallScore || 0) - Number(a.frontmatter.scores?.overall || a.frontmatter.overallScore || 0));
   const featured = reviews.find((review) => review.slug === "deevid-ai") || reviews[0];
   const remaining = reviews.filter((review) => review.slug !== featured?.slug);
@@ -34,9 +34,9 @@ export default async function ToolsPage() {
       <section className="directory-hero">
         <div>
           <h1 className="directory-title">Choose with evidence, not hype.</h1>
-          <p className="directory-intro">Free decision tools and a small library of software reviews that have passed our hands-on evidence audit.</p>
+          <p className="directory-intro">Free decision tools and software reviews across writing, coding, research, design, and automation.</p>
         </div>
-        <aside className="directory-note"><strong>Our standard</strong>No paid rankings. Every published review is used hands-on, dated, and rechecked when the product changes.</aside>
+        <aside className="directory-note"><strong>Our standard</strong>No paid rankings. Check each review for its testing notes, available evidence, and update date.</aside>
       </section>
 
       <div className="directory-section-head"><h2>Decision instruments</h2><span>No signup - free to use</span></div>
@@ -51,7 +51,7 @@ export default async function ToolsPage() {
       </section>
 
       {featured && <>
-        <div className="directory-section-head"><h2>From the test bench</h2><span>{reviews.length.toString().padStart(2, "0")} reviews currently audited</span></div>
+        <div className="directory-section-head"><h2>Featured review</h2><span>{reviews.length} reviews available</span></div>
         <Link href={`/review/${featured.slug}`} className="editorial-feature">
           <div className="editorial-feature-art"><div className="editorial-score">{typeof featuredScore === "number" ? featuredScore.toFixed(1) : featuredScore || "-"}<small>OUT OF 5</small></div></div>
           <div className="editorial-feature-copy">
@@ -62,12 +62,12 @@ export default async function ToolsPage() {
       </>}
 
       {remaining.length > 0 && <>
-        <div className="directory-section-head"><h2>More field reports</h2><span>Ordered by score</span></div>
+        <div className="directory-section-head"><h2>More software reviews</h2><span>Browse the full library</span></div>
         <div className="editorial-list">
           {remaining.map((review, index) => (
             <Link className="editorial-row" href={`/review/${review.slug}`} key={review.slug}>
               <span className="editorial-number">{String(index + 1).padStart(2, "0")}</span>
-              <h3>{toolName(review.frontmatter.title, review.frontmatter.toolName)}</h3><p>{review.frontmatter.description}</p><span className="evidence-stamp">Hands-on ✓</span>
+              <h3>{toolName(review.frontmatter.title, review.frontmatter.toolName)}</h3><p>{review.frontmatter.description}</p><span className="evidence-stamp">{isReviewIndexable(review.slug) ? "Evidence checked" : "Read review"}</span>
             </Link>
           ))}
         </div>

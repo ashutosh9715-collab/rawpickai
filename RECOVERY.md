@@ -17,7 +17,9 @@ The allowlists are in `src/lib/indexing.ts`. Noindexed articles are excluded fro
 
 Review audit detail and reproducible measurements are in `audit/review-audit.md`, `audit/review-evidence.csv`, and `scripts/audit-review-evidence.cjs`.
 
-The homepage, primary navigation, and footer no longer promote the noindexed Best-of, Learn, or News archives. Version-specific Composer content was also removed from the homepage in favor of an evergreen entity review. Unsupported blanket claims about testing frequency and monthly freshness were replaced with the evidence standard retained reviews are expected to meet. Unlinked publication name-drops were removed pending verifiable citations.
+Visitor discovery was restored on 2026-10-05: Reviews, Blog, Comparisons, and category listings include all existing articles in their original sections. Categories, Best-of, Learn, and News are linked from the primary navigation and footer again. These visibility controls are independent of search indexing; existing noindex settings and sitemap exclusions remain in place. Listing labels do not describe every restored article as evidence-audited.
+
+Version-specific Composer content was removed from the homepage in favor of an evergreen entity review. Unsupported blanket claims about testing frequency and monthly freshness were replaced with the evidence standard retained reviews are expected to meet. Unlinked publication name-drops were removed pending verifiable citations.
 
 ## Why this is reversible
 
